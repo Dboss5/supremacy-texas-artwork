@@ -13,3 +13,7 @@ The prior five Texas place photos and four licensed service references remain at
 ## Electrical collection
 
 [electrical.html](electrical.html) has **99 screened electrical images** from Berkeys, Cable Electric, S.L. Electric, Beyond Builder, Infused Electric, and Electrical Contracting Solutions. The [electrical source inventory](ELECTRICAL-SOURCES.md) and [JSON manifest](electrical.json) record every origin. Visible people, watermarks, repeated crops, promotional graphics, and unrelated trade images were excluded.
+
+## Pest Control collection
+
+[pest.html](pest.html) has **326 screened pest-control images** from Ecola Termite, Clark Pest Control, Orkin, Terminix, and Critter Control. The [pest-control source inventory](PEST-SOURCES.md) and [JSON manifest](pest.json) preserve the source page and original asset URL for every selected image. The collection covers pest identification, termite damage, nests, rodent and wildlife activity, entry points, exclusion work, traps, and treatment environments. Visible people, visible watermarks, and near-duplicate crops were excluded. Bugnex did not expose a qualifying image asset during the crawl.
