@@ -1,19 +1,18 @@
-# Supremacy Texas image sources
+# Image credits and usage
 
-Selected for Texas context, with no visible watermark or people in the reviewed frame. These are actual photographs of the named places or Texas landscape, not representations of a service visit. Do not imply that Supremacy performed work at these locations.
+These photographs were published by their attributed creators on Wikimedia Commons under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Credit the creator, link to the source and license, and say whether you modified the image. Adapted copies must follow the license's ShareAlike terms. The four files here are original downloads without resizing or other edits. The gallery uses CSS `object-fit` to fit card previews; the full image opens in the lightbox.
 
-The JPG copies in the repository root were resized and JPEG-compressed for web use on 18 November 2026. The underlying source pages remain the authority for licensing and creator details. Recheck before public use, especially when cropping or modifying an image.
-
-| File | Scene and suggested use | Creator | License | Source |
+| File | Creator / company | Original source | License | Changes |
 | --- | --- | --- | --- | --- |
-| `dallas-at-dusk.jpg` | Dallas skyline, city overview | 272447 (Pixabay source, as recorded by Commons) | CC0 1.0 | https://commons.wikimedia.org/wiki/File:Dallas_at_dusk.jpg |
-| `dallas-bryan-place-street.jpg` | Dallas neighborhood, residential context | Architectsea | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Bryan_Place_residential_street_scene.jpg |
-| `frisco-commons-prairie.jpg` | Frisco Commons Park prairie, regional landscape | 매일 누군가가 도둑맞을 때마다 | CC0 1.0 | https://commons.wikimedia.org/wiki/File:Backhand_Prairie_at_Frisco_Commons_Park_20261020_153824.jpg |
-| `fort-worth-skyline-2025.jpg` | Fort Worth skyline, city overview | Bob 123ehhdee | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Fort_Worth_Skyline_2025.jpg |
-| `texas-bluebonnets-2024.jpg` | Texas bluebonnet field, seasonal Texas atmosphere | 8bit12man | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Bluebonnets_March_2024_TX.jpg |
+| `hvac-dallas-rooftop-unit.jpg` | M. B. Kiser Heating & Air Conditioning Co. Inc. | [Carrier_air_conditioner_unit_installed_in_Dallas_TX.jpg](https://commons.wikimedia.org/wiki/File:Carrier_air_conditioner_unit_installed_in_Dallas_TX.jpg) | CC BY-SA 4.0 | Original file, no edits |
+| `plumbing-under-sink.jpg` | Robertosplumbing | [Before_and_after_under_sink.jpg](https://commons.wikimedia.org/wiki/File:Before_and_after_under_sink.jpg) | CC BY-SA 4.0 | Original file, no edits |
+| `plumbing-toilet-install.jpg` | Robertosplumbing | [Before_and_after_toilet.jpg](https://commons.wikimedia.org/wiki/File:Before_and_after_toilet.jpg) | CC BY-SA 4.0 | Original file, no edits |
+| `plumbing-shower-install.jpg` | Robertosplumbing | [After_shower_install.jpg](https://commons.wikimedia.org/wiki/File:After_shower_install.jpg) | CC BY-SA 4.0 | Original file, no edits |
 
-For CC BY images, credit the creator, source, license link, and the resizing/compression change wherever the site presents image credits. CC BY-SA may require a compatible license for an adapted image; retain that license information if cropped or changed further. License texts: https://creativecommons.org/publicdomain/zero/1.0/ ; https://creativecommons.org/licenses/by/4.0/ ; https://creativecommons.org/licenses/by-sa/3.0/ .
+## Editorial notes
 
-## Existing Supremacy media review
-
-WPVibe inventory on 18 November 2026 found 2,674 image attachments. Most are service-specific WebP images; the 25 SVGs are principally small service icons. The new files above are separate source photos for genuine place context. No WordPress media was changed.
+- `hvac-dallas-rooftop-unit.jpg` is identified on its source page as a Dallas, Texas installation by M. B. Kiser Heating & Air Conditioning Co. Inc.
+- The three plumbing images are credited to Robertosplumbing. Their location is not verified as Texas; avoid presenting them as Texas jobs.
+- These show other companies' work. Do not label them as Supremacy projects, staff, or customer outcomes, and do not imply that the credited companies endorse Supremacy.
+- The selected frames have no visible people or watermarks. The plumbing before/after labels are part of the source images, not watermarks.
+- This repository is a review gallery. Before publication on a Supremacy marketing page, preserve image-level attribution and verify that the subject and context fit the page.
