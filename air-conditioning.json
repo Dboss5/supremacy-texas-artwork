@@ -5,7 +5,7 @@
     "No visible people",
     "No visible watermarks",
     "No video entries or video poster frames",
-    "Gallery loads verified stored image files rather than third-party hotlinks"
+    "Only verified still-image URLs are shown in the gallery"
   ],
   "images": [
     {
