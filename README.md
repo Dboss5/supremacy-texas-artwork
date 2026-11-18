@@ -17,3 +17,7 @@ The prior five Texas place photos and four licensed service references remain at
 ## Pest Control collection
 
 [pest.html](pest.html) has **326 screened pest-control images** from Ecola Termite, Clark Pest Control, Orkin, Terminix, and Critter Control. The [pest-control source inventory](PEST-SOURCES.md) and [JSON manifest](pest.json) preserve the source page and original asset URL for every selected image. The collection covers pest identification, termite damage, nests, rodent and wildlife activity, entry points, exclusion work, traps, and treatment environments. Visible people, visible watermarks, and near-duplicate crops were excluded. Bugnex did not expose a qualifying image asset during the crawl.
+
+## Air Conditioning collection
+
+[air-conditioning.html](air-conditioning.html) has **108 screened air-conditioning images** from 24 HVAC Services, Alpine Home Air, California Air Conditioning Systems, and Alicia Air. The [air-conditioning source inventory](AIR-CONDITIONING-SOURCES.md) and [JSON manifest](air-conditioning.json) preserve the source page and original asset URL for every selected image. The gallery covers condensers, furnaces, heat pumps, ductwork, thermostats, rooftop systems, mini-splits, installations, and repair details. Visible people, watermarks, review graphics, manufacturer-logo-only assets, and near-duplicate crops were excluded. Fuse and AirRefco did not expose qualifying direct image assets during the crawl.
