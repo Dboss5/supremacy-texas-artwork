@@ -12,3 +12,9 @@ Reviewed 2026-11-18 for the Supremacy reference gallery. This is a page and asse
 ## Selection rules
 
 Only add photographs with a verified reuse license or written permission. Exclude visible people, watermarks, and competitor branding that would imply Supremacy ownership. Preserve creator and license credits. Verify location before tagging an image as North Texas.
+
+## 100-image target
+
+The requested target is at least 100 distinct, people-free, watermark-free images from the supplied sites. Product and resource sections at Baltimore Aircoil contain many candidates, but its copyright page expressly prohibits reproduction or other use without permission. Pure Air's pages state all rights reserved, and SA Specialties shows a copyright notice without a reusable image license. Therefore these pages are leads for rights clearance, not a source of downloadable repo assets yet. Obtain written permission covering download, storage in this private GitHub repository, gallery display, and any planned Supremacy marketing use; specify credit and whether edits are allowed. The invalid second URL also needs correction before it can contribute candidates.
+
+A practical allocation after permissions: 45 equipment and installation images from Baltimore Aircoil, 30 residential HVAC images from Pure Air, and 25 Texas HVAC images from SA Specialties. These are targets, not verified counts. Exclude duplicate product angles, personnel, watermarks, and competitor-marked fleet photos. Keep an individual source, creator, permission record, subject, and location for each selected file.
