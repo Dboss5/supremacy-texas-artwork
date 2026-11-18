@@ -8,4 +8,4 @@ The prior five Texas place photos and four licensed service references remain at
 
 ## Plumbing collection
 
-[plumbing.html](plumbing.html) has **91 screened plumbing images** from Plumbing Unit, California United Plumbing, Coastal Plumbing, Gallegos Plumbing, and Expert Plumbing. The [source inventory](PLUMBING-SOURCES.md) and [JSON manifest](plumbing.json) record each origin. The requested target of 200 distinct qualifying images from these five sites was not met; repeated variants, people, logos, and decorative files were excluded. Permission scope for these five companies has not been documented in this repository.
+[plumbing.html](plumbing.html) has **88 screened plumbing images** from Plumbing Unit, California United Plumbing, Coastal Plumbing, Gallegos Plumbing, and Expert Plumbing. The [source inventory](PLUMBING-SOURCES.md) and [JSON manifest](plumbing.json) record each origin. The requested target of 200 distinct qualifying images from these five sites was not met; repeated variants, people, logos, and decorative files were excluded. Permission scope for these five companies has not been documented in this repository.
