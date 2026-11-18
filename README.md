@@ -1,9 +1,5 @@
-# Supremacy Texas image collection
+# Supremacy HVAC and plumbing image gallery
 
-People-free, watermark-free photographs of actual Texas places for Supremacy Services page design. The first set covers Dallas, Frisco, Fort Worth, and a Texas bluebonnet landscape.
+A private review gallery of four photographs shared by HVAC and plumbing companies. Open `index.html` to filter and preview the set. The source files are stored at the repository root.
 
-Open [index.html](index.html) after downloading the repository ZIP to browse the responsive gallery. The page has city filters, search, large previews, and source links. Keep the HTML file beside the five JPGs so its relative image paths work.
-
-See [SOURCES.md](SOURCES.md) for each photograph's creator, license, original source, and use notes. These are resized web copies. Review the source attribution before publishing a photo on the WordPress site.
-
-This private repository stages image assets. It does not grant ownership of third-party photographs or imply that Supremacy worked at the pictured properties.
+The images contain no visible people or watermarks. The Dallas HVAC image was photographed in Texas; no Texas location was verified for the plumbing images. These are reference images from other companies, not Supremacy jobs, testimonials, or implied endorsements. See [SOURCES.md](SOURCES.md) for creator credits, licenses, and reuse terms before using any image on a public page.
