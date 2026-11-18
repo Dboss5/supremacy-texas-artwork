@@ -1,0 +1,821 @@
+[
+  {
+    "file": "plumbing/001-calunitedplumbing.jpg",
+    "source": "California United Plumbing",
+    "source_page": "https://www.calunitedplumbing.com/",
+    "original": "https://www.calunitedplumbing.com/images/home-2.jpg",
+    "title": "Water heater against a tile wall photo",
+    "width": 616,
+    "height": 624
+  },
+  {
+    "file": "plumbing/002-calunitedplumbing.jpg",
+    "source": "California United Plumbing",
+    "source_page": "https://www.calunitedplumbing.com/residential-plumbing-services/tankless-water-heaters.html",
+    "original": "https://www.calunitedplumbing.com/cm/dpl/images/create/Tankless_Water_Heaters.png",
+    "title": "Satisfied Customers",
+    "width": 616,
+    "height": 540
+  },
+  {
+    "file": "plumbing/003-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/85c5c016-a5f8-4a2d-b8b6-d2d4f14676db/IMG_0351.jpg",
+    "title": "Plumbing Project",
+    "width": 2500,
+    "height": 3333
+  },
+  {
+    "file": "plumbing/004-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/75c21a83-e7cc-4928-b311-cd337f966b8c/IMG_0525.jpg",
+    "title": "Plumbing Project",
+    "width": 2500,
+    "height": 3333
+  },
+  {
+    "file": "plumbing/005-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/repiping/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-small-wall-openings.webp",
+    "title": "Small openings in a wall and ceiling showing new water lines during a whole-home repipe",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/006-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/tankless-water-heaters/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-exterior-closet.webp",
+    "title": "Tankless water heater installed in an exterior utility closet with new venting and copper piping",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/007-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/water-treatment/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-whole-house-water-filter-install.webp",
+    "title": "Whole-house water filter tank installed outside a home with new copper connections",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/008-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/sewer-line-repair/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-cleanout-new-abs-pipe.webp",
+    "title": "New ABS sewer cleanout joined to the existing lateral with shielded couplings in a small excavation",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "file": "plumbing/009-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/sewer-line-repair/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-repair-trench-abs-pipe.webp",
+    "title": "Open excavation exposing a repaired sewer line section with new ABS pipe",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/010-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/fixtures/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/shower-valve-rough-in-1.webp",
+    "title": "Fixture Repair & Installation by Gallegos Plumbing",
+    "width": 1599,
+    "height": 1353
+  },
+  {
+    "file": "plumbing/011-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/gas-line-services/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/gas-line-connection-1.webp",
+    "title": "Gas Line Services by Gallegos Plumbing",
+    "width": 1340,
+    "height": 1430
+  },
+  {
+    "file": "plumbing/012-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/services/remodel-plumbing/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/strand_gall_deadwood-09-3.webp",
+    "title": "Plumbing rough-in in open framing during construction \u2014 drain, vent, water, and gas lines",
+    "width": 1067,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/013-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/westlake-village/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-liner-westlake-village.webp",
+    "title": "New ABS sewer piping connected under a concrete slab through a single access opening in Westlake Village",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/014-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/santa-barbara/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-install-santa-barbara.webp",
+    "title": "Condensing tankless water heater with new copper piping and gas line installed in an exterior closet in Santa Barbara",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/015-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/santa-barbara/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-basement-santa-barbara.webp",
+    "title": "Tankless water heater with new venting, gas and water connections mounted in the basement of an older Santa Barbara home",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/016-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/santa-barbara/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-liner-access-pit-santa-barbara.webp",
+    "title": "Access pit dug through a paver patio to reach a sewer line in Santa Barbara, with the pavers stacked alongside",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/017-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/santa-barbara/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-line-repair-montecito.webp",
+    "title": "New ABS sewer pipe section joined with shielded couplings at the bottom of an excavation in Montecito",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/018-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/simi-valley/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-water-line-reroute-simi-valley.webp",
+    "title": "New copper and PEX water line connections in a ceiling opening during a water line reroute in Simi Valley",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/019-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/thousand-oaks/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-commercial-sewer-lining-thousand-oaks.webp",
+    "title": "Access hole cut through a concrete floor to reach a sewer main under a Thousand Oaks commercial building",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "file": "plumbing/020-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/ojai/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-water-softener-filter-install-ojai.webp",
+    "title": "Water softener brine tank and filter tank installed against a garden wall outside an Ojai home",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/021-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/ojai/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-pipe-bursting-ojai.webp",
+    "title": "New sewer pipe joined to the existing line with couplings in an access pit in Ojai",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/022-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/ojai/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-crawl-space-repipe-oak-view.webp",
+    "title": "New PEX water lines visible through an opening at the base of a wall in an Oak View home",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/023-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/oxnard/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-pex-wall-openings-oxnard.webp",
+    "title": "Two small openings in a wall and ceiling showing new PEX water lines during a whole-home repipe in Oxnard",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/024-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/camarillo/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-wall-opening-camarillo.webp",
+    "title": "Small rectangular opening in a wall showing new water lines during a repipe in Camarillo",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "file": "plumbing/025-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/camarillo/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-water-softener-install-camarillo.webp",
+    "title": "Water softener tank installed next to a whole-house filter tank in a utility closet in Camarillo",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/026-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/camarillo/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-replacement-brick-restored-camarillo.webp",
+    "title": "Brick path relaid over the access point after a trenchless sewer lateral replacement in Camarillo",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/027-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/ventura/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-pex-wall-opening-ventura.webp",
+    "title": "New PEX water lines visible through a small opening cut in a wall during a whole-home repipe in Ventura",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/028-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/ventura/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-lateral-cleanout-liner-ventura.webp",
+    "title": "New ABS sewer cleanout and couplings in a small excavation beside a concrete slab in Ventura",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "file": "plumbing/029-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/ventura/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-water-filter-softener-install-ventura.webp",
+    "title": "Whole-house water filter and softener tank installed outside a Ventura home on a new copper loop",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/030-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/locations/ventura/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-piping-ventura.webp",
+    "title": "New copper water lines, gas connector and condensate drain under a tankless water heater in a Ventura utility closet",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/031-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/low-water-pressure/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/water-pressure-gauge-on-hose-bib.webp",
+    "title": "A water pressure gauge threaded onto an outdoor hose bib to measure a home\u2019s water pressure",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/032-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/low-water-pressure/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/water-pressure-regulator-on-main-line.webp",
+    "title": "A new brass water pressure regulator installed on the main water line where it enters a house, with the shut-off valve below it",
+    "width": 1200,
+    "height": 1600
+  },
+  {
+    "file": "plumbing/033-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/pex-vs-copper/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/pex-vs-copper-diagram.webp",
+    "title": "PEX pipe bending around a wall stud in one piece with a single crimp fitting, next to rigid copper pipe that needs a soldered elbow to make the same turn.",
+    "width": 1264,
+    "height": 848
+  },
+  {
+    "file": "plumbing/034-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/slab-leak/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/slab-leak-diagram.webp",
+    "title": "Cross-section of a room on a concrete slab: water lines run under the slab, a pinhole leak soaks the soil, and a warm spot shows on the floor above it.",
+    "width": 1264,
+    "height": 848
+  },
+  {
+    "file": "plumbing/035-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/slab-leak/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/slab-leak-repair-options.webp",
+    "title": "Three ways to fix a slab leak: a spot repair through a hole in the floor, a reroute through the attic and walls, and a full repipe that takes every line out from under the slab.",
+    "width": 1180,
+    "height": 756
+  },
+  {
+    "file": "plumbing/036-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/main-sewer-line-clog/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/main-sewer-line-diagram.webp",
+    "title": "Diagram of a home drain system: branch drains from each fixture join the main sewer line, which runs past the cleanout to the city sewer, with tree roots blocking a pipe joint",
+    "width": 1264,
+    "height": 848
+  },
+  {
+    "file": "plumbing/037-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/main-sewer-line-clog/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/toilet-bubbling-diagram.webp",
+    "title": "Diagram of why a toilet bubbles when the shower runs: a partial clog downstream pushes air back up the toilet drain into the bowl",
+    "width": 1264,
+    "height": 848
+  },
+  {
+    "file": "plumbing/038-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/water-heater-leaking/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/water-heater-leak-sources-diagram.webp",
+    "title": "Diagram of a gas tank water heater showing where leaks come from: the water connections on top, the relief valve and its discharge pipe, the drain valve, and a tank rusted through at the bottom",
+    "width": 1264,
+    "height": 848
+  },
+  {
+    "file": "plumbing/039-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/whole-house-water-filtration/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/water-treatment-layout-diagram.webp",
+    "title": "A point-of-entry water treatment layout: the water main, then the pressure regulator, a carbon filter, and a water softener with its brine tank, with bypass valves around both, before the line goes into the house.",
+    "width": 1200,
+    "height": 806
+  },
+  {
+    "file": "plumbing/040-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/tankless-water-heater-guide/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/tankless-flush-diagram.webp",
+    "title": "Tankless water heater set up for a descaling flush: hoses on the service ports of the cold inlet and hot outlet valves loop through a bucket of descaling solution with a small pump.",
+    "width": 928,
+    "height": 1152
+  },
+  {
+    "file": "plumbing/041-gallegosplumbing.jpg",
+    "source": "Gallegos Plumbing",
+    "source_page": "https://www.gallegosplumbing.com/resources/water-heater-repair-vs-replacement/",
+    "original": "https://www.gallegosplumbing.com/api/media/file/water-heater-cutaway-diagram.webp",
+    "title": "Cut-away of a gas tank water heater showing the anode rod, the dip tube, a layer of sediment and scale on the tank bottom above the burner, the relief valve, the drain valve and the data plate.",
+    "width": 1200,
+    "height": 1490
+  },
+  {
+    "file": "plumbing/042-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/10/sewer-line-belly-versus-collapsed-sewer-line.jpg",
+    "title": "sewer line belly versus collapsed sewer line",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/043-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/09/factors-that-affect-the-cost-of-sewer-line-repair.jpg",
+    "title": "factors that affect the cost of sewer line repair",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/044-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/09/how-coastal-air-damages-plumbing-pipes.jpg",
+    "title": "how coastal air damages plumbing pipes",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/045-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/top-signs-your-tankless-water-heater-needs-immediate-repair/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/expert-plumbing-01.jpg",
+    "title": "Tankless Water Heater Repair",
+    "width": 769,
+    "height": 1020
+  },
+  {
+    "file": "plumbing/046-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/the-importance-of-regular-maintenance-for-your-water-heater/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/Water-Heaters-05.jpg",
+    "title": "Regular Water Heater Maintenance",
+    "width": 746,
+    "height": 691
+  },
+  {
+    "file": "plumbing/047-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/dangers-of-gurgling-toilets/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/is-a-gurgling-toilet-dangerous.jpg",
+    "title": "is a gurgling toilet dangerous",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/048-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/water-heater-issues-in-santa-cruz-repair-or-replace/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/expert-plumbing-blog-02.jpg",
+    "title": "expert plumbing blog 02",
+    "width": 1020,
+    "height": 1020
+  },
+  {
+    "file": "plumbing/049-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/common-winter-water-heater-issues-and-how-to-handle-them/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/Water-Heaters-01.jpg",
+    "title": "Common Winter Water Heater Issues and How to Handle Them",
+    "width": 746,
+    "height": 691
+  },
+  {
+    "file": "plumbing/050-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/do-you-need-a-permit-to-remodel-your-bathroom/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/do-you-need-a-permit-for-bathroom-remodel.jpg",
+    "title": "do you need a permit for bathroom remodel",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/051-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/what-causes-a-belly-in-a-sewer-line/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/what-causes-a-belly-in-sewer-line.jpg",
+    "title": "what causes a belly in sewer line",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/052-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/how-long-sewer-line-replacement/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/how-long-does-it-take-to-replace-a-sewer-line-1-1024x512-1.webp",
+    "title": "how long does it take to replace a sewer line 1 1024x512 1",
+    "width": 1024,
+    "height": 512
+  },
+  {
+    "file": "plumbing/053-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/how-to-find-trustworthy-water-heater-service-provider/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/expert-plumbing-water-heater-service-01.jpg",
+    "title": "expert plumbing water heater service 01",
+    "width": 816,
+    "height": 1020
+  },
+  {
+    "file": "plumbing/054-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/different-plumbing-pipe-types/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/different-types-of-pipes-in-plumbing-1-1024x512-1.jpg",
+    "title": "different types of pipes in plumbing 1 1024x512 1",
+    "width": 1024,
+    "height": 512
+  },
+  {
+    "file": "plumbing/055-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/plumbing-mistakes-to-avoid/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/plumbing-mistakes.jpg",
+    "title": "plumbing mistakes",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/056-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/pipes-making-noise-when-water-is-turned-on/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/pipes-making-noise-when-water-is-turned-on.jpg",
+    "title": "pipes making noise when water is turned on",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/057-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/main-sewer-line-vs-drain-clog/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/main-sewer-line-clogged-vs-regular-drain-clog-differences-1024x512-1.jpg",
+    "title": "main sewer line clogged vs regular drain clog differences 1024x512 1",
+    "width": 1024,
+    "height": 512
+  },
+  {
+    "file": "plumbing/058-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/what-is-p-trap-in-plumbing/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/p-trap-in-plumbing_-1024x512-1.webp",
+    "title": "A polished chrome P-trap connects the drainage pipes beneath a bathroom sink against a white tiled wall.",
+    "width": 1024,
+    "height": 512
+  },
+  {
+    "file": "plumbing/059-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/health-risks-of-a-sewer-leak/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Health-Risks-of-a-sewer-Leak.jpg",
+    "title": "Health Risks of a sewer Leak",
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "file": "plumbing/060-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/sewer-line-depth/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/how-deep-is-sewer-line-buried.jpg",
+    "title": "how deep is sewer line buried",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/061-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/sewer-line-repair-or-replacement/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/repair-or-replace-a-failing-sewer-line.jpg",
+    "title": "repair or replace a failing sewer line",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/062-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/scotts-valley-drain-cleaning/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/05/XOlJ5eTuR3naxvPAjLg1wRt2X6Hf5P2lBCjRQp6X.webp",
+    "title": "Expert Plumbing drain cleaning plumber Santa Cruz CA services ensuring smooth water flow and clog-free plumbing systems",
+    "width": 900,
+    "height": 500
+  },
+  {
+    "file": "plumbing/063-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/boulder-creek-plumber/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/05/bath-02-1.webp",
+    "title": "bath 02 1",
+    "width": 746,
+    "height": 691
+  },
+  {
+    "file": "plumbing/064-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/services/water-heater-installation-replacements/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Heater-Maintenance-3.jpg",
+    "title": "Water Heater Maintenance 3",
+    "width": 600,
+    "height": 700
+  },
+  {
+    "file": "plumbing/065-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/services/water-heater-installation-replacements/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Heater-Installation-Replacements.jpg",
+    "title": "Water Heater Installation Replacements",
+    "width": 600,
+    "height": 700
+  },
+  {
+    "file": "plumbing/066-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/services/water-heater-repair-in-santa-cruz-county-ca/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Heater-Maintenance-2.jpg",
+    "title": "Water Heater Maintenance 2",
+    "width": 600,
+    "height": 700
+  },
+  {
+    "file": "plumbing/067-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/services/water-softeners/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Softeners.jpg",
+    "title": "Water Softeners",
+    "width": 600,
+    "height": 700
+  },
+  {
+    "file": "plumbing/068-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/services/water-softeners/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Softeners-1.jpg",
+    "title": "Water Softeners 1",
+    "width": 600,
+    "height": 700
+  },
+  {
+    "file": "plumbing/069-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/soquel-ca/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/05/102.jpg",
+    "title": "Expert Plumbing Santa Cruz CA water heater repair and installation services for reliable hot water systems",
+    "width": 659,
+    "height": 600
+  },
+  {
+    "file": "plumbing/070-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/category/plumbing/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/who-is-responsible-for-sewer-line-repair.jpg",
+    "title": "who is responsible for sewer line repair",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/071-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/category/plumbing/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/why-does-my-bathroom-sink-drain-smell.jpg",
+    "title": "why does my bathroom sink drain smell",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/072-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/category/plumbing/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/low-water-pressure-in-house.jpg",
+    "title": "low water pressure in house",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/073-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/category/sewer-leak-repair/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/how-to-remove-tree-roots-from-sewer-line.jpg",
+    "title": "how to remove tree roots from sewer line",
+    "width": 1200,
+    "height": 600
+  },
+  {
+    "file": "plumbing/074-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/category/tankless-water-heater/",
+    "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/tankless-water-heaters.png",
+    "title": "tankless water heaters",
+    "width": 814,
+    "height": 866
+  },
+  {
+    "file": "plumbing/075-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/",
+    "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/images/e3be9ce77ce278fb6ad252ff1a1606b1f4c42b31cc3eb7454b7513ff2c84f264.webp",
+    "title": "Plumbing equipment or installation",
+    "width": 1605,
+    "height": 2316
+  },
+  {
+    "file": "plumbing/076-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/pex-vs-copper-repiping/",
+    "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/images/f3a80e4f17962f657a253588abc12175d06609476763aa9d68085aa24da64ea7.webp",
+    "title": "A network of polished copper plumbing pipes with press-fit fittings running alongside a wall in a building.",
+    "width": 1200,
+    "height": 700
+  },
+  {
+    "file": "plumbing/077-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/boulder-creek-plumber/",
+    "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/wp-uploads/2026/05/bath-02-1.webp",
+    "title": "Expert Plumbing bathroom plumbing upgrades Santa Cruz CA services",
+    "width": 746,
+    "height": 691
+  },
+  {
+    "file": "plumbing/078-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/services/water-heater-repair-in-santa-cruz-county-ca/",
+    "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/wp-uploads/2026/05/image1-1.webp",
+    "title": "Expert Plumbing water heater repair plumber Santa Cruz CA services for restoring hot water systems in residential and commercial properties",
+    "width": 746,
+    "height": 691
+  },
+  {
+    "file": "plumbing/079-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/capitola-plumber/",
+    "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/wp-uploads/2026/05/IMG_1143-1536x2048-1.webp",
+    "title": "Expert Plumbing Santa Cruz CA plumbing team working on drain and sewer repair services",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "plumbing/080-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/services/water-softeners/",
+    "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/images/18e68cd967fe2f8f1ddb47c6d9fbee681f1b1231df0857d09621a53c66dba570.jpg",
+    "title": "Water softener system installed in a residential utility room | Water Softeners",
+    "width": 600,
+    "height": 700
+  },
+  {
+    "file": "plumbing/081-expertplumbingca.jpg",
+    "source": "Expert Plumbing",
+    "source_page": "https://expertplumbingca.com/category/sewer-leaks/",
+    "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/images/1a0b09bc39fe0f2200aeac91514aa51504584ad1fa9cf097773dbdc7ce3a9c22.jpg",
+    "title": "repair or replace a failing sewer line",
+    "width": 1024,
+    "height": 512
+  },
+  {
+    "file": "plumbing/082-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705100649953-5BLKQOSH5UWJEAIK1GYB/image-asset.jpeg",
+    "title": "Oranssi previous project",
+    "width": 1875,
+    "height": 2500
+  },
+  {
+    "file": "plumbing/083-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705100467522-OMBJSLHV3IT0F0Y3WKP5/image-asset.jpeg",
+    "title": "Oranssi carpenter using bench saw",
+    "width": 2500,
+    "height": 1667
+  },
+  {
+    "file": "plumbing/084-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705100586525-8OKR8UD5YNXSVR3ZIYVG/image-asset.jpeg",
+    "title": "Oranssi technician working on a roof project",
+    "width": 2500,
+    "height": 1660
+  },
+  {
+    "file": "plumbing/085-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/0c85d40b-171d-499a-967d-e44d7dc0d9dd/IMG_0793.jpg",
+    "title": "Oranssi project: wraparound deck",
+    "width": 2500,
+    "height": 3333
+  },
+  {
+    "file": "plumbing/086-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/46ba5219-384d-47aa-bd76-644af0c30aef/IMG_1750.jpg",
+    "title": "Oranssi project: passive house",
+    "width": 2500,
+    "height": 3333
+  },
+  {
+    "file": "plumbing/087-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/d7685490-11f1-4544-a264-c55534dcafa0/IMG_0269.jpg",
+    "title": "Oranssi project: slat roof",
+    "width": 2500,
+    "height": 3333
+  },
+  {
+    "file": "plumbing/088-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705021472544-NOLDEHIMQ9LIDX2HV7ML/image-asset.jpeg",
+    "title": "image asset",
+    "width": 2500,
+    "height": 1667
+  },
+  {
+    "file": "plumbing/089-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705103835239-OAD79PC08GV3SIP4NWPA/image-asset.jpeg",
+    "title": "image asset",
+    "width": 2500,
+    "height": 1653
+  },
+  {
+    "file": "plumbing/090-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705022058812-PP0JT9HAOA7F8P85PPJQ/image-asset.jpeg",
+    "title": "image asset",
+    "width": 2500,
+    "height": 1875
+  },
+  {
+    "file": "plumbing/091-coastalplumbinghome.jpg",
+    "source": "Coastal Plumbing",
+    "source_page": "https://www.coastalplumbinghome.com/",
+    "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705022324923-UJWG0MZTH4XCA92NHQ0W/image-asset.jpeg",
+    "title": "image asset",
+    "width": 1667,
+    "height": 2500
+  }
+]
