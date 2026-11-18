@@ -2,7 +2,7 @@
 
 **Selected images:** 188
 
-Every item below is a verified still image. Miron video entries and their poster frames were removed. The gallery itself uses the stored JPEG copy so it does not depend on third-party hotlink availability.
+Every item below is a verified still image. Miron video entries and their poster frames were removed.
 
 ## 24 HVAC Services (5)
 
