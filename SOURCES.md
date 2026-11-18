@@ -2,7 +2,7 @@
 
 Selected for Texas context, with no visible watermark or people in the reviewed frame. These are actual photographs of the named places or Texas landscape, not representations of a service visit. Do not imply that Supremacy performed work at these locations.
 
-The copies in `` were resized and JPEG-compressed for web use on 18 November 2026. The underlying source pages remain the authority for licensing and creator details. Recheck before public use, especially when cropping or modifying an image.
+The JPG copies in the repository root were resized and JPEG-compressed for web use on 18 November 2026. The underlying source pages remain the authority for licensing and creator details. Recheck before public use, especially when cropping or modifying an image.
 
 | File | Scene and suggested use | Creator | License | Source |
 | --- | --- | --- | --- | --- |
