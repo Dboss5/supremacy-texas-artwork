@@ -12,7 +12,7 @@ The prior five Texas place photos and four licensed service references remain at
 
 ## Plumbing collection
 
-[plumbing.html](plumbing.html) has **88 screened plumbing images** from Plumbing Unit, California United Plumbing, Coastal Plumbing, Gallegos Plumbing, and Expert Plumbing. The [source inventory](PLUMBING-SOURCES.md) and [JSON manifest](plumbing.json) record each origin. The requested target of 200 distinct qualifying images from these five sites was not met; repeated variants, people, logos, and decorative files were excluded. Permission scope for these five companies has not been documented in this repository.
+[plumbing.html](plumbing.html) has **132 screened plumbing images** from Plumbing Unit, California United Plumbing, Coastal Plumbing, Gallegos Plumbing, Expert Plumbing, Jersey Plumbing, and Reliant Plumbing. The [source inventory](PLUMBING-SOURCES.md) and [JSON manifest](plumbing.json) record each origin. The requested target of 200 distinct qualifying images has not yet been met; repeated variants, people, logos, and decorative files were excluded. Permission scope for these five companies has not been documented in this repository.
 
 ## Electrical collection
 
@@ -37,3 +37,4 @@ The prior five Texas place photos and four licensed service references remain at
 ## Heating collection
 
 [heating.html](heating.html) has **16 screened heating still images** covering heat pumps, mini-splits, condensers, and heating equipment. The [heating source inventory](HEATING-SOURCES.md) and [JSON manifest](heating.json) preserve every source. An additional **14 broader mechanical images** were added to the HVAC collection. Visible people, watermarks, videos, source-company logos, reports, scenery, and general restoration imagery were excluded.
+
