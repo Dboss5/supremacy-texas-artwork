@@ -8,7 +8,7 @@ The prior five Texas place photos and four licensed service references remain at
 
 ## HVAC collection
 
-[hvac.html](hvac.html) has **212 screened HVAC still images** from East Coast Heating & Cooling, Alpine Home Air, HVAC of Atlanta, AAction Air, Modern Air, and The HVAC Company. It replaces the BAC-heavy active gallery. The [HVAC source inventory](HVAC-SOURCES.md) and [JSON manifest](hvac.json) preserve every source. BAC assets, videos and video poster frames, visible people, company logos, promotional graphics, visible watermarks, and near-duplicate crops were excluded.
+[hvac.html](hvac.html) has **226 screened HVAC still images** from East Coast Heating & Cooling, Alpine Home Air, HVAC of Atlanta, AAction Air, Modern Air, and The HVAC Company. It replaces the BAC-heavy active gallery. The [HVAC source inventory](HVAC-SOURCES.md) and [JSON manifest](hvac.json) preserve every source. BAC assets, videos and video poster frames, visible people, company logos, promotional graphics, visible watermarks, and near-duplicate crops were excluded.
 
 ## Plumbing collection
 
@@ -33,3 +33,7 @@ The prior five Texas place photos and four licensed service references remain at
 ## Holiday Lighting, LED & Light Installation collection
 
 [holiday-lighting.html](holiday-lighting.html) has **134 screened holiday-lighting, outdoor-lighting, and LED still images** from Christmas Lights Etc, Birddog Lighting, Masters Holiday Lighting, Lumos Outdoor Lighting, and Holiday Lighting Los Angeles. The [holiday-lighting source inventory](HOLIDAY-LIGHTING-SOURCES.md) and [JSON manifest](holiday-lighting.json) preserve the source page and original asset URL for every selected image. The collection includes roofline lighting, lit trees, landscape and architectural accents, commercial displays, LED products, controllers, clips, and installation details. Visible people, watermarks, videos, prominent source-company logos, unrelated Halloween merchandise, promotional banners, and near-duplicate size variants were excluded. Dallas Lights and Holiday Light Installations Colorado exposed too few qualifying high-resolution assets; Yard Envy, Spirit Halloween, Quatro Lighting, Southern California Holiday Lighting, NY Ceiling, and Innovations Lighting did not yield qualifying assets during their screened download passes.
+
+## Heating collection
+
+[heating.html](heating.html) has **16 screened heating still images** covering heat pumps, mini-splits, condensers, and heating equipment. The [heating source inventory](HEATING-SOURCES.md) and [JSON manifest](heating.json) preserve every source. An additional **14 broader mechanical images** were added to the HVAC collection. Visible people, watermarks, videos, source-company logos, reports, scenery, and general restoration imagery were excluded.
