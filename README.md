@@ -6,6 +6,10 @@ The user stated that the companies granted permission to use their images. The e
 
 The prior five Texas place photos and four licensed service references remain at the repository root, outside this 102-image gallery.
 
+## HVAC collection
+
+[hvac.html](hvac.html) has **212 screened HVAC still images** from East Coast Heating & Cooling, Alpine Home Air, HVAC of Atlanta, AAction Air, Modern Air, and The HVAC Company. It replaces the BAC-heavy active gallery. The [HVAC source inventory](HVAC-SOURCES.md) and [JSON manifest](hvac.json) preserve every source. BAC assets, videos and video poster frames, visible people, company logos, promotional graphics, visible watermarks, and near-duplicate crops were excluded.
+
 ## Plumbing collection
 
 [plumbing.html](plumbing.html) has **88 screened plumbing images** from Plumbing Unit, California United Plumbing, Coastal Plumbing, Gallegos Plumbing, and Expert Plumbing. The [source inventory](PLUMBING-SOURCES.md) and [JSON manifest](plumbing.json) record each origin. The requested target of 200 distinct qualifying images from these five sites was not met; repeated variants, people, logos, and decorative files were excluded. Permission scope for these five companies has not been documented in this repository.
