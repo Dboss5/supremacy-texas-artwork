@@ -1,0 +1,741 @@
+{
+  "count": 81,
+  "rules": [
+    "No visible people",
+    "No visible watermarks",
+    "No videos or poster frames",
+    "No prominent source-company logos",
+    "Near-duplicate size variants removed"
+  ],
+  "images": [
+    {
+      "file": "garage-doors/001-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/10/GettyImages-1400322274.jpg",
+      "title": "GettyImages 1400322274",
+      "width": 2248,
+      "height": 1334
+    },
+    {
+      "file": "garage-doors/002-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/txodh_large06_cta.jpg",
+      "title": "txodh large06 cta",
+      "width": 1920,
+      "height": 895
+    },
+    {
+      "file": "garage-doors/003-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/hero-image-2.jpg",
+      "title": "hero image 2",
+      "width": 1920,
+      "height": 865
+    },
+    {
+      "file": "garage-doors/004-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/masthead-right-image.png",
+      "title": "Painted Garage Door",
+      "width": 664,
+      "height": 494
+    },
+    {
+      "file": "garage-doors/005-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2013/09/GettyImages-1907847499-1.jpg",
+      "title": "White Garage Door",
+      "width": 2121,
+      "height": 1414
+    },
+    {
+      "file": "garage-doors/006-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2013/09/GettyImages-2170858332.jpg",
+      "title": "Dark Gray Garage Door",
+      "width": 2121,
+      "height": 1414
+    },
+    {
+      "file": "garage-doors/007-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2014/02/GettyImages-144329195.jpg",
+      "title": "Wooden Garage Door with Glass on Top",
+      "width": 2029,
+      "height": 1477
+    },
+    {
+      "file": "garage-doors/008-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/half-text-image-home-scaled.jpg",
+      "title": "half text image home scaled",
+      "width": 2560,
+      "height": 1749
+    },
+    {
+      "file": "garage-doors/009-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/contact-form-img-1.jpg",
+      "title": "contact form img 1",
+      "width": 2400,
+      "height": 2408
+    },
+    {
+      "file": "garage-doors/010-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/footer-bg.jpg",
+      "title": "footer bg",
+      "width": 1919,
+      "height": 779
+    },
+    {
+      "file": "garage-doors/011-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/media-card-image-4.jpg",
+      "title": "media card image 4",
+      "width": 726,
+      "height": 427
+    },
+    {
+      "file": "garage-doors/012-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Commercial-Door-Installation.png",
+      "title": "Commercial Door Installation",
+      "width": 500,
+      "height": 334
+    },
+    {
+      "file": "garage-doors/013-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Rolling-Steel.png",
+      "title": "Rolling Steel",
+      "width": 500,
+      "height": 333
+    },
+    {
+      "file": "garage-doors/014-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Service-Doors-Rolling-Steel.png",
+      "title": "Service Doors Rolling Steel",
+      "width": 500,
+      "height": 331
+    },
+    {
+      "file": "garage-doors/015-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/wind-loaded-service-door.png",
+      "title": "wind loaded service door",
+      "width": 539,
+      "height": 402
+    },
+    {
+      "file": "garage-doors/016-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Security-Doors-Store-Closed.png",
+      "title": "Security Doors Store Closed",
+      "width": 559,
+      "height": 310
+    },
+    {
+      "file": "garage-doors/017-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/BobHallPier21-690x460-1-e1757519676154.jpg",
+      "title": "BobHallPier21  1 e1757519676154",
+      "width": 664,
+      "height": 427
+    },
+    {
+      "file": "garage-doors/018-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Hanger-Door-690x460-1.jpg",
+      "title": "Hanger Door  1",
+      "width": 690,
+      "height": 460
+    },
+    {
+      "file": "garage-doors/019-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Hangar-door.png",
+      "title": "Hangar door",
+      "width": 577,
+      "height": 383
+    },
+    {
+      "file": "garage-doors/020-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Loading-Dock-Pads.png",
+      "title": "Loading Dock Pads",
+      "width": 500,
+      "height": 338
+    },
+    {
+      "file": "garage-doors/021-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Loading-Docks-690x517-1.jpg",
+      "title": "Loading Docks  1",
+      "width": 690,
+      "height": 517
+    },
+    {
+      "file": "garage-doors/022-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Vehicle-Restraint.png",
+      "title": "Vehicle Restraint",
+      "width": 500,
+      "height": 334
+    },
+    {
+      "file": "garage-doors/023-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Edge-of-Dock-Levelers.png",
+      "title": "Edge of Dock Levelers",
+      "width": 500,
+      "height": 477
+    },
+    {
+      "file": "garage-doors/024-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/GettyImages-185072946-scaled.jpg",
+      "title": "GettyImages 185072946 scaled",
+      "width": 2560,
+      "height": 1780
+    },
+    {
+      "file": "garage-doors/025-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-136252802-scaled.jpg",
+      "title": "GettyImages 136252802 scaled",
+      "width": 2560,
+      "height": 1920
+    },
+    {
+      "file": "garage-doors/026-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-117005350-2-scaled.jpg",
+      "title": "GettyImages 117005350 2 scaled",
+      "width": 2560,
+      "height": 1707
+    },
+    {
+      "file": "garage-doors/027-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/Texas-Overhead-Door-Projects-6.jpg",
+      "title": "Texas Overhead Door Projects 6",
+      "width": 1632,
+      "height": 1224
+    },
+    {
+      "file": "garage-doors/028-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-2222707135.jpg",
+      "title": "GettyImages 2222707135",
+      "width": 2121,
+      "height": 1414
+    },
+    {
+      "file": "garage-doors/029-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Cookson-Commercial-Rolling-Steel.png",
+      "title": "Cookson Commercial Rolling Steel",
+      "width": 500,
+      "height": 335
+    },
+    {
+      "file": "garage-doors/030-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/service-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/HomeSecurity-2-690x517-1.jpg",
+      "title": "HomeSecurity 2  1",
+      "width": 690,
+      "height": 517
+    },
+    {
+      "file": "garage-doors/031-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/service-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Rolling-Steel-Doors-scaled.jpg",
+      "title": "Rolling Steel Doors scaled",
+      "width": 2560,
+      "height": 854
+    },
+    {
+      "file": "garage-doors/032-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/insulated-service-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/Insulated-Service-Door.jpg",
+      "title": "Insulated Service Door",
+      "width": 2121,
+      "height": 1414
+    },
+    {
+      "file": "garage-doors/033-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/counter-shutters/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/txodh_small01_cta.jpg",
+      "title": "txodh small01 cta",
+      "width": 1790,
+      "height": 355
+    },
+    {
+      "file": "garage-doors/034-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/fire-doors-fire-shutters/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-2227611062.jpg",
+      "title": "GettyImages 2227611062",
+      "width": 1765,
+      "height": 1698
+    },
+    {
+      "file": "garage-doors/035-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/wind-loaded-service-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-157404219-scaled-e1757964986534.jpg",
+      "title": "GettyImages 157404219 scaled e1757964986534",
+      "width": 2560,
+      "height": 1246
+    },
+    {
+      "file": "garage-doors/036-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/rolling-steel-doors/wind-loaded-service-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-2177870933.jpg",
+      "title": "GettyImages 2177870933",
+      "width": 2120,
+      "height": 1414
+    },
+    {
+      "file": "garage-doors/037-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/sectional-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-171147942-scaled.jpg",
+      "title": "GettyImages 171147942 scaled",
+      "width": 2560,
+      "height": 1731
+    },
+    {
+      "file": "garage-doors/038-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/sectional-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/cta-bg.jpg",
+      "title": "cta bg",
+      "width": 1790,
+      "height": 355
+    },
+    {
+      "file": "garage-doors/039-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/security-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-1390641672.jpg",
+      "title": "GettyImages 1390641672",
+      "width": 2120,
+      "height": 1414
+    },
+    {
+      "file": "garage-doors/040-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/security-doors/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/09/GettyImages-2171507064-scaled.jpg",
+      "title": "GettyImages 2171507064 scaled",
+      "width": 2560,
+      "height": 1919
+    },
+    {
+      "file": "garage-doors/041-txohd.jpg",
+      "source": "Texas Overhead Door",
+      "source_page": "https://www.txohd.com/commercial/dock-equipment/safety-products-accessories/",
+      "original_url": "https://www.txohd.com/wp-content/uploads/2025/08/GettyImages-1426189245.jpg",
+      "title": "GettyImages 1426189245",
+      "width": 2000,
+      "height": 1316
+    },
+    {
+      "file": "garage-doors/042-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/657377035ae922de4b8bcfc8_9200-02-Middleboro-1920.webp",
+      "title": "garage door",
+      "width": 1920,
+      "height": 1002
+    },
+    {
+      "file": "garage-doors/043-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571e0f612a9d4ad719ed590_6741eb4f8f331d4eac707c7734f37b34_Coachman-CressBell.webp",
+      "title": "coachman garage door",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "file": "garage-doors/044-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/653a11e630d49a6ffc15d495_8d1e07f330e21df657610015a80443bd_hero-2_fixed.webp",
+      "title": "commercial garage door",
+      "width": 1920,
+      "height": 489
+    },
+    {
+      "file": "garage-doors/045-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571e1263331fcf97eb3705a_754f3396f35455a9028f761f49228b85_Avante-AX-Ramer-109.webp",
+      "title": "avante garage door",
+      "width": 1920,
+      "height": 1277
+    },
+    {
+      "file": "garage-doors/046-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571df3ab075e0899eafb513_082f854fd8f52c00d03d4b35f480e7d1_Coachman-D21-SQ24-02.webp",
+      "title": "coachman garage door",
+      "width": 1440,
+      "height": 1218
+    },
+    {
+      "file": "garage-doors/047-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/65149237f6b81c7b2061d67d_Gallery-7949%20Mitchell%20Farm%20Day031%20(1).webp",
+      "title": "residential garage door",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "file": "garage-doors/048-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/65281147fb9b5d895812821c_903-Orlando-03.jpg",
+      "title": "65281147fb9b5d895812821c 903 Orlando 03",
+      "width": 3510,
+      "height": 2622
+    },
+    {
+      "file": "garage-doors/049-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/65316e6dc10cc14fb5384f58_c72f5acfa6b9b3c20c7be2900264e59d_Architectural-Series-904-01.webp",
+      "title": "commercial garage door",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "file": "garage-doors/050-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571dd2c2b12ee299cdd4130_ee4943d9dbd5e23b187c7a25181e15cf_Coachman-Design21-Arch3-04.webp",
+      "title": "coachman garage door",
+      "width": 1920,
+      "height": 1278
+    },
+    {
+      "file": "garage-doors/051-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/657377d93d7b89f0219f0368_556f28dc096be720af021e1d7c149431_Avante_AX-Denver-137-1920.webp",
+      "title": "avante garage door",
+      "width": 1920,
+      "height": 997
+    },
+    {
+      "file": "garage-doors/052-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6573777aa13c1815e214c9b8_Modern-Steel-Palm-Stirling-931B-1920.webp",
+      "title": "modern steel garage door",
+      "width": 1920,
+      "height": 1009
+    },
+    {
+      "file": "garage-doors/053-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6573767616fd64612420cafd_Gallery-7949_Mitchell_Farm_Day011-1920.webp",
+      "title": "garage door",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "file": "garage-doors/054-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6573762490b0551dcaf79a6e_BD2EU-Sandtone-SQ24-1920.webp",
+      "title": "sandton garage door",
+      "width": 1920,
+      "height": 1247
+    },
+    {
+      "file": "garage-doors/055-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/657375d4cbb2488571b606a8_7b53144412d6d786014ef4a275425aa6_Coachman-D11-SQ24-04-1920.webp",
+      "title": "coachman garage door",
+      "width": 1920,
+      "height": 1440
+    },
+    {
+      "file": "garage-doors/056-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6531bc22abbc6ae3b7a69051_08d4b706885ea0c57615e79fd2c74304_AVANTE-AZ-1309672695.webp",
+      "title": "avante garage door",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "file": "garage-doors/057-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571dcea0e1e9fb00eab9921_Gallery-GD2LP-SQ22-NFairfield-OH-05.webp",
+      "title": "garage door",
+      "width": 1920,
+      "height": 1278
+    },
+    {
+      "file": "garage-doors/058-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential/modern-steel",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/651454271a167a862204306a_Modern-Steel-Plank-Kona-595141150%20(1).webp",
+      "title": "modern steel garage door",
+      "width": 2880,
+      "height": 1920
+    },
+    {
+      "file": "garage-doors/059-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential/classic-steel",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571cdaba69427351463259e_65149463970ad6e939586f02_9200-02-Middleboro-p-2600.webp",
+      "title": "garage door",
+      "width": 1200,
+      "height": 780
+    },
+    {
+      "file": "garage-doors/060-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential/coachman",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571dfdb547644abd9e6989a_Coachman-C22-ARCH4-Ten-Shillings-Way.webp",
+      "title": "coachman garage door",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "file": "garage-doors/061-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571c413b72e62e0806407a7_commercial.webp",
+      "title": "commercial garage door",
+      "width": 1920,
+      "height": 1401
+    },
+    {
+      "file": "garage-doors/062-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/652806224f90b96b90e39179_3220-Flush-01.jpg",
+      "title": "sectional garage door",
+      "width": 4000,
+      "height": 2104
+    },
+    {
+      "file": "garage-doors/063-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/64ad19dd6315d89f74053592_amarr-3502.jpg",
+      "title": "rolling steel garage door",
+      "width": 585,
+      "height": 380
+    },
+    {
+      "file": "garage-doors/064-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571c1fb1bd6edea2a94f61c_Rolling_Steel-Doors-3.jpg",
+      "title": "rolling steel garage door",
+      "width": 1694,
+      "height": 1146
+    },
+    {
+      "file": "garage-doors/065-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/64b1ca8742d234236efbeaf5_1024-3.jpeg",
+      "title": "rolling sheet garage door",
+      "width": 585,
+      "height": 380
+    },
+    {
+      "file": "garage-doors/066-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571c4bc154d757f9075c0e7_architectectural-series-flush-fullview-window-white-garage-door.webp",
+      "title": "garage door",
+      "width": 824,
+      "height": 508
+    },
+    {
+      "file": "garage-doors/067-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/sectional",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6531c1e4f94406dad0d6eb7c_sleek.png",
+      "title": "sleek commercial door",
+      "width": 824,
+      "height": 508
+    },
+    {
+      "file": "garage-doors/068-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/sectional",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/652812e492d2cb7d554e880c_vertistack_stack_display-unit.webp",
+      "title": "veristack  garage door",
+      "width": 824,
+      "height": 508
+    },
+    {
+      "file": "garage-doors/069-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/sectional",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/651454d206cecfa29ab67b96_903-OC-Firehouse-01.jpg",
+      "title": "extreme series garage door",
+      "width": 5560,
+      "height": 3744
+    },
+    {
+      "file": "garage-doors/070-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/sectional",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/6571cefc6c9ddc8a08728a5e_652d44da5821f3646a677caa_architectectural-series-flush-fullview-window-moca-garage-door%20copy.webp",
+      "title": "garage door",
+      "width": 754,
+      "height": 508
+    },
+    {
+      "file": "garage-doors/071-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/sectional",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/652d46beffed550ecb85d88d_energy-series-intellicore-inside-fullview-window-white-garage-door.webp",
+      "title": "architectural garage door",
+      "width": 824,
+      "height": 508
+    },
+    {
+      "file": "garage-doors/072-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/sectional",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/652d4530d369066617c0c3ec_energy-series-3200-minor-ribbed-24x8-windows-white-garage-door.webp",
+      "title": "energy series garage door",
+      "width": 824,
+      "height": 508
+    },
+    {
+      "file": "garage-doors/073-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/sectional",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/652d48a1d369066617c4e5b8_industrial-series-520-deep-ribbed-24x6-window-white--garage-door.webp",
+      "title": "industrial series garage door",
+      "width": 824,
+      "height": 508
+    },
+    {
+      "file": "garage-doors/074-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/aluminum-glass",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/650599967edce2e048bad76a_amarr-3552-louvered.jpeg",
+      "title": "Aluminum & Glass",
+      "width": 585,
+      "height": 380
+    },
+    {
+      "file": "garage-doors/075-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/aluminum-glass",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/650599a99105c61f4d65253e_amarr-3552.jpeg",
+      "title": "Aluminum & Glass",
+      "width": 585,
+      "height": 380
+    },
+    {
+      "file": "garage-doors/076-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/rolling-steel",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/65737d50be7aff9568cab6f4_RollingDoor-Model-625-TN2-1920.webp",
+      "title": "rolling door",
+      "width": 1920,
+      "height": 1295
+    },
+    {
+      "file": "garage-doors/077-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/rolling-sheet",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/64dcd6d8191a54e77c8afdbd_rolling-sheet.webp",
+      "title": "rolling sheet garage door",
+      "width": 3342,
+      "height": 1001
+    },
+    {
+      "file": "garage-doors/078-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/counter-shutters",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/64e4aed76e04c69f9340052d_COUNTER%20SHUTTERS.webp",
+      "title": "counter shutters",
+      "width": 3343,
+      "height": 1201
+    },
+    {
+      "file": "garage-doors/079-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/security-gates",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/64dcba03f89067d165a2f4c1_324%20Grille_2.webp",
+      "title": "security gate",
+      "width": 2100,
+      "height": 1500
+    },
+    {
+      "file": "garage-doors/080-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/residential/repair",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/653997d9c6efe332669ce288_CanyonRidge-D12-SQ23-01.jpg",
+      "title": "canyon ridge garage door",
+      "width": 3504,
+      "height": 2336
+    },
+    {
+      "file": "garage-doors/081-abcdoors.jpg",
+      "source": "ABC Doors",
+      "source_page": "https://www.abcdoors.com/commercial/repair",
+      "original_url": "https://cdn.prod.website-files.com/649d6a876c76fa917a227056/64df941830c75c10a7781dce_Grille%20005.webp",
+      "title": "grill garage door",
+      "width": 3343,
+      "height": 1201
+    }
+  ]
+}
