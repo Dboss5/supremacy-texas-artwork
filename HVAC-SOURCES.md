@@ -1,6 +1,6 @@
 # HVAC Gallery — Source Inventory
 
-**Selected still images:** 212
+**Selected still images:** 226
 
 BAC images were replaced. Videos, video poster frames, visible people, company logos, visible watermarks, promotional graphics, and near-duplicate crops were excluded.
 
@@ -234,3 +234,23 @@ BAC images were replaced. Videos, video poster frames, visible people, company l
 - `hvac-211.jpg` — [source page](https://www.thehvaccompany.net/projects) · [original image](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/554922687_17874369765423950_6524871972506029884_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P8YRDefD5qQQ7kNvwE8iwMy&_nc_oc=AdrJ0l8h1pmOveMOCKMsv1-VHcDKDGQ4moCFjEzR1MexH4NfVIqC_D9bqDctXbABKlw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQIvtFnpwV42XHuC3kP_r_glYH_1f6AJFr45yXW0zbIq5pL6EUZieNwoIneWO3Hych7dN280mOxs&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQCGqti4RYx5EMgaB53Cadp8N5ind1NZJKvtjcNJTnC0g&oe=6B047381)
 - `hvac-212.jpg` — [source page](https://www.thehvaccompany.net/projects) · [original image](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/544799369_799143156103611_1066908197547706628_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ca-Twqsq4PgQ7kNvwFkVQDW&_nc_oc=AdrgiNPS-nPiYn6S8JbOkj1AnrjVHzVK-7I0zL5odFzG2eUVCNvHJGMAVsKmFPg2KP8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLle_OZvpYcp0dgI1hgcw9Yuc6MOIPeUiflKMYP9aCiImsLPpXFaeFbvK65zI4q4vKr2G3KudGv&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQZYLHoW2rtwcrJd7mvMaGukTEVZe2_MuyhLy7w3ZfXvw&oe=6B045D93)
 
+
+## Affordable Air LA — Heating additions (6)
+
+- `hvac-heat-001.jpg` — [source page](https://affordableairla.com/) · [original image](https://s3.amazonaws.com/static.sidebox.com/C2AE6FEF-6C02-4181-B477-9A3388767155/3779788.jpg)
+- `hvac-heat-002.jpg` — [source page](https://affordableairla.com/) · [original image](https://s3.amazonaws.com/static.sidebox.com/C2AE6FEF-6C02-4181-B477-9A3388767155/3779542.jpg)
+- `hvac-heat-003.jpg` — [source page](https://affordableairla.com/) · [original image](https://s3.amazonaws.com/static.sidebox.com/C2AE6FEF-6C02-4181-B477-9A3388767155/3779543.jpg)
+- `hvac-heat-004.jpg` — [source page](https://affordableairla.com/hvac-maintenance-los-angeles/) · [original image](https://affordableairla.com/wp-content/uploads/2026/07/HVAC-Maintenance-Inspecting-Outdoor-AC-Unit-in-LA-County-CA-768x432.jpg)
+- `hvac-heat-005.jpg` — [source page](https://affordableairla.com/duct-repair-replacement/) · [original image](https://affordableairla.com/wp-content/uploads/2026/06/Duct-Repair-in-Los-Angeles-for-Damaged-HVAC-Connections-768x432.webp)
+- `hvac-heat-006.jpg` — [source page](https://affordableairla.com/insulation-services/) · [original image](https://affordableairla.com/wp-content/uploads/2024/07/Professional-Insulation-service-Affordable-Heating-And-Air-1-768x432.jpg)
+
+## Hoffman Cooling & Heating — Heating additions (8)
+
+- `hvac-heat-007.jpg` — [source page](https://hoffmancoolingheating.com/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-Heat-Pumps-scaled.jpg)
+- `hvac-heat-008.jpg` — [source page](https://hoffmancoolingheating.com/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-Ductwork-scaled.jpg)
+- `hvac-heat-009.jpg` — [source page](https://hoffmancoolingheating.com/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/06/brian-kairuz-1T0xL1IhGVQ-unsplash.jpg)
+- `hvac-heat-010.jpg` — [source page](https://hoffmancoolingheating.com/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-New-Construction-scaled.jpeg)
+- `hvac-heat-011.jpg` — [source page](https://hoffmancoolingheating.com/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/06/nicholas-ismael-martinez-nAXNKkCDqqc-unsplash.jpg)
+- `hvac-heat-012.jpg` — [source page](https://hoffmancoolingheating.com/heating/wall-heaters-floor-furnaces-gravity-furnaces/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Old-Systems-Pic-1-1024x929.jpeg)
+- `hvac-heat-013.jpg` — [source page](https://hoffmancoolingheating.com/duct-services/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Duct-Hub-1-scaled.jpeg)
+- `hvac-heat-014.jpg` — [source page](https://hoffmancoolingheating.com/duct-services/duct-sealing/) · [original image](https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Duct-Sealing-1.jpg)

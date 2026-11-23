@@ -1,0 +1,158 @@
+{
+  "title": "Heating Image Gallery",
+  "count": 16,
+  "rules": [
+    "No visible people",
+    "No visible watermarks",
+    "No videos or video poster frames",
+    "No prominent source-company logos",
+    "Near-duplicate variants removed",
+    "General restoration imagery excluded"
+  ],
+  "images": [
+    {
+      "file": "heating/heating-001.jpg",
+      "title": "Ekis old and new",
+      "source": "Alaska Heat Smart",
+      "source_page": "https://akheatsmart.org/",
+      "original_url": "https://akheatsmart.org/wp-content/uploads/Ekis-old-and-new-768x1024.jpg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "file": "heating/heating-002.jpg",
+      "title": "Heat pump oil tank 2",
+      "source": "Alaska Heat Smart",
+      "source_page": "https://akheatsmart.org/",
+      "original_url": "https://akheatsmart.org/wp-content/uploads/Heat-pump-oil-tank-2-1024x768.jpg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "file": "heating/heating-003.jpg",
+      "title": "HeatPump4",
+      "source": "Alaska Heat Smart",
+      "source_page": "https://akheatsmart.org/",
+      "original_url": "https://akheatsmart.org/wp-content/uploads/HeatPump4-1024x683.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "file": "heating/heating-004.jpg",
+      "title": "Graphic of minisplit heat pump system",
+      "source": "Alaska Heat Smart",
+      "source_page": "https://akheatsmart.org/efficiency-101/",
+      "original_url": "https://akheatsmart.org/wp-content/uploads/FineHomebuilding_HeatPUMP-755x1024.png",
+      "width": 755,
+      "height": 1024
+    },
+    {
+      "file": "heating/heating-005.jpg",
+      "title": "Upon thorough inspection, all components of the heating and air system were found to be in excellent condition. The thermostat was responsive, and the air filters were clean, ensuring optimal performance. The ductwork showed no signs of leaks or obstructions, and the condenser unit was free of debris. The blower motor operated smoothly, and refrigerant levels were within the ideal range. Overall, the system was functioning efficiently, providing comfort and reliability to the customer.",
+      "source": "Affordable Air LA",
+      "source_page": "https://affordableairla.com/",
+      "original_url": "https://s3.amazonaws.com/static.sidebox.com/C2AE6FEF-6C02-4181-B477-9A3388767155/3779787.jpg",
+      "width": 1152,
+      "height": 2048
+    },
+    {
+      "file": "heating/heating-006.jpg",
+      "title": "Technician performing Heating Tune Up on a ductless indoor unit in Los Angeles County.",
+      "source": "Affordable Air LA",
+      "source_page": "https://affordableairla.com/heating-tune-up/",
+      "original_url": "https://affordableairla.com/wp-content/uploads/2025/09/Heating-Tune-Up-for-Wall-Mounted-768x432.jpg.webp",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "file": "heating/heating-007.jpg",
+      "title": "Technician rinsing an outdoor AC condenser to remove debris for local HVAC repair.",
+      "source": "Affordable Air LA",
+      "source_page": "https://affordableairla.com/ventura-county/oxnard-hvac-repair/",
+      "original_url": "https://affordableairla.com/wp-content/uploads/2026/08/Condenser-Cleaning-and-Maintenance-by-HVAC-Contractor-Oxnard-768x432.webp",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "file": "heating/heating-008.jpg",
+      "title": "2 What We Do AC Repair Install",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-AC-Repair-Install-1024x962.jpeg",
+      "width": 1024,
+      "height": 962
+    },
+    {
+      "file": "heating/heating-009.jpg",
+      "title": "2 What We Do Heating Repair Install scaled",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-Heating-Repair-Install-scaled.jpeg",
+      "width": 2560,
+      "height": 1982
+    },
+    {
+      "file": "heating/heating-010.jpg",
+      "title": "behnam norouzi 3iLFQj2bXq0 unsplash scaled",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/06/behnam-norouzi-3iLFQj2bXq0-unsplash-scaled.jpg",
+      "width": 1784,
+      "height": 2560
+    },
+    {
+      "file": "heating/heating-011.jpg",
+      "title": "AC Install Pic 1",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/cooling/ac-replacement-installation/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/AC-Install-Pic-1.jpg",
+      "width": 2016,
+      "height": 1512
+    },
+    {
+      "file": "heating/heating-012.jpg",
+      "title": "Mini Split 1 1",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/cooling/mini-splits/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Mini-Split-1-1.jpeg",
+      "width": 1447,
+      "height": 908
+    },
+    {
+      "file": "heating/heating-013.jpg",
+      "title": "Heat Pump 1",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/heating/heat-pumps/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Heat-Pump-1.jpeg",
+      "width": 1471,
+      "height": 1617
+    },
+    {
+      "file": "heating/heating-014.jpg",
+      "title": "Heat Pump 4",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/heating/heat-pumps/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Heat-Pump-4.jpeg",
+      "width": 1817,
+      "height": 2345
+    },
+    {
+      "file": "heating/heating-015.jpg",
+      "title": "Old Systems Pic 3",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/heating/wall-heaters-floor-furnaces-gravity-furnaces/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Old-Systems-Pic-3-1024x778.jpeg",
+      "width": 1024,
+      "height": 778
+    },
+    {
+      "file": "heating/heating-016.jpg",
+      "title": "Maintenance Pic 2",
+      "source": "Hoffman Cooling & Heating",
+      "source_page": "https://hoffmancoolingheating.com/maintenance/",
+      "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Maintenance-Pic-2.jpeg",
+      "width": 2030,
+      "height": 2242
+    }
+  ]
+}
