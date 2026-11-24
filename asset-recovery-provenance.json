@@ -1,7 +1,6 @@
 {
   "version": 1,
   "description": "Exact approved still images recovered from historical downloads. Source URL and original SHA-256 were verified before re-encoding.",
-  "archive_bytes": 13102527,
   "archive_sha256": "f3bcf27cba89b3bbfd092ed56c14b59aa1cd637cf3859f35ffbf4ca1be382ace",
   "images": [
     {
@@ -43,7 +42,7 @@
       "file": "air-conditioning/air-conditioning-143.jpg",
       "bytes": 245486,
       "sha256": "e7d74da27c890605401e48ba3cd6eda3215140be191225d1d2bff039e3ef7706",
-      "source_url": "https://mironhvac.com/wp-content/uploads/2020/09/FURNACE-REPAIR-\u2013-WHEN-ITS-TIME-TO-CALL-IN-MIRON-HVAC-CONTRACTORS.jpg",
+      "source_url": "https://mironhvac.com/wp-content/uploads/2020/09/FURNACE-REPAIR-–-WHEN-ITS-TIME-TO-CALL-IN-MIRON-HVAC-CONTRACTORS.jpg",
       "source_sha256": "0a08d6ff5c8e22c12314791fa7ed3d1a4deb2d2f4f07dd39defa480aa2c61b72"
     },
     {
@@ -1208,6 +1207,5 @@
       "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Optimizely/Recommendations/bed-bug-research.jpg",
       "source_sha256": "6baa9a8ebe74dec09c78445f97bf9ca578506f9865d0b89a410836575ecaa270"
     }
-  ],
-  "archive_file": "approved-recovery.zip"
+  ]
 }
