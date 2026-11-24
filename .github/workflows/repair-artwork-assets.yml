@@ -1,0 +1,54 @@
+name: Repair approved artwork assets
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/repair-artwork-assets.py
+      - .github/workflows/repair-artwork-assets.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: supremacy-artwork-asset-repair
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image validation dependency
+        run: python -m pip install 'Pillow>=11,<13'
+      - name: Restore approved assets and rebuild complete ZIPs
+        id: repair
+        continue-on-error: true
+        run: python scripts/repair-artwork-assets.py --workers 12
+      - name: Publish validated assets and repair report
+        run: |
+          git config user.name 'Supremacy Artwork Maintenance'
+          git config user.email 'artwork-maintenance@users.noreply.github.com'
+          for path in hvac air-conditioning plumbing electrical pest garage-doors holiday-lighting heating hvac-heating-additions asset-repair-report.json garage-door-images.zip holiday-lighting-images.zip heating-images.zip hvac-heating-additions.zip; do
+            if [ -e "$path" ]; then git add -- "$path"; fi
+          done
+          if git diff --cached --quiet; then
+            echo 'No asset changes to publish.'
+            exit 0
+          fi
+          git commit --quiet -m 'Repair approved artwork files and image ZIP downloads'
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
+      - name: Require complete recovery
+        if: steps.repair.outcome != 'success'
+        run: |
+          echo 'Some approved source images remain unavailable. See asset-repair-report.json.'
+          exit 1
