@@ -1,40 +1,67 @@
 # Supremacy image libraries
 
-A private, service-based reference library. Open [index.html](index.html) for the dashboard, then jump directly into HVAC, Air Conditioning, Plumbing, Electrical, Pest Control, Garage Doors, or Holiday Lighting. Each gallery supports quick searching and retains its source records.
+The active artwork library contains **1,202 repository images across eight service galleries**. Open the [live dashboard](https://supremacy-texas-artwork.vercel.app/) or [index.html](index.html), then search or filter a gallery. Every gallery uses committed repository files for previews and downloads and retains links to the original sources.
 
-The user stated that the companies granted permission to use their images. The exact written permission and scope were not supplied to this repository. Keep the site private and verify the terms before public marketing deployment. The selected images have no visible people or watermarks in the screened copies. Product logos belong to their owners. None of these photos should be presented as Supremacy job evidence or identified as North Texas work without verification.
+## Collections
 
-The prior five Texas place photos and four licensed service references remain at the repository root, outside this 102-image gallery.
+| Gallery | Images | Sources | Catalog | Source inventory |
+| --- | ---: | ---: | --- | --- |
+| [HVAC](hvac.html) | 226 | 8 | [hvac.json](hvac.json) | [HVAC-SOURCES.md](HVAC-SOURCES.md) |
+| [Air Conditioning](air-conditioning.html) | 188 | 8 | [air-conditioning.json](air-conditioning.json) | [AIR-CONDITIONING-SOURCES.md](AIR-CONDITIONING-SOURCES.md) |
+| [Plumbing](plumbing.html) | 132 | 6 | [plumbing.json](plumbing.json) | [PLUMBING-SOURCES.md](PLUMBING-SOURCES.md) |
+| [Electrical](electrical.html) | 99 | 6 | [electrical.json](electrical.json) | [ELECTRICAL-SOURCES.md](ELECTRICAL-SOURCES.md) |
+| [Pest Control](pest.html) | 326 | 5 | [pest.json](pest.json) | [PEST-SOURCES.md](PEST-SOURCES.md) |
+| [Garage Doors](garage-doors.html) | 81 | 2 | [garage-doors.json](garage-doors.json) | [GARAGE-DOOR-SOURCES.md](GARAGE-DOOR-SOURCES.md) |
+| [Holiday Lighting](holiday-lighting.html) | 134 | 5 | [holiday-lighting.json](holiday-lighting.json) | [HOLIDAY-LIGHTING-SOURCES.md](HOLIDAY-LIGHTING-SOURCES.md) |
+| [Heating](heating.html) | 16 | 3 | [heating.json](heating.json) | [HEATING-SOURCES.md](HEATING-SOURCES.md) |
+| **Total** | **1,202** | | | |
 
-## HVAC collection
+Source counts are per gallery; a company may contribute to more than one collection. The 14 heating additions are already included in the 226-image HVAC total.
 
-[hvac.html](hvac.html) has **226 screened HVAC still images** from East Coast Heating & Cooling, Alpine Home Air, HVAC of Atlanta, AAction Air, Modern Air, and The HVAC Company. It replaces the BAC-heavy active gallery. The [HVAC source inventory](HVAC-SOURCES.md) and [JSON manifest](hvac.json) preserve every source. BAC assets, videos and video poster frames, visible people, company logos, promotional graphics, visible watermarks, and near-duplicate crops were excluded.
+## Downloads and repository availability
 
-## Plumbing collection
+All **1,202 catalog file paths are present**, with **zero pending files**. Gallery cards support individual downloads, selection of visible images, and downloads of a selected group. The download controls use each entry's committed `file` path.
 
-[plumbing.html](plumbing.html) has **132 screened plumbing images** from Plumbing Unit, California United Plumbing, Coastal Plumbing, Gallegos Plumbing, Expert Plumbing, Jersey Plumbing, and Reliant Plumbing. The [source inventory](PLUMBING-SOURCES.md) and [JSON manifest](plumbing.json) record each origin. The requested target of 200 distinct qualifying images has not yet been met; repeated variants, people, logos, and decorative files were excluded. Permission scope for these five companies has not been documented in this repository.
+The following ZIPs contain the corresponding repository images:
 
-## Electrical collection
+| Download | Images |
+| --- | ---: |
+| [Garage door images](garage-door-images.zip) | 81 |
+| [Holiday lighting images](holiday-lighting-images.zip) | 134 |
+| [Heating images](heating-images.zip) | 16 |
+| [HVAC heating additions](hvac-heating-additions.zip) | 14 |
 
-[electrical.html](electrical.html) has **99 screened electrical images** from Berkeys, Cable Electric, S.L. Electric, Beyond Builder, Infused Electric, and Electrical Contracting Solutions. The [electrical source inventory](ELECTRICAL-SOURCES.md) and [JSON manifest](electrical.json) record every origin. Visible people, watermarks, repeated crops, promotional graphics, and unrelated trade images were excluded.
+The Holiday Lighting page and dashboard link to the complete rebuilt 134-image archive. Validation results are recorded in [asset-repair-report.json](asset-repair-report.json). Recovery provenance is recorded in [asset-recovery-provenance.json](asset-recovery-provenance.json).
 
-## Pest Control collection
+The owner approved public recovery of the remaining 172 catalog images and reconstruction of the Holiday Lighting ZIP. Original source names, URLs, and existing product marks remain recorded for attribution. A gallery entry does not establish that an image depicts a Supremacy project or a verified Texas location.
 
-[pest.html](pest.html) has **326 screened pest-control images** from Ecola Termite, Clark Pest Control, Orkin, Terminix, and Critter Control. The [pest-control source inventory](PEST-SOURCES.md) and [JSON manifest](pest.json) preserve the source page and original asset URL for every selected image. The collection covers pest identification, termite damage, nests, rodent and wildlife activity, entry points, exclusion work, traps, and treatment environments. Visible people, visible watermarks, and near-duplicate crops were excluded. Bugnex did not expose a qualifying image asset during the crawl.
+## Public image metadata
 
-## Air Conditioning collection
+Every active catalog entry contains a `public_metadata` object with four nonempty plain-text fields:
 
-[air-conditioning.html](air-conditioning.html) has **188 screened air-conditioning still images** from 24 HVAC Services, Alpine Home Air, California Air Conditioning Systems, Alicia Air, Polar Heating & Air Conditioning, Brian's Heating & Air Conditioning, Miron HVAC, and Mid-City HVAC. The [air-conditioning source inventory](AIR-CONDITIONING-SOURCES.md) and [JSON manifest](air-conditioning.json) preserve the source page and original asset URL for every selected image. Visible people, watermarks, video entries and their poster frames, review graphics, manufacturer-logo-only assets, and near-duplicate crops were excluded. Fuse and AirRefco did not expose qualifying direct image assets during the crawl.
+```json
+{
+  "public_metadata": {
+    "title": "Outdoor air conditioning condenser",
+    "alt": "Outdoor air conditioning condenser beside a house",
+    "caption": "Outdoor air conditioning condenser.",
+    "description": "Outdoor air conditioning condenser beside a house."
+  }
+}
+```
 
-## Garage Door collection
+Gallery titles, image alt text, search labels, and previews use these fields. Supremacy Before/After Swapper uses reviewed embedded overrides first, validated `public_metadata` second, and its metadata cleanup fallback when neither is available. This keeps catalog numbers, filename hashes, supplier boilerplate, and reference labels out of public WordPress image metadata.
 
-[garage-doors.html](garage-doors.html) has **81 screened garage-door still images** from Texas Overhead Door and ABC Doors. The [garage-door source inventory](GARAGE-DOOR-SOURCES.md) and [JSON manifest](garage-doors.json) preserve the source page and original asset URL for every selected image. The collection includes residential doors, commercial overhead doors, rolling steel, loading docks, tracks, springs, and repair details. Visible people, watermarks, videos, prominent source-company logos, unrelated retail/interior images, and near-duplicate size variants were excluded. Olympus Garage Door Repair exposed only small images below the project quality threshold; Doors On-Line, Garage Door Outlets, Overhead Door Company of New York, and The Texas Garage Doors did not expose crawlable qualifying assets during this pass.
+The metadata review includes **592 visually checked images** and **610 cleaned source labels**. Meaningful equipment models, ratings, bulb types, and measurements remain intact. Original `title`, `source`, `source_page`, and original asset URL fields retain their provenance values and are separate from the public descriptions.
 
-## Holiday Lighting, LED & Light Installation collection
+The Swapper imports only repository files that pass its availability checks. A source URL remains an attribution record and does not replace a missing repository asset during import.
 
-[holiday-lighting.html](holiday-lighting.html) has **134 screened holiday-lighting, outdoor-lighting, and LED still images** from Christmas Lights Etc, Birddog Lighting, Masters Holiday Lighting, Lumos Outdoor Lighting, and Holiday Lighting Los Angeles. The [holiday-lighting source inventory](HOLIDAY-LIGHTING-SOURCES.md) and [JSON manifest](holiday-lighting.json) preserve the source page and original asset URL for every selected image. The collection includes roofline lighting, lit trees, landscape and architectural accents, commercial displays, LED products, controllers, clips, and installation details. Visible people, watermarks, videos, prominent source-company logos, unrelated Halloween merchandise, promotional banners, and near-duplicate size variants were excluded. Dallas Lights and Holiday Light Installations Colorado exposed too few qualifying high-resolution assets; Yard Envy, Spirit Halloween, Quatro Lighting, Southern California Holiday Lighting, NY Ceiling, and Innovations Lighting did not yield qualifying assets during their screened download passes.
+## Original WordPress media archive
 
-## Heating collection
+The [Original Image Archive](original-media-archive.html) lists **26 preserved original media records** with download links, source records, byte sizes, and checksums. Its files remain on the [archive-snapshot-before-artwork-recovery branch](https://github.com/Dboss5/supremacy-texas-artwork/tree/archive-snapshot-before-artwork-recovery).
 
-[heating.html](heating.html) has **16 screened heating still images** covering heat pumps, mini-splits, condensers, and heating equipment. The [heating source inventory](HEATING-SOURCES.md) and [JSON manifest](heating.json) preserve every source. An additional **14 broader mechanical images** were added to the HVAC collection. Visible people, watermarks, videos, source-company logos, reports, scenery, and general restoration imagery were excluded.
+The archive is separate from the 1,202 active gallery images. Its [status record](https://github.com/Dboss5/supremacy-texas-artwork/blob/archive-snapshot-before-artwork-recovery/ARCHIVE-STATUS.md) preserves the original retrieval history, including any historical failures.
 
+## Earlier collection records
+
+[COMPANY-SITE-REVIEW.md](COMPANY-SITE-REVIEW.md), [SOURCES.md](SOURCES.md), and [collection.json](collection.json) describe the earlier 102-image company-site collection. They remain as historical provenance. The eight catalogs listed above define the current active galleries and import inventory.

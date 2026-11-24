@@ -28,10 +28,12 @@ jobs:
           python-version: '3.12'
       - name: Install image validation dependency
         run: python -m pip install 'Pillow>=11,<13'
-      - name: Require the approved native upload pair
+      - name: Validate an optional native upload pair
         run: |
-          test -f .artwork-recovery/approved-recovery.zip
-          test -f .artwork-recovery/manifest.json
+          if [ -e .artwork-recovery/approved-recovery.zip ] || [ -e .artwork-recovery/manifest.json ]; then
+            test -f .artwork-recovery/approved-recovery.zip
+            test -f .artwork-recovery/manifest.json
+          fi
       - name: Restore approved assets and rebuild complete ZIPs
         id: repair
         continue-on-error: true
