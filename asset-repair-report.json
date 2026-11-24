@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-11-24T06:51:15.519855+00:00",
+  "generated_at": "2026-11-24T08:06:57.029344+00:00",
   "source": "Approved repository manifests only; no substitute images",
   "manifest_counts": {
     "hvac.json": 226,
     "air-conditioning.json": 188,
-    "plumbing.json": 132,
-    "electrical.json": 99,
-    "pest.json": 326,
-    "garage-doors.json": 81,
+    "plumbing.json": 157,
+    "electrical.json": 100,
+    "pest.json": 343,
+    "garage-doors.json": 112,
     "holiday-lighting.json": 134,
-    "heating.json": 16,
+    "heating.json": 17,
     "hvac-heating-additions.json": 14
   },
-  "unique_asset_paths": 1202,
+  "unique_asset_paths": 1277,
   "counts": {
-    "verified_existing": 1202,
+    "verified_existing": 1277,
     "downloaded": 0,
     "unavailable": 0
   },
-  "recovered_from_verified_history": 172,
+  "recovered_from_verified_history": 0,
   "complete": true,
   "archives": [
     {
       "file": "garage-door-images.zip",
       "status": "complete",
-      "image_count": 81,
-      "bytes": 31705270,
-      "sha256": "4d71b57db86f8419a44b53ff3c6a4c1789316efabd85e537521b9188726991b7"
+      "image_count": 112,
+      "bytes": 35338888,
+      "sha256": "2c37e8ae61f482609e48eab5a80db55224bd9f6eb67cdde76570f60fc4e56ba3"
     },
     {
       "file": "holiday-lighting-images.zip",
       "status": "complete",
       "image_count": 134,
       "bytes": 47458091,
-      "sha256": "352c67433df0d0456c49a1bd35c1d14ce5b1cd6bb1b1c0b07565fabbd24a2d0a"
+      "sha256": "8c6a8a6cde5471eb13de8c6431ca1715b5a3d3c9656296bdcfb90c018bb2a941"
     },
     {
       "file": "heating-images.zip",
       "status": "complete",
-      "image_count": 16,
-      "bytes": 2477923,
-      "sha256": "f74a4c7f3b4ae2e3f360745245161821a3c12c84ab274e90e46a7053e9c73014"
+      "image_count": 17,
+      "bytes": 2592119,
+      "sha256": "587dac0273529473d3165f1140c76e7dd5bc38b412efb87d67279c735c79047e"
     },
     {
       "file": "hvac-heating-additions.zip",
       "status": "complete",
       "image_count": 14,
       "bytes": 2394627,
-      "sha256": "4e7cdfa45025102cbbb2353d12eb530d459486e6b4cc38a8366e502b4c2d7725"
+      "sha256": "9650ad3333ee3fd382f2c1e93cd853ab460fd4ed6bdccded764b2a6fb6c0a2a5"
     }
   ],
   "images": [
@@ -2635,6 +2635,15 @@
       "sha256": "c55bfbd8256b3e36b5046d3f67049f557ed68ff445529a447a138bbd2c183ffe"
     },
     {
+      "file": "electrical/blog-reuse-standby-generator-and-automatic-transfer-switch.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 174196,
+      "sha256": "60a813108d6343f0f509d95a68880e71fc2827063fefe29f25ec55d5abe23713"
+    },
+    {
       "file": "garage-doors/001-txohd.jpg",
       "status": "verified_existing",
       "width": 2248,
@@ -3362,6 +3371,294 @@
       "format": "JPEG",
       "bytes": 742643,
       "sha256": "53885bf1aef118fa05643e95105306a4e8dbbc9e39f4be4b306903101d86d69d"
+    },
+    {
+      "file": "garage-doors/blog-reuse-aligned-and-bent-garage-door-tracks.webp",
+      "status": "verified_existing",
+      "width": 1670,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 128334,
+      "sha256": "1ab4858ab86cd901ffd977d0fa0f5db367bab7136bfc9f73a440213805c1dd40"
+    },
+    {
+      "file": "garage-doors/blog-reuse-broken-garage-door-torsion-spring.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 940,
+      "format": "WEBP",
+      "bytes": 101126,
+      "sha256": "ee956ea81ed1f408d1eb5f901e34c9227c8b529ffd0b1a17cb0d2300c921ab35"
+    },
+    {
+      "file": "garage-doors/blog-reuse-chain-drive-garage-door-opener.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 73054,
+      "sha256": "c45ae220339bb6c6e9fd0f75a3dcae69267b9b995da6ad72f566a9865ae04f20"
+    },
+    {
+      "file": "garage-doors/blog-reuse-damaged-garage-door-bottom-weather-seal.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 139498,
+      "sha256": "a4c7bf8bbd2b9b2a43803f63b869cc921d0b44db790a3b3d93c43d93209366b9"
+    },
+    {
+      "file": "garage-doors/blog-reuse-dirty-and-clean-garage-safety-sensors.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 138948,
+      "sha256": "d54bac96d37f47d4d3ab072db80fb7d6c9981d3e1e2aa5a3a31ca4f776f0963f"
+    },
+    {
+      "file": "garage-doors/blog-reuse-frayed-garage-door-lifting-cable.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 111814,
+      "sha256": "9f26e15c250d03ecd529c99d2b457bf819d05721b4e710d1c76539083a32245c"
+    },
+    {
+      "file": "garage-doors/blog-reuse-frozen-garage-door-bottom-seal.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 179694,
+      "sha256": "07a3d411e3608e1e2e6778b6dd3512b8072d0e647efe6f0664c3c850de814482"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-cable-drum-and-lifting-cable.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 139588,
+      "sha256": "0c82bca51f6ce0b891a897d17dda0bae93dfdff032c3ef77fa2e248f444ee9dd"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-bottom-seal-components.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 119694,
+      "sha256": "bfdc53b3949e0712fbe0148cb06a7bd5c16deb8cb2ad8e207fc960d150750ff3"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-cable-and-drum-comparison.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 143618,
+      "sha256": "4ac606d10e7ae257cf55c286c61eae09978d593a6ee00231a354df429c832d7e"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-horizontal-reinforcement-struts.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 104610,
+      "sha256": "093f14bbae0abfd5c2047196cf373dd4e414c1093cba9c21ae8bb00cf7cf6e3b"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-photo-eye-sensors.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 96956,
+      "sha256": "4fb99624a07206bbf172ab8efae772b46caac76f455171a27889c41a401b2d0c"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-reinforcement-and-track-hardware.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 129428,
+      "sha256": "23d3340fd566972bb656531b096b3c9eca5ec1db5da69aebc72c17991be3f85e"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-torsion-spring-and-cable-drum.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 120930,
+      "sha256": "3f9d6dd78a9d94ccb6412453812b08ce9d3fd5c96729f9dca62c34b813da9e90"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-backup-and-control-batteries.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 116424,
+      "sha256": "60d69eca56a4ef03acb52e3baf730a8b0a63cd3b961e26b077ea2a21cfb45d71"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-battery-status-display.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 104252,
+      "sha256": "df88de651e611b989ceecfe985aa4b77d023c0f72b4c2d7b8307d7e8ca2f5b30"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-diagnostic-controls.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 56174,
+      "sha256": "60ca6c90d40363b5bf72f017880734e7dd0165ce6bb2b8a3c8ad66eb2c77ea41"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-drive-mechanisms.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 103452,
+      "sha256": "87ff9470f7834858bbda935e3cb460061760e10a14591780955ac06844957564"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-installation-components.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 109092,
+      "sha256": "99996b39ec2617effb8671216cb40e1f85cb0a8f7f03ee266ca2e828df545dd2"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-trolley-and-emergency-release.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 67354,
+      "sha256": "bd53646c6f33bb5f388921cf70e1a838d9e6177bda9745b3a7af587368eea29b"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-types-overview.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 133810,
+      "sha256": "45556e0e29dbff0ff95d91aca243db444c5d63317866e8507c389d3e0fc7b873"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-with-battery-backup.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 71224,
+      "sha256": "58286e2b3f03e31c45d69c80c686cdc60ea838015318d43671a25b1ac868ac6f"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-roller-seated-in-its-track.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 110220,
+      "sha256": "b4822b5e6fef992e8979324f524f664e2614c56467ddb86476e09096fdbcccb2"
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-sensor-indicator-lights.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 119430,
+      "sha256": "541b82def1842768d6de44d89d2646653b6c607306b8610abb7876671f215320"
+    },
+    {
+      "file": "garage-doors/blog-reuse-insulated-garage-door-panel-cutaway.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 156518,
+      "sha256": "b1c5d423fbfead3596f55667ca807e234272ba430cb1f221dfed2dcddf0e6804"
+    },
+    {
+      "file": "garage-doors/blog-reuse-intact-and-worn-garage-door-bottom-seals.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 123090,
+      "sha256": "8cb005115003adf20db96b304fc3eb8a4e19396dc209efbec0ec72ee883b6a41"
+    },
+    {
+      "file": "garage-doors/blog-reuse-new-and-worn-garage-door-rollers.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 137796,
+      "sha256": "0beab7cc4ddbd0b73b2621ba2f8247eef6a65aede007f97eee4aab985a1cae58"
+    },
+    {
+      "file": "garage-doors/blog-reuse-torsion-and-extension-spring-comparison.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 139164,
+      "sha256": "b81fe063da260474f6990d9dbddd3e2d4bf5b7edc5bf7308939f1e2816a05965"
+    },
+    {
+      "file": "garage-doors/blog-reuse-wall-mounted-garage-door-opener.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 108188,
+      "sha256": "fb887c9df8576a64f59e2ba2dc043b87517beb3c59bcd3c90dab6c31135ad6e1"
+    },
+    {
+      "file": "garage-doors/blog-reuse-worn-garage-door-roller-and-bearing.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 128560,
+      "sha256": "7dae1013961f2179f01b59953bf9555d48126f652b2657ddf8dd0a192652d04a"
+    },
+    {
+      "file": "garage-doors/blog-reuse-worn-garage-opener-drive-gear.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 105178,
+      "sha256": "57f76d43367f1bbf4029f513218ff74505f96eff178ad7553707e1a6db38ed32"
+    },
+    {
+      "file": "heating/blog-reuse-heating-system-and-circuit-breaker-diagram.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 113430,
+      "sha256": "cf3252bf0d4b9332bad74c88bce697aa6cec9568951172b56a7a57579aa16067"
     },
     {
       "file": "heating/heating-001.jpg",
@@ -6746,6 +7043,159 @@
       "format": "JPEG",
       "bytes": 97992,
       "sha256": "09da1406950985deb734b0ff6c7721c52d328d070ed3978470ddc35505428cf0"
+    },
+    {
+      "file": "pest/blog-reuse-ant-colony-and-entry-route-into-a-kitchen.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 577,
+      "format": "WEBP",
+      "bytes": 142734,
+      "sha256": "2f68bc0053c0da866d5d0c1b65213a6ffa807ff91f783ca3d1f7143c332875de"
+    },
+    {
+      "file": "pest/blog-reuse-cockroach-hiding-areas-in-a-kitchen-and-around-a-drain.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 68618,
+      "sha256": "1a6ecfa820591975dd49c4774f33d98d4e2d1156057d49d33b5eed8cf7e40639"
+    },
+    {
+      "file": "pest/blog-reuse-exterior-pest-prevention-around-a-house.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "bytes": 178558,
+      "sha256": "2794578bf36cdf38fc5937fac5657b64233643603173f5a833adfd6501773b33"
+    },
+    {
+      "file": "pest/blog-reuse-fire-ant-mound-beside-a-garden.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 135906,
+      "sha256": "8169f5b00e3e60f4c678a266bcddb578c1acfe5f24139593ab6072dd7ad8d94e"
+    },
+    {
+      "file": "pest/blog-reuse-foundation-gaps-around-a-house.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 146894,
+      "sha256": "91c846ed0e11acaf613039704a3401d7a491f2f09b2b148b22f260b0d2f4f6b9"
+    },
+    {
+      "file": "pest/blog-reuse-home-drainage-and-foundation-clearance.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 217594,
+      "sha256": "03e592101891bb290887708b5a118efb3bb292dce0f60b9cf07426539dd1cb78"
+    },
+    {
+      "file": "pest/blog-reuse-interior-and-exterior-pest-control-illustration.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 121722,
+      "sha256": "48f689119672b179eaa53e40910715f65403fc38c4cfef8984898d7edf3a0f39"
+    },
+    {
+      "file": "pest/blog-reuse-mosquito-life-cycle-illustration.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "bytes": 123542,
+      "sha256": "87bdf3be07dac55aaa7be1240682a1787d335231c83ae7ab7f5f664f4430c3fa"
+    },
+    {
+      "file": "pest/blog-reuse-mosquito-resting-on-shaded-vegetation.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 97590,
+      "sha256": "f28d19353334457ac3482f676b2552813952b64d7e09810a3f25f514e918ce8a"
+    },
+    {
+      "file": "pest/blog-reuse-pest-entry-points-around-a-house.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "bytes": 169060,
+      "sha256": "c35c3f5bb3dd0a66f17e3fa96a3c230a87b96369d84c7b955005efeb2dbfc8de"
+    },
+    {
+      "file": "pest/blog-reuse-pest-prevention-around-a-home.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 144900,
+      "sha256": "112295bb38f5c2c6809f9bfe39b4093a89445000c6c797e13bcbd4069a95caa6"
+    },
+    {
+      "file": "pest/blog-reuse-rainwater-collecting-around-a-backyard.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 152862,
+      "sha256": "9c1beb4ab1708e81ee7053b48c3a5ac8dda502e81b2bc5acff74db75541ef7bf"
+    },
+    {
+      "file": "pest/blog-reuse-scorpion-on-landscaping-stones.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "bytes": 118926,
+      "sha256": "98473b88690699ac7702bbdc95b78111ecfcb4e78dd9bb5e7df3c026eeaf9861"
+    },
+    {
+      "file": "pest/blog-reuse-spider-webs-around-roof-eaves.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 65894,
+      "sha256": "069c10dcc8bec08fa1ec72355069ea06d5bc3c693613fd01564302df71d1732c"
+    },
+    {
+      "file": "pest/blog-reuse-standing-water-in-backyard-containers.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 140942,
+      "sha256": "c48f5a2033931cf9cb639c1ab4ba12b5fbd8467d6194a437c48c679b93e1873a"
+    },
+    {
+      "file": "pest/blog-reuse-termite-mud-tube-along-a-foundation.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "bytes": 141358,
+      "sha256": "ac610f3aa2b28f589407dfeecad6b92e79b0c811f7ac5ba77400027f659df159"
+    },
+    {
+      "file": "pest/blog-reuse-termite-mud-tube-with-termites-inside.webp",
+      "status": "verified_existing",
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "bytes": 128764,
+      "sha256": "dffde3556c741d91f6d30b9093c220b14be12ad1b444053bbc0001d78494266c"
     },
     {
       "file": "pest/pest-control-001.jpg",
@@ -10868,6 +11318,231 @@
       "format": "JPEG",
       "bytes": 86943,
       "sha256": "407d50f6dcd3c683f76330adbc6b27fb291f5d60f525d74ae4f4bce886d1fd3b"
+    },
+    {
+      "file": "plumbing/blog-reuse-buried-residential-water-supply-line.webp",
+      "status": "verified_existing",
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "bytes": 360680,
+      "sha256": "9ce167fef2ec57d0bd07e6e1177929b821f30cae7e7edbf0deace4dfb7b1d90f"
+    },
+    {
+      "file": "plumbing/blog-reuse-corroded-water-heater-leaking-at-its-base.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 120728,
+      "sha256": "59a36dc4c5c376ccc7639dee8eebaadd13fb0be4aad62ffe9a16cea0972ec08b"
+    },
+    {
+      "file": "plumbing/blog-reuse-cracked-pool-plumbing-elbow.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 125670,
+      "sha256": "42c211ac4360622be2a57bff5922c46ba9c8567437f171597f9d74187f0194be"
+    },
+    {
+      "file": "plumbing/blog-reuse-garbage-disposal-and-drain-components.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 141682,
+      "sha256": "87f779e287418cc30d7a0b6f476f97d6ef7886f117603fce687af73919abd7a7"
+    },
+    {
+      "file": "plumbing/blog-reuse-garbage-disposal-and-restricted-drain-pipe.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 104864,
+      "sha256": "e013657874bb178112c66f35b3ad46fa9d82b59f8af28dad58f1a6cd6b6e69fc"
+    },
+    {
+      "file": "plumbing/blog-reuse-hidden-plumbing-leak-detection-tools.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 129782,
+      "sha256": "61e681fc0dd3ee1c7560c6f91b122cf5c9f74016550c015f028e900cb3ddec80"
+    },
+    {
+      "file": "plumbing/blog-reuse-jammed-garbage-disposal-cutaway.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 112298,
+      "sha256": "58cdf755fc471f41674c112e32f41cc2bd2d31e9d2f37b30ff597c070df9d36d"
+    },
+    {
+      "file": "plumbing/blog-reuse-leaking-pool-pump-connection.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 168062,
+      "sha256": "ef92cfbc042391f432906542cef02ebd94c68b56b249c3f574e7b2211ac0dc83"
+    },
+    {
+      "file": "plumbing/blog-reuse-leaking-pool-pump-in-frosty-weather.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 219308,
+      "sha256": "f59132a17668a81076204abc0ba29ef697a83d076269aa28c2ab21d2ff7484db"
+    },
+    {
+      "file": "plumbing/blog-reuse-old-water-heater-and-replacement-options.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 118152,
+      "sha256": "36c77f56956192c904b93e96fb9904796fe7a5bb10e10a571065486820ed05e9"
+    },
+    {
+      "file": "plumbing/blog-reuse-open-toilet-tank-components.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 98792,
+      "sha256": "b8b722d9e3cb8f19c20a99c8a437e0063162af3454125c69515b793cac1a2e69"
+    },
+    {
+      "file": "plumbing/blog-reuse-outdoor-plumbing-freeze-preparation-diagram.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 274400,
+      "sha256": "7b86bf036f350527ca54604d1bea55e203d7a8bc1e6c659dfc0d2c11716621b5"
+    },
+    {
+      "file": "plumbing/blog-reuse-pex-and-copper-piping-in-wall-framing.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 940,
+      "format": "WEBP",
+      "bytes": 124990,
+      "sha256": "8058d7f7fe1b840cc3c65cb284bcd47659175228a8975728487ef9e5554f517f"
+    },
+    {
+      "file": "plumbing/blog-reuse-pool-pump-freeze-protection-control.webp",
+      "status": "verified_existing",
+      "width": 1670,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 186388,
+      "sha256": "3fa2d2193717128d0812c593f038f1f0233c009667a97b58fc7983b60cdddb5d"
+    },
+    {
+      "file": "plumbing/blog-reuse-public-water-main-and-private-service-line.webp",
+      "status": "verified_existing",
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "bytes": 288710,
+      "sha256": "5b45d655a88ad108740e5df6f287298b509e962f0567c3c2e0fc51545b88bd99"
+    },
+    {
+      "file": "plumbing/blog-reuse-residential-gas-meter-and-exterior-piping.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 223896,
+      "sha256": "ab1daa0e7b57318c0882afdcbd73235b84f6056b1590b965f480181e80191180"
+    },
+    {
+      "file": "plumbing/blog-reuse-residential-water-line-and-meter-cutaway.webp",
+      "status": "verified_existing",
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "bytes": 308646,
+      "sha256": "53445e99ee2874f9efb092a01d8251a1cf881df39e8cf1cea53c5a87cc013a9d"
+    },
+    {
+      "file": "plumbing/blog-reuse-toilet-tank-water-entering-overflow-tube.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 90988,
+      "sha256": "86f3a6bbc46000931ca047143ca872042f3c285a1d24da899e4d7a28e8867aa9"
+    },
+    {
+      "file": "plumbing/blog-reuse-trenchless-water-line-pipe-bursting.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 501924,
+      "sha256": "1026d435567232dddd5ae3312932a536a1f8f9e2c81cbc027d696a61a5331546"
+    },
+    {
+      "file": "plumbing/blog-reuse-washing-machine-valves-and-water-hammer-arrestor.webp",
+      "status": "verified_existing",
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 91300,
+      "sha256": "ace782296c97a50866f4607d9432f0c703ec4546840242068f1e4f3e0707d2a6"
+    },
+    {
+      "file": "plumbing/blog-reuse-water-heater-components-and-corroded-tank.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 199572,
+      "sha256": "14da906825c4fca4ae3a78aff6492cb75975dca4e1b946296a8186c7d9e9a4e2"
+    },
+    {
+      "file": "plumbing/blog-reuse-water-line-rerouting-around-a-slab-leak.webp",
+      "status": "verified_existing",
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "bytes": 161132,
+      "sha256": "811adc16750a327f9445ff57fda601a6dcf94131aee5e956280ad9036247e7ee"
+    },
+    {
+      "file": "plumbing/blog-reuse-wet-soil-and-pooling-water-in-a-lawn.webp",
+      "status": "verified_existing",
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "bytes": 352148,
+      "sha256": "863ed9205e74a9dddcecddd051677e660517e3a4399e65c3502186d8a24448b2"
+    },
+    {
+      "file": "plumbing/blog-reuse-whole-house-water-supply-cutaway.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 243820,
+      "sha256": "b632fa867f6e91b5e7e785d1ee174db1146fd8fc1e9843f01093a4ef96db7c93"
+    },
+    {
+      "file": "plumbing/blog-reuse-worn-and-seated-toilet-flappers.webp",
+      "status": "verified_existing",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "bytes": 96150,
+      "sha256": "3c2669fd018f3d0e81cde302e756792d6fd6afd4c988ab2b7d87ca32fff41f0f"
     }
   ]
 }
