@@ -1,0 +1,1213 @@
+{
+  "version": 1,
+  "description": "Exact approved still images recovered from historical downloads. Source URL and original SHA-256 were verified before re-encoding.",
+  "archive_bytes": 13102527,
+  "archive_sha256": "f3bcf27cba89b3bbfd092ed56c14b59aa1cd637cf3859f35ffbf4ca1be382ace",
+  "images": [
+    {
+      "file": "air-conditioning/air-conditioning-001.jpg",
+      "bytes": 163417,
+      "sha256": "9a7a5e5ae2cb9e4d7d5b51d62006d04a9a3c7743355d9736ecf79c30f161107b",
+      "source_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/2024-12-11.webp",
+      "source_sha256": "3280dfa89cf6f1e0e0ff26f542923c35a7d0871b89c927e5e0953f1bc0544d55"
+    },
+    {
+      "file": "air-conditioning/air-conditioning-002.jpg",
+      "bytes": 174035,
+      "sha256": "747d4480719921f4f3ed163618940f9cf82e7171bd5181d72f6be40c8cd0d2c2",
+      "source_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/2025-03-18.webp",
+      "source_sha256": "033ab7f5f9359126f70e004529e256a78ce8b9a88c8c20597ed28ac48a93825a"
+    },
+    {
+      "file": "air-conditioning/air-conditioning-003.jpg",
+      "bytes": 263508,
+      "sha256": "fc017c1eabeb02a7fbbc8cd3d56681b732779df9ef984f8b2eeba170feb53c09",
+      "source_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/2025-05-13.webp",
+      "source_sha256": "cfa70be25f3b55c7450e2cc7d0c0fde58c4c0e647f2ffeac200da365386e56b4"
+    },
+    {
+      "file": "air-conditioning/air-conditioning-004.jpg",
+      "bytes": 82071,
+      "sha256": "6dca4838d82247a3f29a6848077758c0a5b4393446e72aadbfc7821949ea8d14",
+      "source_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/6-1.png",
+      "source_sha256": "487138134d3cf1473b30e333fc545daf0fc62fe90a730fa3cdb337c0e9b0d197"
+    },
+    {
+      "file": "air-conditioning/air-conditioning-005.jpg",
+      "bytes": 141868,
+      "sha256": "6b8aaac67fd7f5c2e707c639c1acd5705c7ea44eb36fef0be3d0f947f8a6bfba",
+      "source_url": "https://call.24hvacservices.com/wp-content/uploads/2025/12/2024-12-11-1.webp",
+      "source_sha256": "5de07bb6fdf6059028b35543a21080975bbcc670d0039dd14742f4b8a379b24e"
+    },
+    {
+      "file": "air-conditioning/air-conditioning-143.jpg",
+      "bytes": 245486,
+      "sha256": "e7d74da27c890605401e48ba3cd6eda3215140be191225d1d2bff039e3ef7706",
+      "source_url": "https://mironhvac.com/wp-content/uploads/2020/09/FURNACE-REPAIR-\u2013-WHEN-ITS-TIME-TO-CALL-IN-MIRON-HVAC-CONTRACTORS.jpg",
+      "source_sha256": "0a08d6ff5c8e22c12314791fa7ed3d1a4deb2d2f4f07dd39defa480aa2c61b72"
+    },
+    {
+      "file": "holiday-lighting/025-birddogdistributing.jpg",
+      "bytes": 107101,
+      "sha256": "346cff33611a8a51526e532b423fc523aa5e2b46b372adda7262c341113cde1e",
+      "source_url": "https://cdn11.bigcommerce.com/s-fz66rhptih/images/stencil/1280w/products/5190/18719/SILL-MOLTREETOP-V2__47873.1700804375.gif?c=2",
+      "source_sha256": "bc13362a4fd71c30ea92d7d58bc581983dd52465ded93330e5c94d0f7c1e607d"
+    },
+    {
+      "file": "holiday-lighting/026-birddogdistributing.jpg",
+      "bytes": 71359,
+      "sha256": "9f33d9ce043120e2c747730ef2e3f9bc8dc0ff8a61fcdd0d0278f9f9bf8d376e",
+      "source_url": "https://cdn11.bigcommerce.com/s-fz66rhptih/images/stencil/1280w/products/5189/20219/SILL-PLANE-2024__73091.1732391511.gif?c=2",
+      "source_sha256": "86f709f22eea46d63d2f51f18e1070f546c8cb2830762c5b623d69773edc25fb"
+    },
+    {
+      "file": "holiday-lighting/028-birddogdistributing.jpg",
+      "bytes": 148083,
+      "sha256": "97ebb1d8f4911d5096321e64a97049cf2230884edd544d6ea4f453fabef8b121",
+      "source_url": "https://cdn11.bigcommerce.com/s-fz66rhptih/images/stencil/1280w/products/5136/18009/rgb-snowflake-1280x1280__92693.1762363949.gif?c=2",
+      "source_sha256": "5318dfd07112fe0fdf3155a5e50a90c32cf522e262ada1eeadae304b2b1a11be"
+    },
+    {
+      "file": "hvac/hvac-195.jpg",
+      "bytes": 200348,
+      "sha256": "e796b6b3d3636a4cab13a3c1212ef0bd859b34c6dc5669b3b89225ed1a420b8f",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/859669306_17928920028423950_6239293892485434422_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XKeXD56AZG8Q7kNvwEOzcMC&_nc_oc=AdqSt3p3YmfHXxggoV457-yj37jKYVx54q3U0nEYsY4xyIrzVo4BBhO9WiaF5TiG4dU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJvfDh7LsYXswpzfi0iq6UYFWbSa9xeuC6hiwE47auMFbLrVFwQTMPg2ljzzQeVU4zloyMLhNqJ&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRq87KwwjsGd4pi7VMFmeheMlVmkVbuLbeRxVDCYe894w&oe=6B04574D",
+      "source_sha256": "9e2f2b0d3d3b645fe801c38a264b4e3c8b44f6ce0fb4cce91e903f039e89476a"
+    },
+    {
+      "file": "hvac/hvac-196.jpg",
+      "bytes": 273300,
+      "sha256": "dee364ea5366f22fe9d911ae2f687a9fdc2d3821fb0f1063684ccdad4f97f637",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/818195190_17924425068423950_8187667714069018951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aVCztGBirsEQ7kNvwHX71zv&_nc_oc=AdoYi35NgrujZtggA_NeY2iv8_0vnXe2zq8bRjYkTCnCWnkIFPQDaFHxA7Xqqs5LqH4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJfPXTEFTglPyTVheM7vmmZi8aZOqUsKXA-4YDXCDAnKRKpVWMbnDQYErwtx4QyfQCFUR5DbzWb&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTcuIXJx0C09KOdio7iRgzx7eyuJ8qfp3KjrP6d46JMuA&oe=6B0444DB",
+      "source_sha256": "77c4ef45a5fb7ab14491dea7ef41ca39cc6de4bb993c085ed8d321ac607218a0"
+    },
+    {
+      "file": "hvac/hvac-197.jpg",
+      "bytes": 226352,
+      "sha256": "88029b284f0bf5dbea11d8acbab5c1d5caffba55eeedbe931db2d1d6e14e7bdc",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/805885085_17922597801423950_8871233118828377524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=V7rCqxlopsMQ7kNvwH2Yla2&_nc_oc=AdqzDCmUTAG3dOkbE_aoIHMVu4BGinf8y-lrpXZDneOoHTM8xFQ8Pc3NWcU9x2UhQWI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQIco6j9RaqdwEguxtTLT1H5sInRasjlrAKeUgq4wdC_q4lp4_c14HfHajGMBmxbIb0H0Cb2umKg&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRoFlH0Iq_8gO4vk19FHu3sOEwEc-Y1jhvvjDasCa_Ogw&oe=6B045FDF",
+      "source_sha256": "b479da95b4b77cdc5d37d5a7540f9b1a42d2e873142d7790c0300deb56cbc3b1"
+    },
+    {
+      "file": "hvac/hvac-198.jpg",
+      "bytes": 113743,
+      "sha256": "4106b1772bacacbd09aafe660978da61dc25923e04c109fb80b8dd6b8746cc2b",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/778565183_17919238170423950_3667049931762955842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8dzOUuDYPCoQ7kNvwHmZeLu&_nc_oc=Adqd9hPePmW3hd2iB9DGT4WyVtyRYefi7w36YRDw9wCr5xYw3HveIjM1qFTgeF7Sgq0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQK5tz8OExwduyRN-TMB0Mt3pD6QbhcvUZGFK6dKiHD028HpGBgYS8P8pOuB8n4Ukwn9vHnSzUDn&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRPUzs5KSEsT9YH9qhsiI0TlMnd5_7TN0odE40VnceoSQ&oe=6B04615A",
+      "source_sha256": "fa03ec5e8826f559c984210eedb243a149842cec062744a4435c61759ae4d02e"
+    },
+    {
+      "file": "hvac/hvac-199.jpg",
+      "bytes": 138108,
+      "sha256": "c31c17e7b05752eb1b9b77b8b3a28638565807e897c1b407332bbc169ecb89c0",
+      "source_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/755332501_17914641237423950_499405834051210165_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pZNm6xDVTbUQ7kNvwENQ_DT&_nc_oc=AdrA8kqTm6hkU_S_LPbbIE2W_kA5SVcUKq8m7CGhGC0SwK-CDs4ZmMOx9PYenGzuo9A&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLclmPgEew5WSBYmHdQ2xoIaoww06rW0jq15yx8enj-MdZl_w5z1VlPd4t-y1Azf0gokiKvMRJo&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTBcA61F5bHGbx5cOwhedA87KRAmJ7wtnbBtJMFs-T1XQ&oe=6B044F0A",
+      "source_sha256": "3eafb4652d6d4301794a7c02460fe4aaf07cdc659961fb4ed00d067e4e748918"
+    },
+    {
+      "file": "hvac/hvac-200.jpg",
+      "bytes": 176854,
+      "sha256": "d307d2c3b198893075af5b17fbf2446f4552c9cf9133b5f8726eda65c97dcc54",
+      "source_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/743589528_17912388873423950_7120620971241293478_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9d0SvuTD7YYQ7kNvwFg4qnm&_nc_oc=AdrEwuoRQrhOgRc2FyoQBlaCECxjPNBRdo8LZPRIlMbra6n7ksZRDqb0E-91I6woSZU&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJVkgJnuLcNjyHGZOv6BjmsZS8z-78hXZaA39c2H_3ICt3x8b9VMJ_K4VpXwjOHX7ifMiObzk5T&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSw5cKjLWgPU5ROP6Nf9O_m-SYIPkd2w5OzkOXFtVoFLA&oe=6B047A4F",
+      "source_sha256": "56b287ba1c61980160439ef8bda2e888b8ea74061466abc078a9167efe322c83"
+    },
+    {
+      "file": "hvac/hvac-201.jpg",
+      "bytes": 207436,
+      "sha256": "0bcdd89faeffca42ff2636a799468c6031bb97c9538fa85b8d5e7b194514ed90",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/730226605_17909801460423950_2401821572665552911_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9S147GNlF0QQ7kNvwHQZ3SI&_nc_oc=AdopXELOUIMEh2lzkbvrpbR3LUBp7WLgsUAAeaTJ3YqE8OWVuBHllH8KVAI7fADWqMI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQKI2o_7ceqQbY9bEwv8JqrINovwaExrkBkwMFpY0r5f2XLMTz6s8MS1nckQ2aNPd1_yxg8-4SOi&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQR8xN2y7Q8R_OvLLrBrPGDPBMvol52VSD1WDxVQsDwiDg&oe=6B0475CF",
+      "source_sha256": "de983487e5bd896720b9a3e3248c60a88de37a92f8bf8fd43bcee0d15cb518ba"
+    },
+    {
+      "file": "hvac/hvac-202.jpg",
+      "bytes": 248772,
+      "sha256": "d29affacf81baa4fd418f3cdf5d409da404a4334f3216139afdd3377e63b747f",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/713364064_17906751180423950_6518346634660108114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gI1EId3ev3AQ7kNvwEZRlQl&_nc_oc=Ado6v0-drH0epjlFyLxq_o24TmOH3WoyBkUvibRcXX6MC4Ftx6-eiX4nqgT3JjCp4l0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLI6F09OJdH6fVw3aH8fpRCcYR-m0MXv-9fmTz9LtX8j5pLe78Pvrt8myuZ4UtdtylzUbDEQQMT&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSzRrrkih2M7G5Ozx86TNPwk5biXBGEN-lzHu3sPfgB3w&oe=6B046AED",
+      "source_sha256": "1d3f50e544d4769faf9d73f0411e6a5472429f33b77ff54b8c60729bbeee7838"
+    },
+    {
+      "file": "hvac/hvac-203.jpg",
+      "bytes": 160925,
+      "sha256": "d0e02af987da62fb286be21dcf3ed04e9d025c97ac9e37dc1a66e4e656f02dc6",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/682552561_17901541047423950_7500657941091024320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=srARp2PXXdkQ7kNvwG0cyWT&_nc_oc=AdrP3X8yQFLcIDw1v4yG9YRHlD9wPXtDzuP1fGMO0ea5FadalwEZU-T9qPSikU4eG3w&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJgKBRVUnAIPhQVvaG7GEkonqKfmJ0hFkplFYYqtp5-3wBJxphJ-Hb10jalQWXOwGQEUwdQg5LW&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRHG4J5EZOY_iUl48qADGLsuKaJD_5kNKoxw3GnuQ4eDQ&oe=6B0449F2",
+      "source_sha256": "0287da934a8b5eca8d401430f09ab4a29c582ac0b3630d95a99047c9a0815b94"
+    },
+    {
+      "file": "hvac/hvac-204.jpg",
+      "bytes": 193502,
+      "sha256": "28fe6ef72afa5f6b8f0bed9b6ab7d965d99cde2de7d44b22e3298b76ff4416d9",
+      "source_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/670979480_17898970458423950_853509126169284565_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=G5TZkiuQ4woQ7kNvwGc5lAL&_nc_oc=AdpFTT1c7_B-om5qeGtnGmZk7nZUSb2eAHLy9v505nAbKWXH2btV0phxaIkdnb0ggb4&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJEAD98-h3aZIDYGYgCsd9GgLw3PAnWMrmTk1mx6u6trKWgu1Jdd6vuofKkIlac2ZCiQJTdOnqV&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSEwGpAfGYoAXm0hBWsb49W6b6JoIsy4U3HScW37aVZ4Q&oe=6B04461C",
+      "source_sha256": "66888bdcb5a4f1c060417edf0b2dd890a0e5f010e3d24b049aa9727a7415cc08"
+    },
+    {
+      "file": "hvac/hvac-205.jpg",
+      "bytes": 217884,
+      "sha256": "0a7ee9867a87df4b22e434d2c65fc895912eaf06431feb420f885fb5f61888fb",
+      "source_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/657824385_17897156013423950_232636888561985347_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bxT9t6axXRQQ7kNvwHnb3Xs&_nc_oc=Adqen5bpDs6ISuo-tSUzKdc5KdEiCzRMdsQwlUiqsOx87a4ZTgoWOpr4zCNLvQyfgHY&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQKVLm83AZQ954SlA4rq0Ha9a-r2FdlchP1eR6qTTa1biO1K4NAv4z84PQzrblBvLNtBhMZuAwoe&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSKvLGOfPmDMCs9yKLhpZdinYpH-K0vduaVaDc2vx1ByA&oe=6B04636F",
+      "source_sha256": "b975136c6c91dad97efc5509c2511a605b7d25437d7cfcfce655cd133f0e635f"
+    },
+    {
+      "file": "hvac/hvac-206.jpg",
+      "bytes": 173965,
+      "sha256": "06e52cf546728f7d4000735068e96d6abff0f2409b6490ee9023673ad4168621",
+      "source_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/642476591_17892952200423950_8922009765323527596_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=3p9OnZHvWmEQ7kNvwFL2apa&_nc_oc=AdpzjrKxX7K4PSAE_AXjOZKACGHFqpI9NtJ1mJXL2CSSIieGloNXL8NaQjp_ZcyddVE&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLsk7WSVbFCejFvYjnL39sLpbFGLA1O6Q5ZpANTA0mxcMTtLUSqfDQftkCK5LMb3lBT8BXXbfHP&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTFsvBzlZsOKKHm1_35saFtB9Y59TDKLPkRlfahKHi-ig&oe=6B0444A0",
+      "source_sha256": "c8fd7eeb57857e0e53f918aa52f783b0eb113cd72d6cf58c77a4057ddc2ef25b"
+    },
+    {
+      "file": "hvac/hvac-207.jpg",
+      "bytes": 257805,
+      "sha256": "ca6a032a75eff91a3cf63ea0b996c23e67ab3e5f42de736a4fc81b877a39b5a9",
+      "source_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/627413955_17889298959423950_5667786323689747557_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0FSTJWGNFmIQ7kNvwGTx8s_&_nc_oc=Adpw5H22wg-WA0SfJp4pGF7P55xKU_xx0lA-E2xPF3cJY_0L3g6ktGt3LLtUrTIVxoc&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJ59AYhFDqx0wIwRo-v9ml7zfqPZmmqW9kRaZlGALws38VfHlhDK0Y00fXnfZO5WrGALZ-XSrqj&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTcwdahL2qhPcRWm6_tG5r6Ks418oizSFWlfaDmLkSmMw&oe=6B0464A9",
+      "source_sha256": "10b7407224398d7d422557bda4ebe4b55ffcb8709e50d1cf911e2e05399f6699"
+    },
+    {
+      "file": "hvac/hvac-208.jpg",
+      "bytes": 138917,
+      "sha256": "be113baccc7b312e6c671ac7b488fb6bd77b4c5a4149a8cc9d2c61a1c2533b19",
+      "source_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/625017172_17888331789423950_6320459080453585966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=3RTGJ8IcnzUQ7kNvwHulmez&_nc_oc=AdoodPBuqzpg-pRVnG6A66IQd_97jKbclIEB33kSDuEvoBSwvWOux-xKfIxsWRpMkmY&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJ8GrTAWFHvygpw5_ghWyjsgvQjoKNsSjxrt-S_hN1YStLjFHqfibsSd6YgLelOW5ZSnLYYShy7&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTmgbzz3Tls0yMnIKJi16h5LoUubtyDiGeZ7NQ06S1z3Q&oe=6B047032",
+      "source_sha256": "942823c22a078d0685db0a46c76a0fa8045dd83929b2af0d81a5108ba0abdc58"
+    },
+    {
+      "file": "hvac/hvac-209.jpg",
+      "bytes": 176371,
+      "sha256": "a7e43c96131484f1a41c977c7b47ef2066af68c73c08f99c7fa246863321d13a",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/603930594_17883778704423950_2010139946395986090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GPFffpbPrKAQ7kNvwESSEgf&_nc_oc=AdrDYB1yL5R7040qUAKcETcO90Z9D-4J3sBSw0ESESOVgBe_DnmdNBcwoMgq6dHExto&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQL_kidn7cTHLSd0kizuqm_0fP9qMlKLZuKACzGPnWBKSDbnB8WX4MzrPQPwldoVbbvNxHU3QZy9&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSvdcwtW_0BYLI5soF3HImGE3TtQuATeq4SdxtFWXNK3g&oe=6B04570C",
+      "source_sha256": "2cea3efffdfcefa07f837d52bcc642db281f9ae81687e268c1218c564b6a638d"
+    },
+    {
+      "file": "hvac/hvac-210.jpg",
+      "bytes": 283778,
+      "sha256": "d2415c2dd9df728817af7960fd87912b52cd75feb26ce0bf3676a3ac41de94ff",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/584363759_17879905791423950_3462928568639869755_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2TXz8mPO4PsQ7kNvwGb68cy&_nc_oc=Adq7kGBodBKhHUToL7jCBBSr0irxdR5aUiDVRmJ3bCAUZ7G-SKxGFXbAOLK54qyGPJg&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJFWr1VYUldfcoIpkJqmU81WPqUNYJW0aU9eSKrn9FZLxe_9U0ZbRJ9GiaLIw_7PSRN4G0pqBk-&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTtZUuO7PhENKX13EPLotn5wb8lAyQzJKNi6sS-k0EaSg&oe=6B0475B6",
+      "source_sha256": "72ac73babb5acac0c56afbf752c26002b2a6e25670ec62e841df677b156cfc27"
+    },
+    {
+      "file": "hvac/hvac-211.jpg",
+      "bytes": 157573,
+      "sha256": "704883132403d04ce897f034a8284c3bf908f5bbb299d9d8c680ab55c4f43f3d",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/554922687_17874369765423950_6524871972506029884_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P8YRDefD5qQQ7kNvwE8iwMy&_nc_oc=AdrJ0l8h1pmOveMOCKMsv1-VHcDKDGQ4moCFjEzR1MexH4NfVIqC_D9bqDctXbABKlw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQIvtFnpwV42XHuC3kP_r_glYH_1f6AJFr45yXW0zbIq5pL6EUZieNwoIneWO3Hych7dN280mOxs&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQCGqti4RYx5EMgaB53Cadp8N5ind1NZJKvtjcNJTnC0g&oe=6B047381",
+      "source_sha256": "59180065ae5d5698d911d255331de9ade443fbe891b18a46cf649c0574f9bafa"
+    },
+    {
+      "file": "hvac/hvac-212.jpg",
+      "bytes": 97992,
+      "sha256": "09da1406950985deb734b0ff6c7721c52d328d070ed3978470ddc35505428cf0",
+      "source_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/544799369_799143156103611_1066908197547706628_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ca-Twqsq4PgQ7kNvwFkVQDW&_nc_oc=AdrgiNPS-nPiYn6S8JbOkj1AnrjVHzVK-7I0zL5odFzG2eUVCNvHJGMAVsKmFPg2KP8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLle_OZvpYcp0dgI1hgcw9Yuc6MOIPeUiflKMYP9aCiImsLPpXFaeFbvK65zI4q4vKr2G3KudGv&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQZYLHoW2rtwcrJd7mvMaGukTEVZe2_MuyhLy7w3ZfXvw&oe=6B045D93",
+      "source_sha256": "347f82490a8a6dce69f9dc51064450983db702ee6ddb97fa2437a1df61503102"
+    },
+    {
+      "file": "pest/pest-control-057.jpg",
+      "bytes": 29214,
+      "sha256": "4561c92b38309cbb22dfd45cdbe75f6953e30320ebed7f08a8e8af7a6e13e36b",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/ants-on-pantry-item.jpg?h=400&w=600&rev=7ec40541bdc443b6b48184b0966f9c2c&hash=F72DA55A3B8CD4EFA0B4F3D7D488C59B",
+      "source_sha256": "4dd7b7f179d58655d631b493653830e2c5875e520fb42634b051edad286e2b8e"
+    },
+    {
+      "file": "pest/pest-control-058.jpg",
+      "bytes": 31140,
+      "sha256": "34e49c7f7799aac37f5cb7a021ea6afb24ff4217c59f124d6caaf29929af7900",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/odorous-house-ants.jpg?h=400&w=600&rev=1ec3a016e12f49a8af7b20fcee2c4bc5&hash=3508A618613DEC4690736F866803DB54",
+      "source_sha256": "25f221a32691640b2450c20febc79cd58699e9de1bdf0e8c96c2e5cf21a7f621"
+    },
+    {
+      "file": "pest/pest-control-059.jpg",
+      "bytes": 40644,
+      "sha256": "05e4d7357c258b3fe3b6ff41f685f3dfd5145839aa26bb5350959e56312ec884",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/drive-download-20240930T141052Z-001/carpenter-ant-ant-control-page.jpg?h=400&w=600&rev=6df264d020c1459387839faac585d3e5&hash=3A50B6BAA496F70CEFCDFDCA0CBA19D9",
+      "source_sha256": "8afcbf9ff3508bcc759b6ebbc7b2c57d01189461be3a4b2c259be33854622322"
+    },
+    {
+      "file": "pest/pest-control-060.jpg",
+      "bytes": 115559,
+      "sha256": "8f2e76d562d86c1b9a3d90315fef19bc0b526fe9e7a68a8ba3ebbcbe297766be",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/fire-ants.jpg?h=600&w=800&rev=86bb6e1fb57c42cdb643c73432166d3b&hash=7DA9078A150C38057CDF628BFDF4CC29",
+      "source_sha256": "81959a555b7ce66349d9356f4e9787273ab1868e0d49894e31a11500cb22e48b"
+    },
+    {
+      "file": "pest/pest-control-061.jpg",
+      "bytes": 24181,
+      "sha256": "7f54fc385cdd9aece479627451ebeb4549a9f84d93c7bbbac209b9a00a00c366",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/crazy-ants.jpg?h=400&w=600&rev=1db41a87b1994c06a40583450f97aba7&hash=9FA904C5A61A0843257C4A3D523F0F48",
+      "source_sha256": "accccf98862626888e5104afbcf9bcf538918c50a23f124ec31849778120875d"
+    },
+    {
+      "file": "pest/pest-control-062.jpg",
+      "bytes": 39983,
+      "sha256": "17a97b8f8e9398232b2c2f057a5a555e86aeee11f2ea8a7dfd9bb20a02e40f56",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ants-in-the-kitchen.jpg?h=667&w=1000&rev=50b0e1a9b41f4b1d83bd20d65cac0d29&hash=07F94BB2337373B5CB05DF12A04E00B6",
+      "source_sha256": "11e0fd65be32359def7ebff114a499572565cfb0234336085d89c9dd4976c96d"
+    },
+    {
+      "file": "pest/pest-control-063.jpg",
+      "bytes": 214814,
+      "sha256": "ba25864b47fa9c95c48b419a2879423407f9d37188d05f2eaf9107da7fd2307e",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ant-hill-feature.jpg?h=911&w=2000&rev=4fa05f254d3b4eb38f9fe388da92c7c9&hash=8C7AE5AA6CE3C043135EE8F5AA5AC9AC",
+      "source_sha256": "f7a75a5e19076866013c2e6c24d3ed7be0e468e23b2e165f59b3bb3c3255763e"
+    },
+    {
+      "file": "pest/pest-control-064.jpg",
+      "bytes": 130908,
+      "sha256": "9e641d80c0d961aae22303ad5cb722db5c96ca41fa7b3e6396173e1753339d49",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/how-ants-find-food-feature.jpg?h=1020&w=2000&rev=7ef987cf8815465b9fd18a763539ce2a&hash=E885A2C17DA0450B06C74FF360705979",
+      "source_sha256": "30831369a93bbae9962ab2eba3a5bf8850cc02164938cc10340aa087fb5704cd"
+    },
+    {
+      "file": "pest/pest-control-065.jpg",
+      "bytes": 31530,
+      "sha256": "775af0a9ca8c912bd8e16a37f4a71ff53ebcb96a10c18269493565c92981730f",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/TMX-Image-600x400-(58).jpg?h=400&w=600&rev=1565217494a340b0b20e7ae687c4bb27&hash=912B3BCC7D40FF2F5D6F61428D14E6FE",
+      "source_sha256": "d5e9cef29d38ad3859c07486f2f5369b54b1ab6f1f916c77ab42635c26a06760"
+    },
+    {
+      "file": "pest/pest-control-066.jpg",
+      "bytes": 36174,
+      "sha256": "5c7acf5045080d3a8bfd5dc12a96facc56fd2f3a11d66ee5723924408f036912",
+      "source_url": "https://www.terminix.com/ant-control/cost/-/media/Feature/Terminix/Articles/floor-ants.jpg?h=auto&w=100%25&rev=86baf6d227c64c83b36af5b8908cc3da&hash=989BAA3CC641FA2D665B7234A698C5E3",
+      "source_sha256": "4c0e3973391eb7ea1a4474ad8776dfca16b0bce4582e7b37bf82f614a2f1a628"
+    },
+    {
+      "file": "pest/pest-control-067.jpg",
+      "bytes": 108593,
+      "sha256": "7ae46764abe964e2a4bcb68dbeb059befdb35f0540f2ce2f4b2fd7c54e8c876c",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bugs-in--hotel-room-min.jpg?rev=dec1b2e67d1343b28bb6d9970f76989a",
+      "source_sha256": "0495fd00c9078b1bdad5a3fa6133b1db9b3f50069a35bba0434542460aaadc68"
+    },
+    {
+      "file": "pest/pest-control-068.jpg",
+      "bytes": 9761,
+      "sha256": "2f11283d0fd742aa23b3f12be991e5d41feff931cc128abbda220d5ac3cb6fd8",
+      "source_url": "https://www.terminix.com/-/media/Images/spiders/sticky-spider-trap.jpg?rev=eb12827a9c4d44b387401a378ddd16b7",
+      "source_sha256": "9cd688bc620bb787ba368706cbf919a4c1c46bfa4f62a636ce05d201fd429acb"
+    },
+    {
+      "file": "pest/pest-control-069.jpg",
+      "bytes": 18915,
+      "sha256": "072fd6691929514f0a65385f8a491a5cc5ebdc5bb9feb510a1c2379b703f5972",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/m3330144.jpg?rev=fa24d4a5bfc54b43919c496628ed4d5c",
+      "source_sha256": "1571441704714f9a033628a7323e85cd6d37a63493543ea1fba9f3ff20c37f7d"
+    },
+    {
+      "file": "pest/pest-control-070.jpg",
+      "bytes": 28124,
+      "sha256": "f7d7b52e5bdd221e14fe2bec18fa72a2f45a1a90584deb32046fe473c7f75964",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ants-on-sink.jpg",
+      "source_sha256": "d3e739192e25a8c28b80c08fdabe499e704a900cb0553d08c71da7f36e5bd02e"
+    },
+    {
+      "file": "pest/pest-control-071.jpg",
+      "bytes": 163767,
+      "sha256": "d70bc16d8beef16131f139a8c116aac3244986e2fd91cc56dcebed94f0b792b5",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/mothballs-repel-mice.jpg?rev=4a29e0a704ae44ae88fba2ce375880da",
+      "source_sha256": "d2996c3ab1f67bef1e002d306a07af678b9371ef292795526a3a85377ba13c77"
+    },
+    {
+      "file": "pest/pest-control-072.jpg",
+      "bytes": 86094,
+      "sha256": "a7b67685205b1b53129c675c2702f6e0faa25f263820434ff244300ac8593022",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/boric-acid-ants.jpg",
+      "source_sha256": "5df82bd4da37833e9fab35b0c412fddb6678d4228b73d28fea6536a37021b129"
+    },
+    {
+      "file": "pest/pest-control-073.jpg",
+      "bytes": 51098,
+      "sha256": "20837fdeff3bb8d3e24cbe06d9ff6804656d161e91d5648fa6b077416595b4e4",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/ant-trap.jpg?rev=b73e1ac234d1495b940c0440efe87896&hash=CCE4F8085F2A285B0B331D34279793A1",
+      "source_sha256": "61621be050b4755bf48c3fce2ff48fd466fe7834605ef68dd5171a3b27527db8"
+    },
+    {
+      "file": "pest/pest-control-074.jpg",
+      "bytes": 25893,
+      "sha256": "9d5669c7e862508a1aa1ce75024d2d76467ee4453be1e603b831d141c384501d",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/Untitled-design-(4).png?rev=11a61f5e192f47f9bf0982b92c639141&hash=512DE581A96B9CEE58750C15A682D1EE",
+      "source_sha256": "e3f7c7e4525e4d484af73e5054766a6d2b99b71b8ee7693fdfd461c3df4b7a69"
+    },
+    {
+      "file": "pest/pest-control-075.jpg",
+      "bytes": 90945,
+      "sha256": "027023b7334591c36abbeebe9f7866ae0571c5a8bd74f44626a32533b826e20a",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/fire-ant-mound.jpg?h=413&w=600&rev=622c9ac92dc94ca59f3554f224efe32d&hash=9212A6674B59A57D0A10C17DCEA74842",
+      "source_sha256": "2717a74e4086dc3ab8dae121cc83f168226c3d819cef813f85aa5c9ea506a4dd"
+    },
+    {
+      "file": "pest/pest-control-076.jpg",
+      "bytes": 111293,
+      "sha256": "a93d9a44ce12e8067cc5cb0d5fe2bc899fab1ff9ad524054a12beb7906622eec",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/What-Is-An-Ant-Colony-Main.jpg?rev=1cbd62124a254ba4a2b2fe0b4812044f",
+      "source_sha256": "3afa5aae96d9c4a6df7270f303f43602fbec07d45940cbc323a5f9c5f23090f3"
+    },
+    {
+      "file": "pest/pest-control-077.jpg",
+      "bytes": 31270,
+      "sha256": "ec4b15252419f5d8e9bfabb2ec348dafd0b94231d86fe8801c087d2cbd2b245c",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ant-cluster.jpg?rev=4a3afcdbbceb44859a2ffc357b22b12e",
+      "source_sha256": "45378b754fa2f35e4a95894c01e611830709216ca9144ffbcaaa07c3f2b728a6"
+    },
+    {
+      "file": "pest/pest-control-078.jpg",
+      "bytes": 35198,
+      "sha256": "d6e3ccf335ae3f4651ddee49a6c49d58eba40c96468900193bcbf2a7c0ad88b7",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/how-to-get-rid-of-red-ants.jpg?rev=802f66e641a04aa695d94613f280e9f0",
+      "source_sha256": "f62ff238cf34e31adfa054b874615db0caaaad1c1812771f0ddb124d25c990da"
+    },
+    {
+      "file": "pest/pest-control-079.jpg",
+      "bytes": 44988,
+      "sha256": "84493dacc1c2409fdc905e0bab4f6adaa8ed20d7392f2c524350bf5512e1aee0",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/fire-ants-main.jpg",
+      "source_sha256": "4b0ebae5ccaa25b81160ea67d671530551092a65d1d11f8bdb655f06f37adea7"
+    },
+    {
+      "file": "pest/pest-control-080.jpg",
+      "bytes": 40009,
+      "sha256": "8840b93604b08fb5c135e4db192ca57395e5ffbd10c12ca87b7b1cd8433a87c5",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/image-ants-crawling-crevice.jpg?h=341&w=512&rev=4cf572137f624a76a88fee56b2df29a9&hash=9B87CFB2E31965FF4605BEFB6DB219A5",
+      "source_sha256": "ff176bbfe8e9708597d3ddb6f6c8ed6ea7e742eb817bb663c96fc241226cc576"
+    },
+    {
+      "file": "pest/pest-control-081.jpg",
+      "bytes": 37332,
+      "sha256": "599f93f4c4b53881634fddf2ff1c0963a6556ef15105a7e9c02e945147bc59e1",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/ant-infestation-image-tmx.jpg?rev=adaf4afda1454f95af40fee8dfb0401d&hash=BBEF1CCE395729F5B93B62EFE2701932",
+      "source_sha256": "5cd5965bd54a75054cac6a63c7fb894ad6d8adde08fcac8099608ca9e01f90c5"
+    },
+    {
+      "file": "pest/pest-control-082.jpg",
+      "bytes": 21858,
+      "sha256": "7c0238c9e43f10e6cfc9bedb1bea797849cff74297a4dcb8c935e9d1a655d86b",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/image-ants-eating-cookie-food.jpg?rev=da0f3a3b467c4d13b53123dfbc2ef79b&hash=FD8CED115F7037275B2B59C1F511F0A8",
+      "source_sha256": "7089a29fa224b45b08a21c68b0c642ce1276a87913da26204babbb2a8b7f15dd"
+    },
+    {
+      "file": "pest/pest-control-083.jpg",
+      "bytes": 71038,
+      "sha256": "77448048c71ade443ff7e2995de7aff4564b6ff428947aac014f69b127ba9a7e",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/Boric-acid-for-ants.jpg?rev=a59929b46caf4f4e9598744a10b2a0de&hash=472D80CFEEEF1E60F4438D6FB0D51651",
+      "source_sha256": "988019ebbd61424f852830391ae3bb8b9d1935f4572cf74d1635259c646f942d"
+    },
+    {
+      "file": "pest/pest-control-084.jpg",
+      "bytes": 111364,
+      "sha256": "fbe9b995ca0933d73b88a18b1e7596986fcaa1ccf3ce04c5a6a8e9094a945902",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/Fire-ant-hill.jpg?rev=cccbdd3d281a4e509d09a9c35f343d7b&hash=D0D7FF172ECEB226CBBFC59CC5B6DADC",
+      "source_sha256": "3ca657058783bc4143d84e8c198e416725f01c8c24489532f5e5bfc69aaf61c6"
+    },
+    {
+      "file": "pest/pest-control-085.jpg",
+      "bytes": 98559,
+      "sha256": "80ed6c0e31edcebe250ac8b1b19ea81199e0527dbb9546e584d89eb209472880",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/Argentine-ant-hill.jpg?rev=18fb4c355b3a4708b3f4dcf3234225f8&hash=7089CCB1384589C13BD93747CD67E453",
+      "source_sha256": "8a92cb6a857b38724a612a7c669d60cd0cd9181eafea60d93c17f5c766bb595f"
+    },
+    {
+      "file": "pest/pest-control-086.jpg",
+      "bytes": 100896,
+      "sha256": "d66d80cbcb50e38bbc1df5f95ade5ac8f28cb538ff384c95114ef4b742aa598b",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/Texas-leafcutter-ant-hill.jpg?rev=5284593617074d4ca319ccac184ba4b8&hash=6368566F9E94189480271127832A6642",
+      "source_sha256": "14185813b15838eeda0eac82c8b1833979735a305cc05f82d9b71e971a853ea0"
+    },
+    {
+      "file": "pest/pest-control-087.jpg",
+      "bytes": 94683,
+      "sha256": "4786b7a814c53b13457c664e3b9028490ec50809cb301a8137e3cb0eb27a72c3",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/TREAT-Hero-Desktop-Ant/ants-hero-image-desktop-size.jpg?rev=0c20a83e65a14bd19a86c1c41fcc3a44",
+      "source_sha256": "55f5b8ae81cd9dde1103f1fa816fbd45034b05f78d417e2000b1b074658490b3"
+    },
+    {
+      "file": "pest/pest-control-088.jpg",
+      "bytes": 57274,
+      "sha256": "63291b937f8fbb7bf3def71e8d2b93ab4c59375f1eb0b26a96ec1b765beaef62",
+      "source_url": "https://www.terminix.com/ant-control/prevention/-/media/Feature/Terminix/Articles/hole-in-foundation-ant-infestation.jpg?rev=4318e612572f4aab98bb1999adc216db&hash=55F64CBE862171E182CDC09015EE7B50",
+      "source_sha256": "188e1e834d2be8f1fffb6febb31b209f5e655e1205d1523a1e4a662600465cbc"
+    },
+    {
+      "file": "pest/pest-control-089.jpg",
+      "bytes": 29423,
+      "sha256": "6c338f4774fd46ecd0a07d07c47cfae7ffefea8cf6f41be896207d803ef8bba9",
+      "source_url": "https://www.terminix.com/ant-control/prevention/-/media/Feature/Terminix/Articles/ant-cluster-on-glass.jpg?rev=34f6e3cef8694076b7a3cdf4115a8839&hash=2778F17E5785ED4505F3B7C2B6389D9F",
+      "source_sha256": "bf68fd4b5e64ea983c476ad0b121cf2675e30a127f58e1dbb54262aa0d36b050"
+    },
+    {
+      "file": "pest/pest-control-090.jpg",
+      "bytes": 51415,
+      "sha256": "0de127df7bd558f0564c262f1ebab9159e0e70fdf201a031bba5ed86bbe1d1b5",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ant-cluster-on-a-sidewalk.jpg",
+      "source_sha256": "89fcd5be82dd5e184bf5f431e6f49067dd5f0cc1ae9d83e3cdaf01822aa32da9"
+    },
+    {
+      "file": "pest/pest-control-091.jpg",
+      "bytes": 25187,
+      "sha256": "e8183baf9f4fb29a32037a02b6c1ca3114042b096735b5484dd742ccc32258c3",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/ants-on-cup.jpg?rev=e6702844b0524d599bdd07df7304d894&hash=58797CEACA2CABB4A77C50A1A422B4F7",
+      "source_sha256": "e25be02f3fce239a0194b74a1ae50738585349299ffdb2a0084be1075ff9b503"
+    },
+    {
+      "file": "pest/pest-control-092.jpg",
+      "bytes": 32372,
+      "sha256": "01f205209fcc1abca58da92309473e4ffd723c3bfc21ce478677c7a4ed74a88a",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/types-of-ants.jpg?h=400&w=600&rev=2cff36d9cce44215b9c5bdd53115bd48&hash=E1FF710546F588B6844979B41F9A0FFE",
+      "source_sha256": "91161d34b38ea95866ad2b7adab3a571740f8c556faeeae7cd54648c8368559c"
+    },
+    {
+      "file": "pest/pest-control-093.jpg",
+      "bytes": 44898,
+      "sha256": "3595ea713e75850d4bb01487f1178ea0b4bb67d14ecb6ffd96c69848110572e1",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/carpenter-ant-identification.jpg?h=400&w=600&rev=99044bb924044866be22e6b3e1865611&hash=AC9A5691C8E9F8DD910194EDA3DF174F",
+      "source_sha256": "fd4abcfa91a572dc655172b10e378b13f1fd53e50555157261a453d9bd2bb71d"
+    },
+    {
+      "file": "pest/pest-control-094.jpg",
+      "bytes": 35941,
+      "sha256": "79c48a78fe86b0f8a27f683ad2c520f4890b2f17e52af3f3404881187e45f717",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/tmx-acroobat-ants-on-wood.jpg?rev=c3a90dfc2fda4eeaa0bf925a34324a78&hash=32F1217E27AE651443786271E1AA6326",
+      "source_sha256": "73c117b6253748183aba86aa98ab1a8d913b6f9a14df27548b64fa08ce4be2b6"
+    },
+    {
+      "file": "pest/pest-control-095.jpg",
+      "bytes": 67280,
+      "sha256": "5f2471d89b6badfbed7391050a732fecfa9bac0c56075ecab1483c23abd829ef",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/tmx-acrobat-ants-in-wall.jpg?rev=7c0c7e748658446dab8f4566ce4aa619&hash=A7DB8613313FBA02617B19AF6E8BBCC4",
+      "source_sha256": "6fe8d06289387c1dc6fa6154df1a02f9ba7944cc60332d21e0a254614c87c254"
+    },
+    {
+      "file": "pest/pest-control-096.jpg",
+      "bytes": 26471,
+      "sha256": "3d5e53a15453a4b82e60194c3c5208ffdf731236828f0dffb107b344bddcdba5",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/termite-climbing-tree.jpg?rev=3cfc70ab392f4f328ee9145b205eb4ca&hash=70B31BD6B16E83825446C4A6F383D5C4",
+      "source_sha256": "966ded631b6b074921dc566dfa41f5a5bce156bf9a438365331fb4c0c6f74af9"
+    },
+    {
+      "file": "pest/pest-control-097.jpg",
+      "bytes": 46797,
+      "sha256": "95d3e0537b5296ce8d4760894c2cf2d2d5bc82a28600278bd8fb0389b3a21e71",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/ants-eating-fruit.jpg?rev=f5c93181b2884f748978f2fd2773aa08&hash=F65E8809721A861F985DAC1C394294B2",
+      "source_sha256": "52cac8f7d35b794388c004578b0dae12ad36ed67450469312215be30598a2dbe"
+    },
+    {
+      "file": "pest/pest-control-098.jpg",
+      "bytes": 70345,
+      "sha256": "3db15543ec41f423d49e53ffd8040d06093a57607205e3f3001abce5b93415b6",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/TMX-Image-600x400--20250112T225019107.jpg?h=400&w=600&rev=f627b79ef541452893e9f5a8a4999570&hash=D9AC3E905064E000D5AF079E6365D179",
+      "source_sha256": "57293357225caca0557efa949df3dff57b5aebb4f6529e13d8bd25a8a0bad20e"
+    },
+    {
+      "file": "pest/pest-control-099.jpg",
+      "bytes": 68215,
+      "sha256": "81240269ca9738569097c44e73bbda43440658d8f7a0135740e71f0821562069",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/TMX-Image-600x400--20250112T2250311241.jpg?rev=f356660eb41c42a28db2aa7f54a596c6&hash=E4E2775C0D361EB74CD40AEEFB816CBC",
+      "source_sha256": "2a4a57b66f557fc1f326993e85f525f0dff71cb73e6d72c18a4d1a2895436637"
+    },
+    {
+      "file": "pest/pest-control-100.jpg",
+      "bytes": 40673,
+      "sha256": "766da0d7bb7538ee7e382156ece9a0fe45c9a1006f06170911983f28eb57ccf2",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/TMX-Image-600x400--20250112T225040308.jpg?rev=aff7b9661eb04c87aedeca90f3c6de21&hash=E4D98D8CCC87BFABB50B333638BAB941",
+      "source_sha256": "656f6ba3f6c867edc2ca2c1fbb9e2bd943f09967fbe8dd7b27869777d17ff147"
+    },
+    {
+      "file": "pest/pest-control-101.jpg",
+      "bytes": 51031,
+      "sha256": "0cb3af6cfcfca42792bbbd3b0fa9d2bfd948d0937f5f84b41fd3bed9d32622f3",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/m3730061.jpg?rev=0d8495589cce4e0fa585e727f4b489f5",
+      "source_sha256": "d634175de5f03515bd4862f109510dd69f6d11193a1d33f604418d4b5131cac9"
+    },
+    {
+      "file": "pest/pest-control-102.jpg",
+      "bytes": 85563,
+      "sha256": "8ee462a3b33766e2f3ba9bd024fe329af115c4131cc48e7a07b5309632f038ae",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/army-ant-tmx.jpg",
+      "source_sha256": "54b4fc5b2ffa190f3c61d382a573a9fa6808a586f64e3cc6d15f29830c9f6942"
+    },
+    {
+      "file": "pest/pest-control-103.jpg",
+      "bytes": 40854,
+      "sha256": "21cfbd60b28b5fa2abf4e7e28b29f71cb5e056fbe502495c14cb9c9108870124",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/red-imported-fire-ants.jpg?rev=774f8cd4af0b41b399b4ad7db3c15e1a&hash=A82C5DB5E0615E7C4C4987363CB3CAB2",
+      "source_sha256": "3c3e7ecb32f86cdc7be31a44949c515241262b0ad031db985e0f9eff65dddad9"
+    },
+    {
+      "file": "pest/pest-control-104.jpg",
+      "bytes": 40088,
+      "sha256": "3fff0fec499562750b016eaa537ca17b26390352dcdcb3ed5d7c7c4aef5eac50",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/tropical-fire-ants.jpg?rev=2a764751e75148dabaf0c7b12e4f1da8&hash=8B7B69445AB088EFD720F2DD90D11EEF",
+      "source_sha256": "e6f55bd8e0c1f71b61719f77c5b1fa72a84a47143d1561dd3cb691395262050c"
+    },
+    {
+      "file": "pest/pest-control-105.jpg",
+      "bytes": 38632,
+      "sha256": "d7837bf5000add185bb97922f6b18383d5c5eb2f455a95083a22ebe36a49db22",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/southern-fire-ants.jpg?rev=c81fc3b4f7224a53a85afe4686526a3e&hash=613AF1127C3A05E7E5EAD987BA45FD15",
+      "source_sha256": "2f5555adebd6fe7c637201bba1767206861e496bd89894c7a2938ef696d01424"
+    },
+    {
+      "file": "pest/pest-control-106.jpg",
+      "bytes": 35484,
+      "sha256": "8a5fd08cec789341aadf753e87d5238e008d22ae3e41646572234fb3065c6d36",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/red-harvester-ant.jpg?rev=2f9252fac3d34532a88095451aadf35f&hash=58CB21648FEEC9B1E4A91D2E23370B3C",
+      "source_sha256": "fc39502fc942da2e43bdc4eb3a10a7f5842b2e87db8452865cd0062a8612baca"
+    },
+    {
+      "file": "pest/pest-control-107.jpg",
+      "bytes": 60253,
+      "sha256": "3828853e9f684c3c7e42761fea9421bab7b5dc9b8a084f9de98f2c5ae74344cc",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/how-to-get-rid-of-wood-ants-new.jpg?rev=51cfcb17b3804c1b8cc937cf07f09924",
+      "source_sha256": "9364533ab7dd58d7ce25673e236bea6675aa30125cb9e8d7d78846e8bcd39a46"
+    },
+    {
+      "file": "pest/pest-control-108.jpg",
+      "bytes": 238406,
+      "sha256": "f39d495cd51e88712553b1c2cd9abe8343cd6c401ad5ae6f374f505c12fa054b",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/house-sparrow-nest.jpg?rev=bac25e3e351444d082ff52651716e714",
+      "source_sha256": "d7c2b309ab1d0b5ae21a3bbf09a942e62471a704470b0b0cc8af1fbb579a0c01"
+    },
+    {
+      "file": "pest/pest-control-109.jpg",
+      "bytes": 28131,
+      "sha256": "0ff8ce8a8280b36098de084e1359c54b86dafe913e3cd5953a45fd695679b72f",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/what-do-ant-bites-look-like.jpg",
+      "source_sha256": "a19d8a40097d8ff66641d653fea6322a376072ee95cb07309f0cbbb0c1b71b7f"
+    },
+    {
+      "file": "pest/pest-control-110.jpg",
+      "bytes": 61793,
+      "sha256": "95e0b9c73f2c52b5fa1c99dbb5c7857b922a5361df35972137fdfeda3bad4c4c",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/Ants_camping.jpg?rev=f549b7f02bd04e9db579f83ebd147f0b",
+      "source_sha256": "35977ce8ddaeccd4c23f596d13fc819b4bf961ccbb6ee0db08bb02d865c10908"
+    },
+    {
+      "file": "pest/pest-control-111.jpg",
+      "bytes": 151693,
+      "sha256": "607d413489f5228e11476c23e9afa00a9680a9de37af18d7a70cfe099eab26ac",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/identify-carpenter-ant-queens.jpg?rev=b1ee7221baf84f3d97655d5e97205276",
+      "source_sha256": "8c851c3e23c69abb4b334ef3d904c2a7fec2b249a250fda30798211c96ac034e"
+    },
+    {
+      "file": "pest/pest-control-112.jpg",
+      "bytes": 87388,
+      "sha256": "fe3909e0771b42bdd7d36fc637cc37772d619ccf0833cad5c23ccb5c4ad75574",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/cats-get-rid-of-mice.jpg?rev=499bc54abdfa40a08e3452c7ad1bb8d2",
+      "source_sha256": "56aad6e045823b70e7cd518d2856d4172f8ed729dba7443e1bbe533bf93e92c0"
+    },
+    {
+      "file": "pest/pest-control-113.jpg",
+      "bytes": 44197,
+      "sha256": "08cdc31bbffcfa270021334aba732cdeec31d53accb0c52aa9bd2039d78d815a",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/Carpenter-Ants-pest-info-page-image1.jpg?h=534&w=800&rev=54ebcb86848444558c0d76dbc6ca2f0b&hash=AD253E7DCC76A5B0583F394A83336E74",
+      "source_sha256": "36460560d35e07001dae93e6a80bcdbbb49851b40c451f1ad997e77df0fb4074"
+    },
+    {
+      "file": "pest/pest-control-114.jpg",
+      "bytes": 69590,
+      "sha256": "dfd282108187c4161fcd6f3cc8a0dd936832a5b320461a3678f65190b6bdd286",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/carpenter-ants.jpg?rev=4431c14715d54c4c98522574742ea4a6&hash=4CFFA438A1A6FF6CD63AA3EE2D970187",
+      "source_sha256": "55ccf06a78ca230d60f79f39975d377d14122a53b50dd8f314615fcb5c632453"
+    },
+    {
+      "file": "pest/pest-control-115.jpg",
+      "bytes": 38528,
+      "sha256": "ef6526512c957fe6808f10b76c31561244fbf8150a3e57af1001e35ef77db9a6",
+      "source_url": "https://www.terminix.com/-/media/Images/uncategor/earwig-on-wood.jpg?rev=5db2bedff4c4457ab342711506356537",
+      "source_sha256": "22b26763debe72d8b6abe21f8b735381eb6ebe3c8cc224a214402ab9993c9de8"
+    },
+    {
+      "file": "pest/pest-control-116.jpg",
+      "bytes": 45885,
+      "sha256": "912b46bdd00a884a401e0e853cd8bdaa94a7ad5b5dd841e27fc90dcdd72b6bcd",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/Ants/TMX_treat_pest_ants_hero/citronella-ants-header.jpg?h=341&w=512&rev=98835c93c95a4517baed705c316a8c0a&hash=5F3F7845594BE437D7D44FB3761DB22A",
+      "source_sha256": "369241f61c227b6beb0654b10ad92307815d99f2d858cba8f362e283d49a5418"
+    },
+    {
+      "file": "pest/pest-control-117.jpg",
+      "bytes": 38971,
+      "sha256": "6ca9a140a4c580a9d2fe95be740e495789ba4302af02c0a62010fcb68f1f9705",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/citronella-ants-1.jpg?rev=331a0603b2024a3eb4991d573c10e938&hash=888D078B804458C76AB60113CFC8DABB",
+      "source_sha256": "188bb30d34d5c5577f26829f0b6471832975c95ad09c76776e4daccf0b4a85fc"
+    },
+    {
+      "file": "pest/pest-control-118.jpg",
+      "bytes": 78417,
+      "sha256": "818e8d62d03bd46f074529e1d5eebdcf70ab24d89efff176aac35cb0f8851ea8",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/two-citronella-ants.jpg?rev=d6d1ef83522e4871a3c57f0d76a87524&hash=ADE61F02A91A80BBCE1C9FF261F3A812",
+      "source_sha256": "b6434abb4e7877ddf40a502a3e78e2be71bb48d499d6cd21bff949642f67b5be"
+    },
+    {
+      "file": "pest/pest-control-119.jpg",
+      "bytes": 73433,
+      "sha256": "f84117067bdb7b8ad864c1b8943e6806790503d4f1882f9681a081832fdea27f",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/diatomacous-earth-ants.jpg",
+      "source_sha256": "d0aa590557c8b483539cea0962bc4471f4c85367b03e77efd18d491ad7f2c77b"
+    },
+    {
+      "file": "pest/pest-control-120.jpg",
+      "bytes": 60222,
+      "sha256": "cceb136bd430c70355cfbe5017b5fe803415e26b7d1deaa6456489dbc97b3f69",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/TMX-Image-600x400--20250112T224216435.jpg?h=400&w=600&rev=5ce70e5c3ccd49afb007f5651c8535e7&hash=E58BC13206650D9823B7F1857DECCF72",
+      "source_sha256": "d95ed8d0bac0c443e9984615f2f589a91912b86d7955baef97946540380bfa6f"
+    },
+    {
+      "file": "pest/pest-control-121.jpg",
+      "bytes": 117780,
+      "sha256": "036a4d59801055388f725063c83adf0a8e5281908e295f246484531d6f309f71",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/fire-ant-queen.jpg",
+      "source_sha256": "0648ae0e19fe3b62bce2bdda8615adcd8768ead037ad1d0583465f593ab2756f"
+    },
+    {
+      "file": "pest/pest-control-122.jpg",
+      "bytes": 67652,
+      "sha256": "c2ef627902c71336f9e963105335d78eab2be251f8576c5d88d3a5ec23b43606",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/FlyingAnts4.jpg?rev=181eb5278eb54523a9ac36dddca364b6&hash=8EB7A46DAF70B915555DEBA3ED3DD984",
+      "source_sha256": "96875332d27d698ad9f5271a07befe86353eb77338b97311198100577bafc67e"
+    },
+    {
+      "file": "pest/pest-control-123.jpg",
+      "bytes": 31935,
+      "sha256": "0f470a3e31f5ec7c51a1ec9c7fc7b68fd0e8435e96ea06278abb7094d3ada4a8",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Fleas/flying-ant.jpg?rev=4d7b78e54a284b9c9a4ce64222c956a9&hash=77F969E65E441EE09C184A436576D6B3",
+      "source_sha256": "c71d00749d82333da2b75b612fca56594e4d762f0d7cd8030699f7d231fd197f"
+    },
+    {
+      "file": "pest/pest-control-124.jpg",
+      "bytes": 40475,
+      "sha256": "ff1f6c4435eb5e5081632d93452567d29649d5d023511ad4e1fa6f6c3e84a710",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/carpenter-ants-in-winter.jpg",
+      "source_sha256": "0c544bec83c8c3c627fc04ab9f55289dbbffd4085dcf44f3a4b4e0d80118ba98"
+    },
+    {
+      "file": "pest/pest-control-125.jpg",
+      "bytes": 63839,
+      "sha256": "026a35b05a642fbbe736dd9c0880293ad49f1ab13f13c8af0f21a8636206b356",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bats-flying-main.jpg?rev=f9163e2ccd6945d3ac0c9cbeb0fb63fd",
+      "source_sha256": "cbe3633437691743710b76196963bc9e526125bc03df2ae1fe668a3e647c145c"
+    },
+    {
+      "file": "pest/pest-control-126.jpg",
+      "bytes": 34773,
+      "sha256": "154da01bb233ceabe5680db62f7a48c0ad2f7d16da59cc58ace69d71262d4f84",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Birds/pigeon-standing-ledge.jpg?rev=668723b71fb8449fb0db6fca36015653",
+      "source_sha256": "101e4b8cfa77122255eeacfb06cf877182be09762756678a391303e91062b5f2"
+    },
+    {
+      "file": "pest/pest-control-127.jpg",
+      "bytes": 44218,
+      "sha256": "7c10cd2282d2a96c4e063442e734e6c8e4803282911a8476848c3da403d9e12e",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/how-much-can-ant-lift.jpg",
+      "source_sha256": "4aefed794220b4e48cdbd207e120f0f28a18d44aee73415ef82ceca16382fb2a"
+    },
+    {
+      "file": "pest/pest-control-128.jpg",
+      "bytes": 64724,
+      "sha256": "f4e08c9fa5803152fc08024228a0fbeafbce231ad395ab950432fb88caa4089d",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ant-eggs.jpg?h=450&w=600&rev=5176a2e3d2b3437da096f8379cf3cc70&hash=8823CF127FE8806DD629ACA8A1B8FEC2",
+      "source_sha256": "a1ec332672bb680661f94fe642d7b3fde8a5fe1f2bc5dde0b23041256f316c6a"
+    },
+    {
+      "file": "pest/pest-control-129.jpg",
+      "bytes": 58179,
+      "sha256": "6073f4f451fd5624e149d63be049ca628112ddc121b33706be4335b094b831a4",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ants-larvae.jpg?h=401&w=600&rev=159489bc3502485c902d7326bf2d0389&hash=BFD24B4AA29B4A5082DF599BC827CE6B",
+      "source_sha256": "ec73bdf6e910786eb37bdd1fa6cc3f051f466892d4f6bf87c288b90c96659c1a"
+    },
+    {
+      "file": "pest/pest-control-130.jpg",
+      "bytes": 71633,
+      "sha256": "f147e717390d24138a26b6332b7adb72558ff596c3be7eca81b26ab2ed676db9",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ants-pupae.jpg?h=401&w=600&rev=fe20240c84b747f8bd13239a96fd46eb&hash=FFC21CCD64F341F7E2B7CD4FFF930431",
+      "source_sha256": "c252cf882bcf07a6b9bfd89f565bde26f5b2168bee921394b8dca11fd65919b5"
+    },
+    {
+      "file": "pest/pest-control-131.jpg",
+      "bytes": 12783,
+      "sha256": "cd07125d886fcdbc280083b467546ca52651809c4a64039da60b6b887ecc8599",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ant_insect.jpg?h=400&w=600&rev=7d5c21e98ffb4fe2abfc20f379e07088&hash=3A51454EF43A2518C97480CFA488BC56",
+      "source_sha256": "269286f9591f4deacd2f16c025369b9332f59002de9b5f344347c6c1aec17cda"
+    },
+    {
+      "file": "pest/pest-control-132.jpg",
+      "bytes": 98055,
+      "sha256": "40041b1d8f02a34f91dad16cb899c5252fe1a714aeaf61f483303e561c6cb132",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/how-long-do-ants-live.jpg",
+      "source_sha256": "a99a0dda22cb9ba54b1af8f753a09d3e80f1a500da4b05856ec1fdf706a08944"
+    },
+    {
+      "file": "pest/pest-control-133.jpg",
+      "bytes": 39191,
+      "sha256": "7411302c9fedd3a0c6445b77c1717de6ef9daf4fc7bb92c475cf4cc01b6e9a86",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/little-black-ants-eating.jpg?h=400&w=600&rev=5767358b9d0045c385145a58adc99b5d&hash=9E594FAFE1FEE04E4CC7345D0E1C4434",
+      "source_sha256": "7ee5b767808cebf1274f92846511ddb85266baf72c8cd2b7c4187e6d359f417d"
+    },
+    {
+      "file": "pest/pest-control-134.jpg",
+      "bytes": 45832,
+      "sha256": "ee466bfa948a6e0a0a21a18f642f8fa6641f28386bc592f9940823a696d75af2",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Little-black-ant-vs-carpenter-ant.png?h=400&w=600&rev=2e6f6075d5184e8fb8cb4fbfa301ccb9&hash=334056339171CFA1DF0C0CB1F570F3FC",
+      "source_sha256": "69fcc67d57f4e38687a8c0954bfb9795f86f2038820afce390d30df980d7ac73"
+    },
+    {
+      "file": "pest/pest-control-135.jpg",
+      "bytes": 127504,
+      "sha256": "0f1a08efddd93b0e66dafa1364d7b8fbdad0b842b9b456821f99a1f494aa3f90",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/ants-nest.jpg?rev=0681d89a905e481591807475a7042f93&hash=C07994F8263DCD87679DD7C633AD9117",
+      "source_sha256": "1f0afefe64e16016e86a4f2e24bd6227389a0115a9a2d0a9d044d22d4ff90020"
+    },
+    {
+      "file": "pest/pest-control-136.jpg",
+      "bytes": 55638,
+      "sha256": "efb822a718396a288c3edd42c5547831f1e3de9fa09eeff18954139a44236f5a",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/odorous.jpg?rev=e2fd1323860f43cd89ad6c5eae142960&hash=C0D69F140FDBA45D910CA16D538F4B10",
+      "source_sha256": "2464050d478e754180789d9a115f6d43b23534af88493ae15e0e0cb2967218a4"
+    },
+    {
+      "file": "pest/pest-control-137.jpg",
+      "bytes": 62237,
+      "sha256": "724f78307230862288fa7bbad8065fe80691a5422f84ccd2a60bce15b787d534",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/fire-ants-nest.jpg?rev=3e8fb78358c344bebcfb6bc561398099&hash=4D184BEBC7B96666F3FB59B0BECE5651",
+      "source_sha256": "8caabb617ab60eed86592953fdcf25042204d37e116bb5a536b54ce1e57964cc"
+    },
+    {
+      "file": "pest/pest-control-138.jpg",
+      "bytes": 99512,
+      "sha256": "6eb94385c056722d84fe68b44d14493c204ae5a58d8847669b4e46b5a73496d2",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Ants/look-for-nest.jpg?rev=a624627c793b4811b3caa96f87ee1b41&hash=002E9F358D2A182D0FBBD568267459CC",
+      "source_sha256": "bdce40a9ba644439e852c53609a2836d45d4e56578f350798952089499bb719e"
+    },
+    {
+      "file": "pest/pest-control-139.jpg",
+      "bytes": 63916,
+      "sha256": "c5413f234174860ebd74fc2f95f5fdc23866bf2b0ae3c8f7bb3f05da0a15d2f6",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Large-Cards/TMX-Image-600x400-(44).jpg?h=400&w=600&rev=97fee78140b64975ad5b29c16d94cf6f&hash=ABF9910D231F87629BDA70E4495A99E5",
+      "source_sha256": "cb351068a941ae1afdb014d001109a0db946bafa321d58aee00344b624f407a5"
+    },
+    {
+      "file": "pest/pest-control-140.jpg",
+      "bytes": 46109,
+      "sha256": "9c5838de2ab9ce13bf7f9d38cde024e94bbb8d13d93cff2ee5f68d4fde71852a",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Large-Cards/TMX-Image-600x400-(44)/TMX-Image-600x400-(45).jpg?h=400&w=600&rev=52b258532b554f09a0f7c439c19b64e3&hash=3FBA8AE8C094799A8CA5BC206AD6B5E1",
+      "source_sha256": "3f9b7171aa8b65174a7d59969ca3711806afa245398fd532403739814124b29a"
+    },
+    {
+      "file": "pest/pest-control-141.jpg",
+      "bytes": 54006,
+      "sha256": "17b699bf5b078a409ddf93cee46cfda7729de2fc274975e0b51902d0cf8676af",
+      "source_url": "https://www.terminix.com/-/media/Images/ants/TMX-Image-600x400-(46).jpg?rev=e8582d5dd8ab48018a8d708ebf6d216a&hash=E5C60621DD922D5B3FF3A567E16910ED",
+      "source_sha256": "12bd3d7929885915fe09611daa6a1290e47076e18c419172322129d53fa1a86b"
+    },
+    {
+      "file": "pest/pest-control-142.jpg",
+      "bytes": 43123,
+      "sha256": "f9a4869337b9d86b2837e22d7ad46df851c78c6168c0795b2b9554db9d5ddde0",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/pharaoh-ant-tmx.jpg?rev=90bf5902442246e6857d8f18c60701ae&hash=76269C3C0DCE33B1EF7073C690089810",
+      "source_sha256": "865f5256746ddb75661a0434437b89bc2cd6e929721664be1c16e0ba1ea1331f"
+    },
+    {
+      "file": "pest/pest-control-143.jpg",
+      "bytes": 16117,
+      "sha256": "d18bd2b8807891784f4c58cbc3772e2a50b2bed524b54fea4b6cf0c3544cffed",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/sugar-ant-main.jpg?rev=575d29e445c04eb698f844340eaa9d55&hash=396336E0B35170847874064C036D0532",
+      "source_sha256": "8176f85dfbdff45c33509141175d806e4ad29c984aae38be29e7022036a7bf57"
+    },
+    {
+      "file": "pest/pest-control-144.jpg",
+      "bytes": 50252,
+      "sha256": "58b7534fedb202d1742dbf71bcd095ef0e1b035675c2dc2317eb3fde827c2ff3",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/TMX-Image-600x400--20250302T231029162.jpg?rev=133579c23f6c4d7a846cd8da123c7141",
+      "source_sha256": "3ad56f15abb2381b06f7086f46aa394337994789425a9ff8adf5e3ea93e63ff7"
+    },
+    {
+      "file": "pest/pest-control-145.jpg",
+      "bytes": 36927,
+      "sha256": "06a0e5f2064f6f7a7746f1bc47913ed4541e7eb6f139e9f50bb5eeb28d0bdc1d",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/TMX-Image-600x400--20250302T231041662.jpg?rev=0a768a86a2ff442ba09ebcec4c034a10&hash=1517CDB364EA9489B5D1B38181D03692",
+      "source_sha256": "472a92f7565cf22df56245504573f7eeef329c9edf634a66182c63c4c214bcfd"
+    },
+    {
+      "file": "pest/pest-control-146.jpg",
+      "bytes": 38729,
+      "sha256": "df1791c899eeb3d160741115f91e580bf2b55d8194194233722895738eb711a8",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/TMX-Image-600x400--20250302T231051713.jpg?rev=6a4b2b243aa8461fb8e8ea5bebee371f&hash=0E95874043E1DA0A649D7A7223376154",
+      "source_sha256": "7b8b3ebdd2fe4409c6ed19fe4c6269c00d05978f2e430818723dfb946774b568"
+    },
+    {
+      "file": "pest/pest-control-147.jpg",
+      "bytes": 55196,
+      "sha256": "94a3cbdea364e4ca316d3eebe53689136d61f9dfbde04ba0c65a6acc78667dfe",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/leaf-cutter-ants.jpg",
+      "source_sha256": "ffb51c2d4f8f76985bf8f2c07ba88d2376fda3b28603de8b5576c264c8e47e70"
+    },
+    {
+      "file": "pest/pest-control-148.jpg",
+      "bytes": 22955,
+      "sha256": "99634507e71837e23245d9279d8269586dee2e168e9066a273f3087a4a899b61",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/mexican-twig-ant.jpg?rev=7e0bd4c621bf4109bba04edc4fe2553e&hash=DCE7895FAE89FCF7568EDBF80AB32CF1",
+      "source_sha256": "8beac55b575d1914e430dd33702ca322813586893402ed142891a06191ad4908"
+    },
+    {
+      "file": "pest/pest-control-149.jpg",
+      "bytes": 77945,
+      "sha256": "f9054c4bff1d86c0cfdd1fdb84eed77261cecb9d0e6530882569b0a617ab57a0",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/argentine-ants-tmx.jpg?rev=7d9df0d1a3a14b0c8fb0817c3bae3942&hash=0F2B49368069208EAC804E55A666E170",
+      "source_sha256": "478e6e88a7ddd663b61eee2fa69bb908e041ef4a620d97fc322f9c03e732006a"
+    },
+    {
+      "file": "pest/pest-control-150.jpg",
+      "bytes": 35696,
+      "sha256": "8166c138f12420cde30b963530bb17258a1cfb41b7dcdfdf52ae33c419577a83",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/citronella-ant.jpg?rev=b60f6c4a272540fb9529fa5924098182&hash=D974FAEE853125A11DECB6CC8670FA80",
+      "source_sha256": "705d3ac8786649c10c91a38bfbb6abff361e774096db6251b3735e78486d0116"
+    },
+    {
+      "file": "pest/pest-control-151.jpg",
+      "bytes": 37518,
+      "sha256": "ce244098389964c39d94f34e08ee99fb1681afaf52cfbcf4a319f9fa75b12406",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/fire-ant-outdoors.jpg?rev=35b941547b66491e8412605698937aa3&hash=EFC8E5B1446F4FB0777A25518295F82A",
+      "source_sha256": "49639f498a7563d116b4d842dc482b624744ffc23f79a15feaf8a8e5e9c884d8"
+    },
+    {
+      "file": "pest/pest-control-152.jpg",
+      "bytes": 58455,
+      "sha256": "5a9f4369c624b8049550f07d3ba784f74d767ec0e8239e7c13273a083979f979",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/sugar-ant.jpg?rev=149da1515812475484180e4d22538df7&hash=62AAE23149C2AD6F1A79A40EB6D12806",
+      "source_sha256": "949779b89f1e98dfd5a4798e18bffc8479bfef5dbf7194367a107823a287f480"
+    },
+    {
+      "file": "pest/pest-control-153.jpg",
+      "bytes": 50471,
+      "sha256": "05c270fdce3e41485759601fb570ef9153ee127020e387219269034678e9a72e",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/3-rodents-that-can-damange-business.png?rev=37b5eb0dda49476abf2f558103cdafaa&la=en&h=542&w=813&hash=CF95B7D5D9245EC499041A26FAE1598B",
+      "source_sha256": "acaef11d8c2dec8e05b9fc2c0886ce8ecf7a8287a5eba7b1be42f794bf7eea28"
+    },
+    {
+      "file": "pest/pest-control-154.jpg",
+      "bytes": 17097,
+      "sha256": "f32cb894221fd055975feeae83d5f65e10ce52b27e62d27467685e017dc59509",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bugs-and-travelers.jpg?rev=d95110698835434b979d9a29483ce053&la=en&h=400&w=600&hash=797497E09BAF617D4FF05FA45290B8DC",
+      "source_sha256": "12772559c7e7cfbfb202fc954145d71a5e2df0bf903a04efb468e45bcbf311a3"
+    },
+    {
+      "file": "pest/pest-control-155.jpg",
+      "bytes": 66804,
+      "sha256": "59202681f237b3133b054760644b8596c26be42fee4ed151ab6f7375c593a902",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-life-cycle-hotels.jpg?rev=342bdc90d2c6460596ea7271b03c1170&la=en&h=680&w=1000&hash=A38C37ABA65DB5EFF488E4C0C2E25E5D",
+      "source_sha256": "27aeeef0a570d4ef2fbb41934e28fc5ccd7c3f03d0ea1d5e136de9263621cee5"
+    },
+    {
+      "file": "pest/pest-control-156.jpg",
+      "bytes": 61244,
+      "sha256": "d242dbcf01039916251ffdd3cee4858abbd2ef1313692785772026f91024026b",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-myths-facts.jpg?rev=bce0f8e77de449e9a1520e86f2fe279d&la=en&h=667&w=1000&hash=03C06195232E9D4117B7093592AD2A03",
+      "source_sha256": "a6f83c0577aea24431173c23063b3dcb83409182da9feb629b734c04027599b4"
+    },
+    {
+      "file": "pest/pest-control-157.jpg",
+      "bytes": 10431,
+      "sha256": "e8e099cb8e4bac9fc432547783f71bf347cf69e53472a529e2a512b166baef20",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/signs-bite-marks.jpg",
+      "source_sha256": "f800092e91f197bc50e6f4c817053fa507a26f55d3d62cd1926ec1c49ede0616"
+    },
+    {
+      "file": "pest/pest-control-158.jpg",
+      "bytes": 18820,
+      "sha256": "74af8abe9f356920c10a6c975a86eb5bb39f8a87d72a8731311ebb6155c5008d",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/signs-blood-stains.jpg",
+      "source_sha256": "3040e1996cd6a61bff2a4a5373b238f1b8b46418c98098c1fbb097fbd6175b36"
+    },
+    {
+      "file": "pest/pest-control-159.jpg",
+      "bytes": 18805,
+      "sha256": "01e6f14cf2d422ddf744d589113908e87d5b7b0362c8491e6a34d347c9a08a8b",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/signs-fecal-spots.jpg",
+      "source_sha256": "394c6dcc45067aeb53ba620449bb7db2949fde3915e78ccf60bd8dcfeec837b2"
+    },
+    {
+      "file": "pest/pest-control-160.jpg",
+      "bytes": 30469,
+      "sha256": "076b314ec8538e585f6d1e300129f8a925ff866fae1c6b8c0543228eebcf7318",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/signs-eggs-shells.jpg",
+      "source_sha256": "9a1823ae13e617d9c10d52d15891700800994c9e463e9549c5a8a66d56ad8654"
+    },
+    {
+      "file": "pest/pest-control-161.jpg",
+      "bytes": 12750,
+      "sha256": "5c09d7f20aeef3ad1c7b568c51ee5256a3ce3e8189b51035117ac9f89a229ebd",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/signs-live-bugs.jpg",
+      "source_sha256": "c865bd346c92211cacdcfc639e484f87d22a0ac97e1978760cc51399c7cac350"
+    },
+    {
+      "file": "pest/pest-control-162.jpg",
+      "bytes": 45400,
+      "sha256": "b121599cb746b7854ec651f608fe96e6a04a43f7c95d3e6241d9d7760e5ae416",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/bedbug-on-fabric.png",
+      "source_sha256": "c73632efc4791d3b66492b14d0733dae18d893b30ff1bf8eacc1d1b9846fce69"
+    },
+    {
+      "file": "pest/pest-control-163.jpg",
+      "bytes": 66451,
+      "sha256": "4bbb1b8a946118412b852ec3232e304d8e12b43d34cb01318eb5652c030a18a6",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/infected-mattress.png",
+      "source_sha256": "38c82702e9bbc050e08934370b9318fe82f34364220e9fad605eec968af91e0c"
+    },
+    {
+      "file": "pest/pest-control-164.jpg",
+      "bytes": 132001,
+      "sha256": "ba69fee8a7bf55533c232395930f1585f33dbe7e8c419757a69490c822500fe2",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/signs-of-a-bed-bug-infestation1.png",
+      "source_sha256": "4ab5cd3337d2be5cdeeffa175008b685f6bfc2e46a3d13f6d769543b5cdedd2c"
+    },
+    {
+      "file": "pest/pest-control-165.jpg",
+      "bytes": 81356,
+      "sha256": "eec6a8327712e419f8a4c04569d0d77c465dc6256ebcc2edbf2e0c308255d52e",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-exterminator.jpg",
+      "source_sha256": "98face817da760ca83f5bab72dfa438c2d1095b9e8170103a21439cbbeeee2a7"
+    },
+    {
+      "file": "pest/pest-control-166.jpg",
+      "bytes": 27003,
+      "sha256": "a697cb01a2843b1160f674730b131d6eec4fa97cf885a06fbb02126862accce3",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/bed-bug-fogger-in-bedroom.jpg?rev=b2fa6bf126ff4f87a6a9ccd0dd1f26dd&hash=34A8A86116B8771546B461388908473F",
+      "source_sha256": "8f136b90e4800cedad8d232f2dde1ebf6730dd1fcabcc6fa4ade17b716caf503"
+    },
+    {
+      "file": "pest/pest-control-167.jpg",
+      "bytes": 55879,
+      "sha256": "fed991c8dea7784cc67eedebf7e42cc7a2f3d47b685e006ccc3394930beb2919",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Digital-Content/bed-bugs/peppermint-leaves-with-oil.jpg?rev=489d7faa5c6a48119ae1ea4c74f2a7e2&hash=7A3EF1C0E54C5AFBC26C9A6CD6B694EF",
+      "source_sha256": "d61160186387217dc332b6cdfa946e0a0f9d0a0aba0f313f50d11eb93e3b17fb"
+    },
+    {
+      "file": "pest/pest-control-168.jpg",
+      "bytes": 59882,
+      "sha256": "3e18d4166888a7a4972f1ed1afc26de06270764bfeaaeb8983bb549102179b88",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Digital-Content/bed-bugs/baby-powder-spilt.jpg?rev=5ded75c7d621442fbdf37dbfe5a37d84&hash=D1355699E11B979CB71FEB8FD7132108",
+      "source_sha256": "7640042e175cb9d618898653685fd86e59f4d4e20bb12f49702015229b49df5a"
+    },
+    {
+      "file": "pest/pest-control-169.jpg",
+      "bytes": 41503,
+      "sha256": "a290624eb1d3103be7943eab5206f60f8a97cfc4237ee7bc7a2104b6f49b0a96",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/bed-bug-on-towel.jpg?h=400&w=600&rev=ac40b34d850f48a9a775275d7ee93a22&hash=81E3F4FA637CB684FF95037DDCDFBFA4",
+      "source_sha256": "490419c844f2b295215a2a297945ed36319e28636109e0c521a4d83624eb13e6"
+    },
+    {
+      "file": "pest/pest-control-170.jpg",
+      "bytes": 101772,
+      "sha256": "b5b3642c6f90bcc2f49a360ac8d381196cf0a9d0baf8299f2fa4a3332d6e0e70",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/does-alcohol-kill-bed-bugs-v2.jpg",
+      "source_sha256": "8ef5a0c711035289649b8eca38beddd9ac33681494d67440f9bb79699c17adc8"
+    },
+    {
+      "file": "pest/pest-control-171.jpg",
+      "bytes": 97239,
+      "sha256": "39fdb279495ee5ab90162ddf49355b3e99b7089ebe4f2a3a409a7a1c3276e75d",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-powder-compressed-min.jpg?rev=d59b8e8d222e4ec989192fea01c77214",
+      "source_sha256": "ce602fdb9b09c49587913683f61e039f0f7dd2e5d4acd823893c8c67887f9e57"
+    },
+    {
+      "file": "pest/pest-control-172.jpg",
+      "bytes": 42453,
+      "sha256": "92ffa0b3dba5708578bd6045caeec301ced12ef2d3582e1f3c5ec5656654e540",
+      "source_url": "https://www.terminix.com/-/media/Images/bed-bugs/bedbugs.jpg?h=400&w=600&rev=0582d30bb07345428d25b04805ea6d13&hash=9A05175B06CC5C1C540B03C9606B1ABE",
+      "source_sha256": "e48fd92f668066023efdaea80b4637696649ca136320ac6987bc017eb9584387"
+    },
+    {
+      "file": "pest/pest-control-173.jpg",
+      "bytes": 33907,
+      "sha256": "5ed30fbe13da080103fa15fba298a388efa786e66f3846f113df6505e62e915d",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug.jpg?h=534&w=800&rev=231c8c93bae74e71a9c264570ce58227&hash=F48A90F7F20D14374CD408F3BCADF243",
+      "source_sha256": "1591f7992519ae1dcf510f16c6717c56443ba5dc73d28136ce16139420b50f78"
+    },
+    {
+      "file": "pest/pest-control-174.jpg",
+      "bytes": 125273,
+      "sha256": "c4adb048516560e77dced5b875b5b6445993763fbd8a4c7fccc8aac73a9075b8",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/signs-of-a-bed-bug-infestation2.jpg?rev=5a54ac7a6bb347b4b37d64c1a0bb8328",
+      "source_sha256": "e4c3677b804bf03b0e33b057794ffe3499b9c537602fd6ccdea19b479baeece8"
+    },
+    {
+      "file": "pest/pest-control-175.jpg",
+      "bytes": 30687,
+      "sha256": "813a6e8da6dd77b43fb50d664ffa4736ade7c8c32ccd0f011a841340211d38dd",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-detector.jpg?h=401&w=600&rev=48d5b832f9e241ae9ce43c49cf388ff0&hash=B1EDE33A2FFAFE05DA4CBC60BED825CF",
+      "source_sha256": "f378254b602e3fdfb889918de1f5cd5c03cceb30f5542e8cfbcd98e9e308805c"
+    },
+    {
+      "file": "pest/pest-control-176.jpg",
+      "bytes": 46064,
+      "sha256": "80723d7b9e4497424152d29e83bc9c3d36f8e104b649367fac115dc7930ffe00",
+      "source_url": "https://www.terminix.com/-/media/Images/bed-bugs/bed-bug-signs.jpg?h=400&w=600&rev=b2ff2f3f09704142bc55b825e2a36545&hash=1F08E692C1D47C6CEC01987DA36DF245",
+      "source_sha256": "26cd85222a1cf2cc4cbbb65a8317d81cfbc77531ecb756352efa8d90b6ba3f8f"
+    },
+    {
+      "file": "pest/pest-control-177.jpg",
+      "bytes": 137837,
+      "sha256": "e74e6b0547341aad9b16575a55de41bd05b5891bcfd4ef5dc9b30515f893ee0b",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/diatomaceous-earth.jpg?h=534&w=800&rev=bed9a120ca674b39806a6a9b9a05d31c&hash=12675ABC33786E648F0A710DAD2304EE",
+      "source_sha256": "dffd4ccc91d5571c49c7252db7ab2d80e426d933a56654634429a1dcd97bd327"
+    },
+    {
+      "file": "pest/pest-control-178.jpg",
+      "bytes": 42825,
+      "sha256": "bd1c482172c30243bd773326eeee897e3e29979cc0c9ae972747d0110ac93ee1",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/beg-bug-on-white-background.jpg?rev=b91f84d7ff374070ba086dcffd6afd0a",
+      "source_sha256": "9a6bb17a36e8c5c040abe0e924076dda7ff265be706fb510d44e343d2055a98a"
+    },
+    {
+      "file": "pest/pest-control-179.jpg",
+      "bytes": 29090,
+      "sha256": "000735ea475c1de760ccae1ea528ed903ecbea469287751e72886f2ea11e7829",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-bombs.jpg?h=532&w=800&rev=58ffd86be0ab4f2e97d66a0cbd5fcccf&hash=AADFB0D52E53D3EDE797081300D840B8",
+      "source_sha256": "5c0b28246252bc844ff92ea32d0502d570a5a743fef7244439c169b72f910ef4"
+    },
+    {
+      "file": "pest/pest-control-180.jpg",
+      "bytes": 24850,
+      "sha256": "e1ae9935b4f03b2b79328e5a49fd21dc163a233efe67f9c6f955bd19ddc5ed73",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/are-bed-bugs-contagious.jpg?rev=26f0e3bf93964bb0b9a8c5d0b013ee17",
+      "source_sha256": "52f5dd7b69a79e2a5b96b802a11c645a5640fcba3afd12b4bd7d01603c60e6c8"
+    },
+    {
+      "file": "pest/pest-control-181.jpg",
+      "bytes": 46106,
+      "sha256": "7d45c42a6a2d97f337080da8cb1a1b2f131ab1525364bcaa898341a427d5ed21",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/Bed-bugs.jpg",
+      "source_sha256": "594b3fa0b9df9acef9a4bdf395b7117ad78ff619a19015f61b17ca458c913655"
+    },
+    {
+      "file": "pest/pest-control-182.jpg",
+      "bytes": 70954,
+      "sha256": "cb24b0cd2233f894aa7b9e146c5135cac4e57e26a466ccf2b51cdf1b6e44b03f",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-near-zipper.jpg?rev=77320ab7568c416e8d223094058d1edc&hash=2C2041EFB0408E70694FE4182E6BAA55",
+      "source_sha256": "6629ace85298e1890c74fe4f43e7064fa72e3dc89a9f59f948fb0f6c3ce673f4"
+    },
+    {
+      "file": "pest/pest-control-183.jpg",
+      "bytes": 52260,
+      "sha256": "85b38b08bf12ec6fb90a9b8516f9a6743306ad849b1ada6223323832414476b0",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-on-cloth.jpg?rev=c9796b43dd4247c383c4f246f53a38be&hash=2F8682DC19388135904CE1F33993802E",
+      "source_sha256": "e135895741d4563067afb2f98f254d0139b809ba10c7c416aa12bd2cad81740a"
+    },
+    {
+      "file": "pest/pest-control-184.jpg",
+      "bytes": 65432,
+      "sha256": "fe252855de2555119bf6d3b838b6f7e079771fb4fb061e454fed3ebc76857a71",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/m3640080.jpg?rev=585176a5253d4b3f898601b3d5e8c74f",
+      "source_sha256": "90fc5eef3b9fe673fc7e106430399583747cc3e6589e7281ab8fe785cfd864e9"
+    },
+    {
+      "file": "pest/pest-control-185.jpg",
+      "bytes": 20951,
+      "sha256": "8fd18bf98ee1ce14d26a93fad506ef0cef7883aef7ae951f64ad3eb8feb4a94e",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bugs-around-light.jpg?rev=1c99c2d6a15b4e2e83626996f9ddfa01",
+      "source_sha256": "d2373ba595a6419796ef555f9c8c60fc1f401d580e4f0a9b3b6e439e3485a2dc"
+    },
+    {
+      "file": "pest/pest-control-186.jpg",
+      "bytes": 31878,
+      "sha256": "9703e64ab62a643813ac61fbb93e302747bf1cb186239a39afe80f40a9d40efc",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/termite-on-clothing.jpg?rev=49baf6f14e964c17a21c66bc578269e8&hash=5503B0388A9BCA9573F7787B8FC720C7",
+      "source_sha256": "03e2c362c1c8c60cd124cf4007ce6b24b9a4d196a7961f432452bb35950c58b8"
+    },
+    {
+      "file": "pest/pest-control-187.jpg",
+      "bytes": 54557,
+      "sha256": "174362fe08e180f4adeede6cdcc2c6b8b268f90ddb1b7d21cfd5e6062b0c3c64",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Digital-Content/bed-bugs/bed-bug-stains-wood-furniture.jpg?rev=6ce1cd7e97684600a26b2c7f1f0dacd4&hash=B8E7E2EB8B80A9F2173EF1B607581F11",
+      "source_sha256": "3c6ab0c5db7b7d7c8fc3f5a01182341d80b2d3f5eac2723fbb8462e5eeed53dc"
+    },
+    {
+      "file": "pest/pest-control-188.jpg",
+      "bytes": 43028,
+      "sha256": "db45df9f1b50be45876cb9fef1a5797d31685fc2ad6b95d6ea56f88bbd82c9a0",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/Bed-bug-biting.jpg?rev=87280ea9f0634a2a95c1e0e1bea523fd&hash=31512DB85BCF924FE0AC8065130B3325",
+      "source_sha256": "b5f702cb00aea2c273978f8fb0f69fd889e32936f76bb9b4542a2efe668bbd53"
+    },
+    {
+      "file": "pest/pest-control-189.jpg",
+      "bytes": 66677,
+      "sha256": "6cf4423cdd7ae3f5257aa5ba9427d8822c37e2737083a0f34b92165f5649eb94",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/Bed-bug-blood-stains.jpg?rev=e98d2e451f3748dda49d357c7bfe8698&hash=312AAE5F12096931B8E5F227F9FD8B91",
+      "source_sha256": "1d532dcacfa3c175d1192029d86375c020918e823df3c9fc635c4fbef5d3db1f"
+    },
+    {
+      "file": "pest/pest-control-190.jpg",
+      "bytes": 45975,
+      "sha256": "ff25435aefce2d0384eacd88be7d54f3ab35c180e57e8f7fef3188be813ad6f3",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Digital-Content/bed-bugs/TMX-bed-bug-fecal-on-mattress.jpg?rev=89049c3fdbc64cb5bbea17ba1d429824&hash=2B6970C61690156B65BFD8EB36C0D49D",
+      "source_sha256": "9ca9e3c5b46121b625d8111ec6b076c13d5524a086d4f9784ce5469871955a88"
+    },
+    {
+      "file": "pest/pest-control-191.jpg",
+      "bytes": 48167,
+      "sha256": "aa81a255a1de5288b472e4cbfc02d4795d416d60d4aa2e0e01919aec24b70264",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/bed-bug-shell-and-molt.png?rev=82e6d42270eb428887d44a664fc24acc&hash=CB1D5F95C4132A2CF9B3D2357359C31A",
+      "source_sha256": "80b34aa218ed956ef5523477a83ea288f3a7418853138512aa69cadfcb6b9938"
+    },
+    {
+      "file": "pest/pest-control-192.jpg",
+      "bytes": 31996,
+      "sha256": "01b88e2ed319fa32722cdcebbc270968ccc261e846bae13e4a189071826ff48d",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/Bed-bug-eggs.jpg?rev=445fafde5abc4f9c98289c8fce725b5e&hash=D4BDDBE6BC598412F290142D7DF86703",
+      "source_sha256": "9008d0e9d50358ba575261de4d9336da98c1c4900ad8b61b0ad0b1af0f95f97b"
+    },
+    {
+      "file": "pest/pest-control-193.jpg",
+      "bytes": 43018,
+      "sha256": "2a87b4ff58285d8173c74964c058711c919f4ebe16dcc7846d9cc5e02f25a806",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/BedBug/Live-bed-bug.jpg?rev=557c06e94e0a4976aefac86e9f396b6f&hash=EAADC20905A3239C36F9330FD64C6010",
+      "source_sha256": "99f943dec85b8a04a57a55d9a7d09fc1ee79f664b1ba74770157a62b2129f257"
+    },
+    {
+      "file": "pest/pest-control-194.jpg",
+      "bytes": 18499,
+      "sha256": "7899d81f72f3f90f1976d6d9e0269bc10e378b5b597419c0404b3c8f40201298",
+      "source_url": "https://www.terminix.com/-/media/Foundation/Terminix/Hero/bed-bug-on-skin.jpg?rev=f220e3ac456d461cb4e840cb82573a0b",
+      "source_sha256": "15c95863efc26524d07b97e155f698ee19114c0881a20ba65cb5f46c932a885d"
+    },
+    {
+      "file": "pest/pest-control-195.jpg",
+      "bytes": 32823,
+      "sha256": "e2f752132cedf6485120f78d5274a897cafb8c4fab4aff9ed486f80eeb1e17e2",
+      "source_url": "https://www.terminix.com/-/media/Images/bed-bugs/bed-bug-droppings.jpg?h=400&w=600&rev=bb8857a85a1d401db82008744f2335f2&hash=A8B1C622BCAEFBEF8E99F1CD449CA999",
+      "source_sha256": "6952dbc212b3876673bf7f18a1869aa14efd0f7aace8863db271b8b8c42f1e37"
+    },
+    {
+      "file": "pest/pest-control-196.jpg",
+      "bytes": 31535,
+      "sha256": "9929534eedc92f27ec7aab80a70b482d3b3b78d5aedffc3705b342fd74396ee8",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-white-background.jpg?rev=8b6ac9f6361042e192f2cf0c5881bcf9&hash=D842C2DFCB383D66AF5E5207EFD7A811",
+      "source_sha256": "56fa82e1ec709bfdfcf87a1edc7aeb097e3df634b1d9440e88529a0495ebd514"
+    },
+    {
+      "file": "pest/pest-control-197.jpg",
+      "bytes": 67319,
+      "sha256": "af5ecaf58e243b3eb7d4b1faddc190b10ee9dc706d1bebffc70e5bb9cfff33b0",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-or-flea.jpg?rev=19c171138c88476c9cb7ee2da7c25cce&hash=D48AC1EAEB69C563CBFE6DFAFC1DEBFB",
+      "source_sha256": "fb7c9bf8e0794d029bfd1acbcd230c0a4147394669f1a14235f78a923c28e99b"
+    },
+    {
+      "file": "pest/pest-control-198.jpg",
+      "bytes": 41937,
+      "sha256": "43159880268d5fa627ec3124543b3036373f3f716a911a5ea2ba9510731470e5",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-info-anatomy.jpg?h=auto&w=100%25&rev=9d06577b523443d18b986657e72cc99b&hash=AE2E4CE9F38746CD129D09FA8394FFB4",
+      "source_sha256": "8aa87719c76465251386e2c32d9424980ab015d7ad746747a324ed7a3878dba0"
+    },
+    {
+      "file": "pest/pest-control-199.jpg",
+      "bytes": 48295,
+      "sha256": "5bf42524696a51b0f743648238d199d8650e6353e879cbb9e578ed222695e519",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bug-mattress-crevice.jpg?rev=28f275258d964920ad191c54bf7a9e22&hash=B8F4072A0ED36BD9AF4DF79069412E6C",
+      "source_sha256": "0a6473aa0a28491d454471a0737457b5740ce226bc4fe4d1608d2aeb3833ea6e"
+    },
+    {
+      "file": "pest/pest-control-200.jpg",
+      "bytes": 30128,
+      "sha256": "d734ca7b57dab52cf5d06f4d10e6b5b8166ca50e4c94324069eabe52e4f8783a",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Articles/bed-bugs-with-bed-bug-eggs.jpg?h=auto&w=100%25&rev=2b1c8fc5b4f9483f8e62a4820529594c&hash=9298171A267BE50E6E3D22E243A8045E",
+      "source_sha256": "13367b5b99c2f40863b9e0cbc9e3b8d2e0eb78aa077f6b2cc41591867240c09c"
+    },
+    {
+      "file": "pest/pest-control-201.jpg",
+      "bytes": 98371,
+      "sha256": "f267df3f53466362c9922d2eecaa939598b30ea2130849df70bdad912f80cc6a",
+      "source_url": "https://www.terminix.com/-/media/Feature/Terminix/Optimizely/Recommendations/bed-bug-research.jpg",
+      "source_sha256": "6baa9a8ebe74dec09c78445f97bf9ca578506f9865d0b89a410836575ecaa270"
+    }
+  ],
+  "archive_file": "approved-recovery.zip"
+}
