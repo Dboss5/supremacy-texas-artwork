@@ -101,25 +101,107 @@
       "images": 112,
       "entries": 114,
       "bytes": 35338888,
-      "sha256": "8d09dce67ff59f04003dcc932dfa5fdb8c608065d58910500d1e47900c2e3cfe",
-      "git_blob_sha": "697dd217e7573a368341097ca946839774910f46",
+      "sha256": "2c37e8ae61f482609e48eab5a80db55224bd9f6eb67cdde76570f60fc4e56ba3",
+      "git_blob_sha": "e0758fab10b0c757e739bd0ac4dbfca9f0e52813",
       "crc": "all entries passed",
-      "catalog_and_image_hashes": "all match staged catalog and exact individual image bytes"
+      "catalog_and_image_hashes": "all match committed catalog and exact existing/new image Git blobs",
+      "existing_images_verified": 81,
+      "new_images_verified": 31,
+      "verified_commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a"
     },
     {
       "file": "heating-images.zip",
       "images": 17,
       "entries": 19,
       "bytes": 2592119,
-      "sha256": "4b88155ec19d2182311096273632801c7a4a5fd52228b7cc43df1ae0c4be3315",
-      "git_blob_sha": "bae9b34ae8a2652c6378a5535a09fccb1c69a504",
+      "sha256": "587dac0273529473d3165f1140c76e7dd5bc38b412efb87d67279c735c79047e",
+      "git_blob_sha": "fdd438206733617e025982b8a864872e71fee43a",
       "crc": "all entries passed",
-      "catalog_and_image_hashes": "all match staged catalog and exact individual image bytes"
+      "catalog_and_image_hashes": "all match committed catalog and exact existing/new image Git blobs",
+      "existing_images_verified": 16,
+      "new_images_verified": 1,
+      "verified_commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a"
     }
   ],
-  "unchanged_archives": [
+  "provenance": "blog-reuse-provenance.json",
+  "published_archives": [
+    {
+      "file": "garage-door-images.zip",
+      "images": 112,
+      "entries": 114,
+      "bytes": 35338888,
+      "sha256": "2c37e8ae61f482609e48eab5a80db55224bd9f6eb67cdde76570f60fc4e56ba3",
+      "git_blob_sha": "e0758fab10b0c757e739bd0ac4dbfca9f0e52813",
+      "crc": "all entries passed",
+      "catalog_and_image_hashes": "all match committed catalog and exact existing/new image Git blobs",
+      "existing_images_verified": 81,
+      "new_images_verified": 31,
+      "verified_commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a"
+    },
+    {
+      "file": "heating-images.zip",
+      "images": 17,
+      "entries": 19,
+      "bytes": 2592119,
+      "sha256": "587dac0273529473d3165f1140c76e7dd5bc38b412efb87d67279c735c79047e",
+      "git_blob_sha": "fdd438206733617e025982b8a864872e71fee43a",
+      "crc": "all entries passed",
+      "catalog_and_image_hashes": "all match committed catalog and exact existing/new image Git blobs",
+      "existing_images_verified": 16,
+      "new_images_verified": 1,
+      "verified_commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a"
+    },
+    {
+      "file": "holiday-lighting-images.zip",
+      "images": 134,
+      "entries": 136,
+      "bytes": 47458091,
+      "sha256": "8c6a8a6cde5471eb13de8c6431ca1715b5a3d3c9656296bdcfb90c018bb2a941",
+      "git_blob_sha": "1a97918eadc5d7df4b691993e94584c6c7bfcace",
+      "crc": "all entries passed",
+      "catalog_and_image_hashes": "all match committed catalog and exact existing/new image Git blobs",
+      "existing_images_verified": 134,
+      "new_images_verified": 0,
+      "verified_commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a"
+    },
+    {
+      "file": "hvac-heating-additions.zip",
+      "images": 14,
+      "entries": 16,
+      "bytes": 2394627,
+      "sha256": "9650ad3333ee3fd382f2c1e93cd853ab460fd4ed6bdccded764b2a6fb6c0a2a5",
+      "git_blob_sha": "2c07f78796de22c0b3f57ff2191e77c5288ca7e5",
+      "crc": "all entries passed",
+      "catalog_and_image_hashes": "all match committed catalog and exact existing/new image Git blobs",
+      "existing_images_verified": 14,
+      "new_images_verified": 0,
+      "verified_commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a"
+    }
+  ],
+  "archive_verification_commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a",
+  "archive_payloads_independently_verified": 4,
+  "published_existing_image_git_hashes_verified": 245,
+  "published_new_image_git_hashes_verified": 32,
+  "workflow_verified_existing_assets": 1277,
+  "unchanged_archive_image_membership": [
     "holiday-lighting-images.zip",
     "hvac-heating-additions.zip"
   ],
-  "provenance": "blog-reuse-provenance.json"
+  "archive_rebuild_workflow": {
+    "id": 45353239199,
+    "url": "https://github.com/Dboss5/supremacy-texas-artwork/actions/runs/45353239199",
+    "conclusion": "success",
+    "source_commit": "279c5d99acf750fc0cdc7d114efe305c2a4e6e49"
+  },
+  "published_catalog_verification": {
+    "commit": "2488ee899cb5a8a9ce54b4f4a207371cd75cc89a",
+    "tree": "8228c758dff5a45755312ce16d485dc794b08600",
+    "catalog_image_paths_checked": 1277,
+    "image_git_blob_matches": 1277,
+    "approved_subset_files_checked": 182,
+    "approved_subset_git_blob_matches": 182,
+    "published_zip_git_blob_matches": 4
+  },
+  "all_1277_catalog_paths_verified_in_published_repository": true,
+  "verification_status": "complete"
 }
