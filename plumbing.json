@@ -1978,5 +1978,530 @@
       "caption": "Toilet in marble bathroom.",
       "description": "Toilet in marble bathroom."
     }
+  },
+  {
+    "file": "plumbing/blog-reuse-residential-water-line-and-meter-cutaway.webp",
+    "title": "How a Residential Main Water Line Connects to a Dallas Home",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/why-is-my-main-water-line-leaking/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/How-a-Residential-Main-Water-Line-Connects-to-a-Dallas-Home.webp",
+    "width": 1344,
+    "height": 752,
+    "public_metadata": {
+      "title": "Residential water line and meter cutaway",
+      "alt": "Cutaway illustration of a water meter and an underground blue supply pipe leaking beneath a front lawn.",
+      "caption": "A cutaway shows the meter and a leaking buried water supply line.",
+      "description": "The illustration follows a residential water line from the meter toward the house and shows water escaping from the pipe into soil."
+    },
+    "reuse_provenance": {
+      "source_media_id": 15092,
+      "source_index": 642,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "53445e99ee2874f9efb092a01d8251a1cf881df39e8cf1cea53c5a87cc013a9d"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-trenchless-water-line-pipe-bursting.webp",
+    "title": "trenchless-pipe-bursting-water-line-replacement-dallas",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/trenchless-vs-traditional-water-line-replacement/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/trenchless-pipe-bursting-water-line-replacement-dallas.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Trenchless water line pipe bursting",
+      "alt": "Cutaway diagram showing a bursting head breaking an old pipe while a new blue water pipe is pulled into place.",
+      "caption": "A pipe-bursting diagram shows the old pipe, bursting head, and new water line.",
+      "description": "The diagram labels a bursting head, old pipe, new HDPE pipe, and winch system. Above-ground equipment and access pits are shown without people."
+    },
+    "reuse_provenance": {
+      "source_media_id": 15453,
+      "source_index": 655,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "1026d435567232dddd5ae3312932a536a1f8f9e2c81cbc027d696a61a5331546"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-buried-residential-water-supply-line.webp",
+    "title": "residential-water-line-depth-north-texas.",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/how-deep-are-water-lines-buried-in-texas/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/residential-water-line-depth-north-texas.webp",
+    "width": 1344,
+    "height": 752,
+    "public_metadata": {
+      "title": "Buried residential water supply line",
+      "alt": "Cutaway view of a blue water supply pipe beneath a lawn, with a connection rising toward a house.",
+      "caption": "A buried water supply line is shown beneath the lawn.",
+      "description": "The illustration shows the route and soil cover of a residential water supply pipe, including its vertical connection near the foundation."
+    },
+    "reuse_provenance": {
+      "source_media_id": 15456,
+      "source_index": 660,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "9ce167fef2ec57d0bd07e6e1177929b821f30cae7e7edbf0deace4dfb7b1d90f"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-public-water-main-and-private-service-line.webp",
+    "title": "water-line-responsibility-homeowner-vs-utility",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/water-line-leak-between-meter-and-house/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/water-line-responsibility-homeowner-vs-utility.webp",
+    "width": 1344,
+    "height": 752,
+    "public_metadata": {
+      "title": "Public water main and private service line",
+      "alt": "Labeled cutaway connecting a public water main, water meter, and private service line to a house.",
+      "caption": "The diagram separates the public main, meter, and private service line.",
+      "description": "Blue and orange pipe routes distinguish the public water main from the service line to the home. A meter is shown at their connection."
+    },
+    "reuse_provenance": {
+      "source_media_id": 15465,
+      "source_index": 667,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "5b45d655a88ad108740e5df6f287298b509e962f0567c3c2e0fc51545b88bd99"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-wet-soil-and-pooling-water-in-a-lawn.webp",
+    "title": "underground-water-line-leak-warning-signs-dallas",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/water-line-leak-between-meter-and-house/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/underground-water-line-leak-warning-signs-dallas.webp",
+    "width": 1344,
+    "height": 752,
+    "public_metadata": {
+      "title": "Wet soil and pooling water in a lawn",
+      "alt": "Water pooling in a muddy patch of grass near a residential walkway and utility cover.",
+      "caption": "A wet patch and pooled water are visible in the front yard.",
+      "description": "The image shows standing water and saturated soil in a residential lawn. It illustrates a visible condition that can prompt further leak investigation without identifying its cause."
+    },
+    "reuse_provenance": {
+      "source_media_id": 15467,
+      "source_index": 669,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "863ed9205e74a9dddcecddd051677e660517e3a4399e65c3502186d8a24448b2"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-residential-gas-meter-and-exterior-piping.webp",
+    "title": "gas-leak-warning-signs-dallas-home.",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/signs-of-gas-leak-in-home/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/gas-leak-warning-signs-dallas-home.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Residential gas meter and exterior piping",
+      "alt": "Gas meter, regulator, and connected metal pipes mounted beside a brick wall.",
+      "caption": "An exterior gas meter and piping are shown beside a home.",
+      "description": "The image provides a clear view of an outdoor gas meter, regulator, shutoff area, and metal gas piping against a brick wall."
+    },
+    "reuse_provenance": {
+      "source_media_id": 16148,
+      "source_index": 784,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "ab1daa0e7b57318c0882afdcbd73235b84f6056b1590b965f480181e80191180"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-outdoor-plumbing-freeze-preparation-diagram.webp",
+    "title": "Outdoor Plumbing Components to Protect Before a Freeze",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/protect-outdoor-faucets-from-dallas-freeze/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/Outdoor-Plumbing-Components-to-Protect-Before-a-Freeze.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Outdoor plumbing freeze preparation diagram",
+      "alt": "Labeled outdoor plumbing diagram showing a covered faucet, exposed pipe, garden hose, irrigation valves, and backflow assembly.",
+      "caption": "The diagram identifies outdoor plumbing components exposed to freezing weather.",
+      "description": "Callouts identify the hose bib, exposed pipe, irrigation backflow assembly, garden hose, and irrigation valve box beside a house. The illustration does not identify a certified backflow-device model."
+    },
+    "reuse_provenance": {
+      "source_media_id": 18192,
+      "source_index": 1092,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "7b86bf036f350527ca54604d1bea55e203d7a8bc1e6c659dfc0d2c11716621b5"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-washing-machine-valves-and-water-hammer-arrestor.webp",
+    "title": "Water Hammer Arrestor at a Washing Machine Supply Line",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/pipes-bang-when-faucet-shuts-off/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Water-Hammer-Arrestor-at-a-Washing-Machine-Supply-Line.webp",
+    "width": 1671,
+    "height": 941,
+    "public_metadata": {
+      "title": "Washing machine valves and water hammer arrestor",
+      "alt": "Hot and cold washing-machine supply valves with braided hoses and a cutaway of a water hammer arrestor.",
+      "caption": "Washing-machine supply hoses and a water hammer arrestor are shown together.",
+      "description": "The image shows two water supply valves and braided appliance hoses beside a washing machine. An inset depicts the cushioning chamber inside the attached arrestor."
+    },
+    "reuse_provenance": {
+      "source_media_id": 20088,
+      "source_index": 1245,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "ace782296c97a50866f4607d9432f0c703ec4546840242068f1e4f3e0707d2a6"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-jammed-garbage-disposal-cutaway.webp",
+    "title": "What Causes a Garbage Disposal to Jam",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/garbage-disposal-hums-but-not-spinning/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/What-Causes-a-Garbage-Disposal-to-Jam.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Jammed garbage disposal cutaway",
+      "alt": "Cutaway of a garbage disposal showing food scraps and a metal utensil lodged inside its grinding chamber.",
+      "caption": "The cutaway shows a utensil lodged inside a garbage disposal.",
+      "description": "An enlarged inset highlights the metal utensil and grinding mechanism inside an under-sink disposal. No hands or repair procedure are shown."
+    },
+    "reuse_provenance": {
+      "source_media_id": 20437,
+      "source_index": 1266,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "58cdf755fc471f41674c112e32f41cc2bd2d31e9d2f37b30ff597c070df9d36d"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-hidden-plumbing-leak-detection-tools.webp",
+    "title": "Professional Hidden Leak Detection Tools",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/how-plumbers-find-leaks-behind-walls/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Professional-Hidden-Leak-Detection-Tools.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Hidden plumbing leak detection tools",
+      "alt": "Thermal camera, acoustic listening equipment, moisture meter, and water meter arranged on a countertop.",
+      "caption": "Several types of plumbing leak-detection equipment are shown together.",
+      "description": "A thermal camera, headphones and listening probe, handheld moisture meter, and water meter are displayed beside a tool case. The image shows equipment only."
+    },
+    "reuse_provenance": {
+      "source_media_id": 20461,
+      "source_index": 1285,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "61e681fc0dd3ee1c7560c6f91b122cf5c9f74016550c015f028e900cb3ddec80"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-cracked-pool-plumbing-elbow.webp",
+    "title": "Cracked Pool PVC Pipe Leaking After Freezing Weather",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/pool-water-dropping-after-cold-front/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Cracked-Pool-PVC-Pipe-Leaking-After-Freezing-Weather.webp",
+    "width": 1671,
+    "height": 941,
+    "public_metadata": {
+      "title": "Cracked pool plumbing elbow",
+      "alt": "Cracked white PVC elbow beside a pool pump, with water leaking onto the equipment pad.",
+      "caption": "A cracked PVC fitting is leaking beside the pool equipment.",
+      "description": "The image focuses on a split elbow fitting and escaping water near a pool pump, with frost on nearby surfaces."
+    },
+    "reuse_provenance": {
+      "source_media_id": 23396,
+      "source_index": 1774,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "42c211ac4360622be2a57bff5922c46ba9c8567437f171597f9d74187f0194be"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-leaking-pool-pump-connection.webp",
+    "title": "pool-pump-filter-pvc-connection-leak",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/pool-losing-water-when-pump-is-on/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/pool-pump-filter-pvc-connection-leak.webp",
+    "width": 1671,
+    "height": 941,
+    "public_metadata": {
+      "title": "Leaking pool pump connection",
+      "alt": "Pool pump and filter connected by white PVC plumbing, with a highlighted union leaking water.",
+      "caption": "A leaking connection is highlighted beside the pool pump.",
+      "description": "The image shows the pump, filter, and adjoining PVC pipes. An orange circle marks the union where water is escaping."
+    },
+    "reuse_provenance": {
+      "source_media_id": 23404,
+      "source_index": 1780,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "ef92cfbc042391f432906542cef02ebd94c68b56b249c3f574e7b2211ac0dc83"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-leaking-pool-pump-in-frosty-weather.webp",
+    "title": "Pool Pump Leaking After Freezing Weather in Dallas",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/pool-pump-leaking-after-freeze/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Pool-Pump-Leaking-After-Freezing-Weather-in-Dallas.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Leaking pool pump in frosty weather",
+      "alt": "Pool pump and strainer housing with water dripping onto the pad and frost nearby.",
+      "caption": "Water is leaking from the pump assembly onto the equipment pad.",
+      "description": "The image shows a pool pump, strainer lid, and PVC connection in cold-weather surroundings, with visible water leakage beneath the housing."
+    },
+    "reuse_provenance": {
+      "source_media_id": 23410,
+      "source_index": 1784,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "f59132a17668a81076204abc0ba29ef697a83d076269aa28c2ab21d2ff7484db"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-pool-pump-freeze-protection-control.webp",
+    "title": "Pool Pump Freeze Protection Settings for Dallas Winters",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/pool-pump-leaking-after-freeze/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Pool-Pump-Freeze-Protection-Settings-for-Dallas-Winters.webp",
+    "width": 1670,
+    "height": 941,
+    "public_metadata": {
+      "title": "Pool pump freeze-protection control",
+      "alt": "Pool pump with an attached display reading Freeze Protection On and frost on nearby surfaces.",
+      "caption": "The pump display shows freeze protection enabled.",
+      "description": "The close-up shows the pump, clear strainer lid, and a digital control displaying its freeze-protection state. No person or hand operates the controls."
+    },
+    "reuse_provenance": {
+      "source_media_id": 23414,
+      "source_index": 1788,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "3fa2d2193717128d0812c593f038f1f0233c009667a97b58fc7983b60cdddb5d"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-garbage-disposal-and-drain-components.webp",
+    "title": "Common Sources of Garbage Disposal Odors",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/why-does-my-garbage-disposal-smell/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/Common-Sources-of-Garbage-Disposal-Odors.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Garbage disposal and drain components",
+      "alt": "Labeled cutaway showing a garbage disposal grinding chamber, splash guard, dishwasher connection, discharge pipe, and P-trap.",
+      "caption": "The diagram identifies disposal parts and connected drain plumbing.",
+      "description": "Cutaway views show food residue and the internal disposal chamber, with labels for the major under-sink connections."
+    },
+    "reuse_provenance": {
+      "source_media_id": 18157,
+      "source_index": 1068,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "87f779e287418cc30d7a0b6f476f97d6ef7886f117603fce687af73919abd7a7"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-garbage-disposal-and-restricted-drain-pipe.webp",
+    "title": "Partial Kitchen Drain Clog Under the Sink",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/sink-backs-up-when-dishwasher-runs/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Partial-Kitchen-Drain-Clog-Under-the-Sink.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Garbage disposal and restricted drain pipe",
+      "alt": "Under-sink garbage disposal and P-trap with an inset showing buildup inside the drain line.",
+      "caption": "The disposal and trap are shown beside a drain-buildup inset.",
+      "description": "The image shows the installed disposal, dishwasher hose, and drain connections. A circular inset highlights material restricting the downstream pipe."
+    },
+    "reuse_provenance": {
+      "source_media_id": 21190,
+      "source_index": 1397,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "e013657874bb178112c66f35b3ad46fa9d82b59f8af28dad58f1a6cd6b6e69fc"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-open-toilet-tank-components.webp",
+    "title": "Common Toilet Tank Parts That Cause a Running Toilet",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/why-toilet-keeps-running-after-flush/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Common-Toilet-Tank-Parts-That-Cause-a-Running-Toilet.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Open toilet tank components",
+      "alt": "Open toilet tank showing the fill valve, float, overflow tube, flapper, and flush chain.",
+      "caption": "The main operating parts are visible inside the toilet tank.",
+      "description": "The image shows the water-filled tank and its internal flush and refill mechanisms, with the lid removed and no hands present."
+    },
+    "reuse_provenance": {
+      "source_media_id": 19635,
+      "source_index": 1194,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "b8b722d9e3cb8f19c20a99c8a437e0063162af3454125c69515b793cac1a2e69"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-worn-and-seated-toilet-flappers.webp",
+    "title": "Worn Toilet Flapper vs Properly Sealed Flapper",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/why-toilet-keeps-running-after-flush/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Worn-Toilet-Flapper-vs-Properly-Sealed-Flapper.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Worn and seated toilet flappers",
+      "alt": "Side-by-side close-ups of a worn toilet flapper and a clean flapper seated over the flush opening.",
+      "caption": "A worn flapper is compared with a properly seated flapper.",
+      "description": "The comparison shows both flappers beside the overflow tube and chain, highlighting the condition of the sealing parts."
+    },
+    "reuse_provenance": {
+      "source_media_id": 19636,
+      "source_index": 1195,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "3c2669fd018f3d0e81cde302e756792d6fd6afd4c988ab2b7d87ca32fff41f0f"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-toilet-tank-water-entering-overflow-tube.webp",
+    "title": "Toilet Fill Valve and Overflow Tube Problem",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/why-toilet-keeps-running-after-flush/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/11/Toilet-Fill-Valve-and-Overflow-Tube-Problem.webp",
+    "width": 1671,
+    "height": 941,
+    "public_metadata": {
+      "title": "Toilet tank water entering overflow tube",
+      "alt": "Open toilet tank with a high water level and water flowing into the overflow tube.",
+      "caption": "Water flows into the overflow tube inside the open tank.",
+      "description": "The image shows the tank's fill valve, float, flapper, and overflow tube, with visible water entering the tube."
+    },
+    "reuse_provenance": {
+      "source_media_id": 19638,
+      "source_index": 1196,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "86f3a6bbc46000931ca047143ca872042f3c285a1d24da899e4d7a28e8867aa9"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-water-heater-components-and-corroded-tank.webp",
+    "title": "Repairable Water Heater Parts vs. Tank Failure",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/water-heater-repair-vs-replacement/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/Repairable-Water-Heater-Parts-vs.-Tank-Failure.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Water heater components and corroded tank",
+      "alt": "Comparison of electric water-heater controls and heating parts with a corroded tank leaking onto the floor.",
+      "caption": "Repairable heater parts are compared with a corroded leaking tank.",
+      "description": "The image shows a thermostat, heating element, and valve on one side, and a rusted tank base with pooled water on the other."
+    },
+    "reuse_provenance": {
+      "source_media_id": 16899,
+      "source_index": 838,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "14da906825c4fca4ae3a78aff6492cb75975dca4e1b946296a8186c7d9e9a4e2"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-corroded-water-heater-leaking-at-its-base.webp",
+    "title": "Leaking Water Heater Warning Sign",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/signs-your-water-heater-is-failing/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/Leaking-Water-Heater-Warning-Sign.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Corroded water heater leaking at its base",
+      "alt": "Water escaping near a corroded water-heater drain connection and pooling on the floor.",
+      "caption": "Water is pooling around the corroded heater base.",
+      "description": "The close-up shows rust along the lower tank and drain connection, with visible leakage and pooled water on the floor."
+    },
+    "reuse_provenance": {
+      "source_media_id": 16915,
+      "source_index": 850,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "59a36dc4c5c376ccc7639dee8eebaadd13fb0be4aad62ffe9a16cea0972ec08b"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-old-water-heater-and-replacement-options.webp",
+    "title": "Repair or Replace Your Water Heater",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/signs-your-water-heater-is-failing/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/Repair-or-Replace-Your-Water-Heater.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Old water heater and replacement options",
+      "alt": "Old corroded tank water heater compared with clean tank and wall-mounted tankless heaters.",
+      "caption": "A corroded storage heater is compared with replacement equipment.",
+      "description": "The composite presents an older tank alongside storage and tankless water-heater options, with an arrow indicating replacement."
+    },
+    "reuse_provenance": {
+      "source_media_id": 16919,
+      "source_index": 854,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "36c77f56956192c904b93e96fb9904796fe7a5bb10e10a571065486820ed05e9"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-pex-and-copper-piping-in-wall-framing.webp",
+    "title": "PEX vs Copper Pipe Routing Comparison",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/pex-vs-copper-whole-house-repiping/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/PEX-vs-Copper-Pipe-Routing-Comparison.webp",
+    "width": 1672,
+    "height": 940,
+    "public_metadata": {
+      "title": "PEX and copper piping in wall framing",
+      "alt": "Side-by-side views of flexible red and blue PEX piping and copper water pipes routed through wall framing.",
+      "caption": "PEX and copper water-supply layouts are compared in exposed framing.",
+      "description": "The image contrasts flexible PEX routing with rigid copper pipe runs inside residential wall framing."
+    },
+    "reuse_provenance": {
+      "source_media_id": 17550,
+      "source_index": 966,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "8058d7f7fe1b840cc3c65cb284bcd47659175228a8975728487ef9e5554f517f"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-whole-house-water-supply-cutaway.webp",
+    "title": "What Whole-House Repiping Replaces",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/whole-house-repiping-cost-dallas/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/What-Whole-House-Repiping-Replaces.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Whole-house water supply cutaway",
+      "alt": "Cutaway house diagram showing hot and cold water pipes serving bathrooms, the kitchen, and laundry equipment.",
+      "caption": "The cutaway shows water-supply routes to household fixtures.",
+      "description": "Colored pipe routes connect the home's water supply to several fixture groups, illustrating the scope of a whole-house repipe."
+    },
+    "reuse_provenance": {
+      "source_media_id": 17559,
+      "source_index": 972,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "b632fa867f6e91b5e7e785d1ee174db1146fd8fc1e9843f01093a4ef96db7c93"
+    }
+  },
+  {
+    "file": "plumbing/blog-reuse-water-line-rerouting-around-a-slab-leak.webp",
+    "title": "slab-leak-pipe-rerouting-diagram",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/slab-leak-spot-repair-vs-pipe-rerouting/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/slab-leak-pipe-rerouting-diagram.webp",
+    "width": 1344,
+    "height": 752,
+    "public_metadata": {
+      "title": "Water line rerouting around a slab leak",
+      "alt": "Cutaway house diagram showing a replacement water line routed through walls and overhead framing around an under-slab leak.",
+      "caption": "The diagram shows a water-line route that bypasses the slab.",
+      "description": "A highlighted replacement pipe route runs through the house above a leaking under-slab water line, illustrating a repiping approach."
+    },
+    "reuse_provenance": {
+      "source_media_id": 15806,
+      "source_index": 727,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "811adc16750a327f9445ff57fda601a6dcf94131aee5e956280ad9036247e7ee"
+    }
   }
 ]

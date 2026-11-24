@@ -1,6 +1,6 @@
 {
   "title": "Pest Control Image Gallery",
-  "count": 326,
+  "count": 343,
   "rules": [
     "No visible people",
     "No visible watermarks",
@@ -4895,6 +4895,363 @@
         "alt": "Pigeon droppings built up on a building ledge",
         "caption": "Pigeon droppings built up on a building ledge.",
         "description": "Pigeon droppings built up on a building ledge."
+      }
+    },
+    {
+      "file": "pest/blog-reuse-cockroach-hiding-areas-in-a-kitchen-and-around-a-drain.webp",
+      "title": "Common Cockroach Hiding Places",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/german-vs-american-cockroach-difference/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/Common-Cockroach-Hiding-Places-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Cockroach hiding areas in a kitchen and around a drain",
+        "alt": "Illustration of cockroach hiding areas in a kitchen and around a drain",
+        "caption": "Cockroach hiding areas in a kitchen and around a drain.",
+        "description": "Illustration of cockroach hiding areas in a kitchen and around a drain."
+      },
+      "reuse_provenance": {
+        "source_media_id": 13859,
+        "source_index": 387,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "1a6ecfa820591975dd49c4774f33d98d4e2d1156057d49d33b5eed8cf7e40639"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-foundation-gaps-around-a-house.webp",
+      "title": "Common Scorpion Entry Points Around a North Texas Home",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/where-do-scorpions-hide-north-texas-homes/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/Common-Scorpion-Entry-Points-Around-a-North-Texas-Home-1-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "House exterior with utility penetrations",
+        "alt": "House exterior with an air conditioner, utility penetrations, a doorway and landscaping",
+        "caption": "House exterior with utility penetrations and landscaping.",
+        "description": "Illustration of a house exterior with an air conditioner, utility penetrations, a doorway and landscaping."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14083,
+        "source_index": 398,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "91c846ed0e11acaf613039704a3401d7a491f2f09b2b148b22f260b0d2f4f6b9"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-spider-webs-around-roof-eaves.webp",
+      "title": "Common Spider Hiding Places Around Your Home",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/what-attracts-spiders-to-north-texas-homes/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/Common-Spider-Hiding-Places-Around-Your-Home-1-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Porch light and spider web beneath an eave",
+        "alt": "Illustration of a spider web and insects beside a lit porch lantern",
+        "caption": "Spider web and insects beside a porch light.",
+        "description": "Illustration of a spider web beneath a roof eave beside a porch light."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14091,
+        "source_index": 404,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "069c10dcc8bec08fa1ec72355069ea06d5bc3c693613fd01564302df71d1732c"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-standing-water-in-backyard-containers.webp",
+      "title": "Common Backyard Mosquito Breeding Sites",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/why-are-mosquitoes-so-bad-in-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/Common-Backyard-Mosquito-Breeding-Sites-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Standing water in backyard containers",
+        "alt": "Illustration of standing water in backyard containers",
+        "caption": "Standing water in backyard containers.",
+        "description": "Illustration of standing water in backyard containers."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14098,
+        "source_index": 409,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "c48f5a2033931cf9cb639c1ab4ba12b5fbd8467d6194a437c48c679b93e1873a"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-rainwater-collecting-around-a-backyard.webp",
+      "title": "Standing Water After Rain in a North Texas Backyard",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/why-are-mosquitoes-so-bad-in-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/Standing-Water-After-Rain-in-a-North-Texas-Backyard-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Rainwater collecting around a backyard",
+        "alt": "Illustration of rainwater collecting around a backyard",
+        "caption": "Rainwater collecting around a backyard.",
+        "description": "Illustration of rainwater collecting around a backyard."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14099,
+        "source_index": 410,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "9c1beb4ab1708e81ee7053b48c3a5ac8dda502e81b2bc5acff74db75541ef7bf"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-mosquito-resting-on-shaded-vegetation.webp",
+      "title": "Mosquito Resting Areas in Backyard Vegetation",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/why-are-mosquitoes-so-bad-in-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/Mosquito-Resting-Areas-in-Backyard-Vegetation-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Mosquito resting on shaded vegetation",
+        "alt": "Illustration of mosquito resting on shaded vegetation",
+        "caption": "Mosquito resting on shaded vegetation.",
+        "description": "Illustration of mosquito resting on shaded vegetation."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14100,
+        "source_index": 411,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "f28d19353334457ac3482f676b2552813952b64d7e09810a3f25f514e918ce8a"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-termite-mud-tube-with-termites-inside.webp",
+      "title": "What Termite Mud Tububes Look Like Up Close",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/termite-mud-tubes-what-they-look-like/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/What-Termite-Mud-Tububes-Look-Like-Up-Close-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Termite mud tube with termites inside",
+        "alt": "Illustration of termite mud tube with termites inside",
+        "caption": "Termite mud tube with termites inside.",
+        "description": "Illustration of termite mud tube with termites inside."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14167,
+        "source_index": 456,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "dffde3556c741d91f6d30b9093c220b14be12ad1b444053bbc0001d78494266c"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-termite-mud-tube-along-a-foundation.webp",
+      "title": "Subterranean Termite Mud Tube on Foundation",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/subterranean-termites-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/Subterranean-Termite-Mud-Tube-on-Foundation-1024x576.webp",
+      "width": 1024,
+      "height": 576,
+      "public_metadata": {
+        "title": "Termite mud tube along a foundation",
+        "alt": "Illustration of termite mud tube along a foundation",
+        "caption": "Termite mud tube along a foundation.",
+        "description": "Illustration of termite mud tube along a foundation."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14177,
+        "source_index": 463,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "ac610f3aa2b28f589407dfeecad6b92e79b0c811f7ac5ba77400027f659df159"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-home-drainage-and-foundation-clearance.webp",
+      "title": "How to Help Prevent Termites Around Your North Texas Home",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/termite-inspection-cost-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/How-to-Help-Prevent-Termites-Around-Your-North-Texas-Home-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Home drainage and foundation clearance",
+        "alt": "Illustration of home drainage and foundation clearance",
+        "caption": "Home drainage and foundation clearance.",
+        "description": "Illustration of home drainage and foundation clearance."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14151,
+        "source_index": 448,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "03e592101891bb290887708b5a118efb3bb292dce0f60b9cf07426539dd1cb78"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-ant-colony-and-entry-route-into-a-kitchen.webp",
+      "title": "Where Tiny Kitchen Ants Come From",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/tiny-ants-in-the-kitchen/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/Where-Tiny-Kitchen-Ants-Come-From-1024x577.webp",
+      "width": 1024,
+      "height": 577,
+      "public_metadata": {
+        "title": "Ant colony and entry route into a kitchen",
+        "alt": "Illustration of ant colony and entry route into a kitchen",
+        "caption": "Ant colony and entry route into a kitchen.",
+        "description": "Illustration of ant colony and entry route into a kitchen."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14220,
+        "source_index": 494,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "2f68bc0053c0da866d5d0c1b65213a6ffa807ff91f783ca3d1f7143c332875de"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-mosquito-life-cycle-illustration.webp",
+      "title": "mosquito-life-cycle-standing-water.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/mosquito-season-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/mosquito-life-cycle-standing-water-1024x576.webp",
+      "width": 1024,
+      "height": 576,
+      "public_metadata": {
+        "title": "Mosquito life cycle",
+        "alt": "Illustration of mosquito eggs, larvae, pupae and an adult",
+        "caption": "Illustrated stages of the mosquito life cycle.",
+        "description": "Illustration showing the egg, larva, pupa and adult stages of the mosquito life cycle."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14239,
+        "source_index": 508,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "87bdf3be07dac55aaa7be1240682a1787d335231c83ae7ab7f5f664f4430c3fa"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-exterior-pest-prevention-around-a-house.webp",
+      "title": "Scorpion Prevention Around a North Texas Home",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/scorpion-pest-control-cost-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/Scorpion-Prevention-Around-a-North-Texas-Home-1024x576.webp",
+      "width": 1024,
+      "height": 576,
+      "public_metadata": {
+        "title": "Exterior pest prevention around a house",
+        "alt": "Illustration of exterior pest prevention around a house",
+        "caption": "Exterior pest prevention around a house.",
+        "description": "Illustration of exterior pest prevention around a house."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14310,
+        "source_index": 556,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "2794578bf36cdf38fc5937fac5657b64233643603173f5a833adfd6501773b33"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-pest-prevention-around-a-home.webp",
+      "title": "Allen Home Pest Prevention Checklist",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/most-common-pests-in-allen-tx/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/09/Allen-Home-Pest-Prevention-Checklist-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Pest prevention around a home",
+        "alt": "Illustration of pest prevention around a home",
+        "caption": "Pest prevention around a home.",
+        "description": "Illustration of pest prevention around a home."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14127,
+        "source_index": 429,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "112295bb38f5c2c6809f9bfe39b4093a89445000c6c797e13bcbd4069a95caa6"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-pest-entry-points-around-a-house.webp",
+      "title": "Common Pest Entry Points Around a North Texas Home",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/why-pests-come-inside-when-temperatures-drop/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/Common-Pest-Entry-Points-Around-a-North-Texas-Home-1024x576.webp",
+      "width": 1024,
+      "height": 576,
+      "public_metadata": {
+        "title": "Pest entry points around a house",
+        "alt": "Illustration of pest entry points around a house",
+        "caption": "Pest entry points around a house.",
+        "description": "Illustration of pest entry points around a house."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14335,
+        "source_index": 573,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "c35c3f5bb3dd0a66f17e3fa96a3c230a87b96369d84c7b955005efeb2dbfc8de"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-interior-and-exterior-pest-control-illustration.webp",
+      "title": "Interior vs. Exterior Pest Control Comparison",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/where-should-pest-control-be-applied/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/Interior-vs.-Exterior-Pest-Control-Comparison-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Interior and exterior pest control",
+        "alt": "Illustration comparing exterior, interior and combined pest control around a house",
+        "caption": "Interior, exterior and combined pest control illustrated around a house.",
+        "description": "Illustration comparing exterior, interior and combined pest control areas around a house."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14762,
+        "source_index": 612,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "48f689119672b179eaa53e40910715f65403fc38c4cfef8984898d7edf3a0f39"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-scorpion-on-landscaping-stones.webp",
+      "title": "Scorpion on landscaping stones",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/scorpion-pest-control-cost-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/Striped-Bark-Scorpion-in-North-Texas-1024x576.webp",
+      "width": 1024,
+      "height": 576,
+      "public_metadata": {
+        "title": "Scorpion on landscaping stones",
+        "alt": "Illustration of a scorpion among stones beside a house",
+        "caption": "Scorpion among landscaping stones beside a house.",
+        "description": "Illustration of a scorpion among landscaping stones beside a house."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14307,
+        "source_index": 554,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "98473b88690699ac7702bbdc95b78111ecfcb4e78dd9bb5e7df3c026eeaf9861"
+      }
+    },
+    {
+      "file": "pest/blog-reuse-fire-ant-mound-beside-a-garden.webp",
+      "title": "Fire ant mound beside a garden",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/spring-pests-in-north-texas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/10/Spring-Ant-and-Fire-Ant-Activity-in-North-Texas-1024x573.webp",
+      "width": 1024,
+      "height": 573,
+      "public_metadata": {
+        "title": "Fire ant mound beside a garden",
+        "alt": "Illustration of fire ants and a soil mound beside a garden bed",
+        "caption": "Fire ant mound beside a garden bed.",
+        "description": "Illustration of fire ants and a soil mound beside a garden bed, with a Supremacy Services equipment bag in the background."
+      },
+      "reuse_provenance": {
+        "source_media_id": 14316,
+        "source_index": 561,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "8169f5b00e3e60f4c678a266bcddb578c1acfe5f24139593ab6072dd7ad8d94e"
       }
     }
   ]

@@ -1483,5 +1483,26 @@
       "caption": "Glowing pendant light bulbs.",
       "description": "Glowing pendant light bulbs."
     }
+  },
+  {
+    "file": "electrical/blog-reuse-standby-generator-and-automatic-transfer-switch.webp",
+    "title": "Commercial Generator Automatic Transfer Switch Diagram",
+    "source": "Supremacy Services",
+    "source_page": "https://supremacyservice.com/how-often-should-commercial-generator-be-tested/",
+    "original": "https://supremacyservice.com/wp-content/uploads/2026/10/Commercial-Generator-Automatic-Transfer-Switch-Diagram.webp",
+    "width": 1672,
+    "height": 941,
+    "public_metadata": {
+      "title": "Standby generator and automatic transfer switch",
+      "alt": "Diagram connecting utility power and a standby generator through an automatic transfer switch to building loads.",
+      "caption": "A standby generator and transfer switch are linked to the building loads.",
+      "description": "Colored arrows show utility power and standby-generator power entering an automatic transfer switch. A side panel lists categories of building loads."
+    },
+    "reuse_provenance": {
+      "source_media_id": 17520,
+      "source_index": 945,
+      "visual_review_status": "approved_no_visible_people",
+      "sha256": "60a813108d6343f0f509d95a68880e71fc2827063fefe29f25ec55d5abe23713"
+    }
   }
 ]

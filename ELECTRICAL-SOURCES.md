@@ -1,5 +1,19 @@
 # Electrical gallery sources
 
+**Current active gallery:** 100 images from 7 sources. This includes 1 visually reviewed Supremacy Services blog originals added to the repository. The [electrical.json](electrical.json) catalog defines the active collection.
+
+## Supremacy Services blog originals
+
+These existing published images were visually reviewed for visible people and body parts. The original image bytes and logos are preserved. Public descriptions describe the visible artwork; original article titles remain provenance. Full hashes and source media references are in [blog-reuse-provenance.json](blog-reuse-provenance.json).
+
+| Image | Source article | Published original |
+| --- | --- | --- |
+| [Standby generator and automatic transfer switch](electrical/blog-reuse-standby-generator-and-automatic-transfer-switch.webp) | [Article](https://supremacyservice.com/how-often-should-commercial-generator-be-tested/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Commercial-Generator-Automatic-Transfer-Switch-Diagram.webp) |
+
+## Earlier collection records
+
+The original collection notes below preserve the earlier sourcing passes and their historical counts.
+
 99 screened images from the six supplied company sites. The gallery excludes visible people, watermarks, obvious logos, repeated size variants, and unrelated trade photos. These are source-company references, not Supremacy job photos or verified North Texas locations. Confirm reuse permission before public marketing deployment.
 
 | # | File | Company | Source page | Original |

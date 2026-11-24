@@ -1,5 +1,19 @@
 # Heating Gallery — Source Inventory
 
+**Current active gallery:** 17 images from 4 sources. This includes 1 visually reviewed Supremacy Services blog originals added to the repository. The [heating.json](heating.json) catalog defines the active collection.
+
+## Supremacy Services blog originals
+
+These existing published images were visually reviewed for visible people and body parts. The original image bytes and logos are preserved. Public descriptions describe the visible artwork; original article titles remain provenance. Full hashes and source media references are in [blog-reuse-provenance.json](blog-reuse-provenance.json).
+
+| Image | Source article | Published original |
+| --- | --- | --- |
+| [Heating system and circuit breaker diagram](heating/blog-reuse-heating-system-and-circuit-breaker-diagram.webp) | [Article](https://supremacyservice.com/heater-trips-the-breaker-dallas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/11/How-a-Heater-Connects-to-the-Circuit-Breaker.webp) |
+
+## Earlier collection records
+
+The original collection notes below preserve the earlier sourcing passes and their historical counts.
+
 **Selected still images:** 16
 
 Screened heating and mechanical references. These are source-company references, not Supremacy job photos.

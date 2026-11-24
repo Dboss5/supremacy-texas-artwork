@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "date": "2026-11-24",
+  "base_commit": "984a1dde3e4fd703d0db24d6afc45a163b829ca0",
+  "catalog_images_before": 1202,
+  "added_originals": 75,
+  "catalog_images_after": 1277,
+  "added_bytes": 11044790,
+  "all_1202_existing_catalog_records_preserved": true,
+  "archive_existing_inputs_verified_against_pinned_git_blobs": 97,
+  "all_new_images_static_and_visually_reviewed": true,
+  "original_bytes_and_logos_preserved": true,
+  "all_1277_catalog_paths_present_in_prepared_repository": true,
+  "public_metadata_and_source_links_verified": true,
+  "pest_source_search_filter": "Pest source/search filter passed all five checks.",
+  "galleries": [
+    {
+      "gallery": "hvac",
+      "before": 226,
+      "added": 0,
+      "after": 226,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    },
+    {
+      "gallery": "air-conditioning",
+      "before": 188,
+      "added": 0,
+      "after": 188,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    },
+    {
+      "gallery": "plumbing",
+      "before": 132,
+      "added": 25,
+      "after": 157,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    },
+    {
+      "gallery": "electrical",
+      "before": 99,
+      "added": 1,
+      "after": 100,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    },
+    {
+      "gallery": "pest",
+      "before": 326,
+      "added": 17,
+      "after": 343,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    },
+    {
+      "gallery": "garage-doors",
+      "before": 81,
+      "added": 31,
+      "after": 112,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    },
+    {
+      "gallery": "holiday-lighting",
+      "before": 134,
+      "added": 0,
+      "after": 134,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    },
+    {
+      "gallery": "heating",
+      "before": 16,
+      "added": 1,
+      "after": 17,
+      "all_catalog_paths_present": true,
+      "card_metadata_matches_catalog": true,
+      "old_metadata_and_provenance_unchanged": true,
+      "download_script_unchanged": true
+    }
+  ],
+  "updated_archives": [
+    {
+      "file": "garage-door-images.zip",
+      "images": 112,
+      "entries": 114,
+      "bytes": 35338888,
+      "sha256": "8d09dce67ff59f04003dcc932dfa5fdb8c608065d58910500d1e47900c2e3cfe",
+      "git_blob_sha": "697dd217e7573a368341097ca946839774910f46",
+      "crc": "all entries passed",
+      "catalog_and_image_hashes": "all match staged catalog and exact individual image bytes"
+    },
+    {
+      "file": "heating-images.zip",
+      "images": 17,
+      "entries": 19,
+      "bytes": 2592119,
+      "sha256": "4b88155ec19d2182311096273632801c7a4a5fd52228b7cc43df1ae0c4be3315",
+      "git_blob_sha": "bae9b34ae8a2652c6378a5535a09fccb1c69a504",
+      "crc": "all entries passed",
+      "catalog_and_image_hashes": "all match staged catalog and exact individual image bytes"
+    }
+  ],
+  "unchanged_archives": [
+    "holiday-lighting-images.zip",
+    "hvac-heating-additions.zip"
+  ],
+  "provenance": "blog-reuse-provenance.json"
+}

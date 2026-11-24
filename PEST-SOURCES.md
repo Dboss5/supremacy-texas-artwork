@@ -1,5 +1,35 @@
 # Pest Control Gallery — Source Inventory
 
+**Current active gallery:** 343 images from 6 sources. This includes 17 visually reviewed Supremacy Services blog originals added to the repository. The [pest.json](pest.json) catalog defines the active collection.
+
+## Supremacy Services blog originals
+
+These existing published images were visually reviewed for visible people and body parts. The original image bytes and logos are preserved. Public descriptions describe the visible artwork; original article titles remain provenance. Full hashes and source media references are in [blog-reuse-provenance.json](blog-reuse-provenance.json).
+
+| Image | Source article | Published original |
+| --- | --- | --- |
+| [Cockroach hiding areas in a kitchen and around a drain](pest/blog-reuse-cockroach-hiding-areas-in-a-kitchen-and-around-a-drain.webp) | [Article](https://supremacyservice.com/german-vs-american-cockroach-difference/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/Common-Cockroach-Hiding-Places-1024x573.webp) |
+| [House exterior with utility penetrations](pest/blog-reuse-foundation-gaps-around-a-house.webp) | [Article](https://supremacyservice.com/where-do-scorpions-hide-north-texas-homes/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/Common-Scorpion-Entry-Points-Around-a-North-Texas-Home-1-1024x573.webp) |
+| [Porch light and spider web beneath an eave](pest/blog-reuse-spider-webs-around-roof-eaves.webp) | [Article](https://supremacyservice.com/what-attracts-spiders-to-north-texas-homes/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/Common-Spider-Hiding-Places-Around-Your-Home-1-1024x573.webp) |
+| [Standing water in backyard containers](pest/blog-reuse-standing-water-in-backyard-containers.webp) | [Article](https://supremacyservice.com/why-are-mosquitoes-so-bad-in-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/Common-Backyard-Mosquito-Breeding-Sites-1024x573.webp) |
+| [Rainwater collecting around a backyard](pest/blog-reuse-rainwater-collecting-around-a-backyard.webp) | [Article](https://supremacyservice.com/why-are-mosquitoes-so-bad-in-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/Standing-Water-After-Rain-in-a-North-Texas-Backyard-1024x573.webp) |
+| [Mosquito resting on shaded vegetation](pest/blog-reuse-mosquito-resting-on-shaded-vegetation.webp) | [Article](https://supremacyservice.com/why-are-mosquitoes-so-bad-in-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/Mosquito-Resting-Areas-in-Backyard-Vegetation-1024x573.webp) |
+| [Termite mud tube with termites inside](pest/blog-reuse-termite-mud-tube-with-termites-inside.webp) | [Article](https://supremacyservice.com/termite-mud-tubes-what-they-look-like/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/What-Termite-Mud-Tububes-Look-Like-Up-Close-1024x573.webp) |
+| [Termite mud tube along a foundation](pest/blog-reuse-termite-mud-tube-along-a-foundation.webp) | [Article](https://supremacyservice.com/subterranean-termites-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Subterranean-Termite-Mud-Tube-on-Foundation-1024x576.webp) |
+| [Home drainage and foundation clearance](pest/blog-reuse-home-drainage-and-foundation-clearance.webp) | [Article](https://supremacyservice.com/termite-inspection-cost-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/How-to-Help-Prevent-Termites-Around-Your-North-Texas-Home-1024x573.webp) |
+| [Ant colony and entry route into a kitchen](pest/blog-reuse-ant-colony-and-entry-route-into-a-kitchen.webp) | [Article](https://supremacyservice.com/tiny-ants-in-the-kitchen/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Where-Tiny-Kitchen-Ants-Come-From-1024x577.webp) |
+| [Mosquito life cycle](pest/blog-reuse-mosquito-life-cycle-illustration.webp) | [Article](https://supremacyservice.com/mosquito-season-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/mosquito-life-cycle-standing-water-1024x576.webp) |
+| [Exterior pest prevention around a house](pest/blog-reuse-exterior-pest-prevention-around-a-house.webp) | [Article](https://supremacyservice.com/scorpion-pest-control-cost-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Scorpion-Prevention-Around-a-North-Texas-Home-1024x576.webp) |
+| [Pest prevention around a home](pest/blog-reuse-pest-prevention-around-a-home.webp) | [Article](https://supremacyservice.com/most-common-pests-in-allen-tx/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/09/Allen-Home-Pest-Prevention-Checklist-1024x573.webp) |
+| [Pest entry points around a house](pest/blog-reuse-pest-entry-points-around-a-house.webp) | [Article](https://supremacyservice.com/why-pests-come-inside-when-temperatures-drop/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Common-Pest-Entry-Points-Around-a-North-Texas-Home-1024x576.webp) |
+| [Interior and exterior pest control](pest/blog-reuse-interior-and-exterior-pest-control-illustration.webp) | [Article](https://supremacyservice.com/where-should-pest-control-be-applied/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Interior-vs.-Exterior-Pest-Control-Comparison-1024x573.webp) |
+| [Scorpion on landscaping stones](pest/blog-reuse-scorpion-on-landscaping-stones.webp) | [Article](https://supremacyservice.com/scorpion-pest-control-cost-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Striped-Bark-Scorpion-in-North-Texas-1024x576.webp) |
+| [Fire ant mound beside a garden](pest/blog-reuse-fire-ant-mound-beside-a-garden.webp) | [Article](https://supremacyservice.com/spring-pests-in-north-texas/) | [Image](https://supremacyservice.com/wp-content/uploads/2026/10/Spring-Ant-and-Fire-Ant-Activity-in-North-Texas-1024x573.webp) |
+
+## Earlier collection records
+
+The original collection notes below preserve the earlier sourcing passes and their historical counts.
+
 **Selected images:** 326
 
 Every image retains its source page and original asset URL for review.

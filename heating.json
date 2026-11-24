@@ -1,6 +1,6 @@
 {
   "title": "Heating Image Gallery",
-  "count": 16,
+  "count": 17,
   "rules": [
     "No visible people",
     "No visible watermarks",
@@ -248,6 +248,27 @@
         "alt": "Packaged rooftop HVAC unit",
         "caption": "Packaged rooftop HVAC unit.",
         "description": "Packaged rooftop HVAC unit."
+      }
+    },
+    {
+      "file": "heating/blog-reuse-heating-system-and-circuit-breaker-diagram.webp",
+      "title": "How a Heater Connects to the Circuit Breaker",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/heater-trips-the-breaker-dallas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/How-a-Heater-Connects-to-the-Circuit-Breaker.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Heating system and circuit breaker diagram",
+        "alt": "Diagram linking a thermostat, heating unit, blower, and circuit breaker with arrows and equipment callouts.",
+        "caption": "A thermostat, heating unit, blower, and breaker are shown in one diagram.",
+        "description": "The illustration uses arrows and labels to relate the thermostat call for heat, heating equipment, blower, and electrical breaker. A close-up inset shows glowing heating components."
+      },
+      "reuse_provenance": {
+        "source_media_id": 20879,
+        "source_index": 1320,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "cf3252bf0d4b9332bad74c88bce697aa6cec9568951172b56a7a57579aa16067"
       }
     }
   ]

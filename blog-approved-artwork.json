@@ -1,0 +1,3469 @@
+{
+  "version": 1,
+  "repository": "Dboss5/supremacy-texas-artwork",
+  "review_date": "2026-11-24",
+  "description": "Reviewed subset for selecting blog artwork without visible realistic people or body parts. Generic icons and logos are allowed. Review other catalog files before blog use, and review any listed file again if its image bytes no longer match the recorded Git blob SHA.",
+  "count": 182,
+  "existing_catalog_images": 107,
+  "reused_blog_images": 75,
+  "images": [
+    {
+      "file": "air-conditioning/air-conditioning-001.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Outdoor air conditioning condenser on a raised base",
+        "alt": "Outdoor air conditioning condenser on a raised base",
+        "caption": "Outdoor air conditioning condenser on a raised base.",
+        "description": "Outdoor air conditioning condenser on a raised base."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "fe268e80c7af6a843dd8914cf4bc098ff5eed476",
+      "sha256": "9a7a5e5ae2cb9e4d7d5b51d62006d04a9a3c7743355d9736ecf79c30f161107b",
+      "bytes": 163417,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-003.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Attic HVAC system and insulated ductwork",
+        "alt": "HVAC equipment and foil-insulated ductwork installed between wooden attic framing",
+        "caption": "Attic HVAC system and insulated ductwork.",
+        "description": "HVAC equipment and foil-insulated ductwork installed between wooden attic framing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0c051c79bbb608bfe8e55db12a3905e9473b68fa",
+      "sha256": "fc017c1eabeb02a7fbbc8cd3d56681b732779df9ef984f8b2eeba170feb53c09",
+      "bytes": 263508,
+      "width": 1200,
+      "height": 964,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-012.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Air Conditioning Condenser Fan",
+        "alt": "Air Conditioning Condenser Fan",
+        "caption": "Air Conditioning Condenser Fan.",
+        "description": "Air Conditioning Condenser Fan."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "bad0e855d8a99631fd9606a4eb90e12387cd744d",
+      "sha256": "313facb9b421fd084be85fc2c70e615ece60633eacb278e625b2e8a5bbd11f74",
+      "bytes": 113160,
+      "width": 600,
+      "height": 338,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-024.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Carrier rooftop packaged air conditioner",
+        "alt": "Carrier packaged air conditioning unit mounted on a flat rooftop",
+        "caption": "Carrier rooftop packaged air conditioner.",
+        "description": "Carrier packaged air conditioning unit mounted on a flat rooftop."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "bdf6c3ab86f93a627eced8ab8b26595c018a8a2b",
+      "sha256": "c9f139887ebda311a49c7eb26eca68012bbaea81bf866399057d7461fe8ba59f",
+      "bytes": 69271,
+      "width": 800,
+      "height": 560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-026.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Outdoor air conditioning unit in a side yard",
+        "alt": "Outdoor air conditioning condenser installed in a narrow side yard beside a home",
+        "caption": "Outdoor air conditioning unit in a side yard.",
+        "description": "Outdoor air conditioning condenser installed in a narrow side yard beside a home."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f6f64e85a6225a3d1f42adaa286fb6e065cd3790",
+      "sha256": "302637417a76bf04e9737524022c990238c724cfd4ede73daf7c6373405c408b",
+      "bytes": 70328,
+      "width": 800,
+      "height": 560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-028.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Digital HVAC thermostat",
+        "alt": "Wall-mounted digital thermostat showing indoor temperature and heating and cooling controls",
+        "caption": "Digital HVAC thermostat.",
+        "description": "Wall-mounted digital thermostat showing indoor temperature and heating and cooling controls."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "438deceb3ec10c726a65324a2cc3266aedae98bc",
+      "sha256": "cd31d336215265678e0259aa3fe849f58c527026daf3cff89af19c20a3a4a7fa",
+      "bytes": 37388,
+      "width": 800,
+      "height": 560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-046.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Gas furnace and venting installation",
+        "alt": "Gas furnace with metal venting and connected ductwork in a utility area",
+        "caption": "Gas furnace and venting installation.",
+        "description": "Gas furnace with metal venting and connected ductwork in a utility area."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "78a3dae58aeacc7fcbacc6018b9447fc2fb34dfa",
+      "sha256": "4172d0a47b7311cca2c4d30af3f9fd35ddc91111c7a5d1c696493e31674521e9",
+      "bytes": 61083,
+      "width": 800,
+      "height": 560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-054.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "HVAC electrical controls and wiring",
+        "alt": "Open HVAC access panel showing electrical controls and color-coded wiring",
+        "caption": "HVAC electrical controls and wiring.",
+        "description": "Open HVAC access panel showing electrical controls and color-coded wiring."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "c08a772c5819e746ae55f656f1aba43529fd9ebb",
+      "sha256": "3eb51cb69c007cc3b67988934cb253fa543c8019905b1c50e8dc97cb72210cd0",
+      "bytes": 64723,
+      "width": 800,
+      "height": 560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-061.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Rooftop heat pump replacement comparison",
+        "alt": "Before-and-after views of rooftop heating and cooling equipment",
+        "caption": "Rooftop heat pump replacement comparison.",
+        "description": "Before-and-after views of rooftop heating and cooling equipment."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "357db587ec3bb494e7b59caf579ad8cfcf2cc824",
+      "sha256": "1c9012fe51bc9257780aa23684b35bc1267339b43f5e1b226b647995b54662d1",
+      "bytes": 111595,
+      "width": 800,
+      "height": 560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-083.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Outdoor heat pump beside a home",
+        "alt": "Outdoor heat pump installed beside a house and landscaped planting bed",
+        "caption": "Outdoor heat pump beside a home.",
+        "description": "Outdoor heat pump installed beside a house and landscaped planting bed."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "77cec2e7fc06344a7c9a5e25c8a6074b766d73a8",
+      "sha256": "70c36c0dcc93d6154f9e94621c2e09988e5d14d928c87783f3bfd3a07ebe9886",
+      "bytes": 296521,
+      "width": 1200,
+      "height": 650,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-084.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Carrier VRF outdoor unit",
+        "alt": "Carrier variable refrigerant flow outdoor unit with a vertical cabinet",
+        "caption": "Carrier VRF outdoor unit.",
+        "description": "Carrier variable refrigerant flow outdoor unit with a vertical cabinet."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "dbab93771ddbc02ebd4314a5ce231672b865d53b",
+      "sha256": "25d05f7dfd0017e2a5ece10368e7baf94fa4967ba5735a4be038d8a5cf093e10",
+      "bytes": 26484,
+      "width": 650,
+      "height": 627,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "air-conditioning/air-conditioning-128.jpg",
+      "gallery": "air-conditioning",
+      "public_metadata": {
+        "title": "Upright gas furnace product image",
+        "alt": "Upright gas furnace product image",
+        "caption": "Upright gas furnace product image.",
+        "description": "Upright gas furnace product image."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f9ec2e468c0f699b8549950b8edb50a3fbf89f74",
+      "sha256": "6bfe71b9e555bb1d104266108c30fda693833db3e9c2ab5d83447ba1c3d404f8",
+      "bytes": 20316,
+      "width": 600,
+      "height": 600,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/004-cableelectric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Industrial switchgear and conduit",
+        "alt": "Industrial electrical switchgear with metal conduit and distribution equipment",
+        "caption": "Industrial switchgear and conduit.",
+        "description": "Industrial electrical switchgear with metal conduit and distribution equipment."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "3bf52bf133b88c96fa8edb9b30de35c9dff2f733",
+      "sha256": "733845207297d3a9a3385b2117eb73854791e559cf47e637b1e44c7fcb33f337",
+      "bytes": 124910,
+      "width": 1200,
+      "height": 785,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/006-sl-electric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Rectangular pendant light fixture",
+        "alt": "Rectangular pendant light fixture",
+        "caption": "Rectangular pendant light fixture.",
+        "description": "Rectangular pendant light fixture."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d662fd6770e4b7c7315c1dab70cfcf5f95d1963e",
+      "sha256": "00fe5ea0a924cbabc53f61ad945b755408399084a08e793cfdc8eb97413dab36",
+      "bytes": 87946,
+      "width": 1200,
+      "height": 718,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/008-sl-electric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Electrical wiring in exposed wall framing",
+        "alt": "Electrical wiring in exposed wall framing",
+        "caption": "Electrical wiring in exposed wall framing.",
+        "description": "Electrical wiring in exposed wall framing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "62df0cdba645f70b6931d12cb17a9b557e081b2c",
+      "sha256": "4a826799faae365bcc3e45ecf0a176205c15e363c3ebfe4eedc92260f22793b1",
+      "bytes": 197809,
+      "width": 839,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/013-sl-electric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Wall mounted electric vehicle charger",
+        "alt": "Wall mounted electric vehicle charger",
+        "caption": "Wall mounted electric vehicle charger.",
+        "description": "Wall mounted electric vehicle charger."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "8af46e31485da41f8a60708aa8196b1e2b5a5cd1",
+      "sha256": "e87396dca54e2495ada15cb698f67621ffc4d1c300894bc2db0b56794ade6d2d",
+      "bytes": 143649,
+      "width": 825,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/018-sl-electric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Open electrical outlet box with wiring",
+        "alt": "Open electrical outlet box with wiring",
+        "caption": "Open electrical outlet box with wiring.",
+        "description": "Open electrical outlet box with wiring."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "8504a96ff313ed3863bd70d937fa2e1c8c818838",
+      "sha256": "9e12e62aad1a1cbd4fd27d427c53a94e440b78336bff9d28a3d43db29ef5e10c",
+      "bytes": 139737,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/019-sl-electric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Circuit breaker panel with wiring",
+        "alt": "Circuit breaker panel with wiring",
+        "caption": "Circuit breaker panel with wiring.",
+        "description": "Circuit breaker panel with wiring."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "7aa3e720d8d34a5bdd4feb1d35d795e707d64c2b",
+      "sha256": "1251e55bdba4ff737ae4cc9965880accaf528bc13a65b4591ac565898bc6d1f4",
+      "bytes": 116804,
+      "width": 759,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/030-infusedelectric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Open electrical control panel",
+        "alt": "Open electrical control panel showing breakers, wiring and internal connections",
+        "caption": "Open electrical control panel.",
+        "description": "Open electrical control panel showing breakers, wiring and internal connections."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "bad7f27b5508b16c055575905e0ac83beddb8377",
+      "sha256": "fb8509e66da9fad65c8cea6899c8ba8af3e8bb6560315fcf7a250d75eaca3cf8",
+      "bytes": 90579,
+      "width": 800,
+      "height": 800,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/032-infusedelectric.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Wall-mounted electric vehicle charger",
+        "alt": "Electric vehicle charger mounted on an exterior wall beside a driveway",
+        "caption": "Wall-mounted electric vehicle charger.",
+        "description": "Electric vehicle charger mounted on an exterior wall beside a driveway."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "5757448f5090378245893e467bb301e008d0d68e",
+      "sha256": "da041a18dd7cd0cdf1cf9d914e09b9ee98d71384026dffa3fc594133a7568c0c",
+      "bytes": 122002,
+      "width": 640,
+      "height": 800,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/043-nyecs.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Multimeter and electrical components",
+        "alt": "Multimeter and electrical components",
+        "caption": "Multimeter and electrical components.",
+        "description": "Multimeter and electrical components."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "da23a36b1d44517cf245a7296e2b07311233b59e",
+      "sha256": "93c57065abda74554cbaee679b7aa8e5c03eabb0074f95b10e0ef374a62f17a8",
+      "bytes": 132156,
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/048-beyondbuilder.jpg",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "SWIMMING POOL",
+        "alt": "SWIMMING POOL",
+        "caption": "SWIMMING POOL.",
+        "description": "SWIMMING POOL."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "a2edabf595a1c5b0c963e1caa6323339ab342d08",
+      "sha256": "b8e853a152e409bafd99d55ad9290fa4a7cd45abb078097736716583cf4b8ec7",
+      "bytes": 266738,
+      "width": 1200,
+      "height": 800,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "electrical/blog-reuse-standby-generator-and-automatic-transfer-switch.webp",
+      "gallery": "electrical",
+      "public_metadata": {
+        "title": "Standby generator and automatic transfer switch",
+        "alt": "Diagram connecting utility power and a standby generator through an automatic transfer switch to building loads.",
+        "caption": "A standby generator and transfer switch are linked to the building loads.",
+        "description": "Colored arrows show utility power and standby-generator power entering an automatic transfer switch. A side panel lists categories of building loads."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "818b888237f31245f10924d6ccff44a66ae8e89b",
+      "sha256": "60a813108d6343f0f509d95a68880e71fc2827063fefe29f25ec55d5abe23713",
+      "bytes": 174196,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/006-txohd.jpg",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Dark gray sectional garage door",
+        "alt": "Dark gray sectional garage door on a modern white house",
+        "caption": "Dark gray sectional garage door.",
+        "description": "Dark gray sectional garage door on a modern white house."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e7aed63006b4c1f0c987d7ba2ac5f618f2ad43b2",
+      "sha256": "157b01998a6ee98c5b6a7f176882d7a46d1720a0202dba56f1e8990819d4cb4a",
+      "bytes": 332887,
+      "width": 2121,
+      "height": 1414,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/007-txohd.jpg",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Wooden carriage-style garage doors",
+        "alt": "Wooden carriage-style garage doors with upper glass panels and decorative hardware",
+        "caption": "Wooden carriage-style garage doors.",
+        "description": "Wooden carriage-style garage doors with upper glass panels and decorative hardware."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "13fc0b85040c9ecc0b86d0962b411b7f9a5a8f0d",
+      "sha256": "9ba06eba81b22feffa792d7113a1b10e68a2eeb2b8a195cc31dcfc34f3894835",
+      "bytes": 329425,
+      "width": 2029,
+      "height": 1477,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/024-txohd.jpg",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Commercial metal rollup doors",
+        "alt": "Commercial metal rollup doors",
+        "caption": "Commercial metal rollup doors.",
+        "description": "Commercial metal rollup doors."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "348225274a06106b0b0ee148483653056d924641",
+      "sha256": "998c924e64e2809960fa1680fba9e44e48c5072f59793d1944047f36206faeca",
+      "bytes": 350778,
+      "width": 2560,
+      "height": 1780,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/043-abcdoors.jpg",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "White carriage-style garage doors",
+        "alt": "White carriage-style garage doors beside a gray house with a covered porch",
+        "caption": "White carriage-style garage doors.",
+        "description": "White carriage-style garage doors beside a gray house with a covered porch."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0a50f3fc68399fa646967c24f62610aa06073f8e",
+      "sha256": "878033ba71b9f1834af5ab4d8e7aa939a740431134ce30904937f00b920a51f5",
+      "bytes": 896862,
+      "width": 1920,
+      "height": 1280,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/054-abcdoors.jpg",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Gray garage door with upper windows",
+        "alt": "Gray sectional garage door with upper windows beside a covered front porch",
+        "caption": "Gray garage door with upper windows.",
+        "description": "Gray sectional garage door with upper windows beside a covered front porch."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e2ab64282571eed66941a7d96cac401046f693f9",
+      "sha256": "401dda59ff21fe2602a09894f01020d035415000693a6f590df4ce265f422746",
+      "bytes": 621556,
+      "width": 1920,
+      "height": 1247,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/058-abcdoors.jpg",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Wood-look garage door with horizontal windows",
+        "alt": "Wood-look garage door with a vertical arrangement of narrow horizontal windows",
+        "caption": "Wood-look garage door with horizontal windows.",
+        "description": "Wood-look garage door with a vertical arrangement of narrow horizontal windows."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "65d0bf1c283bb671957ecb633d3a9beef0d52a31",
+      "sha256": "131de4c80004b2302b4f2e0f7372b21d8716459b9bd655929e679b1e49b3c237",
+      "bytes": 1303017,
+      "width": 2880,
+      "height": 1920,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-aligned-and-bent-garage-door-tracks.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Aligned and bent garage door tracks",
+        "alt": "Comparison of a roller seated in a straight track and a roller at a bent section of track.",
+        "caption": "Straight and bent garage-door tracks are compared.",
+        "description": "The diagram uses a check mark and warning cross to contrast aligned track hardware with a bent track that can interfere with roller travel."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f5090cc56c9add0ca5e8e202b32c31c7aab8e699",
+      "sha256": "1ab4858ab86cd901ffd977d0fa0f5db367bab7136bfc9f73a440213805c1dd40",
+      "bytes": 128334,
+      "width": 1670,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-broken-garage-door-torsion-spring.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Broken garage door torsion spring",
+        "alt": "Garage-door torsion spring with a visible break and gap between its two sections above the door.",
+        "caption": "A visible gap separates the broken torsion spring.",
+        "description": "The close-up focuses on the damaged spring coils mounted on the shaft above a sectional garage door."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2e03eba854334391b6b505e03486f9196ac6afcd",
+      "sha256": "ee956ea81ed1f408d1eb5f901e34c9227c8b529ffd0b1a17cb0d2300c921ab35",
+      "bytes": 101126,
+      "width": 1672,
+      "height": 940,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-chain-drive-garage-door-opener.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Chain-drive garage door opener",
+        "alt": "Ceiling-mounted garage-door opener with a visible chain, rail, light, and red release cord.",
+        "caption": "The chain drive and release cord are visible beside the opener.",
+        "description": "The image focuses on an installed overhead opener and its chain-drive rail assembly above a residential garage door."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "043ec04b632a7389902a79544b837519c3aef6f9",
+      "sha256": "c45ae220339bb6c6e9fd0f75a3dcae69267b9b995da6ad72f566a9865ae04f20",
+      "bytes": 73054,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-damaged-garage-door-bottom-weather-seal.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Damaged garage door bottom weather seal",
+        "alt": "Torn and cracked rubber weatherstripping along the bottom of a white garage door.",
+        "caption": "Damaged rubber leaves gaps beneath the garage door.",
+        "description": "The close-up shows a deteriorated bottom gasket above the concrete threshold, including tears and irregular contact with the floor."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "6c077edae1447e965c1e4a0c83aa9e2fba1d9f24",
+      "sha256": "a4c7bf8bbd2b9b2a43803f63b869cc921d0b44db790a3b3d93c43d93209366b9",
+      "bytes": 139498,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-dirty-and-clean-garage-safety-sensors.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Dirty and clean garage safety sensors",
+        "alt": "Side-by-side views of a dusty sensor covered with cobwebs and a clean garage-door photo-eye sensor.",
+        "caption": "Dirty and clean photo-eye sensors are compared.",
+        "description": "The image contrasts a sensor lens and housing obscured by dust and webs with a clean unit showing an illuminated indicator."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "556e8cf0b9d610a0e72c991bd3123101d052b35a",
+      "sha256": "d54bac96d37f47d4d3ab072db80fb7d6c9981d3e1e2aa5a3a31ca4f776f0963f",
+      "bytes": 138948,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-frayed-garage-door-lifting-cable.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Frayed garage door lifting cable",
+        "alt": "Steel garage-door lifting cable with broken wire strands beside the track and pulley hardware.",
+        "caption": "Broken strands are visible on the lifting cable.",
+        "description": "The close-up shows fraying along a steel cable near the garage door's side hardware and metal track."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "be573d52eefb6cbaea1a7c094884cd271e9cb714",
+      "sha256": "9f26e15c250d03ecd529c99d2b457bf819d05721b4e710d1c76539083a32245c",
+      "bytes": 111814,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-frozen-garage-door-bottom-seal.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Frozen garage door bottom seal",
+        "alt": "Ice bonding a garage-door bottom weather seal to the concrete floor.",
+        "caption": "Ice is visible along the bottom seal and threshold.",
+        "description": "The close-up shows a line of ice and frozen moisture at the contact between the rubber gasket and the concrete surface."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2cd54a7d0242871399d74addc1ee2671b4cb8543",
+      "sha256": "07a3d411e3608e1e2e6778b6dd3512b8072d0e647efe6f0664c3c850de814482",
+      "bytes": 179694,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-cable-drum-and-lifting-cable.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage cable drum and lifting cable",
+        "alt": "Labeled close-up of a garage-door cable drum, lifting cable, and vertical track.",
+        "caption": "The diagram identifies the cable drum, lifting cable, and track.",
+        "description": "Callouts point to the drum above the door, the lifting cable beside the panel, and the vertical metal track. No technician is shown."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "312e38c436125f596feb0c74ac7b2342f21b01fc",
+      "sha256": "0c82bca51f6ce0b891a897d17dda0bae93dfdff032c3ef77fa2e248f444ee9dd",
+      "bytes": 139588,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-bottom-seal-components.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage door bottom seal components",
+        "alt": "Cutaway of a garage-door panel, bottom retainer, flexible rubber gasket, and concrete threshold.",
+        "caption": "The cutaway identifies the parts of a garage-door bottom seal.",
+        "description": "Callouts label the door panel, bottom retainer, flexible gasket, and concrete floor. Small pest symbols illustrate the seal's position at the opening."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "99159fc51cfc89d949b3454c1e885a34a1bdc8b6",
+      "sha256": "bfdc53b3949e0712fbe0148cb06a7bd5c16deb8cb2ad8e207fc960d150750ff3",
+      "bytes": 119694,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-cable-and-drum-comparison.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage door cable and drum comparison",
+        "alt": "Side-by-side views of cable drums, including a frayed lifting cable with loose wire strands.",
+        "caption": "The comparison shows an intact cable arrangement and a frayed lifting cable.",
+        "description": "Two close views show the cable drum and lifting cable beside the upper door hardware. Loose strands are visible on the damaged cable."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "812fb729fc725af17da4674876e5b48995d92b4e",
+      "sha256": "4ac606d10e7ae257cf55c286c61eae09978d593a6ee00231a354df429c832d7e",
+      "bytes": 143618,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-horizontal-reinforcement-struts.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage door horizontal reinforcement struts",
+        "alt": "Horizontal metal reinforcement struts across the inside panels of a sectional garage door.",
+        "caption": "Metal struts reinforce the inside of the sectional door.",
+        "description": "The interior view shows multiple horizontal supports, panel hinges, and track hardware across the back of the door."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0bac64c259a4e09dbe6b693fd43c024941812847",
+      "sha256": "093f14bbae0abfd5c2047196cf373dd4e414c1093cba9c21ae8bb00cf7cf6e3b",
+      "bytes": 104610,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-photo-eye-sensors.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage door photo-eye sensors",
+        "alt": "Two garage-door safety sensors mounted on opposite tracks with status lights and a highlighted alignment beam.",
+        "caption": "Photo-eye sensors face each other across the garage doorway.",
+        "description": "The image shows the sensor housings and mounting hardware near floor level. Illuminated indicators and a red line illustrate their alignment across the opening."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0acb5070bbb688d93a281ff91d6fd191d452f56e",
+      "sha256": "4fb99624a07206bbf172ab8efae772b46caac76f455171a27889c41a401b2d0c",
+      "bytes": 96956,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-reinforcement-and-track-hardware.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage door reinforcement and track hardware",
+        "alt": "Interior of a sectional garage door showing horizontal reinforcement, tracks, hinges, and spring hardware.",
+        "caption": "The inside of the door shows its reinforcing and operating hardware.",
+        "description": "An interior view displays the garage door panels, horizontal supports, hinges, side tracks, and spring system above the opening."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "10ee5d9bfe750ba8410db0ab3defe0dd5530a54a",
+      "sha256": "23d3340fd566972bb656531b096b3c9eca5ec1db5da69aebc72c17991be3f85e",
+      "bytes": 129428,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-torsion-spring-and-cable-drum.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage door torsion spring and cable drum",
+        "alt": "Close-up of a torsion spring, shaft, cable drum, and lifting cable above a sectional garage door.",
+        "caption": "The spring and cable drum are shown above the door.",
+        "description": "The image focuses on the counterbalance hardware, including the coiled spring, shaft, drum, cable, and mounting brackets."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f3c99f02724dbff8cfc76b2110bc3f602be527ac",
+      "sha256": "3f9d6dd78a9d94ccb6412453812b08ce9d3fd5c96729f9dca62c34b813da9e90",
+      "bytes": 120930,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-backup-and-control-batteries.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener backup and control batteries",
+        "alt": "Comparison of an opener backup battery, handheld remote, and wireless keypad with their battery roles labeled.",
+        "caption": "The illustration distinguishes opener backup power from remote and keypad batteries.",
+        "description": "Three panels show the backup battery, handheld control, and exterior keypad, with labels identifying which device each battery powers."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "00d7fb4157e74a75289cbb9f7d19d1574600160e",
+      "sha256": "60d69eca56a4ef03acb52e3baf730a8b0a63cd3b961e26b077ea2a21cfb45d71",
+      "bytes": 116424,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-battery-status-display.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener battery status display",
+        "alt": "Garage-opener battery indicator with green, orange, and red status-light callouts.",
+        "caption": "Colored callouts explain the illustrated battery-status display.",
+        "description": "The close-up shows a battery-status panel and labeled light colors. The diagram presents the statuses for the illustrated unit, not every opener model."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e63d15cd72f86e7b955a8a7bc40ec432332b3a53",
+      "sha256": "df88de651e611b989ceecfe985aa4b77d023c0f72b4c2d7b8307d7e8ca2f5b30",
+      "bytes": 104252,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-diagnostic-controls.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener diagnostic controls",
+        "alt": "Garage-door opener housing with a glowing indicator, a Learn button, and up-and-down adjustment buttons.",
+        "caption": "The opener's indicator and programming controls are visible.",
+        "description": "The close-up focuses on the Learn control, directional adjustment buttons, status light, and opener housing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e4f810f1248aae02781d513ac43196f80a94329e",
+      "sha256": "60ca6c90d40363b5bf72f017880734e7dd0165ce6bb2b8a3c8ad66eb2c77ea41",
+      "bytes": 56174,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-drive-mechanisms.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener drive mechanisms",
+        "alt": "Close views of a belt drive, metal chain drive, and wall-mounted garage-door opener.",
+        "caption": "The comparison highlights three garage-opener drive arrangements.",
+        "description": "Each panel focuses on the drive hardware or mounted unit, providing a closer view of the mechanisms used by the illustrated opener types."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "be98a9401ab7e4355cdfd9935fbebd1df2f0d0d1",
+      "sha256": "87ff9470f7834858bbda935e3cb460061760e10a14591780955ac06844957564",
+      "bytes": 103452,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-installation-components.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener installation components",
+        "alt": "Labeled garage opener diagram showing mounting hardware, drive rail and trolley, motor unit, electrical connection, and safety sensors.",
+        "caption": "The diagram identifies the main parts of an installed opener system.",
+        "description": "Callouts show the opener housing, suspension brackets, rail, power connection, and photo-eye sensors at the garage opening."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2a7e030c54e82987bfab2a9834557cce06161f79",
+      "sha256": "99996b39ec2617effb8671216cb40e1f85cb0a8f7f03ee266ca2e828df545dd2",
+      "bytes": 109092,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-trolley-and-emergency-release.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener trolley and emergency release",
+        "alt": "Ceiling-mounted garage-door opener with its rail, trolley connection, and red emergency-release cord.",
+        "caption": "The opener rail and red emergency-release cord are visible above the door.",
+        "description": "The image shows an installed overhead opener, rail hardware, and a red pull handle hanging from the trolley assembly."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f05cefb87892bd2c29a326eb017a6dbb22b9566f",
+      "sha256": "bd53646c6f33bb5f388921cf70e1a838d9e6177bda9745b3a7af587368eea29b",
+      "bytes": 67354,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-types-overview.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener types overview",
+        "alt": "Three-panel comparison of overhead belt-drive, chain-drive, and wall-mounted garage-door openers.",
+        "caption": "Belt-drive, chain-drive, and wall-mounted openers are shown together.",
+        "description": "The comparison shows installed opener housings, drive hardware, and a side-mounted unit beside the torsion shaft."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "414d499dbde9d5b9439cd815a60f569cc5dda69a",
+      "sha256": "45556e0e29dbff0ff95d91aca243db444c5d63317866e8507c389d3e0fc7b873",
+      "bytes": 133810,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-with-battery-backup.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage opener with battery backup",
+        "alt": "Ceiling-mounted garage-door opener beside a battery-backup module with an illuminated battery symbol.",
+        "caption": "An overhead opener is shown with a battery-backup module.",
+        "description": "The image shows the opener housing, light, rail, and an adjacent backup-power module. No smartphone interface or wireless configuration is shown."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "9bc3744666d9fa9748fe3e3e89baf52869d3bc1f",
+      "sha256": "58286e2b3f03e31c45d69c80c686cdc60ea838015318d43671a25b1ac868ac6f",
+      "bytes": 71224,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-roller-seated-in-its-track.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage roller seated in its track",
+        "alt": "White nylon garage-door roller correctly seated inside a galvanized metal track and hinge bracket.",
+        "caption": "The roller sits within the door track beside its mounting bracket.",
+        "description": "The close-up shows the roller, axle, metal hinge, mounting fasteners, and track without any hands or repair activity."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "ee626fc289d523b9e1f2eb125f2dbbad6c97dd4a",
+      "sha256": "b4822b5e6fef992e8979324f524f664e2614c56467ddb86476e09096fdbcccb2",
+      "bytes": 110220,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-sensor-indicator-lights.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Garage sensor indicator lights",
+        "alt": "Sending and receiving garage-door photo-eye sensors with amber and green indicator lights.",
+        "caption": "The sensor pair is shown with labeled status lights.",
+        "description": "A close view shows the two sensor housings on opposite door tracks. Labels distinguish the sending sensor from the receiving sensor."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "5efe9f890c5ddee0734b13f37f99deed0cb0012f",
+      "sha256": "541b82def1842768d6de44d89d2646653b6c607306b8610abb7876671f215320",
+      "bytes": 119430,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-insulated-garage-door-panel-cutaway.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Insulated garage door panel cutaway",
+        "alt": "Cutaway of a garage-door panel showing outer steel, foam insulation, inner steel, and the bottom weather seal.",
+        "caption": "The cutaway shows the layers inside an insulated door panel.",
+        "description": "Labels identify the door's steel layers, foam core, and lower gasket. An inset shows the panel hardware near the side of the door."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "4ba6716b1d5471c1af1e9263c2f6f44882727e4a",
+      "sha256": "b1c5d423fbfead3596f55667ca807e234272ba430cb1f221dfed2dcddf0e6804",
+      "bytes": 156518,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-intact-and-worn-garage-door-bottom-seals.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Intact and worn garage door bottom seals",
+        "alt": "Comparison of an intact black bottom seal and a cracked seal with a gap beneath the garage door.",
+        "caption": "An intact bottom seal is compared with cracked weatherstripping.",
+        "description": "The two-panel illustration contrasts a continuous seal at the floor with damaged rubber and an air gap beneath the door."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0ae89e37c80a05571af02ef4db5bb213cbd0e45a",
+      "sha256": "8cb005115003adf20db96b304fc3eb8a4e19396dc209efbec0ec72ee883b6a41",
+      "bytes": 123090,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-new-and-worn-garage-door-rollers.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "New and worn garage door rollers",
+        "alt": "New white nylon roller beside a cracked, discolored garage-door roller on a workbench.",
+        "caption": "A new roller is compared with a visibly worn roller.",
+        "description": "The comparison shows the roller wheels, axles, and bearing areas, making the deterioration on the older part visible."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e1c98225d81f2b0294c95454f226c38c50779d19",
+      "sha256": "0beab7cc4ddbd0b73b2621ba2f8247eef6a65aede007f97eee4aab985a1cae58",
+      "bytes": 137796,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-torsion-and-extension-spring-comparison.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Torsion and extension spring comparison",
+        "alt": "Diagram comparing a torsion spring above a garage opening with an extension spring along a horizontal track.",
+        "caption": "Two garage-door spring arrangements are compared.",
+        "description": "The diagram identifies the illustrated locations and basic arrangements of torsion and extension spring systems."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d0bb630d91aa7feb457da539ea5a4f91423d5f52",
+      "sha256": "b81fe063da260474f6990d9dbddd3e2d4bf5b7edc5bf7308939f1e2816a05965",
+      "bytes": 139164,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-wall-mounted-garage-door-opener.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Wall-mounted garage door opener",
+        "alt": "Wall-mounted garage-door opener beside the torsion shaft, cable drum, and side of a sectional door.",
+        "caption": "A wall-mounted opener is installed beside the door shaft.",
+        "description": "The image shows the opener housing and connections on the wall near the upper side of the garage door, leaving the central ceiling area open."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "dd5216839fbb289d03c7e87b3a90b9c4402646e4",
+      "sha256": "fb887c9df8576a64f59e2ba2dc043b87517beb3c59bcd3c90dab6c31135ad6e1",
+      "bytes": 108188,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-worn-garage-door-roller-and-bearing.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Worn garage door roller and bearing",
+        "alt": "Close-up of a worn garage-door roller in its track with an enlarged inset of the bearing area.",
+        "caption": "A worn roller and bearing are highlighted in the track.",
+        "description": "The image shows dirt and wear around a garage-door roller, with a circular inset focusing on the bearing and axle area."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2653b1534f9b2e368fa903116b0b64892c97cfed",
+      "sha256": "7dae1013961f2179f01b59953bf9555d48126f652b2657ddf8dd0a192652d04a",
+      "bytes": 128560,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "garage-doors/blog-reuse-worn-garage-opener-drive-gear.webp",
+      "gallery": "garage-doors",
+      "public_metadata": {
+        "title": "Worn garage opener drive gear",
+        "alt": "Worn nylon gear inside a garage-door opener with an inset showing an intact gear.",
+        "caption": "The drive-gear comparison highlights damaged teeth.",
+        "description": "The opener housing is open to show the drive gear and adjacent motor components. A circular inset provides an intact-gear comparison."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "23d1c6bf147ebd715480bcd89322e9961f196d83",
+      "sha256": "57f76d43367f1bbf4029f513218ff74505f96eff178ad7553707e1a6db38ed32",
+      "bytes": 105178,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "heating/blog-reuse-heating-system-and-circuit-breaker-diagram.webp",
+      "gallery": "heating",
+      "public_metadata": {
+        "title": "Heating system and circuit breaker diagram",
+        "alt": "Diagram linking a thermostat, heating unit, blower, and circuit breaker with arrows and equipment callouts.",
+        "caption": "A thermostat, heating unit, blower, and breaker are shown in one diagram.",
+        "description": "The illustration uses arrows and labels to relate the thermostat call for heat, heating equipment, blower, and electrical breaker. A close-up inset shows glowing heating components."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "4e537fc112f7c5b2987ea409de9d501d750fe48d",
+      "sha256": "cf3252bf0d4b9332bad74c88bce697aa6cec9568951172b56a7a57579aa16067",
+      "bytes": 113430,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "heating/heating-003.jpg",
+      "gallery": "heating",
+      "public_metadata": {
+        "title": "Outdoor heat pump on a raised stand",
+        "alt": "Outdoor heat pump on a raised stand",
+        "caption": "Outdoor heat pump on a raised stand.",
+        "description": "Outdoor heat pump on a raised stand."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d56217ad0e22605c0bc48d960dac6e9f6898d970",
+      "sha256": "027487c2bcf94a5b1bc6e4673efa5e61eaf22cbb975981ba2849df098367a770",
+      "bytes": 124559,
+      "width": 1024,
+      "height": 683,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "heating/heating-009.jpg",
+      "gallery": "heating",
+      "public_metadata": {
+        "title": "Air handler and insulated ducts in an attic",
+        "alt": "Air handler and insulated ducts in an attic",
+        "caption": "Air handler and insulated ducts in an attic.",
+        "description": "Air handler and insulated ducts in an attic."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d401eb8b10a5fd1dc589532fc35689a32ccd9829",
+      "sha256": "4839ce466fd6ece02fca0776edeb2ee7d5fa03e6da77a5699eb5e8b62b9b696b",
+      "bytes": 375727,
+      "width": 1400,
+      "height": 1084,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "heating/heating-015.jpg",
+      "gallery": "heating",
+      "public_metadata": {
+        "title": "Dusty HVAC gas valve and wiring",
+        "alt": "Dusty HVAC gas valve and wiring",
+        "caption": "Dusty HVAC gas valve and wiring.",
+        "description": "Dusty HVAC gas valve and wiring."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d767d85fa1f7bf74db008e36b41a425d5bd8b136",
+      "sha256": "3cbcccc330ed53ee3e0d8f490f1faea3a216242850857c4ec9b6a3ec0fe87285",
+      "bytes": 88979,
+      "width": 1024,
+      "height": 778,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "heating/heating-016.jpg",
+      "gallery": "heating",
+      "public_metadata": {
+        "title": "Packaged rooftop HVAC unit",
+        "alt": "Packaged rooftop HVAC unit",
+        "caption": "Packaged rooftop HVAC unit.",
+        "description": "Packaged rooftop HVAC unit."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "1feb4e9de88fe5ed0754ee1f386d77d969d3985d",
+      "sha256": "6c9a5b7e1db125baa3c40833049ecba3dfe16aeb23f96479b5ae82f89d70ecb6",
+      "bytes": 140270,
+      "width": 996,
+      "height": 1100,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "holiday-lighting/044-mastersholidaylighting.jpg",
+      "gallery": "holiday-lighting",
+      "public_metadata": {
+        "title": "Home roofline outlined in white holiday lights",
+        "alt": "Home roofline outlined in white holiday lights",
+        "caption": "Home roofline outlined in white holiday lights.",
+        "description": "Home roofline outlined in white holiday lights."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "42258b784e876625b3f73c6eb96fedf5e51007f6",
+      "sha256": "7cf753ab4762382b59383505354f7e22f8717ce81c4ec46dedcb5de7bdff7334",
+      "bytes": 233015,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "holiday-lighting/047-mastersholidaylighting.jpg",
+      "gallery": "holiday-lighting",
+      "public_metadata": {
+        "title": "Tree wrapped in red and white lights",
+        "alt": "Tree wrapped in red and white lights",
+        "caption": "Tree wrapped in red and white lights.",
+        "description": "Tree wrapped in red and white lights."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e7e55594c9e0985de4bb15e43327612d113c592a",
+      "sha256": "e997d4817a7f2bc2252f48ac78d34f1c6568433b1a903b1677aa19b4b5238551",
+      "bytes": 162026,
+      "width": 800,
+      "height": 1067,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "holiday-lighting/063-lumosoutdoorlighting.jpg",
+      "gallery": "holiday-lighting",
+      "public_metadata": {
+        "title": "Pool landscape lighting limestone wall path lights",
+        "alt": "Pool landscape lighting limestone wall path lights",
+        "caption": "Pool landscape lighting limestone wall path lights.",
+        "description": "Pool landscape lighting limestone wall path lights."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "6a1833eba2fdfa0de48078a1f5a1b53e6b1fa889",
+      "sha256": "c711866b767a114d4431e6d491a762b59b52555175a0c9287ed699c3f2e9d21f",
+      "bytes": 355783,
+      "width": 1500,
+      "height": 630,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "holiday-lighting/074-lumosoutdoorlighting.jpg",
+      "gallery": "holiday-lighting",
+      "public_metadata": {
+        "title": "Backyard with an illuminated pool and outdoor seating",
+        "alt": "Backyard with an illuminated pool and outdoor seating",
+        "caption": "Backyard with an illuminated pool and outdoor seating.",
+        "description": "Backyard with an illuminated pool and outdoor seating."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "34d57f5cabf4bbd4ecd11e9d4c2b50f5db8150a7",
+      "sha256": "351f0b20c25bc012881450d78a128ceb3151480f93a4a1116a2f0b2b7ef59dca",
+      "bytes": 353107,
+      "width": 1500,
+      "height": 630,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac-heating-additions/hvac-heat-002.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "White buildup on an air conditioning coil",
+        "alt": "White buildup on an air conditioning coil",
+        "caption": "White buildup on an air conditioning coil.",
+        "description": "White buildup on an air conditioning coil."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "20b29f7d7587ec8e878fa350e8aa25710544928e",
+      "sha256": "707c68854431a6bbc254a62500a1fd0567782d4a84c7b0201ec7d4ae9b69dfc2",
+      "bytes": 208271,
+      "width": 825,
+      "height": 1100,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-001.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Packaged rooftop HVAC unit",
+        "alt": "Packaged rooftop HVAC unit",
+        "caption": "Packaged rooftop HVAC unit.",
+        "description": "Packaged rooftop HVAC unit."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "1e74b6dd71895e21163370860f80952cc426cb48",
+      "sha256": "0a1f0b8342078c991e055c1de8f78aa0a6df06f98ebd957095242ebc9f29a03b",
+      "bytes": 194594,
+      "width": 1500,
+      "height": 600,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-009.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Rooftop air conditioning condensers",
+        "alt": "Rooftop air conditioning condensers",
+        "caption": "Rooftop air conditioning condensers.",
+        "description": "Rooftop air conditioning condensers."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e1488b3806151ff6e511cbd1aedec22f719779bc",
+      "sha256": "be3f8b8190663133de2758d8db2f0790dd02120570c8f7c24f7a1f6425a70590",
+      "bytes": 126293,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-017.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Dust buildup on air vent grille",
+        "alt": "Dust buildup on air vent grille",
+        "caption": "Dust buildup on air vent grille.",
+        "description": "Dust buildup on air vent grille."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "a37dc12134934c36357c959df22d326140272b9d",
+      "sha256": "44351b682b8737c031a297b65d444b75f3c50e9bdf3280ef29ed6b6c67384952",
+      "bytes": 223329,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-024.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Wall mounted ductless air conditioner",
+        "alt": "Wall mounted ductless air conditioner",
+        "caption": "Wall mounted ductless air conditioner.",
+        "description": "Wall mounted ductless air conditioner."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2c7e529f74223b65012ce3506d3dc530b2c5761b",
+      "sha256": "9c691fafe1b052892ec5ec14fb5f666d654dad535fa60d8f56575f6c171c457c",
+      "bytes": 43044,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-031.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Basement furnace and insulated ductwork",
+        "alt": "Basement furnace and insulated ductwork",
+        "caption": "Basement furnace and insulated ductwork.",
+        "description": "Basement furnace and insulated ductwork."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "101a49f2f106c2e1d7268197c9b2d1caec4fdeec",
+      "sha256": "2a8ac9e6df82d22104fdf965abd141407b37711f23b31508448d6bdf362905bd",
+      "bytes": 164714,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-034.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Exterior gas meter and supply piping",
+        "alt": "Gas meter, shutoff and supply piping installed beside an exterior wall",
+        "caption": "Exterior gas meter and supply piping.",
+        "description": "Gas meter, shutoff and supply piping installed beside an exterior wall."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "b8c772f5a131b1d63d76985774e292b670483b36",
+      "sha256": "aa7492aa26cdeb88050b020975a043d5b95f2f60b966f73e6bc61d46628c895e",
+      "bytes": 233116,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-035.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "HVAC condensate drain and piping",
+        "alt": "Condensate drain piping and plumbing connections beneath HVAC equipment",
+        "caption": "HVAC condensate drain and piping.",
+        "description": "Condensate drain piping and plumbing connections beneath HVAC equipment."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e2b432b2f3fa26598992dd029735adba22cf6fc0",
+      "sha256": "eb2493c424d2d5ed155d7c744bfa3c28259cbf4b217dca138367ce4c68a21e9a",
+      "bytes": 133973,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-039.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Dirty and clean air filters near a furnace",
+        "alt": "Dirty and clean air filters near a furnace",
+        "caption": "Dirty and clean air filters near a furnace.",
+        "description": "Dirty and clean air filters near a furnace."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "809faadac8a80664ca4c9ce6864f3d2054457d87",
+      "sha256": "38dfa344a3d74d05f16d8adca9458849eec588fdf047c455540fb2d2a6db8de0",
+      "bytes": 85668,
+      "width": 899,
+      "height": 507,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-050.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Furnace and metal ventilation ducts",
+        "alt": "Furnace and metal ventilation ducts",
+        "caption": "Furnace and metal ventilation ducts.",
+        "description": "Furnace and metal ventilation ducts."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f23fab62124145ac90885faace8115de7b58cdfa",
+      "sha256": "e8564b7d280b88f1751f770987617dd1521c8d1c1ab2c1cb9d88443b0c17b66d",
+      "bytes": 228228,
+      "width": 1456,
+      "height": 816,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-058.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Commercial rooftop air conditioning units",
+        "alt": "Rows of air conditioning condensers installed on a commercial rooftop",
+        "caption": "Commercial rooftop air conditioning units.",
+        "description": "Rows of air conditioning condensers installed on a commercial rooftop."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "8353aa84e8449ba45ef2576f408676467f40c312",
+      "sha256": "a89398973f485ba1bf351fdd5a34871cd3fa7915034e1f78d7249c82aa7e6d1d",
+      "bytes": 153784,
+      "width": 900,
+      "height": 624,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-068.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Rooftop air conditioning equipment and ducts",
+        "alt": "Rooftop air conditioning equipment and ducts",
+        "caption": "Rooftop air conditioning equipment and ducts.",
+        "description": "Rooftop air conditioning equipment and ducts."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "676de58e5eefe87b3dab7eef238becc95927236f",
+      "sha256": "134eccad8e1dffaa73d73ce6f2412b0a22bcee04dbad148e997411a1d94ebe46",
+      "bytes": 88926,
+      "width": 640,
+      "height": 480,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-189.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Refrigerant pressure gauges on an air conditioning condenser",
+        "alt": "Refrigerant pressure gauges on an air conditioning condenser",
+        "caption": "Refrigerant pressure gauges on an air conditioning condenser.",
+        "description": "Refrigerant pressure gauges on an air conditioning condenser."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "63b4df73d59657747bf3be3fb0b3c0c9fac6327f",
+      "sha256": "da9b2338c5f613a6e02f3bbb14879e45afeff464516e2a3c589caa760c607a26",
+      "bytes": 146697,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "hvac/hvac-203.jpg",
+      "gallery": "hvac",
+      "public_metadata": {
+        "title": "Packaged HVAC unit and condensers on a flat roof",
+        "alt": "Packaged HVAC unit and condensers on a flat roof",
+        "caption": "Packaged HVAC unit and condensers on a flat roof.",
+        "description": "Packaged HVAC unit and condensers on a flat roof."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "ca0ca97ab77e90f34013112257987d50c2329215",
+      "sha256": "d0e02af987da62fb286be21dcf3ed04e9d025c97ac9e37dc1a66e4e656f02dc6",
+      "bytes": 160925,
+      "width": 1200,
+      "height": 823,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-ant-colony-and-entry-route-into-a-kitchen.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Ant colony and entry route into a kitchen",
+        "alt": "Illustration of ant colony and entry route into a kitchen",
+        "caption": "Ant colony and entry route into a kitchen.",
+        "description": "Illustration of ant colony and entry route into a kitchen."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "7d54faf60ec5d0682861705b7f68ba6eae409d21",
+      "sha256": "2f68bc0053c0da866d5d0c1b65213a6ffa807ff91f783ca3d1f7143c332875de",
+      "bytes": 142734,
+      "width": 1024,
+      "height": 577,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-cockroach-hiding-areas-in-a-kitchen-and-around-a-drain.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Cockroach hiding areas in a kitchen and around a drain",
+        "alt": "Illustration of cockroach hiding areas in a kitchen and around a drain",
+        "caption": "Cockroach hiding areas in a kitchen and around a drain.",
+        "description": "Illustration of cockroach hiding areas in a kitchen and around a drain."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "bd302c0413c8c48c29c5f9a2061eb14b4fae071f",
+      "sha256": "1a6ecfa820591975dd49c4774f33d98d4e2d1156057d49d33b5eed8cf7e40639",
+      "bytes": 68618,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-exterior-pest-prevention-around-a-house.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Exterior pest prevention around a house",
+        "alt": "Illustration of exterior pest prevention around a house",
+        "caption": "Exterior pest prevention around a house.",
+        "description": "Illustration of exterior pest prevention around a house."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "624e5c49532e71b471fe8ac0f5ab3d9363d66402",
+      "sha256": "2794578bf36cdf38fc5937fac5657b64233643603173f5a833adfd6501773b33",
+      "bytes": 178558,
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-fire-ant-mound-beside-a-garden.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Fire ant mound beside a garden",
+        "alt": "Illustration of fire ants and a soil mound beside a garden bed",
+        "caption": "Fire ant mound beside a garden bed.",
+        "description": "Illustration of fire ants and a soil mound beside a garden bed, with a Supremacy Services equipment bag in the background."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "71eff97246d1b81ec4b6c53704f2a985127bc639",
+      "sha256": "8169f5b00e3e60f4c678a266bcddb578c1acfe5f24139593ab6072dd7ad8d94e",
+      "bytes": 135906,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-foundation-gaps-around-a-house.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "House exterior with utility penetrations",
+        "alt": "House exterior with an air conditioner, utility penetrations, a doorway and landscaping",
+        "caption": "House exterior with utility penetrations and landscaping.",
+        "description": "Illustration of a house exterior with an air conditioner, utility penetrations, a doorway and landscaping."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "5bd8d239a76a863a7a6f1d13cb44f89295e67c8e",
+      "sha256": "91c846ed0e11acaf613039704a3401d7a491f2f09b2b148b22f260b0d2f4f6b9",
+      "bytes": 146894,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-home-drainage-and-foundation-clearance.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Home drainage and foundation clearance",
+        "alt": "Illustration of home drainage and foundation clearance",
+        "caption": "Home drainage and foundation clearance.",
+        "description": "Illustration of home drainage and foundation clearance."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "03b9c18ca6873eff4014c18e8e9d25d0629c8013",
+      "sha256": "03e592101891bb290887708b5a118efb3bb292dce0f60b9cf07426539dd1cb78",
+      "bytes": 217594,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-interior-and-exterior-pest-control-illustration.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Interior and exterior pest control",
+        "alt": "Illustration comparing exterior, interior and combined pest control around a house",
+        "caption": "Interior, exterior and combined pest control illustrated around a house.",
+        "description": "Illustration comparing exterior, interior and combined pest control areas around a house."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "cca1373dd132d195652285ab7cf425998748bebf",
+      "sha256": "48f689119672b179eaa53e40910715f65403fc38c4cfef8984898d7edf3a0f39",
+      "bytes": 121722,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-mosquito-life-cycle-illustration.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Mosquito life cycle",
+        "alt": "Illustration of mosquito eggs, larvae, pupae and an adult",
+        "caption": "Illustrated stages of the mosquito life cycle.",
+        "description": "Illustration showing the egg, larva, pupa and adult stages of the mosquito life cycle."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "1565305306126e12f3d81cf11ecb6db5a82608c2",
+      "sha256": "87bdf3be07dac55aaa7be1240682a1787d335231c83ae7ab7f5f664f4430c3fa",
+      "bytes": 123542,
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-mosquito-resting-on-shaded-vegetation.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Mosquito resting on shaded vegetation",
+        "alt": "Illustration of mosquito resting on shaded vegetation",
+        "caption": "Mosquito resting on shaded vegetation.",
+        "description": "Illustration of mosquito resting on shaded vegetation."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "7f67c4b08253232a29b3b13cd092cbee0550b184",
+      "sha256": "f28d19353334457ac3482f676b2552813952b64d7e09810a3f25f514e918ce8a",
+      "bytes": 97590,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-pest-entry-points-around-a-house.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Pest entry points around a house",
+        "alt": "Illustration of pest entry points around a house",
+        "caption": "Pest entry points around a house.",
+        "description": "Illustration of pest entry points around a house."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "6c2dc30f02195e25b958bd92f72ec639a91f65ed",
+      "sha256": "c35c3f5bb3dd0a66f17e3fa96a3c230a87b96369d84c7b955005efeb2dbfc8de",
+      "bytes": 169060,
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-pest-prevention-around-a-home.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Pest prevention around a home",
+        "alt": "Illustration of pest prevention around a home",
+        "caption": "Pest prevention around a home.",
+        "description": "Illustration of pest prevention around a home."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "245e69536fac19d74d8c70f48b69ee014715f4f0",
+      "sha256": "112295bb38f5c2c6809f9bfe39b4093a89445000c6c797e13bcbd4069a95caa6",
+      "bytes": 144900,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-rainwater-collecting-around-a-backyard.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Rainwater collecting around a backyard",
+        "alt": "Illustration of rainwater collecting around a backyard",
+        "caption": "Rainwater collecting around a backyard.",
+        "description": "Illustration of rainwater collecting around a backyard."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "407de0ce66a2581fbea8ef6967a9a81b51c10a82",
+      "sha256": "9c1beb4ab1708e81ee7053b48c3a5ac8dda502e81b2bc5acff74db75541ef7bf",
+      "bytes": 152862,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-scorpion-on-landscaping-stones.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Scorpion on landscaping stones",
+        "alt": "Illustration of a scorpion among stones beside a house",
+        "caption": "Scorpion among landscaping stones beside a house.",
+        "description": "Illustration of a scorpion among landscaping stones beside a house."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "33e5b3097dfdc4114e8bfce562a741da6aaf38a9",
+      "sha256": "98473b88690699ac7702bbdc95b78111ecfcb4e78dd9bb5e7df3c026eeaf9861",
+      "bytes": 118926,
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-spider-webs-around-roof-eaves.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Porch light and spider web beneath an eave",
+        "alt": "Illustration of a spider web and insects beside a lit porch lantern",
+        "caption": "Spider web and insects beside a porch light.",
+        "description": "Illustration of a spider web beneath a roof eave beside a porch light."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "ebb8b5db2e4dc755597c4f76cdc641ea9fa35a1d",
+      "sha256": "069c10dcc8bec08fa1ec72355069ea06d5bc3c693613fd01564302df71d1732c",
+      "bytes": 65894,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-standing-water-in-backyard-containers.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Standing water in backyard containers",
+        "alt": "Illustration of standing water in backyard containers",
+        "caption": "Standing water in backyard containers.",
+        "description": "Illustration of standing water in backyard containers."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "6800c26385275f14e6985d847f47789aefff073f",
+      "sha256": "c48f5a2033931cf9cb639c1ab4ba12b5fbd8467d6194a437c48c679b93e1873a",
+      "bytes": 140942,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-termite-mud-tube-along-a-foundation.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Termite mud tube along a foundation",
+        "alt": "Illustration of termite mud tube along a foundation",
+        "caption": "Termite mud tube along a foundation.",
+        "description": "Illustration of termite mud tube along a foundation."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "687dc31ffa05620f0013ad33dfe617072b5ea42b",
+      "sha256": "ac610f3aa2b28f589407dfeecad6b92e79b0c811f7ac5ba77400027f659df159",
+      "bytes": 141358,
+      "width": 1024,
+      "height": 576,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/blog-reuse-termite-mud-tube-with-termites-inside.webp",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Termite mud tube with termites inside",
+        "alt": "Illustration of termite mud tube with termites inside",
+        "caption": "Termite mud tube with termites inside.",
+        "description": "Illustration of termite mud tube with termites inside."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "b316acd43360978ef664f5e18cfa6e9f477c61e1",
+      "sha256": "dffde3556c741d91f6d30b9093c220b14be12ad1b444053bbc0001d78494266c",
+      "bytes": 128764,
+      "width": 1024,
+      "height": 573,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-001.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Damaged wood beneath exterior siding",
+        "alt": "Damaged wood beneath exterior siding",
+        "caption": "Damaged wood beneath exterior siding.",
+        "description": "Damaged wood beneath exterior siding."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2bb7cccc7948b82d801ec56da9c37942232db3e8",
+      "sha256": "ca681591fded8c3e3d12ff21a6a6884b39cb067887ab9e0fee2c5c54bd366ec3",
+      "bytes": 718640,
+      "width": 2016,
+      "height": 1512,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-005.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Mouse on a wooden surface",
+        "alt": "Mouse on a wooden surface",
+        "caption": "Mouse on a wooden surface.",
+        "description": "Mouse on a wooden surface."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d9047502f15c9daaa8cbd372ef998220acd04081",
+      "sha256": "7b678d0d4d33ff0839b67cd9a4670c3587dca85adcbe4948913f735bfc051326",
+      "bytes": 73272,
+      "width": 1100,
+      "height": 369,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-022.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Mosquito resting on a green leaf",
+        "alt": "Mosquito resting on a green leaf",
+        "caption": "Mosquito resting on a green leaf.",
+        "description": "Mosquito resting on a green leaf."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "1e2ed92f6566df4bd46df00a9ee529689bbd6a65",
+      "sha256": "09caa1671e916571b68927fa1bb38514d9d04db5248159b6da45f041230e340e",
+      "bytes": 51768,
+      "width": 808,
+      "height": 330,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-024.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Termites and shed wings",
+        "alt": "Termites and shed wings",
+        "caption": "Termites and shed wings.",
+        "description": "Termites and shed wings."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "7c5526925879438113ac8566f14a6b38b701f7e5",
+      "sha256": "b22bdceec87c554c45aca77c5e9a86054203657deb37ef6a122a1f19d49592cd",
+      "bytes": 127972,
+      "width": 2760,
+      "height": 895,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-026.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Shed insect wings",
+        "alt": "Shed insect wings",
+        "caption": "Shed insect wings.",
+        "description": "Shed insect wings."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "5b2d7d100ca71184a36ee89f517ad85e7b0236a0",
+      "sha256": "c18b4949dc4e64307d3d0a8f0ada498f78b6c2bdf1c33ec1c8d9c5fb3810a087",
+      "bytes": 601898,
+      "width": 2560,
+      "height": 1707,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-034.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Cockroach close-up",
+        "alt": "Close-up of a cockroach showing its antennae and legs",
+        "caption": "Cockroach close-up.",
+        "description": "Close-up of a cockroach showing its antennae and legs."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "11904753569edda7c510059b47910382669dee27",
+      "sha256": "89472c74e21a892c96f53081c7d17235d38141a3eca86fb0a5dd40c7f9c19e04",
+      "bytes": 93815,
+      "width": 640,
+      "height": 480,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-035.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Termites in damaged wood",
+        "alt": "Close-up view of termites in tunnels through damaged wood",
+        "caption": "Termites in damaged wood.",
+        "description": "Close-up view of termites in tunnels through damaged wood."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "9b1c8d1941b6cec5af01d0c2fe5c982272c10b8a",
+      "sha256": "5dc1aa3a797689cef20ff9ace949c8840b3e8c01c436ec8231b57accadb4e38f",
+      "bytes": 141182,
+      "width": 640,
+      "height": 426,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-036.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Odorous house ant close-up",
+        "alt": "Close-up of an odorous house ant on a light surface",
+        "caption": "Odorous house ant close-up.",
+        "description": "Close-up of an odorous house ant on a light surface."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e61154d0f180957fc077bad1b42c6a82a9ec2bd5",
+      "sha256": "ee37dbe902da64bca9eeb5920bee481f41107bb6f109aa41778bf53e8aed13f8",
+      "bytes": 73188,
+      "width": 799,
+      "height": 555,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-040.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Collection of insect illustrations",
+        "alt": "Collection of insect illustrations",
+        "caption": "Collection of insect illustrations.",
+        "description": "Collection of insect illustrations."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e80f1646fff1292939dd6b242382e358062a5f52",
+      "sha256": "3d5def07f752dfc3d250e1ea066725f9e422c6b1dd018709df92d1ae25c85a34",
+      "bytes": 227565,
+      "width": 1800,
+      "height": 1167,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-053.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Eclipse Mosquito Trap In Yard",
+        "alt": "Eclipse Mosquito Trap In Yard",
+        "caption": "Eclipse Mosquito Trap In Yard.",
+        "description": "Eclipse Mosquito Trap In Yard."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "cc7cb5e7bdb9041907d02c546d385809aea86460",
+      "sha256": "9e34fb6b80ad86e85910a8eebea65fa24096da822495314e6b1e08aad37629d5",
+      "bytes": 152627,
+      "width": 740,
+      "height": 493,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-060.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Fire ants",
+        "alt": "Fire ants",
+        "caption": "Fire ants.",
+        "description": "Fire ants."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0d166d8eb281f62bebb7b9d9ee10c3a3912d0f6e",
+      "sha256": "8f2e76d562d86c1b9a3d90315fef19bc0b526fe9e7a68a8ba3ebbcbe297766be",
+      "bytes": 115559,
+      "width": 800,
+      "height": 600,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-065.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Ants crawling under door crack",
+        "alt": "Ants crawling under door crack",
+        "caption": "Ants crawling under door crack.",
+        "description": "Ants crawling under door crack."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "b0e49bbdc6900e6da73b1aa9f8ef78966ab7c01c",
+      "sha256": "775af0a9ca8c912bd8e16a37f4a71ff53ebcb96a10c18269493565c92981730f",
+      "bytes": 31530,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-073.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Ant trap",
+        "alt": "Ant trap",
+        "caption": "Ant trap.",
+        "description": "Ant trap."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f8cfffab1ffb384a53b34db3afb88458345df714",
+      "sha256": "20837fdeff3bb8d3e24cbe06d9ff6804656d161e91d5648fa6b077416595b4e4",
+      "bytes": 51098,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-075.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Fire Ant Mound",
+        "alt": "Fire Ant Mound",
+        "caption": "Fire Ant Mound.",
+        "description": "Fire Ant Mound."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "a1468f2de5514d96b063daa0eb6130efb8acd1c2",
+      "sha256": "027023b7334591c36abbeebe9f7866ae0571c5a8bd74f44626a32533b826e20a",
+      "bytes": 90945,
+      "width": 600,
+      "height": 413,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-088.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Hole in foundation ant infestation",
+        "alt": "Hole in foundation ant infestation",
+        "caption": "Hole in foundation ant infestation.",
+        "description": "Hole in foundation ant infestation."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "1ca259d5762f627093320ae15f356c1c85d7ef23",
+      "sha256": "63291b937f8fbb7bf3def71e8d2b93ab4c59375f1eb0b26a96ec1b765beaef62",
+      "bytes": 57274,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-138.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Fire ant nest",
+        "alt": "Fire ant nest",
+        "caption": "Fire ant nest.",
+        "description": "Fire ant nest."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "07805fd391370070d7eb72211e3ff84f22fc8d2e",
+      "sha256": "6eb94385c056722d84fe68b44d14493c204ae5a58d8847669b4e46b5a73496d2",
+      "bytes": 99512,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-154.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Hotel bed",
+        "alt": "Hotel bed",
+        "caption": "Hotel bed.",
+        "description": "Hotel bed."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "76aefd42a8b706238bf7603a1182a672aa4ded18",
+      "sha256": "f32cb894221fd055975feeae83d5f65e10ce52b27e62d27467685e017dc59509",
+      "bytes": 17097,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-162.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Bed bug on fabric",
+        "alt": "Bed bug on fabric",
+        "caption": "Bed bug on fabric.",
+        "description": "Bed bug on fabric."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "98c6e3c6396223d635736fb1fcc0b4c7f207b6b2",
+      "sha256": "b121599cb746b7854ec651f608fe96e6a04a43f7c95d3e6241d9d7760e5ae416",
+      "bytes": 45400,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-163.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Infested mattress",
+        "alt": "Infested mattress",
+        "caption": "Infested mattress.",
+        "description": "Infested mattress."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "5e964bc61e55d37a65839fa377d9dd2787748f85",
+      "sha256": "4bbb1b8a946118412b852ec3232e304d8e12b43d34cb01318eb5652c030a18a6",
+      "bytes": 66451,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-174.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Bed bug infestation on bed frame",
+        "alt": "Bed bug infestation on bed frame",
+        "caption": "Bed bug infestation on bed frame.",
+        "description": "Bed bug infestation on bed frame."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "6e2ba349aff187966bd91c303ccaa6f36df2ad58",
+      "sha256": "c4adb048516560e77dced5b875b5b6445993763fbd8a4c7fccc8aac73a9075b8",
+      "bytes": 125273,
+      "width": 800,
+      "height": 532,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-175.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Bed bug detector",
+        "alt": "Bed bug detector",
+        "caption": "Bed bug detector.",
+        "description": "Bed bug detector."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0de69cd37a26e65fd3e88e0ad9bf163e9f95bdf4",
+      "sha256": "813a6e8da6dd77b43fb50d664ffa4736ade7c8c32ccd0f011a841340211d38dd",
+      "bytes": 30687,
+      "width": 600,
+      "height": 401,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-199.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Bed bugs in mattress crevice",
+        "alt": "Bed bugs in mattress crevice",
+        "caption": "Bed bugs in mattress crevice.",
+        "description": "Bed bugs in mattress crevice."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "7db3d7b57ac78b08c45650a340f94d41cb4d2986",
+      "sha256": "5bf42524696a51b0f743648238d199d8650e6353e879cbb9e578ed222695e519",
+      "bytes": 48295,
+      "width": 600,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-202.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Rat beside wooden framing",
+        "alt": "Dark-furred rat beside wooden framing in a sheltered space",
+        "caption": "Rat beside wooden framing.",
+        "description": "Dark-furred rat beside wooden framing in a sheltered space."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "37f7d8f8ae56b80e7324ee5ac212344e86c0bd42",
+      "sha256": "d530f981a7f28dda27a75e4cd031cc4a4aca6115424173ae511a460cb80e1bee",
+      "bytes": 165754,
+      "width": 1000,
+      "height": 665,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-220.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Squirrel at a soffit opening",
+        "alt": "Squirrel emerging through an opening in a perforated soffit",
+        "caption": "Squirrel at a soffit opening.",
+        "description": "Squirrel emerging through an opening in a perforated soffit."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "b5b99ccb91cc17c16760835748e0a43272d75232",
+      "sha256": "de4fab0b262f9cd194745adaedd435af988b28d8f5a0a4f6864de293de61d561",
+      "bytes": 48227,
+      "width": 957,
+      "height": 679,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-224.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Chimney Cap",
+        "alt": "Chimney Cap",
+        "caption": "Chimney Cap.",
+        "description": "Chimney Cap."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "6e6b3a07221f5e5fc8c8cf1b55313cae646cb662",
+      "sha256": "626c5a484ef58f74e2933e300e9b37cb3cd2cd42f8944b6793f56bf7acc62b46",
+      "bytes": 259430,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-234.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Wildlife nesting area in an attic",
+        "alt": "Roof framing, insulation and nesting material inside an attic",
+        "caption": "Wildlife nesting area in an attic.",
+        "description": "Roof framing, insulation and nesting material inside an attic."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "92cb107b9de514703c03288925a788d4cfe1cbf3",
+      "sha256": "c4241d391dd757196ccf24f92575649e0bab428117df8b18f8ea9557e2b8b464",
+      "bytes": 957381,
+      "width": 1920,
+      "height": 2560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-237.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Gap beneath a gutter joint",
+        "alt": "Gap beneath a gutter joint",
+        "caption": "Gap beneath a gutter joint.",
+        "description": "Gap beneath a gutter joint."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2ca0f6b0f344d953a0959d9519f3915916f7ed9c",
+      "sha256": "90b12392e2755fa751c5332199a3bb34ce9aed8c89dafc37fdeaaa2165f3584d",
+      "bytes": 325004,
+      "width": 2016,
+      "height": 1512,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-247.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Raccoon behind a circular vent grille",
+        "alt": "Raccoon behind a circular vent grille",
+        "caption": "Raccoon behind a circular vent grille.",
+        "description": "Raccoon behind a circular vent grille."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "47e7274f002e4be6751bb39d6b0cc5b8a51ebf21",
+      "sha256": "bf7e264a8b01e8aca0d365edd567721bf1d349d222405cffe16403917708f734",
+      "bytes": 194111,
+      "width": 1080,
+      "height": 1434,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-248.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Raccoon on a roof near a satellite dish",
+        "alt": "Raccoon on a roof near a satellite dish",
+        "caption": "Raccoon on a roof near a satellite dish.",
+        "description": "Raccoon on a roof near a satellite dish."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "5494d88e784d78569321ea886c22f9ffb821d710",
+      "sha256": "33d92d1c4d9d77359307dbe1219fa7cbcb03a2dd354eec6d0dfb1c92943a12f5",
+      "bytes": 212263,
+      "width": 1080,
+      "height": 1434,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-257.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Crawlspace foundation vent",
+        "alt": "Foundation vent and surrounding crawlspace wall beneath a building",
+        "caption": "Crawlspace foundation vent.",
+        "description": "Foundation vent and surrounding crawlspace wall beneath a building."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "986852d53e241b7fa2355ed2f2e7b9750909a672",
+      "sha256": "cc535b412513f939e82c3731d4ce2f29d4eca8b2feadb8fdee21cbda0f748005",
+      "bytes": 216722,
+      "width": 1440,
+      "height": 1080,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-271.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Rat droppings in attic",
+        "alt": "Rat droppings in attic",
+        "caption": "Rat droppings in attic.",
+        "description": "Rat droppings in attic."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "3e711f64328743b63deb36d026bb675ee612c871",
+      "sha256": "4e9aa035c064551b5ac1c1fa4ef3bc79c1454a6a491285fb17be94b9c43b6bd5",
+      "bytes": 750525,
+      "width": 1920,
+      "height": 2560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-278.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Baby opossum in shower",
+        "alt": "Baby opossum in shower",
+        "caption": "Baby opossum in shower.",
+        "description": "Baby opossum in shower."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "c7df3da9fd3e4c847c455caec022615be0a30ea5",
+      "sha256": "00c160f9629c354304e7ae1dafeb7b71d82df922def4a980fbbcaea2fe3d3c5a",
+      "bytes": 37797,
+      "width": 756,
+      "height": 1008,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-283.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Mouse droppings in basement",
+        "alt": "Mouse droppings in basement",
+        "caption": "Mouse droppings in basement.",
+        "description": "Mouse droppings in basement."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "1d424c0739e002583a882f4f6512bc9d2a1176f3",
+      "sha256": "032b030fc2d820d94a2707396f8aff8df08206fb9c8e444748e0a9ade0eee91e",
+      "bytes": 60132,
+      "width": 800,
+      "height": 473,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-287.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Skunk Opossum Exclusion Hole After",
+        "alt": "Skunk Opossum Exclusion Hole After",
+        "caption": "Skunk Opossum Exclusion Hole After.",
+        "description": "Skunk Opossum Exclusion Hole After."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "82de1c09ef79dbdd9e1f5f72832387ce42935ae1",
+      "sha256": "6d3a214aa88e3885f240e02dfd5554ca0b803a8d6ec53fdff429f825f06305bd",
+      "bytes": 138632,
+      "width": 960,
+      "height": 540,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-290.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Raccoon insulation damage in attic",
+        "alt": "Raccoon insulation damage in attic",
+        "caption": "Raccoon insulation damage in attic.",
+        "description": "Raccoon insulation damage in attic."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "f3db92f16366def77abdc9ba35f0bbbda97a48ae",
+      "sha256": "4737cb53ee63f2b227e7eb02d9bfadeb4c8a8a1a1df32816c8fe4e795f147848",
+      "bytes": 936435,
+      "width": 1920,
+      "height": 2560,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "pest/pest-control-301.jpg",
+      "gallery": "pest",
+      "public_metadata": {
+        "title": "Wasp nest beneath a deck",
+        "alt": "Wasp nest attached beneath wooden deck framing",
+        "caption": "Wasp nest beneath a deck.",
+        "description": "Wasp nest attached beneath wooden deck framing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e850629878c23ba6581044c4795599d91fb9e1a0",
+      "sha256": "e58cf5b0459cc2655b10e11f797cc5c4316fc5926159b761ce3e5d5f720d2884",
+      "bytes": 470230,
+      "width": 1284,
+      "height": 1712,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/001-calunitedplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Water heater beside a tiled wall",
+        "alt": "Water heater and connected plumbing beside a tiled wall",
+        "caption": "Water heater beside a tiled wall.",
+        "description": "Water heater and connected plumbing beside a tiled wall."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "738f7e25d176845fed57d01558a28632db843672",
+      "sha256": "b8688e4a23efa46727c361eb1da3f13040b03f15da563a178a60618bd4db30a3",
+      "bytes": 43885,
+      "width": 616,
+      "height": 624,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/002-calunitedplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Tankless water heater and plumbing connections",
+        "alt": "Tankless water heater and plumbing connections",
+        "caption": "Tankless water heater and plumbing connections.",
+        "description": "Tankless water heater and plumbing connections."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "fdde934f84d2311ad6e66295be3469679f40dc20",
+      "sha256": "0a6dc1b6e95b218813d2d8f0a3c1ff89b6045aa2d8764330ca6436b7f1b581e1",
+      "bytes": 36328,
+      "width": 616,
+      "height": 540,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/003-coastalplumbinghome.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "White pedestal sink with a dark faucet",
+        "alt": "White pedestal sink with a dark faucet",
+        "caption": "White pedestal sink with a dark faucet.",
+        "description": "White pedestal sink with a dark faucet."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d3addabf28ca175d5049d36aeabe18d6fc555482",
+      "sha256": "f5973423727ec76be0c90cdc974e8b3a203a3ce5707dcf98dd9e7d37ec42e135",
+      "bytes": 89389,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/004-coastalplumbinghome.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Exposed drain pipe in an excavated floor trench",
+        "alt": "Exposed drain pipe in an excavated floor trench",
+        "caption": "Exposed drain pipe in an excavated floor trench.",
+        "description": "Exposed drain pipe in an excavated floor trench."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "14dbfa7943c07be67958d18752ee55110ae2bd59",
+      "sha256": "dea00b31810feb88b7e3a935e195c24e9c80e3011787fb45c21cac84f15d1b46",
+      "bytes": 211689,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/007-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Whole-house water filter beside a home",
+        "alt": "Whole-house water filter tank installed beside a home's exterior wall",
+        "caption": "Whole-house water filter beside a home.",
+        "description": "Whole-house water filter tank installed beside a home's exterior wall."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "4568582beeb3eb23c5c3c4399649f413348c9a2a",
+      "sha256": "74d5f1976f819314e752f9014e8718869ef5bf87f8de3a577c28cd479856f278",
+      "bytes": 160054,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/008-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "ABS sewer cleanout and pipe couplings",
+        "alt": "Black ABS sewer cleanout joined to underground piping with shielded couplings",
+        "caption": "ABS sewer cleanout and pipe couplings.",
+        "description": "Black ABS sewer cleanout joined to underground piping with shielded couplings."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "200a61dd194f82c2b1ec9adcf36e7d6b3c63f47d",
+      "sha256": "947f3f9a16f14f973bb80f6d815c9d0cecb0b4ef1fa86b844a3192a5dc1a318c",
+      "bytes": 329383,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/011-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Gas supply line in open wall framing",
+        "alt": "Yellow gas supply line installed through open wall framing",
+        "caption": "Gas supply line in open wall framing.",
+        "description": "Yellow gas supply line installed through open wall framing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "5584fd23bb51801f4fbf5a07d574dcfa9c4b7ee6",
+      "sha256": "8e5179d211050d1eb5c80b05837da08af4cd8f36762dc2a8ba1e81288304d755",
+      "bytes": 178216,
+      "width": 937,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/012-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Plumbing rough-in in open framing",
+        "alt": "Water supply and drain lines installed through open wall and ceiling framing",
+        "caption": "Plumbing rough-in in open framing.",
+        "description": "Water supply and drain lines installed through open wall and ceiling framing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "73f7217d9618256625fe5df949f8ce4e590a3a98",
+      "sha256": "36d696140b6c30240dcc0ca7721279ae3d5a3a35bb5324083aa24db33f418796",
+      "bytes": 138212,
+      "width": 667,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/014-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Tankless water heater with copper connections",
+        "alt": "Tankless water heater and copper supply lines installed in an exterior utility closet",
+        "caption": "Tankless water heater with copper connections.",
+        "description": "Tankless water heater and copper supply lines installed in an exterior utility closet."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d38d1dd58b001b14f32a616730796df746115e2b",
+      "sha256": "e1ffd844494dfecda775156641099996b32885c44197e381fbb5ff795f5321d0",
+      "bytes": 90453,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/017-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Replacement sewer pipe in an excavation",
+        "alt": "Black sewer pipe connected with shielded couplings at the bottom of an excavation",
+        "caption": "Replacement sewer pipe in an excavation.",
+        "description": "Black sewer pipe connected with shielded couplings at the bottom of an excavation."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "a06990d9e5ddbdbdbe3c9c20c9d857942a9d7c5b",
+      "sha256": "33a765603beddd7f4ae5874906e32df58ffde4c5a3a84ef0de98f41ad610d333",
+      "bytes": 212476,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/019-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Access pit for underground sewer piping",
+        "alt": "Black sewer piping exposed in an access pit cut through a floor",
+        "caption": "Access pit for underground sewer piping.",
+        "description": "Black sewer piping exposed in an access pit cut through a floor."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "90dc7fa1d0b2abfa63494a0b482a053f479563d4",
+      "sha256": "91b1ab47fd2bb9534bfde11e3e621b7fd94deae54e9ece585393e9dec56c7770",
+      "bytes": 258093,
+      "width": 1200,
+      "height": 900,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/031-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Water pressure gauge on an outdoor faucet",
+        "alt": "Water pressure gauge connected to an outdoor hose faucet",
+        "caption": "Water pressure gauge on an outdoor faucet.",
+        "description": "Water pressure gauge connected to an outdoor hose faucet."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "b207b2046faae913a02506be962345e3d3bc7ff0",
+      "sha256": "caec8e958240d6d794f7c15289935649805c807a8b1eb08861aad0a0e8b05f9e",
+      "bytes": 180309,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/032-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Water pressure regulator and shutoff valve",
+        "alt": "Brass water pressure regulator and shutoff valve installed on an exterior water line",
+        "caption": "Water pressure regulator and shutoff valve.",
+        "description": "Brass water pressure regulator and shutoff valve installed on an exterior water line."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "a5c715968b5ba1c69b86b6d5a9ae0ccaef793259",
+      "sha256": "d5a957daf9f208f1a3426a4c71598d99b9b85ed5f6bedf9d2d17eed6921e880c",
+      "bytes": 195926,
+      "width": 750,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/033-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "PEX and copper pipe connection comparison",
+        "alt": "Diagram comparing flexible PEX tubing and a rigid copper pipe elbow around wall framing",
+        "caption": "PEX and copper pipe connection comparison.",
+        "description": "Diagram comparing flexible PEX tubing and a rigid copper pipe elbow around wall framing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "4e6e336da3ae486fb88ae075ff69ba0ccbce838c",
+      "sha256": "c9c7be09e078773951a94fa4b0b839e0a2b0163e6a79158c437089c9ad65534f",
+      "bytes": 69913,
+      "width": 1200,
+      "height": 805,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/034-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Slab leak beneath a concrete floor",
+        "alt": "Diagram showing a leaking water pipe beneath a concrete slab and a warm spot on the floor",
+        "caption": "Slab leak beneath a concrete floor.",
+        "description": "Diagram showing a leaking water pipe beneath a concrete slab and a warm spot on the floor."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2715060472c8fd2e1ea7c2e222905a4a993854cf",
+      "sha256": "706ac0fb143fe25147de79c24711295e728ad145926bcc390720ac2df7651b64",
+      "bytes": 61871,
+      "width": 1200,
+      "height": 805,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/037-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Toilet bubbling caused by a drain blockage",
+        "alt": "Diagram showing how a partial drain blockage can push air back into a toilet when a shower runs",
+        "caption": "Toilet bubbling caused by a drain blockage.",
+        "description": "Diagram showing how a partial drain blockage can push air back into a toilet when a shower runs."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "87a9c549363c55f879b553d4fefb1e682e77ca0f",
+      "sha256": "3301002507096fa56cef8bdb043e59079cc720331052a3d6826a0be67b53481a",
+      "bytes": 78261,
+      "width": 1200,
+      "height": 805,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/040-gallegosplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Tankless water heater flushing setup",
+        "alt": "Diagram showing a tankless water heater connected to flushing hoses, a pump and a bucket",
+        "caption": "Tankless water heater flushing setup.",
+        "description": "Diagram showing a tankless water heater connected to flushing hoses, a pump and a bucket."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "69244233b891fd7260aa23df2e8a4f0676ab0072",
+      "sha256": "8f8e9e6d7d2b2a03d06a2f06c9b1b9abfe548460a876fb2e2439fcbbf3e13b75",
+      "bytes": 49604,
+      "width": 806,
+      "height": 1000,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/058-expertplumbingca.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Chrome sink drain and P-trap",
+        "alt": "Polished chrome P-trap and drain connections beneath a bathroom sink",
+        "caption": "Chrome sink drain and P-trap.",
+        "description": "Polished chrome P-trap and drain connections beneath a bathroom sink."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "7f651a88c729b9fa372cecae2598b2e4adbbc06a",
+      "sha256": "6fd9ae038d6e54eb042c146351a083c49d85cef1a9bdfeb24ac252f6142628ba",
+      "bytes": 35434,
+      "width": 1024,
+      "height": 512,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/062-expertplumbingca.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Water flowing into a sink drain",
+        "alt": "Water flowing around a metal sink drain",
+        "caption": "Water flowing into a sink drain.",
+        "description": "Water flowing around a metal sink drain."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "8a9d49e53ec70faf384d99aaf95e27501ae5d9f5",
+      "sha256": "fe8880b5cc751fec5d8224412be681a731d08f7c4dcc957e8e16b22a49161817",
+      "bytes": 89491,
+      "width": 900,
+      "height": 500,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/063-expertplumbingca.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Shower control and bathtub spout",
+        "alt": "Shower control and bathtub spout",
+        "caption": "Shower control and bathtub spout.",
+        "description": "Shower control and bathtub spout."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "1daaa37fa21ebef3a9567f7d27f052c8be45d5e1",
+      "sha256": "b92850b02d14e140a2977ea8c37270b78eca65c413996812a5a91f420e442af9",
+      "bytes": 52298,
+      "width": 746,
+      "height": 691,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/122-reliantplumbing.jpg",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Toilet and toilet shut off valve side by side",
+        "alt": "Toilet and toilet shut off valve side by side",
+        "caption": "Toilet and toilet shut off valve side by side.",
+        "description": "Toilet and toilet shut off valve side by side."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "85aca1c3bfd2c52f05f4503932b8547c2abb715f",
+      "sha256": "cd85c8c91f702f89b78635a5dffc588bad3d03af7906a97e198310513511e496",
+      "bytes": 22759,
+      "width": 679,
+      "height": 400,
+      "format": "JPEG",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-buried-residential-water-supply-line.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Buried residential water supply line",
+        "alt": "Cutaway view of a blue water supply pipe beneath a lawn, with a connection rising toward a house.",
+        "caption": "A buried water supply line is shown beneath the lawn.",
+        "description": "The illustration shows the route and soil cover of a residential water supply pipe, including its vertical connection near the foundation."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "11fe7393c4d94962cf1d7ae2cb1e0a53e5c15554",
+      "sha256": "9ce167fef2ec57d0bd07e6e1177929b821f30cae7e7edbf0deace4dfb7b1d90f",
+      "bytes": 360680,
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-corroded-water-heater-leaking-at-its-base.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Corroded water heater leaking at its base",
+        "alt": "Water escaping near a corroded water-heater drain connection and pooling on the floor.",
+        "caption": "Water is pooling around the corroded heater base.",
+        "description": "The close-up shows rust along the lower tank and drain connection, with visible leakage and pooled water on the floor."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "ddc256d6259d14b0dbfadc6d38ec45e8d1319429",
+      "sha256": "59a36dc4c5c376ccc7639dee8eebaadd13fb0be4aad62ffe9a16cea0972ec08b",
+      "bytes": 120728,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-cracked-pool-plumbing-elbow.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Cracked pool plumbing elbow",
+        "alt": "Cracked white PVC elbow beside a pool pump, with water leaking onto the equipment pad.",
+        "caption": "A cracked PVC fitting is leaking beside the pool equipment.",
+        "description": "The image focuses on a split elbow fitting and escaping water near a pool pump, with frost on nearby surfaces."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "b7f77b24d3e27cb7923f095f82c40bfe8fd0acc1",
+      "sha256": "42c211ac4360622be2a57bff5922c46ba9c8567437f171597f9d74187f0194be",
+      "bytes": 125670,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-garbage-disposal-and-drain-components.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Garbage disposal and drain components",
+        "alt": "Labeled cutaway showing a garbage disposal grinding chamber, splash guard, dishwasher connection, discharge pipe, and P-trap.",
+        "caption": "The diagram identifies disposal parts and connected drain plumbing.",
+        "description": "Cutaway views show food residue and the internal disposal chamber, with labels for the major under-sink connections."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "df82f9e13c5403f857fe02d06e9e7e778218e495",
+      "sha256": "87f779e287418cc30d7a0b6f476f97d6ef7886f117603fce687af73919abd7a7",
+      "bytes": 141682,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-garbage-disposal-and-restricted-drain-pipe.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Garbage disposal and restricted drain pipe",
+        "alt": "Under-sink garbage disposal and P-trap with an inset showing buildup inside the drain line.",
+        "caption": "The disposal and trap are shown beside a drain-buildup inset.",
+        "description": "The image shows the installed disposal, dishwasher hose, and drain connections. A circular inset highlights material restricting the downstream pipe."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "46a9851414a2db1cc30df5decf29e825da85db8b",
+      "sha256": "e013657874bb178112c66f35b3ad46fa9d82b59f8af28dad58f1a6cd6b6e69fc",
+      "bytes": 104864,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-hidden-plumbing-leak-detection-tools.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Hidden plumbing leak detection tools",
+        "alt": "Thermal camera, acoustic listening equipment, moisture meter, and water meter arranged on a countertop.",
+        "caption": "Several types of plumbing leak-detection equipment are shown together.",
+        "description": "A thermal camera, headphones and listening probe, handheld moisture meter, and water meter are displayed beside a tool case. The image shows equipment only."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "c33db2f651cc5bd6e5c2077649d4ee7aa96ea0b4",
+      "sha256": "61e681fc0dd3ee1c7560c6f91b122cf5c9f74016550c015f028e900cb3ddec80",
+      "bytes": 129782,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-jammed-garbage-disposal-cutaway.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Jammed garbage disposal cutaway",
+        "alt": "Cutaway of a garbage disposal showing food scraps and a metal utensil lodged inside its grinding chamber.",
+        "caption": "The cutaway shows a utensil lodged inside a garbage disposal.",
+        "description": "An enlarged inset highlights the metal utensil and grinding mechanism inside an under-sink disposal. No hands or repair procedure are shown."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "67d05f76ea0b1cf0f161a38d9c192fe34b8faf3e",
+      "sha256": "58cdf755fc471f41674c112e32f41cc2bd2d31e9d2f37b30ff597c070df9d36d",
+      "bytes": 112298,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-leaking-pool-pump-connection.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Leaking pool pump connection",
+        "alt": "Pool pump and filter connected by white PVC plumbing, with a highlighted union leaking water.",
+        "caption": "A leaking connection is highlighted beside the pool pump.",
+        "description": "The image shows the pump, filter, and adjoining PVC pipes. An orange circle marks the union where water is escaping."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "05d153b93cd94831646100edcf5020c17f94afa2",
+      "sha256": "ef92cfbc042391f432906542cef02ebd94c68b56b249c3f574e7b2211ac0dc83",
+      "bytes": 168062,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-leaking-pool-pump-in-frosty-weather.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Leaking pool pump in frosty weather",
+        "alt": "Pool pump and strainer housing with water dripping onto the pad and frost nearby.",
+        "caption": "Water is leaking from the pump assembly onto the equipment pad.",
+        "description": "The image shows a pool pump, strainer lid, and PVC connection in cold-weather surroundings, with visible water leakage beneath the housing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "259428e18fb3e25d54d6056ad5a520a53a289c52",
+      "sha256": "f59132a17668a81076204abc0ba29ef697a83d076269aa28c2ab21d2ff7484db",
+      "bytes": 219308,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-old-water-heater-and-replacement-options.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Old water heater and replacement options",
+        "alt": "Old corroded tank water heater compared with clean tank and wall-mounted tankless heaters.",
+        "caption": "A corroded storage heater is compared with replacement equipment.",
+        "description": "The composite presents an older tank alongside storage and tankless water-heater options, with an arrow indicating replacement."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "c8d0a356c6dc503674a5bccb5e958d3e5d18070d",
+      "sha256": "36c77f56956192c904b93e96fb9904796fe7a5bb10e10a571065486820ed05e9",
+      "bytes": 118152,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-open-toilet-tank-components.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Open toilet tank components",
+        "alt": "Open toilet tank showing the fill valve, float, overflow tube, flapper, and flush chain.",
+        "caption": "The main operating parts are visible inside the toilet tank.",
+        "description": "The image shows the water-filled tank and its internal flush and refill mechanisms, with the lid removed and no hands present."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "23c2dbd38bf9e75564a9912c29ff405efe0e017d",
+      "sha256": "b8b722d9e3cb8f19c20a99c8a437e0063162af3454125c69515b793cac1a2e69",
+      "bytes": 98792,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-outdoor-plumbing-freeze-preparation-diagram.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Outdoor plumbing freeze preparation diagram",
+        "alt": "Labeled outdoor plumbing diagram showing a covered faucet, exposed pipe, garden hose, irrigation valves, and backflow assembly.",
+        "caption": "The diagram identifies outdoor plumbing components exposed to freezing weather.",
+        "description": "Callouts identify the hose bib, exposed pipe, irrigation backflow assembly, garden hose, and irrigation valve box beside a house. The illustration does not identify a certified backflow-device model."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "d4012fe2db4a4a43bccc0b948bad25a874251b05",
+      "sha256": "7b86bf036f350527ca54604d1bea55e203d7a8bc1e6c659dfc0d2c11716621b5",
+      "bytes": 274400,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-pex-and-copper-piping-in-wall-framing.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "PEX and copper piping in wall framing",
+        "alt": "Side-by-side views of flexible red and blue PEX piping and copper water pipes routed through wall framing.",
+        "caption": "PEX and copper water-supply layouts are compared in exposed framing.",
+        "description": "The image contrasts flexible PEX routing with rigid copper pipe runs inside residential wall framing."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2c4d712266c10945c7a8a9140b1a2b12f386f6d2",
+      "sha256": "8058d7f7fe1b840cc3c65cb284bcd47659175228a8975728487ef9e5554f517f",
+      "bytes": 124990,
+      "width": 1672,
+      "height": 940,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-pool-pump-freeze-protection-control.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Pool pump freeze-protection control",
+        "alt": "Pool pump with an attached display reading Freeze Protection On and frost on nearby surfaces.",
+        "caption": "The pump display shows freeze protection enabled.",
+        "description": "The close-up shows the pump, clear strainer lid, and a digital control displaying its freeze-protection state. No person or hand operates the controls."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "2388ccc25aa5f0d688491d3f78e491cc7a8e83a9",
+      "sha256": "3fa2d2193717128d0812c593f038f1f0233c009667a97b58fc7983b60cdddb5d",
+      "bytes": 186388,
+      "width": 1670,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-public-water-main-and-private-service-line.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Public water main and private service line",
+        "alt": "Labeled cutaway connecting a public water main, water meter, and private service line to a house.",
+        "caption": "The diagram separates the public main, meter, and private service line.",
+        "description": "Blue and orange pipe routes distinguish the public water main from the service line to the home. A meter is shown at their connection."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "0af5644de8077000d412c5f8d4adb0cd6fce9488",
+      "sha256": "5b45d655a88ad108740e5df6f287298b509e962f0567c3c2e0fc51545b88bd99",
+      "bytes": 288710,
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-residential-gas-meter-and-exterior-piping.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Residential gas meter and exterior piping",
+        "alt": "Gas meter, regulator, and connected metal pipes mounted beside a brick wall.",
+        "caption": "An exterior gas meter and piping are shown beside a home.",
+        "description": "The image provides a clear view of an outdoor gas meter, regulator, shutoff area, and metal gas piping against a brick wall."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e3e1cad3ddf1f40b0f94be94dcf701c174109837",
+      "sha256": "ab1daa0e7b57318c0882afdcbd73235b84f6056b1590b965f480181e80191180",
+      "bytes": 223896,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-residential-water-line-and-meter-cutaway.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Residential water line and meter cutaway",
+        "alt": "Cutaway illustration of a water meter and an underground blue supply pipe leaking beneath a front lawn.",
+        "caption": "A cutaway shows the meter and a leaking buried water supply line.",
+        "description": "The illustration follows a residential water line from the meter toward the house and shows water escaping from the pipe into soil."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "e49d4e32791b5b4dd4a776573d7581c5da0f4c9f",
+      "sha256": "53445e99ee2874f9efb092a01d8251a1cf881df39e8cf1cea53c5a87cc013a9d",
+      "bytes": 308646,
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-toilet-tank-water-entering-overflow-tube.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Toilet tank water entering overflow tube",
+        "alt": "Open toilet tank with a high water level and water flowing into the overflow tube.",
+        "caption": "Water flows into the overflow tube inside the open tank.",
+        "description": "The image shows the tank's fill valve, float, flapper, and overflow tube, with visible water entering the tube."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "384822c73f539575ffa38348faa58856d11dc12b",
+      "sha256": "86f3a6bbc46000931ca047143ca872042f3c285a1d24da899e4d7a28e8867aa9",
+      "bytes": 90988,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-trenchless-water-line-pipe-bursting.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Trenchless water line pipe bursting",
+        "alt": "Cutaway diagram showing a bursting head breaking an old pipe while a new blue water pipe is pulled into place.",
+        "caption": "A pipe-bursting diagram shows the old pipe, bursting head, and new water line.",
+        "description": "The diagram labels a bursting head, old pipe, new HDPE pipe, and winch system. Above-ground equipment and access pits are shown without people."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "c3ef4c51a7de03fb6245943957a52e1955c94461",
+      "sha256": "1026d435567232dddd5ae3312932a536a1f8f9e2c81cbc027d696a61a5331546",
+      "bytes": 501924,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-washing-machine-valves-and-water-hammer-arrestor.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Washing machine valves and water hammer arrestor",
+        "alt": "Hot and cold washing-machine supply valves with braided hoses and a cutaway of a water hammer arrestor.",
+        "caption": "Washing-machine supply hoses and a water hammer arrestor are shown together.",
+        "description": "The image shows two water supply valves and braided appliance hoses beside a washing machine. An inset depicts the cushioning chamber inside the attached arrestor."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "9370df9375c350af8ac9bec8fe4f11c67e223b4f",
+      "sha256": "ace782296c97a50866f4607d9432f0c703ec4546840242068f1e4f3e0707d2a6",
+      "bytes": 91300,
+      "width": 1671,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-water-heater-components-and-corroded-tank.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Water heater components and corroded tank",
+        "alt": "Comparison of electric water-heater controls and heating parts with a corroded tank leaking onto the floor.",
+        "caption": "Repairable heater parts are compared with a corroded leaking tank.",
+        "description": "The image shows a thermostat, heating element, and valve on one side, and a rusted tank base with pooled water on the other."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "34ccf9dc4203247efc87138552b1f141c16fae34",
+      "sha256": "14da906825c4fca4ae3a78aff6492cb75975dca4e1b946296a8186c7d9e9a4e2",
+      "bytes": 199572,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-water-line-rerouting-around-a-slab-leak.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Water line rerouting around a slab leak",
+        "alt": "Cutaway house diagram showing a replacement water line routed through walls and overhead framing around an under-slab leak.",
+        "caption": "The diagram shows a water-line route that bypasses the slab.",
+        "description": "A highlighted replacement pipe route runs through the house above a leaking under-slab water line, illustrating a repiping approach."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "8348cae655279fdcde6aefa5dbfec77e160f31b1",
+      "sha256": "811adc16750a327f9445ff57fda601a6dcf94131aee5e956280ad9036247e7ee",
+      "bytes": 161132,
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-wet-soil-and-pooling-water-in-a-lawn.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Wet soil and pooling water in a lawn",
+        "alt": "Water pooling in a muddy patch of grass near a residential walkway and utility cover.",
+        "caption": "A wet patch and pooled water are visible in the front yard.",
+        "description": "The image shows standing water and saturated soil in a residential lawn. It illustrates a visible condition that can prompt further leak investigation without identifying its cause."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "a4125552329731a751ddbbf3012742d7d849f1bb",
+      "sha256": "863ed9205e74a9dddcecddd051677e660517e3a4399e65c3502186d8a24448b2",
+      "bytes": 352148,
+      "width": 1344,
+      "height": 752,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-whole-house-water-supply-cutaway.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Whole-house water supply cutaway",
+        "alt": "Cutaway house diagram showing hot and cold water pipes serving bathrooms, the kitchen, and laundry equipment.",
+        "caption": "The cutaway shows water-supply routes to household fixtures.",
+        "description": "Colored pipe routes connect the home's water supply to several fixture groups, illustrating the scope of a whole-house repipe."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "395ffbb2e01d3cdb13b728ec9919d007ac619804",
+      "sha256": "b632fa867f6e91b5e7e785d1ee174db1146fd8fc1e9843f01093a4ef96db7c93",
+      "bytes": 243820,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    },
+    {
+      "file": "plumbing/blog-reuse-worn-and-seated-toilet-flappers.webp",
+      "gallery": "plumbing",
+      "public_metadata": {
+        "title": "Worn and seated toilet flappers",
+        "alt": "Side-by-side close-ups of a worn toilet flapper and a clean flapper seated over the flush opening.",
+        "caption": "A worn flapper is compared with a properly seated flapper.",
+        "description": "The comparison shows both flappers beside the overflow tube and chain, highlighting the condition of the sealing parts."
+      },
+      "reviewed_no_visible_people": true,
+      "review_date": "2026-11-24",
+      "git_blob_sha": "4a89772311f6d2e4de9877005b6af54981305f5a",
+      "sha256": "3c2669fd018f3d0e81cde302e756792d6fd6afd4c988ab2b7d87ca32fff41f0f",
+      "bytes": 96150,
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "animated": false
+    }
+  ]
+}

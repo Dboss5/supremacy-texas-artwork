@@ -1,5 +1,5 @@
 {
-  "count": 81,
+  "count": 112,
   "rules": [
     "No visible people",
     "No visible watermarks",
@@ -1221,6 +1221,657 @@
         "alt": "Grill garage door",
         "caption": "Grill garage door.",
         "description": "Grill garage door."
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-photo-eye-sensors.webp",
+      "title": "Garage Door Safety Sensor Alignment",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/blog-garage-door-wont-close-all-the-way/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Garage-Door-Safety-Sensor-Alignment.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage door photo-eye sensors",
+        "alt": "Two garage-door safety sensors mounted on opposite tracks with status lights and a highlighted alignment beam.",
+        "caption": "Photo-eye sensors face each other across the garage doorway.",
+        "description": "The image shows the sensor housings and mounting hardware near floor level. Illuminated indicators and a red line illustrate their alignment across the opening."
+      },
+      "reuse_provenance": {
+        "source_media_id": 21637,
+        "source_index": 1468,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "4fb99624a07206bbf172ab8efae772b46caac76f455171a27889c41a401b2d0c"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-broken-garage-door-torsion-spring.webp",
+      "title": "Broken Garage Door Torsion Spring",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-opens-a-few-inches-then-stops/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Broken-Garage-Door-Torsion-Spring.webp",
+      "width": 1672,
+      "height": 940,
+      "public_metadata": {
+        "title": "Broken garage door torsion spring",
+        "alt": "Garage-door torsion spring with a visible break and gap between its two sections above the door.",
+        "caption": "A visible gap separates the broken torsion spring.",
+        "description": "The close-up focuses on the damaged spring coils mounted on the shaft above a sectional garage door."
+      },
+      "reuse_provenance": {
+        "source_media_id": 21651,
+        "source_index": 1474,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "ee956ea81ed1f408d1eb5f901e34c9227c8b529ffd0b1a17cb0d2300c921ab35"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-cable-and-drum-comparison.webp",
+      "title": "Uneven Garage Door Cable Tension",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/why-is-my-garage-door-crooked/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Uneven-Garage-Door-Cable-Tension.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage door cable and drum comparison",
+        "alt": "Side-by-side views of cable drums, including a frayed lifting cable with loose wire strands.",
+        "caption": "The comparison shows an intact cable arrangement and a frayed lifting cable.",
+        "description": "Two close views show the cable drum and lifting cable beside the upper door hardware. Loose strands are visible on the damaged cable."
+      },
+      "reuse_provenance": {
+        "source_media_id": 21692,
+        "source_index": 1504,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "4ac606d10e7ae257cf55c286c61eae09978d593a6ee00231a354df429c832d7e"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-aligned-and-bent-garage-door-tracks.webp",
+      "title": "Proper Garage Door Track vs Bent Track",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-stuck-halfway-open/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Proper-Garage-Door-Track-vs-Bent-Track.webp",
+      "width": 1670,
+      "height": 941,
+      "public_metadata": {
+        "title": "Aligned and bent garage door tracks",
+        "alt": "Comparison of a roller seated in a straight track and a roller at a bent section of track.",
+        "caption": "Straight and bent garage-door tracks are compared.",
+        "description": "The diagram uses a check mark and warning cross to contrast aligned track hardware with a bent track that can interfere with roller travel."
+      },
+      "reuse_provenance": {
+        "source_media_id": 21702,
+        "source_index": 1512,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "1ab4858ab86cd901ffd977d0fa0f5db367bab7136bfc9f73a440213805c1dd40"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-worn-garage-door-roller-and-bearing.webp",
+      "title": "Worn Garage Door Roller Causing Grinding Noise",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-making-grinding-popping-squeaking-noise/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Worn-Garage-Door-Roller-Causing-Grinding-Noise.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Worn garage door roller and bearing",
+        "alt": "Close-up of a worn garage-door roller in its track with an enlarged inset of the bearing area.",
+        "caption": "A worn roller and bearing are highlighted in the track.",
+        "description": "The image shows dirt and wear around a garage-door roller, with a circular inset focusing on the bearing and axle area."
+      },
+      "reuse_provenance": {
+        "source_media_id": 21709,
+        "source_index": 1516,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "7dae1013961f2179f01b59953bf9555d48126f652b2657ddf8dd0a192652d04a"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-trolley-and-emergency-release.webp",
+      "title": "Garage Door Emergency Release and Opener Trolley",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-wont-open-after-power-outage/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Garage-Door-Emergency-Release-and-Opener-Trolley.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener trolley and emergency release",
+        "alt": "Ceiling-mounted garage-door opener with its rail, trolley connection, and red emergency-release cord.",
+        "caption": "The opener rail and red emergency-release cord are visible above the door.",
+        "description": "The image shows an installed overhead opener, rail hardware, and a red pull handle hanging from the trolley assembly."
+      },
+      "reuse_provenance": {
+        "source_media_id": 21735,
+        "source_index": 1535,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "bd53646c6f33bb5f388921cf70e1a838d9e6177bda9745b3a7af587368eea29b"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-intact-and-worn-garage-door-bottom-seals.webp",
+      "title": "Garage Door Bottom Seal Before and After Wear",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/dallas-freeze-garage-door-problems-check/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Garage-Door-Bottom-Seal-Before-and-After-Wear.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Intact and worn garage door bottom seals",
+        "alt": "Comparison of an intact black bottom seal and a cracked seal with a gap beneath the garage door.",
+        "caption": "An intact bottom seal is compared with cracked weatherstripping.",
+        "description": "The two-panel illustration contrasts a continuous seal at the floor with damaged rubber and an air gap beneath the door."
+      },
+      "reuse_provenance": {
+        "source_media_id": 21752,
+        "source_index": 1548,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "8cb005115003adf20db96b304fc3eb8a4e19396dc209efbec0ec72ee883b6a41"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-reinforcement-and-track-hardware.webp",
+      "title": "Garage Door Reinforcement and Track System",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/blog-can-high-winds-blow-in-garage-door/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Garage-Door-Reinforcement-and-Track-System.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage door reinforcement and track hardware",
+        "alt": "Interior of a sectional garage door showing horizontal reinforcement, tracks, hinges, and spring hardware.",
+        "caption": "The inside of the door shows its reinforcing and operating hardware.",
+        "description": "An interior view displays the garage door panels, horizontal supports, hinges, side tracks, and spring system above the opening."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22006,
+        "source_index": 1570,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "23d3340fd566972bb656531b096b3c9eca5ec1db5da69aebc72c17991be3f85e"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-bottom-seal-components.webp",
+      "title": "How a Garage Door Bottom Seal Works",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/pests-under-garage-door-bottom-seal/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/How-a-Garage-Door-Bottom-Seal-Works.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage door bottom seal components",
+        "alt": "Cutaway of a garage-door panel, bottom retainer, flexible rubber gasket, and concrete threshold.",
+        "caption": "The cutaway identifies the parts of a garage-door bottom seal.",
+        "description": "Callouts label the door panel, bottom retainer, flexible gasket, and concrete floor. Small pest symbols illustrate the seal's position at the opening."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22023,
+        "source_index": 1582,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "bfdc53b3949e0712fbe0148cb06a7bd5c16deb8cb2ad8e207fc960d150750ff3"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-damaged-garage-door-bottom-weather-seal.webp",
+      "title": "Worn Garage Door Bottom Seal Creating Pest Entry Gaps",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/pests-under-garage-door-bottom-seal/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Worn-Garage-Door-Bottom-Seal-Creating-Pest-Entry-Gaps.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Damaged garage door bottom weather seal",
+        "alt": "Torn and cracked rubber weatherstripping along the bottom of a white garage door.",
+        "caption": "Damaged rubber leaves gaps beneath the garage door.",
+        "description": "The close-up shows a deteriorated bottom gasket above the concrete threshold, including tears and irregular contact with the floor."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22022,
+        "source_index": 1583,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "a4c7bf8bbd2b9b2a43803f63b869cc921d0b44db790a3b3d93c43d93209366b9"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-torsion-spring-and-cable-drum.webp",
+      "title": "Residential Torsion Spring System Components",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/how-long-do-garage-door-springs-last-dallas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Residential-Torsion-Spring-System-Components.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage door torsion spring and cable drum",
+        "alt": "Close-up of a torsion spring, shaft, cable drum, and lifting cable above a sectional garage door.",
+        "caption": "The spring and cable drum are shown above the door.",
+        "description": "The image focuses on the counterbalance hardware, including the coiled spring, shaft, drum, cable, and mounting brackets."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22062,
+        "source_index": 1612,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "3f9d6dd78a9d94ccb6412453812b08ce9d3fd5c96729f9dca62c34b813da9e90"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-types-overview.webp",
+      "title": "Belt Drive vs. Chain Drive vs. Wall-Mount Garage Door Openers",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/belt-vs-chain-vs-wall-mount-garage-door-openers/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Belt-Drive-vs.-Chain-Drive-vs.-Wall-Mount-Garage-Door-Openers.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener types overview",
+        "alt": "Three-panel comparison of overhead belt-drive, chain-drive, and wall-mounted garage-door openers.",
+        "caption": "Belt-drive, chain-drive, and wall-mounted openers are shown together.",
+        "description": "The comparison shows installed opener housings, drive hardware, and a side-mounted unit beside the torsion shaft."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22069,
+        "source_index": 1617,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "45556e0e29dbff0ff95d91aca243db444c5d63317866e8507c389d3e0fc7b873"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-drive-mechanisms.webp",
+      "title": "Garage Door Opener Drive Types Compared",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/belt-vs-chain-vs-wall-mount-garage-door-openers/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Garage-Door-Opener-Drive-Types-Compared.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener drive mechanisms",
+        "alt": "Close views of a belt drive, metal chain drive, and wall-mounted garage-door opener.",
+        "caption": "The comparison highlights three garage-opener drive arrangements.",
+        "description": "Each panel focuses on the drive hardware or mounted unit, providing a closer view of the mechanisms used by the illustrated opener types."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22070,
+        "source_index": 1618,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "87ff9470f7834858bbda935e3cb460061760e10a14591780955ac06844957564"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-wall-mounted-garage-door-opener.webp",
+      "title": "Wall-Mount Garage Door Opener Installation",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/belt-vs-chain-vs-wall-mount-garage-door-openers/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Wall-Mount-Garage-Door-Opener-Installation.webp",
+      "width": 1671,
+      "height": 941,
+      "public_metadata": {
+        "title": "Wall-mounted garage door opener",
+        "alt": "Wall-mounted garage-door opener beside the torsion shaft, cable drum, and side of a sectional door.",
+        "caption": "A wall-mounted opener is installed beside the door shaft.",
+        "description": "The image shows the opener housing and connections on the wall near the upper side of the garage door, leaving the central ceiling area open."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22072,
+        "source_index": 1620,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "fb887c9df8576a64f59e2ba2dc043b87517beb3c59bcd3c90dab6c31135ad6e1"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-with-battery-backup.webp",
+      "title": "smart-garage-door-opener-battery-backup-dallas.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/is-smart-garage-door-opener-worth-it/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/smart-garage-door-opener-battery-backup-dallas.webp",
+      "width": 1671,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener with battery backup",
+        "alt": "Ceiling-mounted garage-door opener beside a battery-backup module with an illuminated battery symbol.",
+        "caption": "An overhead opener is shown with a battery-backup module.",
+        "description": "The image shows the opener housing, light, rail, and an adjacent backup-power module. No smartphone interface or wireless configuration is shown."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22424,
+        "source_index": 1627,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "58286e2b3f03e31c45d69c80c686cdc60ea838015318d43671a25b1ac868ac6f"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-dirty-and-clean-garage-safety-sensors.webp",
+      "title": "dirty-vs-clean-garage-door-sensors",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-sensors-not-working/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/dirty-vs-clean-garage-door-sensors.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Dirty and clean garage safety sensors",
+        "alt": "Side-by-side views of a dusty sensor covered with cobwebs and a clean garage-door photo-eye sensor.",
+        "caption": "Dirty and clean photo-eye sensors are compared.",
+        "description": "The image contrasts a sensor lens and housing obscured by dust and webs with a clean unit showing an illuminated indicator."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22431,
+        "source_index": 1631,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "d54bac96d37f47d4d3ab072db80fb7d6c9981d3e1e2aa5a3a31ca4f776f0963f"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-sensor-indicator-lights.webp",
+      "title": "garage-door-sensor-green-yellow-lights",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-sensors-not-working/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/garage-door-sensor-green-yellow-lights.webp",
+      "width": 1671,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage sensor indicator lights",
+        "alt": "Sending and receiving garage-door photo-eye sensors with amber and green indicator lights.",
+        "caption": "The sensor pair is shown with labeled status lights.",
+        "description": "A close view shows the two sensor housings on opposite door tracks. Labels distinguish the sending sensor from the receiving sensor."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22433,
+        "source_index": 1633,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "541b82def1842768d6de44d89d2646653b6c607306b8610abb7876671f215320"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-chain-drive-garage-door-opener.webp",
+      "title": "chain-drive-garage-door-opener-vibration.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-shakes-jerks-when-opening/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/chain-drive-garage-door-opener-vibration.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Chain-drive garage door opener",
+        "alt": "Ceiling-mounted garage-door opener with a visible chain, rail, light, and red release cord.",
+        "caption": "The chain drive and release cord are visible beside the opener.",
+        "description": "The image focuses on an installed overhead opener and its chain-drive rail assembly above a residential garage door."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22520,
+        "source_index": 1639,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "c45ae220339bb6c6e9fd0f75a3dcae69267b9b995da6ad72f566a9865ae04f20"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-cable-drum-and-lifting-cable.webp",
+      "title": "garage-door-lifting-cable-drum-track-system.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-gap-on-one-side/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/garage-door-lifting-cable-drum-track-system.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage cable drum and lifting cable",
+        "alt": "Labeled close-up of a garage-door cable drum, lifting cable, and vertical track.",
+        "caption": "The diagram identifies the cable drum, lifting cable, and track.",
+        "description": "Callouts point to the drum above the door, the lifting cable beside the panel, and the vertical metal track. No technician is shown."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22950,
+        "source_index": 1662,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "0c82bca51f6ce0b891a897d17dda0bae93dfdff032c3ef77fa2e248f444ee9dd"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-new-and-worn-garage-door-rollers.webp",
+      "title": "worn-vs-new-garage-door-rollers.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-roller-keeps-coming-out-of-track/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/worn-vs-new-garage-door-rollers.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "New and worn garage door rollers",
+        "alt": "New white nylon roller beside a cracked, discolored garage-door roller on a workbench.",
+        "caption": "A new roller is compared with a visibly worn roller.",
+        "description": "The comparison shows the roller wheels, axles, and bearing areas, making the deterioration on the older part visible."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22955,
+        "source_index": 1665,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "0beab7cc4ddbd0b73b2621ba2f8247eef6a65aede007f97eee4aab985a1cae58"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-roller-seated-in-its-track.webp",
+      "title": "properly-aligned-garage-door-roller-track.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-roller-keeps-coming-out-of-track/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/properly-aligned-garage-door-roller-track.webp",
+      "width": 1671,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage roller seated in its track",
+        "alt": "White nylon garage-door roller correctly seated inside a galvanized metal track and hinge bracket.",
+        "caption": "The roller sits within the door track beside its mounting bracket.",
+        "description": "The close-up shows the roller, axle, metal hinge, mounting fasteners, and track without any hands or repair activity."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22959,
+        "source_index": 1669,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "b4822b5e6fef992e8979324f524f664e2614c56467ddb86476e09096fdbcccb2"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-diagnostic-controls.webp",
+      "title": "garage-door-opener-diagnostic-lights-codes",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-opener-light-blinking/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/garage-door-opener-diagnostic-lights-codes.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener diagnostic controls",
+        "alt": "Garage-door opener housing with a glowing indicator, a Learn button, and up-and-down adjustment buttons.",
+        "caption": "The opener's indicator and programming controls are visible.",
+        "description": "The close-up focuses on the Learn control, directional adjustment buttons, status light, and opener housing."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22964,
+        "source_index": 1671,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "60ca6c90d40363b5bf72f017880734e7dd0165ce6bb2b8a3c8ad66eb2c77ea41"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-frayed-garage-door-lifting-cable.webp",
+      "title": "Frayed Garage Door Cable – Early Warning Signs",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-cable-snapped/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Frayed-Garage-Door-Cable-–-Early-Warning-Signs.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Frayed garage door lifting cable",
+        "alt": "Steel garage-door lifting cable with broken wire strands beside the track and pulley hardware.",
+        "caption": "Broken strands are visible on the lifting cable.",
+        "description": "The close-up shows fraying along a steel cable near the garage door's side hardware and metal track."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22971,
+        "source_index": 1678,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "9f26e15c250d03ecd529c99d2b457bf819d05721b4e710d1c76539083a32245c"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-door-horizontal-reinforcement-struts.webp",
+      "title": "garage-door-horizontal-reinforcement-struts.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-sagging-in-the-middle/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/garage-door-horizontal-reinforcement-struts.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage door horizontal reinforcement struts",
+        "alt": "Horizontal metal reinforcement struts across the inside panels of a sectional garage door.",
+        "caption": "Metal struts reinforce the inside of the sectional door.",
+        "description": "The interior view shows multiple horizontal supports, panel hinges, and track hardware across the back of the door."
+      },
+      "reuse_provenance": {
+        "source_media_id": 22979,
+        "source_index": 1683,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "093f14bbae0abfd5c2047196cf373dd4e414c1093cba9c21ae8bb00cf7cf6e3b"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-worn-garage-opener-drive-gear.webp",
+      "title": "stripped-garage-door-opener-drive-gear",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-opener-hums-but-wont-move/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/stripped-garage-door-opener-drive-gear.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Worn garage opener drive gear",
+        "alt": "Worn nylon gear inside a garage-door opener with an inset showing an intact gear.",
+        "caption": "The drive-gear comparison highlights damaged teeth.",
+        "description": "The opener housing is open to show the drive gear and adjacent motor components. A circular inset provides an intact-gear comparison."
+      },
+      "reuse_provenance": {
+        "source_media_id": 23003,
+        "source_index": 1702,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "57f76d43367f1bbf4029f513218ff74505f96eff178ad7553707e1a6db38ed32"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-torsion-and-extension-spring-comparison.webp",
+      "title": "Torsion vs. Extension Garage Door Springs Explained",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/broken-garage-door-spring-replacement-cost-dallas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Torsion-vs.-Extension-Garage-Door-Springs-Explained.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Torsion and extension spring comparison",
+        "alt": "Diagram comparing a torsion spring above a garage opening with an extension spring along a horizontal track.",
+        "caption": "Two garage-door spring arrangements are compared.",
+        "description": "The diagram identifies the illustrated locations and basic arrangements of torsion and extension spring systems."
+      },
+      "reuse_provenance": {
+        "source_media_id": 23020,
+        "source_index": 1714,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "b81fe063da260474f6990d9dbddd3e2d4bf5b7edc5bf7308939f1e2816a05965"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-insulated-garage-door-panel-cutaway.webp",
+      "title": "Insulated Garage Door Construction – Steel Layers and Foam Core",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-replacement-cost-dallas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Insulated-Garage-Door-Construction-–-Steel-Layers-and-Foam-Core.webp",
+      "width": 1671,
+      "height": 941,
+      "public_metadata": {
+        "title": "Insulated garage door panel cutaway",
+        "alt": "Cutaway of a garage-door panel showing outer steel, foam insulation, inner steel, and the bottom weather seal.",
+        "caption": "The cutaway shows the layers inside an insulated door panel.",
+        "description": "Labels identify the door's steel layers, foam core, and lower gasket. An inset shows the panel hardware near the side of the door."
+      },
+      "reuse_provenance": {
+        "source_media_id": 23041,
+        "source_index": 1727,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "b1c5d423fbfead3596f55667ca807e234272ba430cb1f221dfed2dcddf0e6804"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-installation-components.webp",
+      "title": "garage-door-opener-installation-cost-factors.",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-opener-installation-cost-dallas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/garage-door-opener-installation-cost-factors.webp",
+      "width": 1671,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener installation components",
+        "alt": "Labeled garage opener diagram showing mounting hardware, drive rail and trolley, motor unit, electrical connection, and safety sensors.",
+        "caption": "The diagram identifies the main parts of an installed opener system.",
+        "description": "Callouts show the opener housing, suspension brackets, rail, power connection, and photo-eye sensors at the garage opening."
+      },
+      "reuse_provenance": {
+        "source_media_id": 23048,
+        "source_index": 1732,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "99996b39ec2617effb8671216cb40e1f85cb0a8f7f03ee266ca2e828df545dd2"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-backup-and-control-batteries.webp",
+      "title": "Garage Door Opener Backup Battery vs. Remote and Keypad Batteries",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-opener-battery-dead/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Garage-Door-Opener-Backup-Battery-vs.-Remote-and-Keypad-Batteries.webp",
+      "width": 1671,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener backup and control batteries",
+        "alt": "Comparison of an opener backup battery, handheld remote, and wireless keypad with their battery roles labeled.",
+        "caption": "The illustration distinguishes opener backup power from remote and keypad batteries.",
+        "description": "Three panels show the backup battery, handheld control, and exterior keypad, with labels identifying which device each battery powers."
+      },
+      "reuse_provenance": {
+        "source_media_id": 23342,
+        "source_index": 1737,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "60d69eca56a4ef03acb52e3baf730a8b0a63cd3b961e26b077ea2a21cfb45d71"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-garage-opener-battery-status-display.webp",
+      "title": "Garage Door Opener Battery Warning Lights Explained",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-opener-battery-dead/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Garage-Door-Opener-Battery-Warning-Lights-Explained.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Garage opener battery status display",
+        "alt": "Garage-opener battery indicator with green, orange, and red status-light callouts.",
+        "caption": "Colored callouts explain the illustrated battery-status display.",
+        "description": "The close-up shows a battery-status panel and labeled light colors. The diagram presents the statuses for the illustrated unit, not every opener model."
+      },
+      "reuse_provenance": {
+        "source_media_id": 23341,
+        "source_index": 1738,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "df88de651e611b989ceecfe985aa4b77d023c0f72b4c2d7b8307d7e8ca2f5b30"
+      }
+    },
+    {
+      "file": "garage-doors/blog-reuse-frozen-garage-door-bottom-seal.webp",
+      "title": "Frozen Garage Door Bottom Seal Stuck to Concrete",
+      "source": "Supremacy Services",
+      "source_page": "https://supremacyservice.com/garage-door-frozen-shut-dallas/",
+      "original_url": "https://supremacyservice.com/wp-content/uploads/2026/11/Frozen-Garage-Door-Bottom-Seal-Stuck-to-Concrete.webp",
+      "width": 1672,
+      "height": 941,
+      "public_metadata": {
+        "title": "Frozen garage door bottom seal",
+        "alt": "Ice bonding a garage-door bottom weather seal to the concrete floor.",
+        "caption": "Ice is visible along the bottom seal and threshold.",
+        "description": "The close-up shows a line of ice and frozen moisture at the contact between the rubber gasket and the concrete surface."
+      },
+      "reuse_provenance": {
+        "source_media_id": 23355,
+        "source_index": 1743,
+        "visual_review_status": "approved_no_visible_people",
+        "sha256": "07a3d411e3608e1e2e6778b6dd3512b8072d0e647efe6f0664c3c850de814482"
       }
     }
   ]
