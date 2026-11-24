@@ -5,8 +5,7 @@ on:
   push:
     branches: [main]
     paths:
-      - scripts/repair-artwork-assets.py
-      - .github/workflows/repair-artwork-assets.yml
+      - '.artwork-recovery/**'
 
 permissions:
   contents: write
@@ -23,11 +22,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Install image validation dependency
         run: python -m pip install 'Pillow>=11,<13'
+      - name: Require the approved native upload pair
+        run: |
+          test -f .artwork-recovery/approved-recovery.zip
+          test -f .artwork-recovery/manifest.json
       - name: Restore approved assets and rebuild complete ZIPs
         id: repair
         continue-on-error: true
@@ -36,9 +40,10 @@ jobs:
         run: |
           git config user.name 'Supremacy Artwork Maintenance'
           git config user.email 'artwork-maintenance@users.noreply.github.com'
-          for path in hvac air-conditioning plumbing electrical pest garage-doors holiday-lighting heating hvac-heating-additions asset-repair-report.json garage-door-images.zip holiday-lighting-images.zip heating-images.zip hvac-heating-additions.zip; do
+          for path in hvac air-conditioning plumbing electrical pest garage-doors holiday-lighting heating hvac-heating-additions asset-repair-report.json asset-recovery-provenance.json garage-door-images.zip holiday-lighting-images.zip heating-images.zip hvac-heating-additions.zip; do
             if [ -e "$path" ]; then git add -- "$path"; fi
           done
+          if [ -n "$(git ls-files .artwork-recovery)" ]; then git add -A -- .artwork-recovery; fi
           if git diff --cached --quiet; then
             echo 'No asset changes to publish.'
             exit 0

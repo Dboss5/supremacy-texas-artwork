@@ -7,6 +7,7 @@ Source provenance stays in JSON; generated image files contain no EXIF/IPTC/XMP.
 from __future__ import annotations
 
 import argparse
+import base64
 import concurrent.futures
 import hashlib
 import io
@@ -99,9 +100,13 @@ def download(url: str) -> tuple[bytes, str]:
     parsed = urllib.parse.urlsplit(url)
     if parsed.scheme not in ("https", "http") or not parsed.hostname or parsed.username or parsed.password:
         raise ValueError("Missing or invalid public source URL")
-    request = urllib.request.Request(url, headers={
+    # Encode Unicode path/query characters without double-encoding saved percent escapes.
+    request_url = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc,
+        urllib.parse.quote(parsed.path, safe="/%:@!$&'()*+,;=-._~"),
+        urllib.parse.quote(parsed.query, safe="%=&?/:+@!$'()*;,~-._"), ""))
+    request = urllib.request.Request(request_url, headers={
         "User-Agent": "SupremacyArtworkRepair/1.0 (+https://supremacyservice.com)",
-        "Accept": "image/avif,image/webp,image/png,image/jpeg,*/*;q=0.5",
+        "Accept": "image/webp,image/png,image/jpeg,*/*;q=0.5",
     })
     with urllib.request.urlopen(request, timeout=30) as response:
         data = response.read(MAX_BYTES + 1)
@@ -119,6 +124,61 @@ def atomic_write(path: Path, content: bytes) -> None:
         Path(name).replace(path)
     finally:
         Path(name).unlink(missing_ok=True)
+
+
+def restore_verified_seed(root: Path, approved_paths: set[str]) -> int:
+    """Recover approved historical stills without relying on expired remote sources."""
+    folder = root / ".artwork-recovery"
+    manifest_path = folder / "manifest.json"
+    if not manifest_path.is_file():
+        return 0
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    approved_sha = "f3bcf27cba89b3bbfd092ed56c14b59aa1cd637cf3859f35ffbf4ca1be382ace"
+    if manifest.get("archive_bytes") != 13102527 or manifest.get("archive_sha256") != approved_sha:
+        raise ValueError("Recovery manifest differs from the explicitly approved package")
+    archive_file = manifest.get("archive_file")
+    if archive_file:
+        if archive_file != "approved-recovery.zip":
+            raise ValueError("Unexpected recovery archive filename")
+        raw = (folder / archive_file).read_bytes()
+    else:
+        encoded = []
+        for part in manifest.get("parts", []):
+            name = str(part["file"])
+            if Path(name).name != name or not name.endswith(".b64"):
+                raise ValueError("Unsafe recovery part name")
+            data = (folder / name).read_bytes()
+            if len(data) != part["length"] or sha256(data) != part["sha256"]:
+                raise ValueError(f"Recovery part checksum mismatch: {name}")
+            encoded.append(data)
+        raw = base64.b64decode(b"".join(encoded), validate=True)
+    if len(raw) != manifest["archive_bytes"] or sha256(raw) != manifest["archive_sha256"]:
+        raise ValueError("Recovery archive checksum mismatch")
+    expected = {valid_path(item["file"]): item for item in manifest["images"]}
+    if len(expected) != 172 or len(manifest["images"]) != 172 or not set(expected).issubset(approved_paths):
+        raise ValueError("Recovery includes an image outside the approved catalogs")
+    with zipfile.ZipFile(io.BytesIO(raw)) as bundle:
+        if set(bundle.namelist()) != set(expected) or bundle.testzip():
+            raise ValueError("Recovery archive membership or CRC verification failed")
+        checked = {}
+        for path, item in expected.items():
+            data = bundle.read(path)
+            if len(data) != item["bytes"] or sha256(data) != item["sha256"]:
+                raise ValueError(f"Recovery image checksum mismatch: {path}")
+            inspect_image(data, path)
+            checked[path] = data
+        for path, data in checked.items():
+            atomic_write(root / path, data)
+    provenance = {key: manifest[key] for key in ("version", "description", "archive_sha256", "images")}
+    atomic_write(root / "asset-recovery-provenance.json", (json.dumps(provenance, indent=2, ensure_ascii=False) + "\n").encode())
+    for part in manifest.get("parts", []):
+        (folder / part["file"]).unlink(missing_ok=True)
+    if archive_file:
+        (folder / archive_file).unlink()
+    manifest_path.unlink()
+    folder.rmdir()
+    print(f"Recovered {len(expected)} verified historical still images", flush=True)
+    return len(expected)
 
 
 def materialize(root: Path, entry: dict, verify_only: bool = False) -> dict:
@@ -202,6 +262,7 @@ def main() -> int:
         for item in items:
             path = valid_path(str(item.get("file", "")))
             entries.setdefault(path, item)
+    recovered_count = restore_verified_seed(root, set(entries)) if not args.verify_only else 0
     results = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, min(24, args.workers))) as pool:
         future_paths = {pool.submit(materialize, root, entry, args.verify_only): path for path, entry in entries.items()}
@@ -234,6 +295,7 @@ def main() -> int:
         "source": "Approved repository manifests only; no substitute images",
         "manifest_counts": manifest_counts,
         "unique_asset_paths": len(entries), "counts": counts,
+        "recovered_from_verified_history": recovered_count,
         "complete": counts["unavailable"] == 0 and all(item["status"] in ("complete", "verified") for item in archives),
         "archives": archives, "images": [results[path] for path in sorted(results)],
     }
