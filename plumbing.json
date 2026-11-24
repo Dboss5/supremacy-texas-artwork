@@ -6,7 +6,13 @@
     "original": "https://www.calunitedplumbing.com/images/home-2.jpg",
     "title": "Water heater against a tile wall photo",
     "width": 616,
-    "height": 624
+    "height": 624,
+    "public_metadata": {
+      "title": "Water heater beside a tiled wall",
+      "alt": "Water heater and connected plumbing beside a tiled wall",
+      "caption": "Water heater beside a tiled wall.",
+      "description": "Water heater and connected plumbing beside a tiled wall."
+    }
   },
   {
     "file": "plumbing/002-calunitedplumbing.jpg",
@@ -15,7 +21,13 @@
     "original": "https://www.calunitedplumbing.com/cm/dpl/images/create/Tankless_Water_Heaters.png",
     "title": "Satisfied Customers",
     "width": 616,
-    "height": 540
+    "height": 540,
+    "public_metadata": {
+      "title": "Tankless water heater and plumbing connections",
+      "alt": "Tankless water heater and plumbing connections",
+      "caption": "Tankless water heater and plumbing connections.",
+      "description": "Tankless water heater and plumbing connections."
+    }
   },
   {
     "file": "plumbing/003-coastalplumbinghome.jpg",
@@ -24,7 +36,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/85c5c016-a5f8-4a2d-b8b6-d2d4f14676db/IMG_0351.jpg",
     "title": "Plumbing Project",
     "width": 2500,
-    "height": 3333
+    "height": 3333,
+    "public_metadata": {
+      "title": "White pedestal sink with a dark faucet",
+      "alt": "White pedestal sink with a dark faucet",
+      "caption": "White pedestal sink with a dark faucet.",
+      "description": "White pedestal sink with a dark faucet."
+    }
   },
   {
     "file": "plumbing/004-coastalplumbinghome.jpg",
@@ -33,7 +51,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/75c21a83-e7cc-4928-b311-cd337f966b8c/IMG_0525.jpg",
     "title": "Plumbing Project",
     "width": 2500,
-    "height": 3333
+    "height": 3333,
+    "public_metadata": {
+      "title": "Exposed drain pipe in an excavated floor trench",
+      "alt": "Exposed drain pipe in an excavated floor trench",
+      "caption": "Exposed drain pipe in an excavated floor trench.",
+      "description": "Exposed drain pipe in an excavated floor trench."
+    }
   },
   {
     "file": "plumbing/005-gallegosplumbing.jpg",
@@ -42,7 +66,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-small-wall-openings.webp",
     "title": "Small openings in a wall and ceiling showing new water lines during a whole-home repipe",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Water lines behind a wall access opening",
+      "alt": "Water lines visible through a small rectangular opening in an interior wall",
+      "caption": "Water lines behind a wall access opening.",
+      "description": "Water lines visible through a small rectangular opening in an interior wall."
+    }
   },
   {
     "file": "plumbing/006-gallegosplumbing.jpg",
@@ -51,7 +81,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-exterior-closet.webp",
     "title": "Tankless water heater installed in an exterior utility closet with new venting and copper piping",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Tankless water heater in an exterior closet",
+      "alt": "Tankless water heater installed in an exterior utility closet with venting and copper piping",
+      "caption": "Tankless water heater in an exterior closet.",
+      "description": "Tankless water heater installed in an exterior utility closet with venting and copper piping."
+    }
   },
   {
     "file": "plumbing/007-gallegosplumbing.jpg",
@@ -60,7 +96,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-whole-house-water-filter-install.webp",
     "title": "Whole-house water filter tank installed outside a home with new copper connections",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Whole-house water filter beside a home",
+      "alt": "Whole-house water filter tank installed beside a home's exterior wall",
+      "caption": "Whole-house water filter beside a home.",
+      "description": "Whole-house water filter tank installed beside a home's exterior wall."
+    }
   },
   {
     "file": "plumbing/008-gallegosplumbing.jpg",
@@ -69,7 +111,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-cleanout-new-abs-pipe.webp",
     "title": "New ABS sewer cleanout joined to the existing lateral with shielded couplings in a small excavation",
     "width": 1600,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "ABS sewer cleanout and pipe couplings",
+      "alt": "Black ABS sewer cleanout joined to underground piping with shielded couplings",
+      "caption": "ABS sewer cleanout and pipe couplings.",
+      "description": "Black ABS sewer cleanout joined to underground piping with shielded couplings."
+    }
   },
   {
     "file": "plumbing/009-gallegosplumbing.jpg",
@@ -78,7 +126,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-repair-trench-abs-pipe.webp",
     "title": "Open excavation exposing a repaired sewer line section with new ABS pipe",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Exposed sewer pipe in an excavation",
+      "alt": "Black sewer pipe and a cleanout exposed in a trench beside a building",
+      "caption": "Exposed sewer pipe in an excavation.",
+      "description": "Black sewer pipe and a cleanout exposed in a trench beside a building."
+    }
   },
   {
     "file": "plumbing/010-gallegosplumbing.jpg",
@@ -87,7 +141,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/shower-valve-rough-in-1.webp",
     "title": "Fixture Repair & Installation by Gallegos Plumbing",
     "width": 1599,
-    "height": 1353
+    "height": 1353,
+    "public_metadata": {
+      "title": "Water supply and drain rough-in",
+      "alt": "Water supply connections and black drain piping installed inside open wall framing",
+      "caption": "Water supply and drain rough-in.",
+      "description": "Water supply connections and black drain piping installed inside open wall framing."
+    }
   },
   {
     "file": "plumbing/011-gallegosplumbing.jpg",
@@ -96,16 +156,28 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/gas-line-connection-1.webp",
     "title": "Gas Line Services by Gallegos Plumbing",
     "width": 1340,
-    "height": 1430
+    "height": 1430,
+    "public_metadata": {
+      "title": "Gas supply line in open wall framing",
+      "alt": "Yellow gas supply line installed through open wall framing",
+      "caption": "Gas supply line in open wall framing.",
+      "description": "Yellow gas supply line installed through open wall framing."
+    }
   },
   {
     "file": "plumbing/012-gallegosplumbing.jpg",
     "source": "Gallegos Plumbing",
     "source_page": "https://www.gallegosplumbing.com/services/remodel-plumbing/",
     "original": "https://www.gallegosplumbing.com/api/media/file/strand_gall_deadwood-09-3.webp",
-    "title": "Plumbing rough-in in open framing during construction \u2014 drain, vent, water, and gas lines",
+    "title": "Plumbing rough-in in open framing during construction — drain, vent, water, and gas lines",
     "width": 1067,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Plumbing rough-in in open framing",
+      "alt": "Water supply and drain lines installed through open wall and ceiling framing",
+      "caption": "Plumbing rough-in in open framing.",
+      "description": "Water supply and drain lines installed through open wall and ceiling framing."
+    }
   },
   {
     "file": "plumbing/013-gallegosplumbing.jpg",
@@ -114,7 +186,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-liner-westlake-village.webp",
     "title": "New ABS sewer piping connected under a concrete slab through a single access opening in Westlake Village",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "New ABS sewer piping connected under a concrete slab through a single access opening",
+      "alt": "New ABS sewer piping connected under a concrete slab through a single access opening",
+      "caption": "New ABS sewer piping connected under a concrete slab through a single access opening.",
+      "description": "New ABS sewer piping connected under a concrete slab through a single access opening."
+    }
   },
   {
     "file": "plumbing/014-gallegosplumbing.jpg",
@@ -123,7 +201,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-install-santa-barbara.webp",
     "title": "Condensing tankless water heater with new copper piping and gas line installed in an exterior closet in Santa Barbara",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Tankless water heater with copper connections",
+      "alt": "Tankless water heater and copper supply lines installed in an exterior utility closet",
+      "caption": "Tankless water heater with copper connections.",
+      "description": "Tankless water heater and copper supply lines installed in an exterior utility closet."
+    }
   },
   {
     "file": "plumbing/015-gallegosplumbing.jpg",
@@ -132,7 +216,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-basement-santa-barbara.webp",
     "title": "Tankless water heater with new venting, gas and water connections mounted in the basement of an older Santa Barbara home",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Basement tankless water heater installation",
+      "alt": "Wall-mounted tankless water heater with venting and water connections in a basement",
+      "caption": "Basement tankless water heater installation.",
+      "description": "Wall-mounted tankless water heater with venting and water connections in a basement."
+    }
   },
   {
     "file": "plumbing/016-gallegosplumbing.jpg",
@@ -141,7 +231,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-liner-access-pit-santa-barbara.webp",
     "title": "Access pit dug through a paver patio to reach a sewer line in Santa Barbara, with the pavers stacked alongside",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Access pit dug through a paver patio to reach a sewer line, with the pavers stacked alongside",
+      "alt": "Access pit dug through a paver patio to reach a sewer line, with the pavers stacked alongside",
+      "caption": "Access pit dug through a paver patio to reach a sewer line, with the pavers stacked alongside.",
+      "description": "Access pit dug through a paver patio to reach a sewer line, with the pavers stacked alongside."
+    }
   },
   {
     "file": "plumbing/017-gallegosplumbing.jpg",
@@ -150,7 +246,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-line-repair-montecito.webp",
     "title": "New ABS sewer pipe section joined with shielded couplings at the bottom of an excavation in Montecito",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Replacement sewer pipe in an excavation",
+      "alt": "Black sewer pipe connected with shielded couplings at the bottom of an excavation",
+      "caption": "Replacement sewer pipe in an excavation.",
+      "description": "Black sewer pipe connected with shielded couplings at the bottom of an excavation."
+    }
   },
   {
     "file": "plumbing/018-gallegosplumbing.jpg",
@@ -159,7 +261,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-water-line-reroute-simi-valley.webp",
     "title": "New copper and PEX water line connections in a ceiling opening during a water line reroute in Simi Valley",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Water line connections above a ceiling",
+      "alt": "Copper and plastic water line connections exposed above a ceiling opening",
+      "caption": "Water line connections above a ceiling.",
+      "description": "Copper and plastic water line connections exposed above a ceiling opening."
+    }
   },
   {
     "file": "plumbing/019-gallegosplumbing.jpg",
@@ -168,7 +276,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-commercial-sewer-lining-thousand-oaks.webp",
     "title": "Access hole cut through a concrete floor to reach a sewer main under a Thousand Oaks commercial building",
     "width": 1600,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Access pit for underground sewer piping",
+      "alt": "Black sewer piping exposed in an access pit cut through a floor",
+      "caption": "Access pit for underground sewer piping.",
+      "description": "Black sewer piping exposed in an access pit cut through a floor."
+    }
   },
   {
     "file": "plumbing/020-gallegosplumbing.jpg",
@@ -177,7 +291,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-water-softener-filter-install-ojai.webp",
     "title": "Water softener brine tank and filter tank installed against a garden wall outside an Ojai home",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Water softener brine tank and filter tank installed against a garden wall outside an home",
+      "alt": "Water softener brine tank and filter tank installed against a garden wall outside an home",
+      "caption": "Water softener brine tank and filter tank installed against a garden wall outside an home.",
+      "description": "Water softener brine tank and filter tank installed against a garden wall outside an home."
+    }
   },
   {
     "file": "plumbing/021-gallegosplumbing.jpg",
@@ -186,7 +306,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-pipe-bursting-ojai.webp",
     "title": "New sewer pipe joined to the existing line with couplings in an access pit in Ojai",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Sewer pipe repair with coupling connections",
+      "alt": "Replacement sewer pipe joined to an existing underground line with couplings",
+      "caption": "Sewer pipe repair with coupling connections.",
+      "description": "Replacement sewer pipe joined to an existing underground line with couplings."
+    }
   },
   {
     "file": "plumbing/022-gallegosplumbing.jpg",
@@ -195,7 +321,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-crawl-space-repipe-oak-view.webp",
     "title": "New PEX water lines visible through an opening at the base of a wall in an Oak View home",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Water lines exposed at the base of a wall",
+      "alt": "Water lines visible through an opening near the base of an interior wall",
+      "caption": "Water lines exposed at the base of a wall.",
+      "description": "Water lines visible through an opening near the base of an interior wall."
+    }
   },
   {
     "file": "plumbing/023-gallegosplumbing.jpg",
@@ -204,7 +336,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-pex-wall-openings-oxnard.webp",
     "title": "Two small openings in a wall and ceiling showing new PEX water lines during a whole-home repipe in Oxnard",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Wall and ceiling openings for water line access",
+      "alt": "Small wall and ceiling openings exposing water lines during repiping",
+      "caption": "Wall and ceiling openings for water line access.",
+      "description": "Small wall and ceiling openings exposing water lines during repiping."
+    }
   },
   {
     "file": "plumbing/024-gallegosplumbing.jpg",
@@ -213,7 +351,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-wall-opening-camarillo.webp",
     "title": "Small rectangular opening in a wall showing new water lines during a repipe in Camarillo",
     "width": 1600,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Water line access through an interior wall",
+      "alt": "Water lines visible through a rectangular access opening in an interior wall",
+      "caption": "Water line access through an interior wall.",
+      "description": "Water lines visible through a rectangular access opening in an interior wall."
+    }
   },
   {
     "file": "plumbing/025-gallegosplumbing.jpg",
@@ -222,7 +366,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-water-softener-install-camarillo.webp",
     "title": "Water softener tank installed next to a whole-house filter tank in a utility closet in Camarillo",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Whole-house water filtration and softener tanks",
+      "alt": "Water treatment tanks and connected plumbing installed in a utility closet",
+      "caption": "Whole-house water filtration and softener tanks.",
+      "description": "Water treatment tanks and connected plumbing installed in a utility closet."
+    }
   },
   {
     "file": "plumbing/026-gallegosplumbing.jpg",
@@ -231,7 +381,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-replacement-brick-restored-camarillo.webp",
     "title": "Brick path relaid over the access point after a trenchless sewer lateral replacement in Camarillo",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Brick path relaid over the access point after a trenchless sewer lateral replacement",
+      "alt": "Brick path relaid over the access point after a trenchless sewer lateral replacement",
+      "caption": "Brick path relaid over the access point after a trenchless sewer lateral replacement.",
+      "description": "Brick path relaid over the access point after a trenchless sewer lateral replacement."
+    }
   },
   {
     "file": "plumbing/027-gallegosplumbing.jpg",
@@ -240,7 +396,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-repipe-pex-wall-opening-ventura.webp",
     "title": "New PEX water lines visible through a small opening cut in a wall during a whole-home repipe in Ventura",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "New water lines behind an access opening",
+      "alt": "New water lines exposed through a small wall opening during repiping",
+      "caption": "New water lines behind an access opening.",
+      "description": "New water lines exposed through a small wall opening during repiping."
+    }
   },
   {
     "file": "plumbing/028-gallegosplumbing.jpg",
@@ -249,7 +411,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-sewer-lateral-cleanout-liner-ventura.webp",
     "title": "New ABS sewer cleanout and couplings in a small excavation beside a concrete slab in Ventura",
     "width": 1600,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Sewer cleanout beside a concrete slab",
+      "alt": "ABS sewer cleanout and shielded couplings exposed beside a concrete slab",
+      "caption": "Sewer cleanout beside a concrete slab.",
+      "description": "ABS sewer cleanout and shielded couplings exposed beside a concrete slab."
+    }
   },
   {
     "file": "plumbing/029-gallegosplumbing.jpg",
@@ -258,7 +426,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-water-filter-softener-install-ventura.webp",
     "title": "Whole-house water filter and softener tank installed outside a Ventura home on a new copper loop",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Whole house water filter and softener tank installed outside a home on a new copper loop",
+      "alt": "Whole house water filter and softener tank installed outside a home on a new copper loop",
+      "caption": "Whole house water filter and softener tank installed outside a home on a new copper loop.",
+      "description": "Whole house water filter and softener tank installed outside a home on a new copper loop."
+    }
   },
   {
     "file": "plumbing/030-gallegosplumbing.jpg",
@@ -267,16 +441,28 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/job-tankless-water-heater-piping-ventura.webp",
     "title": "New copper water lines, gas connector and condensate drain under a tankless water heater in a Ventura utility closet",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Tankless water heater piping connections",
+      "alt": "Copper water lines, gas connector and condensate drain beneath a tankless water heater",
+      "caption": "Tankless water heater piping connections.",
+      "description": "Copper water lines, gas connector and condensate drain beneath a tankless water heater."
+    }
   },
   {
     "file": "plumbing/031-gallegosplumbing.jpg",
     "source": "Gallegos Plumbing",
     "source_page": "https://www.gallegosplumbing.com/resources/low-water-pressure/",
     "original": "https://www.gallegosplumbing.com/api/media/file/water-pressure-gauge-on-hose-bib.webp",
-    "title": "A water pressure gauge threaded onto an outdoor hose bib to measure a home\u2019s water pressure",
+    "title": "A water pressure gauge threaded onto an outdoor hose bib to measure a home’s water pressure",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Water pressure gauge on an outdoor faucet",
+      "alt": "Water pressure gauge connected to an outdoor hose faucet",
+      "caption": "Water pressure gauge on an outdoor faucet.",
+      "description": "Water pressure gauge connected to an outdoor hose faucet."
+    }
   },
   {
     "file": "plumbing/032-gallegosplumbing.jpg",
@@ -285,7 +471,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/water-pressure-regulator-on-main-line.webp",
     "title": "A new brass water pressure regulator installed on the main water line where it enters a house, with the shut-off valve below it",
     "width": 1200,
-    "height": 1600
+    "height": 1600,
+    "public_metadata": {
+      "title": "Water pressure regulator and shutoff valve",
+      "alt": "Brass water pressure regulator and shutoff valve installed on an exterior water line",
+      "caption": "Water pressure regulator and shutoff valve.",
+      "description": "Brass water pressure regulator and shutoff valve installed on an exterior water line."
+    }
   },
   {
     "file": "plumbing/033-gallegosplumbing.jpg",
@@ -294,7 +486,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/pex-vs-copper-diagram.webp",
     "title": "PEX pipe bending around a wall stud in one piece with a single crimp fitting, next to rigid copper pipe that needs a soldered elbow to make the same turn.",
     "width": 1264,
-    "height": 848
+    "height": 848,
+    "public_metadata": {
+      "title": "PEX and copper pipe connection comparison",
+      "alt": "Diagram comparing flexible PEX tubing and a rigid copper pipe elbow around wall framing",
+      "caption": "PEX and copper pipe connection comparison.",
+      "description": "Diagram comparing flexible PEX tubing and a rigid copper pipe elbow around wall framing."
+    }
   },
   {
     "file": "plumbing/034-gallegosplumbing.jpg",
@@ -303,7 +501,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/slab-leak-diagram.webp",
     "title": "Cross-section of a room on a concrete slab: water lines run under the slab, a pinhole leak soaks the soil, and a warm spot shows on the floor above it.",
     "width": 1264,
-    "height": 848
+    "height": 848,
+    "public_metadata": {
+      "title": "Slab leak beneath a concrete floor",
+      "alt": "Diagram showing a leaking water pipe beneath a concrete slab and a warm spot on the floor",
+      "caption": "Slab leak beneath a concrete floor.",
+      "description": "Diagram showing a leaking water pipe beneath a concrete slab and a warm spot on the floor."
+    }
   },
   {
     "file": "plumbing/035-gallegosplumbing.jpg",
@@ -312,7 +516,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/slab-leak-repair-options.webp",
     "title": "Three ways to fix a slab leak: a spot repair through a hole in the floor, a reroute through the attic and walls, and a full repipe that takes every line out from under the slab.",
     "width": 1180,
-    "height": 756
+    "height": 756,
+    "public_metadata": {
+      "title": "Plumbing repair and repiping diagram",
+      "alt": "Plumbing repair and repiping diagram",
+      "caption": "Plumbing repair and repiping diagram.",
+      "description": "Plumbing repair and repiping diagram."
+    }
   },
   {
     "file": "plumbing/036-gallegosplumbing.jpg",
@@ -321,7 +531,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/main-sewer-line-diagram.webp",
     "title": "Diagram of a home drain system: branch drains from each fixture join the main sewer line, which runs past the cleanout to the city sewer, with tree roots blocking a pipe joint",
     "width": 1264,
-    "height": 848
+    "height": 848,
+    "public_metadata": {
+      "title": "House drain system and sewer pipe diagram",
+      "alt": "House drain system and sewer pipe diagram",
+      "caption": "House drain system and sewer pipe diagram.",
+      "description": "House drain system and sewer pipe diagram."
+    }
   },
   {
     "file": "plumbing/037-gallegosplumbing.jpg",
@@ -330,7 +546,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/toilet-bubbling-diagram.webp",
     "title": "Diagram of why a toilet bubbles when the shower runs: a partial clog downstream pushes air back up the toilet drain into the bowl",
     "width": 1264,
-    "height": 848
+    "height": 848,
+    "public_metadata": {
+      "title": "Toilet bubbling caused by a drain blockage",
+      "alt": "Diagram showing how a partial drain blockage can push air back into a toilet when a shower runs",
+      "caption": "Toilet bubbling caused by a drain blockage.",
+      "description": "Diagram showing how a partial drain blockage can push air back into a toilet when a shower runs."
+    }
   },
   {
     "file": "plumbing/038-gallegosplumbing.jpg",
@@ -339,7 +561,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/water-heater-leak-sources-diagram.webp",
     "title": "Diagram of a gas tank water heater showing where leaks come from: the water connections on top, the relief valve and its discharge pipe, the drain valve, and a tank rusted through at the bottom",
     "width": 1264,
-    "height": 848
+    "height": 848,
+    "public_metadata": {
+      "title": "Storage water heater cross section diagram",
+      "alt": "Storage water heater cross section diagram",
+      "caption": "Storage water heater cross section diagram.",
+      "description": "Storage water heater cross section diagram."
+    }
   },
   {
     "file": "plumbing/039-gallegosplumbing.jpg",
@@ -348,7 +576,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/water-treatment-layout-diagram.webp",
     "title": "A point-of-entry water treatment layout: the water main, then the pressure regulator, a carbon filter, and a water softener with its brine tank, with bypass valves around both, before the line goes into the house.",
     "width": 1200,
-    "height": 806
+    "height": 806,
+    "public_metadata": {
+      "title": "Whole-house water treatment layout",
+      "alt": "Diagram showing a pressure regulator, filter, water softener and bypass valves on a home's water supply",
+      "caption": "Whole-house water treatment layout.",
+      "description": "Diagram showing a pressure regulator, filter, water softener and bypass valves on a home's water supply."
+    }
   },
   {
     "file": "plumbing/040-gallegosplumbing.jpg",
@@ -357,7 +591,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/tankless-flush-diagram.webp",
     "title": "Tankless water heater set up for a descaling flush: hoses on the service ports of the cold inlet and hot outlet valves loop through a bucket of descaling solution with a small pump.",
     "width": 928,
-    "height": 1152
+    "height": 1152,
+    "public_metadata": {
+      "title": "Tankless water heater flushing setup",
+      "alt": "Diagram showing a tankless water heater connected to flushing hoses, a pump and a bucket",
+      "caption": "Tankless water heater flushing setup.",
+      "description": "Diagram showing a tankless water heater connected to flushing hoses, a pump and a bucket."
+    }
   },
   {
     "file": "plumbing/041-gallegosplumbing.jpg",
@@ -366,7 +606,13 @@
     "original": "https://www.gallegosplumbing.com/api/media/file/water-heater-cutaway-diagram.webp",
     "title": "Cut-away of a gas tank water heater showing the anode rod, the dip tube, a layer of sediment and scale on the tank bottom above the burner, the relief valve, the drain valve and the data plate.",
     "width": 1200,
-    "height": 1490
+    "height": 1490,
+    "public_metadata": {
+      "title": "Water heater component diagram",
+      "alt": "Water heater component diagram",
+      "caption": "Water heater component diagram.",
+      "description": "Water heater component diagram."
+    }
   },
   {
     "file": "plumbing/042-expertplumbingca.jpg",
@@ -375,7 +621,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/10/sewer-line-belly-versus-collapsed-sewer-line.jpg",
     "title": "sewer line belly versus collapsed sewer line",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Sewer line belly versus collapsed sewer line",
+      "alt": "Sewer line belly versus collapsed sewer line",
+      "caption": "Sewer line belly versus collapsed sewer line.",
+      "description": "Sewer line belly versus collapsed sewer line."
+    }
   },
   {
     "file": "plumbing/043-expertplumbingca.jpg",
@@ -384,7 +636,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/09/factors-that-affect-the-cost-of-sewer-line-repair.jpg",
     "title": "factors that affect the cost of sewer line repair",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Factors that affect the cost of sewer line repair",
+      "alt": "Factors that affect the cost of sewer line repair",
+      "caption": "Factors that affect the cost of sewer line repair.",
+      "description": "Factors that affect the cost of sewer line repair."
+    }
   },
   {
     "file": "plumbing/044-expertplumbingca.jpg",
@@ -393,7 +651,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/09/how-coastal-air-damages-plumbing-pipes.jpg",
     "title": "how coastal air damages plumbing pipes",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "How coastal air damages plumbing pipes",
+      "alt": "How coastal air damages plumbing pipes",
+      "caption": "How coastal air damages plumbing pipes.",
+      "description": "How coastal air damages plumbing pipes."
+    }
   },
   {
     "file": "plumbing/045-expertplumbingca.jpg",
@@ -402,7 +666,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/expert-plumbing-01.jpg",
     "title": "Tankless Water Heater Repair",
     "width": 769,
-    "height": 1020
+    "height": 1020,
+    "public_metadata": {
+      "title": "Tankless Water Heater Repair",
+      "alt": "Tankless Water Heater Repair",
+      "caption": "Tankless Water Heater Repair.",
+      "description": "Tankless Water Heater Repair."
+    }
   },
   {
     "file": "plumbing/046-expertplumbingca.jpg",
@@ -411,7 +681,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/Water-Heaters-05.jpg",
     "title": "Regular Water Heater Maintenance",
     "width": 746,
-    "height": 691
+    "height": 691,
+    "public_metadata": {
+      "title": "Regular Water Heater Maintenance",
+      "alt": "Regular Water Heater Maintenance",
+      "caption": "Regular Water Heater Maintenance.",
+      "description": "Regular Water Heater Maintenance."
+    }
   },
   {
     "file": "plumbing/047-expertplumbingca.jpg",
@@ -420,7 +696,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/is-a-gurgling-toilet-dangerous.jpg",
     "title": "is a gurgling toilet dangerous",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Is a gurgling toilet dangerous",
+      "alt": "Is a gurgling toilet dangerous",
+      "caption": "Is a gurgling toilet dangerous.",
+      "description": "Is a gurgling toilet dangerous."
+    }
   },
   {
     "file": "plumbing/048-expertplumbingca.jpg",
@@ -429,7 +711,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/expert-plumbing-blog-02.jpg",
     "title": "expert plumbing blog 02",
     "width": 1020,
-    "height": 1020
+    "height": 1020,
+    "public_metadata": {
+      "title": "Tank and tankless water heater comparison",
+      "alt": "Tank and tankless water heater comparison",
+      "caption": "Tank and tankless water heater comparison.",
+      "description": "Tank and tankless water heater comparison."
+    }
   },
   {
     "file": "plumbing/049-expertplumbingca.jpg",
@@ -438,7 +726,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/Water-Heaters-01.jpg",
     "title": "Common Winter Water Heater Issues and How to Handle Them",
     "width": 746,
-    "height": 691
+    "height": 691,
+    "public_metadata": {
+      "title": "Common Winter Water Heater Issues and How to Handle Them",
+      "alt": "Common Winter Water Heater Issues and How to Handle Them",
+      "caption": "Common Winter Water Heater Issues and How to Handle Them.",
+      "description": "Common Winter Water Heater Issues and How to Handle Them."
+    }
   },
   {
     "file": "plumbing/050-expertplumbingca.jpg",
@@ -447,7 +741,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/do-you-need-a-permit-for-bathroom-remodel.jpg",
     "title": "do you need a permit for bathroom remodel",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Do you need a permit for bathroom remodel",
+      "alt": "Do you need a permit for bathroom remodel",
+      "caption": "Do you need a permit for bathroom remodel.",
+      "description": "Do you need a permit for bathroom remodel."
+    }
   },
   {
     "file": "plumbing/051-expertplumbingca.jpg",
@@ -456,7 +756,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/what-causes-a-belly-in-sewer-line.jpg",
     "title": "what causes a belly in sewer line",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "What causes a belly in sewer line",
+      "alt": "What causes a belly in sewer line",
+      "caption": "What causes a belly in sewer line.",
+      "description": "What causes a belly in sewer line."
+    }
   },
   {
     "file": "plumbing/052-expertplumbingca.jpg",
@@ -465,7 +771,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/how-long-does-it-take-to-replace-a-sewer-line-1-1024x512-1.webp",
     "title": "how long does it take to replace a sewer line 1 1024x512 1",
     "width": 1024,
-    "height": 512
+    "height": 512,
+    "public_metadata": {
+      "title": "How long does it take to replace a sewer line",
+      "alt": "How long does it take to replace a sewer line",
+      "caption": "How long does it take to replace a sewer line.",
+      "description": "How long does it take to replace a sewer line."
+    }
   },
   {
     "file": "plumbing/053-expertplumbingca.jpg",
@@ -474,7 +786,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/expert-plumbing-water-heater-service-01.jpg",
     "title": "expert plumbing water heater service 01",
     "width": 816,
-    "height": 1020
+    "height": 1020,
+    "public_metadata": {
+      "title": "Water heater service",
+      "alt": "Water heater service",
+      "caption": "Water heater service.",
+      "description": "Water heater service."
+    }
   },
   {
     "file": "plumbing/054-expertplumbingca.jpg",
@@ -483,7 +801,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/different-types-of-pipes-in-plumbing-1-1024x512-1.jpg",
     "title": "different types of pipes in plumbing 1 1024x512 1",
     "width": 1024,
-    "height": 512
+    "height": 512,
+    "public_metadata": {
+      "title": "Different types of pipes in plumbing",
+      "alt": "Different types of pipes in plumbing",
+      "caption": "Different types of pipes in plumbing.",
+      "description": "Different types of pipes in plumbing."
+    }
   },
   {
     "file": "plumbing/055-expertplumbingca.jpg",
@@ -492,7 +816,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/plumbing-mistakes.jpg",
     "title": "plumbing mistakes",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Plumbing mistakes",
+      "alt": "Plumbing mistakes",
+      "caption": "Plumbing mistakes.",
+      "description": "Plumbing mistakes."
+    }
   },
   {
     "file": "plumbing/056-expertplumbingca.jpg",
@@ -501,7 +831,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/pipes-making-noise-when-water-is-turned-on.jpg",
     "title": "pipes making noise when water is turned on",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Pipes making noise when water is turned on",
+      "alt": "Pipes making noise when water is turned on",
+      "caption": "Pipes making noise when water is turned on.",
+      "description": "Pipes making noise when water is turned on."
+    }
   },
   {
     "file": "plumbing/057-expertplumbingca.jpg",
@@ -510,7 +846,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/main-sewer-line-clogged-vs-regular-drain-clog-differences-1024x512-1.jpg",
     "title": "main sewer line clogged vs regular drain clog differences 1024x512 1",
     "width": 1024,
-    "height": 512
+    "height": 512,
+    "public_metadata": {
+      "title": "Main sewer line clogged vs regular drain clog differences",
+      "alt": "Main sewer line clogged vs regular drain clog differences",
+      "caption": "Main sewer line clogged vs regular drain clog differences.",
+      "description": "Main sewer line clogged vs regular drain clog differences."
+    }
   },
   {
     "file": "plumbing/058-expertplumbingca.jpg",
@@ -519,7 +861,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/p-trap-in-plumbing_-1024x512-1.webp",
     "title": "A polished chrome P-trap connects the drainage pipes beneath a bathroom sink against a white tiled wall.",
     "width": 1024,
-    "height": 512
+    "height": 512,
+    "public_metadata": {
+      "title": "Chrome sink drain and P-trap",
+      "alt": "Polished chrome P-trap and drain connections beneath a bathroom sink",
+      "caption": "Chrome sink drain and P-trap.",
+      "description": "Polished chrome P-trap and drain connections beneath a bathroom sink."
+    }
   },
   {
     "file": "plumbing/059-expertplumbingca.jpg",
@@ -528,7 +876,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Health-Risks-of-a-sewer-Leak.jpg",
     "title": "Health Risks of a sewer Leak",
     "width": 1200,
-    "height": 800
+    "height": 800,
+    "public_metadata": {
+      "title": "Health Risks of a sewer Leak",
+      "alt": "Health Risks of a sewer Leak",
+      "caption": "Health Risks of a sewer Leak.",
+      "description": "Health Risks of a sewer Leak."
+    }
   },
   {
     "file": "plumbing/060-expertplumbingca.jpg",
@@ -537,7 +891,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/how-deep-is-sewer-line-buried.jpg",
     "title": "how deep is sewer line buried",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "How deep is sewer line buried",
+      "alt": "How deep is sewer line buried",
+      "caption": "How deep is sewer line buried.",
+      "description": "How deep is sewer line buried."
+    }
   },
   {
     "file": "plumbing/061-expertplumbingca.jpg",
@@ -546,7 +906,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/repair-or-replace-a-failing-sewer-line.jpg",
     "title": "repair or replace a failing sewer line",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Repair or replace a failing sewer line",
+      "alt": "Repair or replace a failing sewer line",
+      "caption": "Repair or replace a failing sewer line.",
+      "description": "Repair or replace a failing sewer line."
+    }
   },
   {
     "file": "plumbing/062-expertplumbingca.jpg",
@@ -555,7 +921,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/05/XOlJ5eTuR3naxvPAjLg1wRt2X6Hf5P2lBCjRQp6X.webp",
     "title": "Expert Plumbing drain cleaning plumber Santa Cruz CA services ensuring smooth water flow and clog-free plumbing systems",
     "width": 900,
-    "height": 500
+    "height": 500,
+    "public_metadata": {
+      "title": "Water flowing into a sink drain",
+      "alt": "Water flowing around a metal sink drain",
+      "caption": "Water flowing into a sink drain.",
+      "description": "Water flowing around a metal sink drain."
+    }
   },
   {
     "file": "plumbing/063-expertplumbingca.jpg",
@@ -564,7 +936,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/05/bath-02-1.webp",
     "title": "bath 02 1",
     "width": 746,
-    "height": 691
+    "height": 691,
+    "public_metadata": {
+      "title": "Shower control and bathtub spout",
+      "alt": "Shower control and bathtub spout",
+      "caption": "Shower control and bathtub spout.",
+      "description": "Shower control and bathtub spout."
+    }
   },
   {
     "file": "plumbing/064-expertplumbingca.jpg",
@@ -573,7 +951,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Heater-Maintenance-3.jpg",
     "title": "Water Heater Maintenance 3",
     "width": 600,
-    "height": 700
+    "height": 700,
+    "public_metadata": {
+      "title": "Water Heater Maintenance",
+      "alt": "Water Heater Maintenance",
+      "caption": "Water Heater Maintenance.",
+      "description": "Water Heater Maintenance."
+    }
   },
   {
     "file": "plumbing/065-expertplumbingca.jpg",
@@ -582,7 +966,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Heater-Installation-Replacements.jpg",
     "title": "Water Heater Installation Replacements",
     "width": 600,
-    "height": 700
+    "height": 700,
+    "public_metadata": {
+      "title": "Water Heater Installation Replacements",
+      "alt": "Water Heater Installation Replacements",
+      "caption": "Water Heater Installation Replacements.",
+      "description": "Water Heater Installation Replacements."
+    }
   },
   {
     "file": "plumbing/066-expertplumbingca.jpg",
@@ -591,7 +981,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Heater-Maintenance-2.jpg",
     "title": "Water Heater Maintenance 2",
     "width": 600,
-    "height": 700
+    "height": 700,
+    "public_metadata": {
+      "title": "Water Heater Maintenance",
+      "alt": "Water Heater Maintenance",
+      "caption": "Water Heater Maintenance.",
+      "description": "Water Heater Maintenance."
+    }
   },
   {
     "file": "plumbing/067-expertplumbingca.jpg",
@@ -600,7 +996,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Softeners.jpg",
     "title": "Water Softeners",
     "width": 600,
-    "height": 700
+    "height": 700,
+    "public_metadata": {
+      "title": "Water Softeners",
+      "alt": "Water Softeners",
+      "caption": "Water Softeners.",
+      "description": "Water Softeners."
+    }
   },
   {
     "file": "plumbing/068-expertplumbingca.jpg",
@@ -609,7 +1011,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/07/Water-Softeners-1.jpg",
     "title": "Water Softeners 1",
     "width": 600,
-    "height": 700
+    "height": 700,
+    "public_metadata": {
+      "title": "Water Softeners",
+      "alt": "Water Softeners",
+      "caption": "Water Softeners.",
+      "description": "Water Softeners."
+    }
   },
   {
     "file": "plumbing/069-expertplumbingca.jpg",
@@ -618,7 +1026,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/05/102.jpg",
     "title": "Expert Plumbing Santa Cruz CA water heater repair and installation services for reliable hot water systems",
     "width": 659,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Water heater repair and installation services for reliable hot water systems",
+      "alt": "Water heater repair and installation services for reliable hot water systems",
+      "caption": "Water heater repair and installation services for reliable hot water systems.",
+      "description": "Water heater repair and installation services for reliable hot water systems."
+    }
   },
   {
     "file": "plumbing/070-expertplumbingca.jpg",
@@ -627,7 +1041,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/who-is-responsible-for-sewer-line-repair.jpg",
     "title": "who is responsible for sewer line repair",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Who is responsible for sewer line repair",
+      "alt": "Who is responsible for sewer line repair",
+      "caption": "Who is responsible for sewer line repair.",
+      "description": "Who is responsible for sewer line repair."
+    }
   },
   {
     "file": "plumbing/071-expertplumbingca.jpg",
@@ -636,7 +1056,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/why-does-my-bathroom-sink-drain-smell.jpg",
     "title": "why does my bathroom sink drain smell",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Why does my bathroom sink drain smell",
+      "alt": "Why does my bathroom sink drain smell",
+      "caption": "Why does my bathroom sink drain smell.",
+      "description": "Why does my bathroom sink drain smell."
+    }
   },
   {
     "file": "plumbing/072-expertplumbingca.jpg",
@@ -645,7 +1071,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/low-water-pressure-in-house.jpg",
     "title": "low water pressure in house",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "Low water pressure in house",
+      "alt": "Low water pressure in house",
+      "caption": "Low water pressure in house.",
+      "description": "Low water pressure in house."
+    }
   },
   {
     "file": "plumbing/073-expertplumbingca.jpg",
@@ -654,7 +1086,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/how-to-remove-tree-roots-from-sewer-line.jpg",
     "title": "how to remove tree roots from sewer line",
     "width": 1200,
-    "height": 600
+    "height": 600,
+    "public_metadata": {
+      "title": "How to remove tree roots from sewer line",
+      "alt": "How to remove tree roots from sewer line",
+      "caption": "How to remove tree roots from sewer line.",
+      "description": "How to remove tree roots from sewer line."
+    }
   },
   {
     "file": "plumbing/074-expertplumbingca.jpg",
@@ -663,7 +1101,13 @@
     "original": "https://expertplumbingca.com/wp-content/uploads/2026/04/tankless-water-heaters.png",
     "title": "tankless water heaters",
     "width": 814,
-    "height": 866
+    "height": 866,
+    "public_metadata": {
+      "title": "Tankless water heaters",
+      "alt": "Tankless water heaters",
+      "caption": "Tankless water heaters.",
+      "description": "Tankless water heaters."
+    }
   },
   {
     "file": "plumbing/075-expertplumbingca.jpg",
@@ -672,7 +1116,13 @@
     "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/images/e3be9ce77ce278fb6ad252ff1a1606b1f4c42b31cc3eb7454b7513ff2c84f264.webp",
     "title": "Plumbing equipment or installation",
     "width": 1605,
-    "height": 2316
+    "height": 2316,
+    "public_metadata": {
+      "title": "Tankless water heater in a utility closet",
+      "alt": "Wall-mounted tankless water heater installed inside a utility closet",
+      "caption": "Tankless water heater in a utility closet.",
+      "description": "Wall-mounted tankless water heater installed inside a utility closet."
+    }
   },
   {
     "file": "plumbing/076-expertplumbingca.jpg",
@@ -681,7 +1131,13 @@
     "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/images/f3a80e4f17962f657a253588abc12175d06609476763aa9d68085aa24da64ea7.webp",
     "title": "A network of polished copper plumbing pipes with press-fit fittings running alongside a wall in a building.",
     "width": 1200,
-    "height": 700
+    "height": 700,
+    "public_metadata": {
+      "title": "Copper plumbing with press-fit connections",
+      "alt": "Copper plumbing pipes with press-fit fittings running alongside a wall",
+      "caption": "Copper plumbing with press-fit connections.",
+      "description": "Copper plumbing pipes with press-fit fittings running alongside a wall."
+    }
   },
   {
     "file": "plumbing/078-expertplumbingca.jpg",
@@ -690,7 +1146,13 @@
     "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/wp-uploads/2026/05/image1-1.webp",
     "title": "Expert Plumbing water heater repair plumber Santa Cruz CA services for restoring hot water systems in residential and commercial properties",
     "width": 746,
-    "height": 691
+    "height": 691,
+    "public_metadata": {
+      "title": "Residential tank water heater",
+      "alt": "Tank water heater with connected piping installed against an interior wall",
+      "caption": "Residential tank water heater.",
+      "description": "Tank water heater with connected piping installed against an interior wall."
+    }
   },
   {
     "file": "plumbing/079-expertplumbingca.jpg",
@@ -699,7 +1161,13 @@
     "original": "https://d2if3j13w19mqs.cloudfront.net/6aad81e523d85fb823c76e0c/expertplumbingca.com/wp-uploads/2026/05/IMG_1143-1536x2048-1.webp",
     "title": "Expert Plumbing Santa Cruz CA plumbing team working on drain and sewer repair services",
     "width": 1536,
-    "height": 2048
+    "height": 2048,
+    "public_metadata": {
+      "title": "Sewer line exposed beneath concrete",
+      "alt": "Underground sewer pipe exposed in a narrow excavation through a concrete surface",
+      "caption": "Sewer line exposed beneath concrete.",
+      "description": "Underground sewer pipe exposed in a narrow excavation through a concrete surface."
+    }
   },
   {
     "file": "plumbing/082-coastalplumbinghome.jpg",
@@ -708,7 +1176,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705100649953-5BLKQOSH5UWJEAIK1GYB/image-asset.jpeg",
     "title": "Oranssi previous project",
     "width": 1875,
-    "height": 2500
+    "height": 2500,
+    "public_metadata": {
+      "title": "Bathroom vanity and wall mounted heated towel rail",
+      "alt": "Bathroom vanity and wall mounted heated towel rail",
+      "caption": "Bathroom vanity and wall mounted heated towel rail.",
+      "description": "Bathroom vanity and wall mounted heated towel rail."
+    }
   },
   {
     "file": "plumbing/083-coastalplumbinghome.jpg",
@@ -717,7 +1191,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705100467522-OMBJSLHV3IT0F0Y3WKP5/image-asset.jpeg",
     "title": "Oranssi carpenter using bench saw",
     "width": 2500,
-    "height": 1667
+    "height": 1667,
+    "public_metadata": {
+      "title": "Carpenter using bench saw",
+      "alt": "Carpenter using bench saw",
+      "caption": "Carpenter using bench saw.",
+      "description": "Carpenter using bench saw."
+    }
   },
   {
     "file": "plumbing/084-coastalplumbinghome.jpg",
@@ -726,7 +1206,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705100586525-8OKR8UD5YNXSVR3ZIYVG/image-asset.jpeg",
     "title": "Oranssi technician working on a roof project",
     "width": 2500,
-    "height": 1660
+    "height": 1660,
+    "public_metadata": {
+      "title": "Technician working on a roof project",
+      "alt": "Technician working on a roof project",
+      "caption": "Technician working on a roof project.",
+      "description": "Technician working on a roof project."
+    }
   },
   {
     "file": "plumbing/085-coastalplumbinghome.jpg",
@@ -735,7 +1221,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/0c85d40b-171d-499a-967d-e44d7dc0d9dd/IMG_0793.jpg",
     "title": "Oranssi project: wraparound deck",
     "width": 2500,
-    "height": 3333
+    "height": 3333,
+    "public_metadata": {
+      "title": "Wraparound deck",
+      "alt": "Wraparound deck",
+      "caption": "Wraparound deck.",
+      "description": "Wraparound deck."
+    }
   },
   {
     "file": "plumbing/086-coastalplumbinghome.jpg",
@@ -744,7 +1236,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/46ba5219-384d-47aa-bd76-644af0c30aef/IMG_1750.jpg",
     "title": "Oranssi project: passive house",
     "width": 2500,
-    "height": 3333
+    "height": 3333,
+    "public_metadata": {
+      "title": "Passive house",
+      "alt": "Passive house",
+      "caption": "Passive house.",
+      "description": "Passive house."
+    }
   },
   {
     "file": "plumbing/087-coastalplumbinghome.jpg",
@@ -753,7 +1251,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/d7685490-11f1-4544-a264-c55534dcafa0/IMG_0269.jpg",
     "title": "Oranssi project: slat roof",
     "width": 2500,
-    "height": 3333
+    "height": 3333,
+    "public_metadata": {
+      "title": "Slat roof",
+      "alt": "Slat roof",
+      "caption": "Slat roof.",
+      "description": "Slat roof."
+    }
   },
   {
     "file": "plumbing/088-coastalplumbinghome.jpg",
@@ -762,7 +1266,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705021472544-NOLDEHIMQ9LIDX2HV7ML/image-asset.jpeg",
     "title": "image asset",
     "width": 2500,
-    "height": 1667
+    "height": 1667,
+    "public_metadata": {
+      "title": "Industrial pipes and flanged connections",
+      "alt": "Industrial pipes and flanged connections",
+      "caption": "Industrial pipes and flanged connections.",
+      "description": "Industrial pipes and flanged connections."
+    }
   },
   {
     "file": "plumbing/089-coastalplumbinghome.jpg",
@@ -771,7 +1281,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705103835239-OAD79PC08GV3SIP4NWPA/image-asset.jpeg",
     "title": "image asset",
     "width": 2500,
-    "height": 1653
+    "height": 1653,
+    "public_metadata": {
+      "title": "Ceiling plumbing pipe runs",
+      "alt": "Ceiling plumbing pipe runs",
+      "caption": "Ceiling plumbing pipe runs.",
+      "description": "Ceiling plumbing pipe runs."
+    }
   },
   {
     "file": "plumbing/090-coastalplumbinghome.jpg",
@@ -780,7 +1296,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705022058812-PP0JT9HAOA7F8P85PPJQ/image-asset.jpeg",
     "title": "image asset",
     "width": 2500,
-    "height": 1875
+    "height": 1875,
+    "public_metadata": {
+      "title": "Modern bathroom with a tub and vanity",
+      "alt": "Modern bathroom with a tub and vanity",
+      "caption": "Modern bathroom with a tub and vanity.",
+      "description": "Modern bathroom with a tub and vanity."
+    }
   },
   {
     "file": "plumbing/091-coastalplumbinghome.jpg",
@@ -789,7 +1311,13 @@
     "original": "https://images.squarespace-cdn.com/content/v1/65a08ed5ca02064379f8b650/1705022324923-UJWG0MZTH4XCA92NHQ0W/image-asset.jpeg",
     "title": "image asset",
     "width": 1667,
-    "height": 2500
+    "height": 2500,
+    "public_metadata": {
+      "title": "Vessel sink and wall mounted faucet",
+      "alt": "Vessel sink and wall mounted faucet",
+      "caption": "Vessel sink and wall mounted faucet.",
+      "description": "Vessel sink and wall mounted faucet."
+    }
   },
   {
     "file": "plumbing/092-jerseyplumbing.jpg",
@@ -798,7 +1326,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/Rectangle-1081-4-1.jpg",
     "title": "Professional sump pump service",
     "width": 915,
-    "height": 610
+    "height": 610,
+    "public_metadata": {
+      "title": "Sump pump service",
+      "alt": "Sump pump service",
+      "caption": "Sump pump service.",
+      "description": "Sump pump service."
+    }
   },
   {
     "file": "plumbing/093-jerseyplumbing.jpg",
@@ -807,7 +1341,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/ssump-1-1.jpg",
     "title": "Residential sump pump system",
     "width": 768,
-    "height": 875
+    "height": 875,
+    "public_metadata": {
+      "title": "Residential sump pump system",
+      "alt": "Residential sump pump system",
+      "caption": "Residential sump pump system.",
+      "description": "Residential sump pump system."
+    }
   },
   {
     "file": "plumbing/094-jerseyplumbing.jpg",
@@ -816,7 +1356,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/ssump-2-1.jpg",
     "title": "Sump pump system installation",
     "width": 768,
-    "height": 875
+    "height": 875,
+    "public_metadata": {
+      "title": "Sump pump system installation",
+      "alt": "Sump pump system installation",
+      "caption": "Sump pump system installation.",
+      "description": "Sump pump system installation."
+    }
   },
   {
     "file": "plumbing/095-jerseyplumbing.jpg",
@@ -825,7 +1371,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/ssump-3-1.jpg",
     "title": "Sump pump plumbing equipment",
     "width": 768,
-    "height": 875
+    "height": 875,
+    "public_metadata": {
+      "title": "Sump pump plumbing equipment",
+      "alt": "Sump pump plumbing equipment",
+      "caption": "Sump pump plumbing equipment.",
+      "description": "Sump pump plumbing equipment."
+    }
   },
   {
     "file": "plumbing/096-jerseyplumbing.jpg",
@@ -834,7 +1386,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/ssump-4-1.jpg",
     "title": "Sump pump installation",
     "width": 768,
-    "height": 875
+    "height": 875,
+    "public_metadata": {
+      "title": "Sump pump installation",
+      "alt": "Sump pump installation",
+      "caption": "Sump pump installation.",
+      "description": "Sump pump installation."
+    }
   },
   {
     "file": "plumbing/097-jerseyplumbing.jpg",
@@ -843,7 +1401,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/Rectangle-1081-7-1.jpg",
     "title": "Rectangle 1081 7 1",
     "width": 915,
-    "height": 610
+    "height": 610,
+    "public_metadata": {
+      "title": "Bathroom with a pedestal sink and bathtub",
+      "alt": "Bathroom with a pedestal sink and bathtub",
+      "caption": "Bathroom with a pedestal sink and bathtub.",
+      "description": "Bathroom with a pedestal sink and bathtub."
+    }
   },
   {
     "file": "plumbing/098-jerseyplumbing.jpg",
@@ -852,7 +1416,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/Rectangle-1081-9-1.jpg",
     "title": "Water",
     "width": 915,
-    "height": 610
+    "height": 610,
+    "public_metadata": {
+      "title": "Water being poured into a glass",
+      "alt": "Water being poured into a glass",
+      "caption": "Water being poured into a glass.",
+      "description": "Water being poured into a glass."
+    }
   },
   {
     "file": "plumbing/099-jerseyplumbing.jpg",
@@ -861,7 +1431,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/Rectangle-1081-10-1.jpg",
     "title": "Rectangle 1081 10 1",
     "width": 915,
-    "height": 610
+    "height": 610,
+    "public_metadata": {
+      "title": "Wet tile floor and round drain",
+      "alt": "Wet tile floor and round drain",
+      "caption": "Wet tile floor and round drain.",
+      "description": "Wet tile floor and round drain."
+    }
   },
   {
     "file": "plumbing/100-jerseyplumbing.jpg",
@@ -870,7 +1446,13 @@
     "original": "https://jerseyplumbing.com/wp-content/uploads/2026/01/Rectangle-1081-11-1.jpg",
     "title": "Sump pump plumbing system",
     "width": 915,
-    "height": 610
+    "height": 610,
+    "public_metadata": {
+      "title": "Sump pump plumbing system",
+      "alt": "Sump pump plumbing system",
+      "caption": "Sump pump plumbing system.",
+      "description": "Sump pump plumbing system."
+    }
   },
   {
     "file": "plumbing/101-reliantplumbing.jpg",
@@ -879,7 +1461,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/9-door-slab-replacement-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Open shower base under construction",
+      "alt": "Open shower base under construction",
+      "caption": "Open shower base under construction.",
+      "description": "Open shower base under construction."
+    }
   },
   {
     "file": "plumbing/102-reliantplumbing.jpg",
@@ -888,7 +1476,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/9-door-slab-replacement-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Newly poured shower base",
+      "alt": "Newly poured shower base",
+      "caption": "Newly poured shower base.",
+      "description": "Newly poured shower base."
+    }
   },
   {
     "file": "plumbing/103-reliantplumbing.jpg",
@@ -897,7 +1491,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/10-toilet-flush-system-replacement-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Toilet tank with a pressure assist assembly",
+      "alt": "Toilet tank with a pressure assist assembly",
+      "caption": "Toilet tank with a pressure assist assembly.",
+      "description": "Toilet tank with a pressure assist assembly."
+    }
   },
   {
     "file": "plumbing/104-reliantplumbing.jpg",
@@ -906,7 +1506,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/10-toilet-flush-system-replacement-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Toilet tank fill and flush mechanisms",
+      "alt": "Toilet tank fill and flush mechanisms",
+      "caption": "Toilet tank fill and flush mechanisms.",
+      "description": "Toilet tank fill and flush mechanisms."
+    }
   },
   {
     "file": "plumbing/105-reliantplumbing.jpg",
@@ -915,7 +1521,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/7-mop-sink-faucet-replacement-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Utility faucet above a mop sink",
+      "alt": "Utility faucet above a mop sink",
+      "caption": "Utility faucet above a mop sink.",
+      "description": "Utility faucet above a mop sink."
+    }
   },
   {
     "file": "plumbing/106-reliantplumbing.jpg",
@@ -924,7 +1536,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/7-mop-sink-faucet-replacement-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Wall mounted utility faucet",
+      "alt": "Wall mounted utility faucet",
+      "caption": "Wall mounted utility faucet.",
+      "description": "Wall mounted utility faucet."
+    }
   },
   {
     "file": "plumbing/107-reliantplumbing.jpg",
@@ -933,7 +1551,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/12-wall-hung-toilet-installation-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Toilet water connections before installation",
+      "alt": "Toilet water connections before installation",
+      "caption": "Toilet water connections before installation.",
+      "description": "Toilet water connections before installation."
+    }
   },
   {
     "file": "plumbing/108-reliantplumbing.jpg",
@@ -942,7 +1566,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/12-wall-hung-toilet-installation-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Modern toilet with seat controls",
+      "alt": "Modern toilet with seat controls",
+      "caption": "Modern toilet with seat controls.",
+      "description": "Modern toilet with seat controls."
+    }
   },
   {
     "file": "plumbing/109-reliantplumbing.jpg",
@@ -951,7 +1581,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/4-bastrop-water-line-repair-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Excavation around outdoor utility boxes",
+      "alt": "Excavation around outdoor utility boxes",
+      "caption": "Excavation around outdoor utility boxes.",
+      "description": "Excavation around outdoor utility boxes."
+    }
   },
   {
     "file": "plumbing/110-reliantplumbing.jpg",
@@ -960,7 +1596,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/4-bastrop-water-line-repair-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Repaired water pipe in an excavated trench",
+      "alt": "Repaired water pipe in an excavated trench",
+      "caption": "Repaired water pipe in an excavated trench.",
+      "description": "Repaired water pipe in an excavated trench."
+    }
   },
   {
     "file": "plumbing/111-reliantplumbing.jpg",
@@ -969,7 +1611,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/5-sewer-line-repair-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Exposed PVC drain junction",
+      "alt": "Exposed PVC drain junction",
+      "caption": "Exposed PVC drain junction.",
+      "description": "Exposed PVC drain junction."
+    }
   },
   {
     "file": "plumbing/112-reliantplumbing.jpg",
@@ -978,7 +1626,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/5-sewer-line-repair-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Repaired PVC drain with couplings",
+      "alt": "Repaired PVC drain with couplings",
+      "caption": "Repaired PVC drain with couplings.",
+      "description": "Repaired PVC drain with couplings."
+    }
   },
   {
     "file": "plumbing/113-reliantplumbing.jpg",
@@ -987,7 +1641,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/6-gas-line-replacement-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Exterior pipe connections beside a wall",
+      "alt": "Exterior pipe connections beside a wall",
+      "caption": "Exterior pipe connections beside a wall.",
+      "description": "Exterior pipe connections beside a wall."
+    }
   },
   {
     "file": "plumbing/114-reliantplumbing.jpg",
@@ -996,7 +1656,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/6-gas-line-replacement-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Replacement exterior pipe assembly",
+      "alt": "Replacement exterior pipe assembly",
+      "caption": "Replacement exterior pipe assembly.",
+      "description": "Replacement exterior pipe assembly."
+    }
   },
   {
     "file": "plumbing/115-reliantplumbing.jpg",
@@ -1005,7 +1671,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/01-backflow-preventer-replacement-before.jpg",
     "title": "Before plumbing project",
     "width": 1200,
-    "height": 900
+    "height": 900,
+    "public_metadata": {
+      "title": "Older backflow valve assembly",
+      "alt": "Older backflow valve assembly",
+      "caption": "Older backflow valve assembly.",
+      "description": "Older backflow valve assembly."
+    }
   },
   {
     "file": "plumbing/116-reliantplumbing.jpg",
@@ -1014,7 +1686,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/01-backflow-preventer-replacement-after.jpg",
     "title": "After plumbing project",
     "width": 1200,
-    "height": 900
+    "height": 900,
+    "public_metadata": {
+      "title": "Replacement backflow valve assembly",
+      "alt": "Replacement backflow valve assembly",
+      "caption": "Replacement backflow valve assembly.",
+      "description": "Replacement backflow valve assembly."
+    }
   },
   {
     "file": "plumbing/117-reliantplumbing.jpg",
@@ -1023,7 +1701,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/02-sewer-line-trench-service-drive-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Open trench in a commercial floor",
+      "alt": "Open trench in a commercial floor",
+      "caption": "Open trench in a commercial floor.",
+      "description": "Open trench in a commercial floor."
+    }
   },
   {
     "file": "plumbing/118-reliantplumbing.jpg",
@@ -1032,7 +1716,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/02-sewer-line-trench-service-drive-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Repaired concrete floor trench",
+      "alt": "Repaired concrete floor trench",
+      "caption": "Repaired concrete floor trench.",
+      "description": "Repaired concrete floor trench."
+    }
   },
   {
     "file": "plumbing/119-reliantplumbing.jpg",
@@ -1041,7 +1731,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/grease-trap-cleaning-before.jpg",
     "title": "Before plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Underground chamber with a pipe and debris",
+      "alt": "Underground chamber with a pipe and debris",
+      "caption": "Underground chamber with a pipe and debris.",
+      "description": "Underground chamber with a pipe and debris."
+    }
   },
   {
     "file": "plumbing/120-reliantplumbing.jpg",
@@ -1050,7 +1746,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/10/grease-trap-cleaning-after.jpg",
     "title": "After plumbing project",
     "width": 900,
-    "height": 1200
+    "height": 1200,
+    "public_metadata": {
+      "title": "Underground pipe chamber after cleaning",
+      "alt": "Underground pipe chamber after cleaning",
+      "caption": "Underground pipe chamber after cleaning.",
+      "description": "Underground pipe chamber after cleaning."
+    }
   },
   {
     "file": "plumbing/121-reliantplumbing.jpg",
@@ -1059,7 +1761,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/11-700x400-1.jpg",
     "title": "flooding on a floor out the door",
     "width": 700,
-    "height": 400
+    "height": 400,
+    "public_metadata": {
+      "title": "Flooding on a floor out the door",
+      "alt": "Flooding on a floor out the door",
+      "caption": "Flooding on a floor out the door.",
+      "description": "Flooding on a floor out the door."
+    }
   },
   {
     "file": "plumbing/122-reliantplumbing.jpg",
@@ -1068,7 +1776,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/toilet-shutoff-679x400-1.jpg",
     "title": "toilet and toilet shut off valve side by side",
     "width": 679,
-    "height": 400
+    "height": 400,
+    "public_metadata": {
+      "title": "Toilet and toilet shut off valve side by side",
+      "alt": "Toilet and toilet shut off valve side by side",
+      "caption": "Toilet and toilet shut off valve side by side.",
+      "description": "Toilet and toilet shut off valve side by side."
+    }
   },
   {
     "file": "plumbing/123-reliantplumbing.jpg",
@@ -1077,7 +1791,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/bathroom-plumbing-tips-e1547848069937-700x400-1.jpg",
     "title": "clean bathroom with sink and toilet",
     "width": 700,
-    "height": 400
+    "height": 400,
+    "public_metadata": {
+      "title": "Clean bathroom with sink and toilet",
+      "alt": "Clean bathroom with sink and toilet",
+      "caption": "Clean bathroom with sink and toilet.",
+      "description": "Clean bathroom with sink and toilet."
+    }
   },
   {
     "file": "plumbing/124-reliantplumbing.jpg",
@@ -1086,7 +1806,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/09/water-flooding-bedroom-hardwood-floor.webp",
     "title": "Bedroom hardwood floor covered in standing water from a plumbing leak, spreading under furniture toward the doorway",
     "width": 1742,
-    "height": 980
+    "height": 980,
+    "public_metadata": {
+      "title": "Bedroom hardwood floor covered in standing water from a plumbing leak, spreading under furniture toward the doorway",
+      "alt": "Bedroom hardwood floor covered in standing water from a plumbing leak, spreading under furniture toward the doorway",
+      "caption": "Bedroom hardwood floor covered in standing water from a plumbing leak, spreading under furniture toward the doorway.",
+      "description": "Bedroom hardwood floor covered in standing water from a plumbing leak, spreading under furniture toward the doorway."
+    }
   },
   {
     "file": "plumbing/125-reliantplumbing.jpg",
@@ -1095,7 +1821,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2026/09/water-bubbling-up-from-ground-leak.webp",
     "title": "Muddy water bubbling up through a concrete slab from a leak underneath",
     "width": 1742,
-    "height": 980
+    "height": 980,
+    "public_metadata": {
+      "title": "Muddy water bubbling up through a concrete slab from a leak underneath",
+      "alt": "Muddy water bubbling up through a concrete slab from a leak underneath",
+      "caption": "Muddy water bubbling up through a concrete slab from a leak underneath.",
+      "description": "Muddy water bubbling up through a concrete slab from a leak underneath."
+    }
   },
   {
     "file": "plumbing/126-reliantplumbing.jpg",
@@ -1104,7 +1836,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/11/plumbing-freeze-preparation.jpg",
     "title": "plumbing freeze preparation with hose bib",
     "width": 1200,
-    "height": 900
+    "height": 900,
+    "public_metadata": {
+      "title": "Plumbing freeze preparation with hose bib",
+      "alt": "Plumbing freeze preparation with hose bib",
+      "caption": "Plumbing freeze preparation with hose bib.",
+      "description": "Plumbing freeze preparation with hose bib."
+    }
   },
   {
     "file": "plumbing/127-reliantplumbing.jpg",
@@ -1113,7 +1851,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2025/01/ice-hose-bib.jpg",
     "title": "The image shows an outdoor hose bib (spigot) wrapped with a blue towel secured by a yellow and black bungee cord. Despite the insulation attempt, icicles have formed beneath the wr",
     "width": 768,
-    "height": 1024
+    "height": 1024,
+    "public_metadata": {
+      "title": "Outdoor pipe with a towel covering",
+      "alt": "Outdoor pipe with a towel covering",
+      "caption": "Outdoor pipe with a towel covering.",
+      "description": "Outdoor pipe with a towel covering."
+    }
   },
   {
     "file": "plumbing/128-reliantplumbing.jpg",
@@ -1122,7 +1866,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/Pipe-Repair.jpg",
     "title": "broken pipe spraying water needing repair",
     "width": 1366,
-    "height": 800
+    "height": 800,
+    "public_metadata": {
+      "title": "Broken pipe spraying water needing repair",
+      "alt": "Broken pipe spraying water needing repair",
+      "caption": "Broken pipe spraying water needing repair.",
+      "description": "Broken pipe spraying water needing repair."
+    }
   },
   {
     "file": "plumbing/129-reliantplumbing.jpg",
@@ -1131,7 +1881,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/Slab-Leak0-e1621440178232-1.jpg",
     "title": "flooring cut open and deeply flooded beneath due to slab leak",
     "width": 800,
-    "height": 737
+    "height": 737,
+    "public_metadata": {
+      "title": "Flooring cut open and deeply flooded beneath due to slab leak",
+      "alt": "Flooring cut open and deeply flooded beneath due to slab leak",
+      "caption": "Flooring cut open and deeply flooded beneath due to slab leak.",
+      "description": "Flooring cut open and deeply flooded beneath due to slab leak."
+    }
   },
   {
     "file": "plumbing/130-reliantplumbing.jpg",
@@ -1140,7 +1896,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/Causes-of-Slab-Leaks.jpg",
     "title": "4 frame photo collage with top left rusty copper pipes, top right broken pipe filled with scale buildup, bottom left fissures in ground, bottom right, slab leak beneath floor",
     "width": 675,
-    "height": 675
+    "height": 675,
+    "public_metadata": {
+      "title": "Damaged underground pipe repair collage",
+      "alt": "Damaged underground pipe repair collage",
+      "caption": "Damaged underground pipe repair collage.",
+      "description": "Damaged underground pipe repair collage."
+    }
   },
   {
     "file": "plumbing/131-reliantplumbing.jpg",
@@ -1149,7 +1911,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/Screen-Shot-2021-05-11-at-3.57.09-PM-e1620766986137.jpg",
     "title": "gas plumbing on gas unit",
     "width": 800,
-    "height": 939
+    "height": 939,
+    "public_metadata": {
+      "title": "Gas plumbing on gas unit",
+      "alt": "Gas plumbing on gas unit",
+      "caption": "Gas plumbing on gas unit.",
+      "description": "Gas plumbing on gas unit."
+    }
   },
   {
     "file": "plumbing/132-reliantplumbing.jpg",
@@ -1158,7 +1926,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/Gas-LeakRS-e1621884978828.png",
     "title": "gas pressure guage",
     "width": 666,
-    "height": 457
+    "height": 457,
+    "public_metadata": {
+      "title": "Gas pressure gauge",
+      "alt": "Gas pressure gauge",
+      "caption": "Gas pressure gauge.",
+      "description": "Gas pressure gauge."
+    }
   },
   {
     "file": "plumbing/133-reliantplumbing.jpg",
@@ -1167,7 +1941,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/broken-pipes-1.jpg",
     "title": "broken pvc pipe laying on grass After pipe repair job",
     "width": 600,
-    "height": 389
+    "height": 389,
+    "public_metadata": {
+      "title": "Broken pvc pipe laying on grass after repair",
+      "alt": "Broken pvc pipe laying on grass after repair",
+      "caption": "Broken pvc pipe laying on grass after repair.",
+      "description": "Broken pvc pipe laying on grass after repair."
+    }
   },
   {
     "file": "plumbing/134-reliantplumbing.jpg",
@@ -1176,7 +1956,13 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/busted-pipes-e1620921942356.png",
     "title": "busted pipes e1620921942356",
     "width": 801,
-    "height": 882
+    "height": 882,
+    "public_metadata": {
+      "title": "Busted pipes",
+      "alt": "Busted pipes",
+      "caption": "Busted pipes.",
+      "description": "Busted pipes."
+    }
   },
   {
     "file": "plumbing/135-reliantplumbing.jpg",
@@ -1185,6 +1971,12 @@
     "original": "https://reliantplumbing.com/jjwp/wp-content/uploads/2024/07/toilet_in_bathroom_with_marble.jpg",
     "title": "toilet in marble bathroom",
     "width": 900,
-    "height": 869
+    "height": 869,
+    "public_metadata": {
+      "title": "Toilet in marble bathroom",
+      "alt": "Toilet in marble bathroom",
+      "caption": "Toilet in marble bathroom.",
+      "description": "Toilet in marble bathroom."
+    }
   }
 ]

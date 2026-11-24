@@ -15,7 +15,13 @@
       "source_page": "https://call.24hvacservices.com/hello-world/",
       "original_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/2024-12-11.webp",
       "width": 765,
-      "height": 1020
+      "height": 1020,
+      "public_metadata": {
+        "title": "Outdoor air conditioning condenser on a raised base",
+        "alt": "Outdoor air conditioning condenser on a raised base",
+        "caption": "Outdoor air conditioning condenser on a raised base.",
+        "description": "Outdoor air conditioning condenser on a raised base."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-002.jpg",
@@ -24,7 +30,13 @@
       "source_page": "https://call.24hvacservices.com/hello-world/",
       "original_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/2025-03-18.webp",
       "width": 765,
-      "height": 1020
+      "height": 1020,
+      "public_metadata": {
+        "title": "Packaged rooftop heating and cooling unit",
+        "alt": "Packaged rooftop heating and cooling unit",
+        "caption": "Packaged rooftop heating and cooling unit.",
+        "description": "Packaged rooftop heating and cooling unit."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-003.jpg",
@@ -33,7 +45,13 @@
       "source_page": "https://call.24hvacservices.com/hello-world/",
       "original_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/2025-05-13.webp",
       "width": 1270,
-      "height": 1020
+      "height": 1020,
+      "public_metadata": {
+        "title": "Attic HVAC system and insulated ductwork",
+        "alt": "HVAC equipment and foil-insulated ductwork installed between wooden attic framing",
+        "caption": "Attic HVAC system and insulated ductwork.",
+        "description": "HVAC equipment and foil-insulated ductwork installed between wooden attic framing."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-004.jpg",
@@ -42,7 +60,13 @@
       "source_page": "https://call.24hvacservices.com/hello-world/",
       "original_url": "https://call.24hvacservices.com/wp-content/uploads/2025/11/6-1.png",
       "width": 1125,
-      "height": 1125
+      "height": 1125,
+      "public_metadata": {
+        "title": "Mini-Splits & Zoning",
+        "alt": "Mini-Splits & Zoning",
+        "caption": "Mini-Splits & Zoning.",
+        "description": "Mini-Splits & Zoning."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-005.jpg",
@@ -51,7 +75,13 @@
       "source_page": "https://call.24hvacservices.com/ms/california-310-mini-split/",
       "original_url": "https://call.24hvacservices.com/wp-content/uploads/2025/12/2024-12-11-1.webp",
       "width": 765,
-      "height": 1020
+      "height": 1020,
+      "public_metadata": {
+        "title": "Furnace installed in a closet",
+        "alt": "Furnace installed in a closet",
+        "caption": "Furnace installed in a closet.",
+        "description": "Furnace installed in a closet."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-006.jpg",
@@ -60,7 +90,13 @@
       "source_page": "https://www.alpinehomeair.com/categories/air-conditioning-cooling",
       "original_url": "https://images.alpinehomeair.com/1672x941/uwm/photos/bundlebuilder.png",
       "width": 1672,
-      "height": 941
+      "height": 941,
+      "public_metadata": {
+        "title": "Wall-mounted mini-split in a home office",
+        "alt": "Wall-mounted ductless mini-split above a desk in a home office",
+        "caption": "Wall-mounted mini-split in a home office.",
+        "description": "Wall-mounted ductless mini-split above a desk in a home office."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-007.jpg",
@@ -69,7 +105,13 @@
       "source_page": "https://www.californiaac.com/dryer-vent-cleaning.php",
       "original_url": "https://www.californiaac.com/images/dryer-vent-cleaning-01.jpg",
       "width": 500,
-      "height": 500
+      "height": 500,
+      "public_metadata": {
+        "title": "Dryer vent cleaning",
+        "alt": "Dryer vent cleaning",
+        "caption": "Dryer vent cleaning.",
+        "description": "Dryer vent cleaning."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-008.jpg",
@@ -78,7 +120,13 @@
       "source_page": "https://www.californiaac.com/construction.php",
       "original_url": "https://www.californiaac.com/images/Sheet_Metal_Ductwork.jpg",
       "width": 600,
-      "height": 338
+      "height": 338,
+      "public_metadata": {
+        "title": "Sheet Metal Ductwork",
+        "alt": "Sheet Metal Ductwork",
+        "caption": "Sheet Metal Ductwork.",
+        "description": "Sheet Metal Ductwork."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-009.jpg",
@@ -87,7 +135,13 @@
       "source_page": "https://www.californiaac.com/home-and-residential-air-conditioning-repairs.php",
       "original_url": "https://www.californiaac.com/images/outdoorAC.jpg",
       "width": 600,
-      "height": 402
+      "height": 402,
+      "public_metadata": {
+        "title": "Pair of outdoor air conditioning units",
+        "alt": "Pair of outdoor air conditioning units",
+        "caption": "Pair of outdoor air conditioning units.",
+        "description": "Pair of outdoor air conditioning units."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-010.jpg",
@@ -96,7 +150,13 @@
       "source_page": "https://www.californiaac.com/checking-refrigerant-levels.php",
       "original_url": "https://www.californiaac.com/images/sprint.jpg",
       "width": 600,
-      "height": 450
+      "height": 450,
+      "public_metadata": {
+        "title": "Frost covered refrigerant line inside an air conditioning unit",
+        "alt": "Frost covered refrigerant line inside an air conditioning unit",
+        "caption": "Frost covered refrigerant line inside an air conditioning unit.",
+        "description": "Frost covered refrigerant line inside an air conditioning unit."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-011.jpg",
@@ -105,7 +165,13 @@
       "source_page": "https://www.californiaac.com/coil-cleaning-and-replacement.php",
       "original_url": "https://www.californiaac.com/images/DSC_0267.JPG",
       "width": 600,
-      "height": 431
+      "height": 431,
+      "public_metadata": {
+        "title": "Older outdoor air conditioning condenser beside a house",
+        "alt": "Older outdoor air conditioning condenser beside a house",
+        "caption": "Older outdoor air conditioning condenser beside a house.",
+        "description": "Older outdoor air conditioning condenser beside a house."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-012.jpg",
@@ -114,7 +180,13 @@
       "source_page": "https://www.californiaac.com/air-conditioning-condenser-fan.php",
       "original_url": "https://www.californiaac.com/images/20131114_135923.jpg",
       "width": 600,
-      "height": 338
+      "height": 338,
+      "public_metadata": {
+        "title": "Air Conditioning Condenser Fan",
+        "alt": "Air Conditioning Condenser Fan",
+        "caption": "Air Conditioning Condenser Fan.",
+        "description": "Air Conditioning Condenser Fan."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-013.jpg",
@@ -123,7 +195,13 @@
       "source_page": "https://www.californiaac.com/air-conditioning-leaks.php",
       "original_url": "https://www.californiaac.com/images/family_christian_algae.jpg",
       "width": 600,
-      "height": 389
+      "height": 389,
+      "public_metadata": {
+        "title": "Moisture beneath an HVAC cabinet",
+        "alt": "Moisture beneath an HVAC cabinet",
+        "caption": "Moisture beneath an HVAC cabinet.",
+        "description": "Moisture beneath an HVAC cabinet."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-014.jpg",
@@ -132,7 +210,13 @@
       "source_page": "https://www.californiaac.com/air-conditioning-blowers.php",
       "original_url": "https://www.californiaac.com/images/20140219_094934.jpg",
       "width": 600,
-      "height": 338
+      "height": 338,
+      "public_metadata": {
+        "title": "Air Conditioning Blowers",
+        "alt": "Air Conditioning Blowers",
+        "caption": "Air Conditioning Blowers.",
+        "description": "Air Conditioning Blowers."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-015.jpg",
@@ -141,7 +225,13 @@
       "source_page": "https://www.californiaac.com/swamp-cooler-repairs.php",
       "original_url": "https://www.californiaac.com/images/Swamp_Coolers_Repairs.jpg",
       "width": 600,
-      "height": 338
+      "height": 338,
+      "public_metadata": {
+        "title": "Swamp Coolers Repairs",
+        "alt": "Swamp Coolers Repairs",
+        "caption": "Swamp Coolers Repairs.",
+        "description": "Swamp Coolers Repairs."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-016.jpg",
@@ -150,7 +240,13 @@
       "source_page": "https://www.californiaac.com/heating-repairs.php",
       "original_url": "https://www.californiaac.com/images/heat-repairs-02.jpg",
       "width": 500,
-      "height": 335
+      "height": 335,
+      "public_metadata": {
+        "title": "Heating Repairs",
+        "alt": "Heating Repairs",
+        "caption": "Heating Repairs.",
+        "description": "Heating Repairs."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-017.jpg",
@@ -159,7 +255,13 @@
       "source_page": "https://www.californiaac.com/heating-replacement.php",
       "original_url": "https://www.californiaac.com/images/heat-repairs-03.jpg",
       "width": 500,
-      "height": 335
+      "height": 335,
+      "public_metadata": {
+        "title": "Heating Replacement",
+        "alt": "Heating Replacement",
+        "caption": "Heating Replacement.",
+        "description": "Heating Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-018.jpg",
@@ -168,7 +270,13 @@
       "source_page": "https://www.californiaac.com/water-heater-repair-and-replacement.php",
       "original_url": "https://www.californiaac.com/images/20150110_092720.jpg",
       "width": 600,
-      "height": 338
+      "height": 338,
+      "public_metadata": {
+        "title": "Water Heater Services",
+        "alt": "Water Heater Services",
+        "caption": "Water Heater Services.",
+        "description": "Water Heater Services."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-019.jpg",
@@ -177,7 +285,13 @@
       "source_page": "https://www.aliciaair.com/",
       "original_url": "https://www.aliciaair.com/img/gallery/ac-sales-installation-anaheim-ca.webp",
       "width": 600,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Custom-Designed Air Conditioners Sales & Installation",
+        "alt": "Custom-Designed Air Conditioners Sales & Installation",
+        "caption": "Custom-Designed Air Conditioners Sales & Installation.",
+        "description": "Custom-Designed Air Conditioners Sales & Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-020.jpg",
@@ -186,7 +300,13 @@
       "source_page": "https://www.aliciaair.com/",
       "original_url": "https://www.aliciaair.com/img/gallery/furnace-replacement-la-habra.webp",
       "width": 600,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace/Heater Repair & Replacement",
+        "alt": "Furnace/Heater Repair & Replacement",
+        "caption": "Furnace/Heater Repair & Replacement.",
+        "description": "Furnace/Heater Repair & Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-021.jpg",
@@ -195,7 +315,13 @@
       "source_page": "https://www.aliciaair.com/",
       "original_url": "https://www.aliciaair.com/img/gallery/install-ac-condenser.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Install Ac Condenser",
+        "alt": "Install Ac Condenser",
+        "caption": "Install Ac Condenser.",
+        "description": "Install Ac Condenser."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-022.jpg",
@@ -204,7 +330,13 @@
       "source_page": "https://www.aliciaair.com/",
       "original_url": "https://www.aliciaair.com/img/gallery/furnace-replacement-la-habra-ca.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace Replacement",
+        "alt": "Furnace Replacement",
+        "caption": "Furnace Replacement.",
+        "description": "Furnace Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-023.jpg",
@@ -213,7 +345,13 @@
       "source_page": "https://www.aliciaair.com/",
       "original_url": "https://www.aliciaair.com/img/gallery/ac-sales-installation-anaheim.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Ac Sales Installation",
+        "alt": "Ac Sales Installation",
+        "caption": "Ac Sales Installation.",
+        "description": "Ac Sales Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-024.jpg",
@@ -222,7 +360,13 @@
       "source_page": "https://www.aliciaair.com/about-alicia-air.php",
       "original_url": "https://www.aliciaair.com/img/gallery/rooftop-heatpump-unit.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier rooftop packaged air conditioner",
+        "alt": "Carrier packaged air conditioning unit mounted on a flat rooftop",
+        "caption": "Carrier rooftop packaged air conditioner.",
+        "description": "Carrier packaged air conditioning unit mounted on a flat rooftop."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-025.jpg",
@@ -231,7 +375,13 @@
       "source_page": "https://www.aliciaair.com/about-alicia-air.php",
       "original_url": "https://www.aliciaair.com/img/gallery/newly-condenser.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Air Conditioning Service",
+        "alt": "Air Conditioning Service",
+        "caption": "Air Conditioning Service.",
+        "description": "Air Conditioning Service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-026.jpg",
@@ -240,7 +390,13 @@
       "source_page": "https://www.aliciaair.com/about-alicia-air.php",
       "original_url": "https://www.aliciaair.com/img/gallery/5-ton-carrier-ac.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Outdoor air conditioning unit in a side yard",
+        "alt": "Outdoor air conditioning condenser installed in a narrow side yard beside a home",
+        "caption": "Outdoor air conditioning unit in a side yard.",
+        "description": "Outdoor air conditioning condenser installed in a narrow side yard beside a home."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-027.jpg",
@@ -249,7 +405,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/newport-beach-split-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Residential Ductless Mini Split AC",
+        "alt": "Residential Ductless Mini Split AC",
+        "caption": "Residential Ductless Mini Split AC.",
+        "description": "Residential Ductless Mini Split AC."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-028.jpg",
@@ -258,7 +420,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/infinity-smart-sensor-thermostat.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Digital HVAC thermostat",
+        "alt": "Wall-mounted digital thermostat showing indoor temperature and heating and cooling controls",
+        "caption": "Digital HVAC thermostat.",
+        "description": "Wall-mounted digital thermostat showing indoor temperature and heating and cooling controls."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-029.jpg",
@@ -267,7 +435,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ductless-ac-newport-beach.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Wall-Mounted Ductless Split Systems",
+        "alt": "Wall-Mounted Ductless Split Systems",
+        "caption": "Wall-Mounted Ductless Split Systems.",
+        "description": "Wall-Mounted Ductless Split Systems."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-030.jpg",
@@ -276,7 +450,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ac-repair-replace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Air Conditioning Repair",
+        "alt": "Air Conditioning Repair",
+        "caption": "Air Conditioning Repair.",
+        "description": "Air Conditioning Repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-031.jpg",
@@ -285,7 +465,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/gravity-furnace-airduct.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Gravity Heating/Furnace System",
+        "alt": "Gravity Heating/Furnace System",
+        "caption": "Gravity Heating/Furnace System.",
+        "description": "Gravity Heating/Furnace System."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-032.jpg",
@@ -294,7 +480,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/furnace-after-coil-repair.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace Installation",
+        "alt": "Furnace Installation",
+        "caption": "Furnace Installation.",
+        "description": "Furnace Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-033.jpg",
@@ -303,7 +495,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/install-ac-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Air Conditioner Installation",
+        "alt": "Air Conditioner Installation",
+        "caption": "Air Conditioner Installation.",
+        "description": "Air Conditioner Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-034.jpg",
@@ -312,7 +510,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/boulanger-new.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace Installation",
+        "alt": "Furnace Installation",
+        "caption": "Furnace Installation.",
+        "description": "Furnace Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-035.jpg",
@@ -321,7 +525,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/air-conditioning-leak-repair.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "AC Leak Repair",
+        "alt": "AC Leak Repair",
+        "caption": "AC Leak Repair.",
+        "description": "AC Leak Repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-036.jpg",
@@ -330,7 +540,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/hydronic-air-handler-installation.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Hydronic Air Handler Installation",
+        "alt": "Hydronic Air Handler Installation",
+        "caption": "Hydronic Air Handler Installation.",
+        "description": "Hydronic Air Handler Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-037.jpg",
@@ -339,7 +555,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/laguna-beach-ductless-mini-split-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Mini Split Installation",
+        "alt": "Carrier Mini Split Installation",
+        "caption": "Carrier Mini Split Installation.",
+        "description": "Carrier Mini Split Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-038.jpg",
@@ -348,7 +570,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-furnace-installation-san-clemente.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier furnace installation",
+        "alt": "Carrier furnace installation",
+        "caption": "Carrier furnace installation.",
+        "description": "Carrier furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-039.jpg",
@@ -357,7 +585,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/variable-speed-ac-installers.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Variable speed ac installation",
+        "alt": "Variable speed ac installation",
+        "caption": "Variable speed ac installation.",
+        "description": "Variable speed ac installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-040.jpg",
@@ -366,7 +600,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ac-heating-condenser.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "AC Condenser Repair/Installation",
+        "alt": "AC Condenser Repair/Installation",
+        "caption": "AC Condenser Repair/Installation.",
+        "description": "AC Condenser Repair/Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-041.jpg",
@@ -375,7 +615,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/furnace-replacement-maintenance.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Performance Series Furnace",
+        "alt": "Carrier Performance Series Furnace",
+        "caption": "Carrier Performance Series Furnace.",
+        "description": "Carrier Performance Series Furnace."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-042.jpg",
@@ -384,7 +630,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/furnace-laguna-beach.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Furnace Installation",
+        "alt": "Carrier Furnace Installation",
+        "caption": "Carrier Furnace Installation.",
+        "description": "Carrier Furnace Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-043.jpg",
@@ -393,7 +645,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/new-ducting-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Ductwork",
+        "alt": "Ductwork",
+        "caption": "Ductwork.",
+        "description": "Ductwork."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-044.jpg",
@@ -402,7 +660,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/san-clemente-furnace-changeout.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace Repair",
+        "alt": "Furnace Repair",
+        "caption": "Furnace Repair.",
+        "description": "Furnace Repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-045.jpg",
@@ -411,7 +675,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/gravity-furnace-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Gravity Furnace Installation",
+        "alt": "Carrier Gravity Furnace Installation",
+        "caption": "Carrier Gravity Furnace Installation.",
+        "description": "Carrier Gravity Furnace Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-046.jpg",
@@ -420,7 +690,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/san-clemente-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Gas furnace and venting installation",
+        "alt": "Gas furnace with metal venting and connected ductwork in a utility area",
+        "caption": "Gas furnace and venting installation.",
+        "description": "Gas furnace with metal venting and connected ductwork in a utility area."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-047.jpg",
@@ -429,7 +705,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/install-lennox-hvac.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier 5 Ton Infinity System",
+        "alt": "Carrier 5 Ton Infinity System",
+        "caption": "Carrier 5 Ton Infinity System.",
+        "description": "Carrier 5 Ton Infinity System."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-048.jpg",
@@ -438,7 +720,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/install-tankless-water-heater.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Water Heater Installation",
+        "alt": "Water Heater Installation",
+        "caption": "Water Heater Installation.",
+        "description": "Water Heater Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-049.jpg",
@@ -447,7 +735,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/infinity-air-conditioner.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "2 Stage 24ANB7 AC",
+        "alt": "2 Stage 24ANB7 AC",
+        "caption": "2 Stage 24ANB7 AC.",
+        "description": "2 Stage 24ANB7 AC."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-050.jpg",
@@ -456,7 +750,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-performance-ac-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier air conditioner installation",
+        "alt": "Carrier air conditioner installation",
+        "caption": "Carrier air conditioner installation.",
+        "description": "Carrier air conditioner installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-051.jpg",
@@ -465,7 +765,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/anaheim-ac-replacement.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Air conditioner replacement",
+        "alt": "Air conditioner replacement",
+        "caption": "Air conditioner replacement.",
+        "description": "Air conditioner replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-052.jpg",
@@ -474,7 +780,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/new-carrier-performance-gas-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier gas furnace installation",
+        "alt": "Carrier gas furnace installation",
+        "caption": "Carrier gas furnace installation.",
+        "description": "Carrier gas furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-053.jpg",
@@ -483,7 +795,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-comfort-series-gas-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier furnace replacement",
+        "alt": "Carrier furnace replacement",
+        "caption": "Carrier furnace replacement.",
+        "description": "Carrier furnace replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-054.jpg",
@@ -492,7 +810,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-ac-filter-change-maintenance.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "HVAC electrical controls and wiring",
+        "alt": "Open HVAC access panel showing electrical controls and color-coded wiring",
+        "caption": "HVAC electrical controls and wiring.",
+        "description": "Open HVAC access panel showing electrical controls and color-coded wiring."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-055.jpg",
@@ -501,7 +825,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ac-tune-up-filter-cleaning-oc.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "AC tune up and filter cleaning",
+        "alt": "AC tune up and filter cleaning",
+        "caption": "AC tune up and filter cleaning.",
+        "description": "AC tune up and filter cleaning."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-056.jpg",
@@ -510,7 +840,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-ac-ductwork-air-cleaner.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Outdoor condenser beside a house",
+        "alt": "Outdoor air conditioning condenser beside a stucco wall with electrical and refrigerant connections",
+        "caption": "Outdoor condenser beside a house.",
+        "description": "Outdoor air conditioning condenser beside a stucco wall with electrical and refrigerant connections."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-057.jpg",
@@ -519,7 +855,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/lagunabeach-ductless-minisplit-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Ductless mini-split equipment installation",
+        "alt": "Outdoor mini-split unit and indoor wall-mounted equipment shown during installation",
+        "caption": "Ductless mini-split equipment installation.",
+        "description": "Outdoor mini-split unit and indoor wall-mounted equipment shown during installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-058.jpg",
@@ -528,7 +870,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/replacing-ac-condencer.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "AC Repairs",
+        "alt": "AC Repairs",
+        "caption": "AC Repairs.",
+        "description": "AC Repairs."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-059.jpg",
@@ -537,7 +885,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/multi-zone-ductless-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Mini-split units in multiple rooms",
+        "alt": "Wall-mounted ductless mini-split units installed in three residential rooms",
+        "caption": "Mini-split units in multiple rooms.",
+        "description": "Wall-mounted ductless mini-split units installed in three residential rooms."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-060.jpg",
@@ -546,7 +900,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-infinity-furnace-installation.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace installation",
+        "alt": "Furnace installation",
+        "caption": "Furnace installation.",
+        "description": "Furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-061.jpg",
@@ -555,7 +915,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/dana-point-rooftop.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Rooftop heat pump replacement comparison",
+        "alt": "Before-and-after views of rooftop heating and cooling equipment",
+        "caption": "Rooftop heat pump replacement comparison.",
+        "description": "Before-and-after views of rooftop heating and cooling equipment."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-062.jpg",
@@ -564,7 +930,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/lagunabeach-ac-coil-replacement.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Ac Replacement",
+        "alt": "Carrier Ac Replacement",
+        "caption": "Carrier Ac Replacement.",
+        "description": "Carrier Ac Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-063.jpg",
@@ -573,7 +945,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/cooling-coils.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Evaporator Coil Replacement",
+        "alt": "Carrier Evaporator Coil Replacement",
+        "caption": "Carrier Evaporator Coil Replacement.",
+        "description": "Carrier Evaporator Coil Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-064.jpg",
@@ -582,7 +960,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/install-cooling-systems.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Air Conditioner Installation",
+        "alt": "Air Conditioner Installation",
+        "caption": "Air Conditioner Installation.",
+        "description": "Air Conditioner Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-065.jpg",
@@ -591,7 +975,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/irvine-new-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace Ductwork Service",
+        "alt": "Furnace Ductwork Service",
+        "caption": "Furnace Ductwork Service.",
+        "description": "Furnace Ductwork Service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-066.jpg",
@@ -600,7 +990,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/install-carrier-gas-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Infinity Furnace Installation",
+        "alt": "Carrier Infinity Furnace Installation",
+        "caption": "Carrier Infinity Furnace Installation.",
+        "description": "Carrier Infinity Furnace Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-067.jpg",
@@ -609,7 +1005,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-infinity-furnace-replacement.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace installation",
+        "alt": "Furnace installation",
+        "caption": "Furnace installation.",
+        "description": "Furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-068.jpg",
@@ -618,7 +1020,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/san-juan-capistrano-new-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace and duct connections in an attic",
+        "alt": "Residential furnace connected to insulated ductwork in an attic space",
+        "caption": "Furnace and duct connections in an attic.",
+        "description": "Residential furnace connected to insulated ductwork in an attic space."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-069.jpg",
@@ -627,7 +1035,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/split-ac-heat-pump.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Rooftop HVAC equipment and refrigerant lines",
+        "alt": "Rooftop HVAC equipment with connected refrigerant lines and electrical wiring",
+        "caption": "Rooftop HVAC equipment and refrigerant lines.",
+        "description": "Rooftop HVAC equipment with connected refrigerant lines and electrical wiring."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-070.jpg",
@@ -636,7 +1050,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-two-stage-heater.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Furnace Installers",
+        "alt": "Furnace Installers",
+        "caption": "Furnace Installers.",
+        "description": "Furnace Installers."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-071.jpg",
@@ -645,7 +1065,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ductwork-repair.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "HVAC ductwork replacement comparison",
+        "alt": "Before-and-after views of worn ductwork and replacement HVAC equipment",
+        "caption": "HVAC ductwork replacement comparison.",
+        "description": "Before-and-after views of worn ductwork and replacement HVAC equipment."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-072.jpg",
@@ -654,7 +1080,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/new-evaporator-coil.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Gas Furnace",
+        "alt": "Carrier Gas Furnace",
+        "caption": "Carrier Gas Furnace.",
+        "description": "Carrier Gas Furnace."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-073.jpg",
@@ -663,7 +1095,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/install-new-hvac.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Hot Water Pump Replacement",
+        "alt": "Hot Water Pump Replacement",
+        "caption": "Hot Water Pump Replacement.",
+        "description": "Hot Water Pump Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-074.jpg",
@@ -672,7 +1110,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/heat-air-handler.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "HVAC Experts",
+        "alt": "HVAC Experts",
+        "caption": "HVAC Experts.",
+        "description": "HVAC Experts."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-075.jpg",
@@ -681,7 +1125,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-comfort-series-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Energy Efficient Carrier Unit",
+        "alt": "Energy Efficient Carrier Unit",
+        "caption": "Energy Efficient Carrier Unit.",
+        "description": "Energy Efficient Carrier Unit."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-076.jpg",
@@ -690,7 +1140,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-ac-replacement.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier ac installation",
+        "alt": "Carrier ac installation",
+        "caption": "Carrier ac installation.",
+        "description": "Carrier ac installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-077.jpg",
@@ -699,7 +1155,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-comfort-line-furnace.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier air conditioner & ductwork installation",
+        "alt": "Carrier air conditioner & ductwork installation",
+        "caption": "Carrier air conditioner & ductwork installation.",
+        "description": "Carrier air conditioner & ductwork installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-078.jpg",
@@ -708,7 +1170,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/heater-repair-mission-viejo.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Gas-Fired Heater Replacement",
+        "alt": "Gas-Fired Heater Replacement",
+        "caption": "Gas-Fired Heater Replacement.",
+        "description": "Gas-Fired Heater Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-079.jpg",
@@ -717,7 +1185,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-infinity-rooftop-unit.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Air conditioner installation",
+        "alt": "Air conditioner installation",
+        "caption": "Air conditioner installation.",
+        "description": "Air conditioner installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-080.jpg",
@@ -726,7 +1200,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ductwork-testing-orange-county.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Air duct sealing",
+        "alt": "Air duct sealing",
+        "caption": "Air duct sealing.",
+        "description": "Air duct sealing."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-081.jpg",
@@ -735,7 +1215,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/home-air-conditioning-installation-sales.php",
       "original_url": "https://www.aliciaair.com/img/home-air-conditioning-installation-sales.jpg",
       "width": 1200,
-      "height": 650
+      "height": 650,
+      "public_metadata": {
+        "title": "Home Air Conditioning Installation Sales",
+        "alt": "Home Air Conditioning Installation Sales",
+        "caption": "Home Air Conditioning Installation Sales.",
+        "description": "Home Air Conditioning Installation Sales."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-082.jpg",
@@ -744,7 +1230,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/reme-halo-led-in-duct-air-purifier.php",
       "original_url": "https://www.aliciaair.com/img/reme-halo-led-in-duct-air-purifier.jpg",
       "width": 1200,
-      "height": 650
+      "height": 650,
+      "public_metadata": {
+        "title": "Reme Halo Led In Duct Air Purifier",
+        "alt": "Reme Halo Led In Duct Air Purifier",
+        "caption": "Reme Halo Led In Duct Air Purifier.",
+        "description": "Reme Halo Led In Duct Air Purifier."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-083.jpg",
@@ -753,7 +1245,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/heat-pump-sales-installation-replacement.php",
       "original_url": "https://www.aliciaair.com/img/heat-pump-sales-installation-replacement.jpg",
       "width": 1200,
-      "height": 650
+      "height": 650,
+      "public_metadata": {
+        "title": "Outdoor heat pump beside a home",
+        "alt": "Outdoor heat pump installed beside a house and landscaped planting bed",
+        "caption": "Outdoor heat pump beside a home.",
+        "description": "Outdoor heat pump installed beside a house and landscaped planting bed."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-084.jpg",
@@ -762,7 +1260,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/carrier-vrf-system-installation.php",
       "original_url": "https://www.aliciaair.com/img/carrier-vrf-systems-sales-install.webp",
       "width": 650,
-      "height": 627
+      "height": 627,
+      "public_metadata": {
+        "title": "Carrier VRF outdoor unit",
+        "alt": "Carrier variable refrigerant flow outdoor unit with a vertical cabinet",
+        "caption": "Carrier VRF outdoor unit.",
+        "description": "Carrier variable refrigerant flow outdoor unit with a vertical cabinet."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-085.jpg",
@@ -771,7 +1275,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/carrier-vrf-system-installation.php",
       "original_url": "https://www.aliciaair.com/img/carrier-vrf-system-installation.jpg",
       "width": 1200,
-      "height": 650
+      "height": 650,
+      "public_metadata": {
+        "title": "Carrier variable refrigerant flow equipment",
+        "alt": "Carrier outdoor VRF unit with a white vertical cabinet",
+        "caption": "Carrier variable refrigerant flow equipment.",
+        "description": "Carrier outdoor VRF unit with a white vertical cabinet."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-086.jpg",
@@ -780,7 +1290,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/hvac-rebates-tax-credits.php",
       "original_url": "https://www.aliciaair.com/img/money-back-guarantee-special.webp",
       "width": 640,
-      "height": 540
+      "height": 540,
+      "public_metadata": {
+        "title": "Residential Carrier HVAC System Installations",
+        "alt": "Residential Carrier HVAC System Installations",
+        "caption": "Residential Carrier HVAC System Installations.",
+        "description": "Residential Carrier HVAC System Installations."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-087.jpg",
@@ -789,7 +1305,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/contact-hvac-expert.php",
       "original_url": "https://www.aliciaair.com/img/contact-us.webp",
       "width": 680,
-      "height": 590
+      "height": 590,
+      "public_metadata": {
+        "title": "Heating and cooling service van",
+        "alt": "Heating and cooling service van",
+        "caption": "Heating and cooling service van.",
+        "description": "Heating and cooling service van."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-088.jpg",
@@ -798,7 +1320,13 @@
       "source_page": "https://www.californiaac.com/portable-air-scrubbers.php",
       "original_url": "https://www.californiaac.com/images/HEPA-Air-Scrubber_1.jpg",
       "width": 500,
-      "height": 569
+      "height": 569,
+      "public_metadata": {
+        "title": "HEPA-Air-Scrubber",
+        "alt": "HEPA-Air-Scrubber",
+        "caption": "HEPA-Air-Scrubber.",
+        "description": "HEPA-Air-Scrubber."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-089.jpg",
@@ -807,7 +1335,13 @@
       "source_page": "https://www.californiaac.com/portable-air-scrubbers.php",
       "original_url": "https://www.californiaac.com/images/HEPA-Air-Scrubber_3.jpg",
       "width": 500,
-      "height": 500
+      "height": 500,
+      "public_metadata": {
+        "title": "HEPA-Air-Scrubber",
+        "alt": "HEPA-Air-Scrubber",
+        "caption": "HEPA-Air-Scrubber.",
+        "description": "HEPA-Air-Scrubber."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-090.jpg",
@@ -816,7 +1350,13 @@
       "source_page": "https://www.californiaac.com/portable-air-scrubbers.php",
       "original_url": "https://www.californiaac.com/images/HEPA-Air-Scrubber_2.jpg",
       "width": 500,
-      "height": 500
+      "height": 500,
+      "public_metadata": {
+        "title": "HEPA-Air-Scrubber",
+        "alt": "HEPA-Air-Scrubber",
+        "caption": "HEPA-Air-Scrubber.",
+        "description": "HEPA-Air-Scrubber."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-091.jpg",
@@ -825,7 +1365,13 @@
       "source_page": "https://www.californiaac.com/XPOWER-XD-125Li-dehumidifier.php",
       "original_url": "https://www.californiaac.com/images/XD-125Li-2.jpg",
       "width": 500,
-      "height": 500
+      "height": 500,
+      "public_metadata": {
+        "title": "XPOWER XD-125Li portable unit",
+        "alt": "XPOWER XD-125Li portable unit",
+        "caption": "XPOWER XD-125Li portable unit.",
+        "description": "XPOWER XD-125Li portable unit."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-092.jpg",
@@ -834,7 +1380,13 @@
       "source_page": "https://www.californiaac.com/XPOWER-XD-125Li-dehumidifier.php",
       "original_url": "https://www.californiaac.com/images/XD-125Li-4.jpg",
       "width": 800,
-      "height": 800
+      "height": 800,
+      "public_metadata": {
+        "title": "XPOWER XD-125Li filter compartment",
+        "alt": "XPOWER XD-125Li filter compartment",
+        "caption": "XPOWER XD-125Li filter compartment.",
+        "description": "XPOWER XD-125Li filter compartment."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-093.jpg",
@@ -843,7 +1395,13 @@
       "source_page": "https://www.californiaac.com/XPOWER-XD-125Li-dehumidifier.php",
       "original_url": "https://www.californiaac.com/images/XD-125Li-3.jpg",
       "width": 800,
-      "height": 800
+      "height": 800,
+      "public_metadata": {
+        "title": "XPOWER XD-125Li front view",
+        "alt": "XPOWER XD-125Li front view",
+        "caption": "XPOWER XD-125Li front view.",
+        "description": "XPOWER XD-125Li front view."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-094.jpg",
@@ -852,7 +1410,13 @@
       "source_page": "https://www.californiaac.com/XPOWER-XD-125Li-dehumidifier.php",
       "original_url": "https://www.californiaac.com/images/XD-125Li-5.jpg",
       "width": 800,
-      "height": 800
+      "height": 800,
+      "public_metadata": {
+        "title": "XPOWER XD-125Li control panel",
+        "alt": "XPOWER XD-125Li control panel",
+        "caption": "XPOWER XD-125Li control panel.",
+        "description": "XPOWER XD-125Li control panel."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-095.jpg",
@@ -861,7 +1425,13 @@
       "source_page": "https://www.californiaac.com/construction.php",
       "original_url": "https://www.californiaac.com/images/Construction.jpg",
       "width": 600,
-      "height": 338
+      "height": 338,
+      "public_metadata": {
+        "title": "Ductwork and construction materials inside an unfinished room",
+        "alt": "Ductwork and construction materials inside an unfinished room",
+        "caption": "Ductwork and construction materials inside an unfinished room.",
+        "description": "Ductwork and construction materials inside an unfinished room."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-096.jpg",
@@ -870,7 +1440,13 @@
       "source_page": "https://www.californiaac.com/radiant-heating.php",
       "original_url": "https://www.californiaac.com/images/lector_terra_radiant_i_tubs.jpg",
       "width": 800,
-      "height": 600
+      "height": 600,
+      "public_metadata": {
+        "title": "Radiant Heating",
+        "alt": "Radiant Heating",
+        "caption": "Radiant Heating.",
+        "description": "Radiant Heating."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-097.jpg",
@@ -879,7 +1455,13 @@
       "source_page": "https://www.californiaac.com/radiant-heating.php",
       "original_url": "https://www.californiaac.com/images/circuit_de_menjador.jpg",
       "width": 636,
-      "height": 477
+      "height": 477,
+      "public_metadata": {
+        "title": "Floor Radiant Heating",
+        "alt": "Floor Radiant Heating",
+        "caption": "Floor Radiant Heating.",
+        "description": "Floor Radiant Heating."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-098.jpg",
@@ -888,7 +1470,13 @@
       "source_page": "https://www.aliciaair.com/",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-performance-system-installer.webp",
       "width": 600,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Performance Series HVAC system",
+        "alt": "Carrier Performance Series HVAC system",
+        "caption": "Carrier Performance Series HVAC system.",
+        "description": "Carrier Performance Series HVAC system."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-099.jpg",
@@ -897,7 +1485,13 @@
       "source_page": "https://www.aliciaair.com/",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-performance-system-installers.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Carrier Performance Series HVAC system",
+        "alt": "Carrier Performance Series HVAC system",
+        "caption": "Carrier Performance Series HVAC system.",
+        "description": "Carrier Performance Series HVAC system."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-100.jpg",
@@ -906,7 +1500,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/forced-air-unit.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "AC Service",
+        "alt": "AC Service",
+        "caption": "AC Service.",
+        "description": "AC Service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-101.jpg",
@@ -915,7 +1515,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/open-outdoor-unit.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Outdoor Unit",
+        "alt": "Outdoor Unit",
+        "caption": "Outdoor Unit.",
+        "description": "Outdoor Unit."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-102.jpg",
@@ -924,7 +1530,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/install-heating-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Heating Services",
+        "alt": "Heating Services",
+        "caption": "Heating Services.",
+        "description": "Heating Services."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-103.jpg",
@@ -933,7 +1545,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/full-ac-replacement.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Residential AC Replacement",
+        "alt": "Residential AC Replacement",
+        "caption": "Residential AC Replacement.",
+        "description": "Residential AC Replacement."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-104.jpg",
@@ -942,7 +1560,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/trabuco-canyon-ac-contactor.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "AC Contactor",
+        "alt": "AC Contactor",
+        "caption": "AC Contactor.",
+        "description": "AC Contactor."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-105.jpg",
@@ -951,7 +1575,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ac-insulation-works.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "AC Insulation",
+        "alt": "AC Insulation",
+        "caption": "AC Insulation.",
+        "description": "AC Insulation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-106.jpg",
@@ -960,7 +1590,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/ac-attic-wall-insulation.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Attic & Wall Insulation Services",
+        "alt": "Attic & Wall Insulation Services",
+        "caption": "Attic & Wall Insulation Services.",
+        "description": "Attic & Wall Insulation Services."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-107.jpg",
@@ -969,7 +1605,13 @@
       "source_page": "https://www.aliciaair.com/orangecounty/carrier-air-purifiers-humidifiers.php",
       "original_url": "https://www.aliciaair.com/img/carrier-air-purifiers-humidifiers.jpg",
       "width": 1200,
-      "height": 650
+      "height": 650,
+      "public_metadata": {
+        "title": "Carrier Air Purifiers Humidifiers",
+        "alt": "Carrier Air Purifiers Humidifiers",
+        "caption": "Carrier Air Purifiers Humidifiers.",
+        "description": "Carrier Air Purifiers Humidifiers."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-108.jpg",
@@ -978,7 +1620,13 @@
       "source_page": "https://www.aliciaair.com/recent-projects.php",
       "original_url": "https://www.aliciaair.com/img/gallery/carrier-performance-system.webp",
       "width": 800,
-      "height": 560
+      "height": 560,
+      "public_metadata": {
+        "title": "Residential air conditioning condenser beside shrubs",
+        "alt": "Residential air conditioning condenser beside shrubs",
+        "caption": "Residential air conditioning condenser beside shrubs.",
+        "description": "Residential air conditioning condenser beside shrubs."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-109.jpg",
@@ -987,7 +1635,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2018/07/09/rheem-ra16-classic-series-chicago-air-conditioner-reviews/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2018/07/rheem-ra16-classic-air-conditioner.png",
       "width": 1200,
-      "height": 1200
+      "height": 1200,
+      "public_metadata": {
+        "title": "Rheem outdoor air conditioning unit",
+        "alt": "Rheem outdoor air conditioning condenser with a protective metal grille",
+        "caption": "Rheem outdoor air conditioning unit.",
+        "description": "Rheem outdoor air conditioning condenser with a protective metal grille."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-110.jpg",
@@ -996,7 +1650,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2018/08/06/amana-asx13-high-efficiency-air-conditioner-chicago-air-conditioner-reviews/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2018/08/amn-asx14-13-rtqtr.png",
       "width": 600,
-      "height": 600
+      "height": 600,
+      "public_metadata": {
+        "title": "Amana ASX13 High Efficiency Air Conditioner",
+        "alt": "Amana ASX13 High Efficiency Air Conditioner",
+        "caption": "Amana ASX13 High Efficiency Air Conditioner.",
+        "description": "Amana ASX13 High Efficiency Air Conditioner."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-111.jpg",
@@ -1005,7 +1665,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2018/09/17/home-air-duct-cleaning-facts/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2018/09/chicago-home-air-duct-cleaning.jpg",
       "width": 1788,
-      "height": 1788
+      "height": 1788,
+      "public_metadata": {
+        "title": "Home air duct cleaning service",
+        "alt": "Home air duct cleaning service",
+        "caption": "Home air duct cleaning service.",
+        "description": "Home air duct cleaning service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-112.jpg",
@@ -1014,7 +1680,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2018/11/19/garage-heater-installation-chicago/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2018/11/garage-heater-installation.jpg",
       "width": 1836,
-      "height": 2048
+      "height": 2048,
+      "public_metadata": {
+        "title": "Garage Heater Installation",
+        "alt": "Garage Heater Installation",
+        "caption": "Garage Heater Installation.",
+        "description": "Garage Heater Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-113.jpg",
@@ -1023,7 +1695,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2019/01/17/navien-condensing-tankless-water-heaters-chicago-boiler-experts/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-15-at-4.44.43-PM.png",
       "width": 658,
-      "height": 1016
+      "height": 1016,
+      "public_metadata": {
+        "title": "Navien NPE-A Hot Water Heater Installation",
+        "alt": "Navien NPE-A Hot Water Heater Installation",
+        "caption": "Navien NPE-A Hot Water Heater Installation.",
+        "description": "Navien NPE-A Hot Water Heater Installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-114.jpg",
@@ -1032,7 +1710,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2019/05/20/leak-in-your-air-conditioner-chicago-ac-repair-experts/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2019/05/IMG_2691.jpg",
       "width": 3024,
-      "height": 4032
+      "height": 4032,
+      "public_metadata": {
+        "title": "Air conditioning",
+        "alt": "Air conditioning",
+        "caption": "Air conditioning.",
+        "description": "Air conditioning."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-115.jpg",
@@ -1041,7 +1725,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2019/06/03/spacepak-high-velocity-air-conditioning-chicago-air-conditioner-experts/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2019/06/spacepak-air-conditioning-chicag.jpg",
       "width": 1578,
-      "height": 875
+      "height": 875,
+      "public_metadata": {
+        "title": "SpacePak air handler and ductwork",
+        "alt": "SpacePak air handler connected to insulated ductwork in an attic",
+        "caption": "SpacePak air handler and ductwork.",
+        "description": "SpacePak air handler connected to insulated ductwork in an attic."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-116.jpg",
@@ -1050,7 +1740,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2019/08/09/the-best-home-air-purifiers-nu-calgon-iwave-r-chicago-hvac-experts/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-14-at-1.31.25-PM.png",
       "width": 732,
-      "height": 708
+      "height": 708,
+      "public_metadata": {
+        "title": "IWave-R from Nu-Calgon",
+        "alt": "IWave-R from Nu-Calgon",
+        "caption": "IWave-R from Nu-Calgon.",
+        "description": "IWave-R from Nu-Calgon."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-117.jpg",
@@ -1059,7 +1755,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2019/11/11/how-to-save-money-on-boiler-repair-chicago-boiler-experts/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2018/09/crown-boiler-burmuda-chicago-sales-installation.jpg",
       "width": 558,
-      "height": 534
+      "height": 534,
+      "public_metadata": {
+        "title": "Crown boiler Bermuda sales installation",
+        "alt": "Crown boiler Bermuda sales installation",
+        "caption": "Crown boiler Bermuda sales installation.",
+        "description": "Crown boiler Bermuda sales installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-118.jpg",
@@ -1068,7 +1770,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2020/01/20/boiler-replacement-cost-chicago-home-heating-experts/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2019/10/Navien-combi-boiler-installation-chicago.jpg",
       "width": 994,
-      "height": 990
+      "height": 990,
+      "public_metadata": {
+        "title": "Navien combi boiler installation",
+        "alt": "Navien combi boiler installation",
+        "caption": "Navien combi boiler installation.",
+        "description": "Navien combi boiler installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-119.jpg",
@@ -1077,7 +1785,13 @@
       "source_page": "https://polarheatingandair.com/index.php/2020/02/24/furnace-repair-near-me-where-smart-speakers-find-answers/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2020/03/furnace-repair-near-me-smart-assistant.jpg",
       "width": 797,
-      "height": 446
+      "height": 446,
+      "public_metadata": {
+        "title": "Smart speaker product comparison",
+        "alt": "Smart speaker product comparison",
+        "caption": "Smart speaker product comparison.",
+        "description": "Smart speaker product comparison."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-120.jpg",
@@ -1086,7 +1800,13 @@
       "source_page": "https://polarheatingandair.com/index.php/amana-ac-model-asxc18-chicago-new-air-conditioner-installation/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2021/07/ASX18-amana-ac-chicago.png",
       "width": 546,
-      "height": 516
+      "height": 516,
+      "public_metadata": {
+        "title": "Amana ac ASX18",
+        "alt": "Amana ac ASX18",
+        "caption": "Amana ac ASX18.",
+        "description": "Amana ac ASX18."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-121.jpg",
@@ -1095,7 +1815,13 @@
       "source_page": "https://polarheatingandair.com/index.php/crown-boiler-installation-repair-maintenance-chicago-il-northwest-indiana/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2018/09/crown-boiler-aruba-chicago-sales-installation.jpg",
       "width": 558,
-      "height": 534
+      "height": 534,
+      "public_metadata": {
+        "title": "Crown boiler Aruba model sales, installation, and repair",
+        "alt": "Crown boiler Aruba model sales, installation, and repair",
+        "caption": "Crown boiler Aruba model sales, installation, and repair.",
+        "description": "Crown boiler Aruba model sales, installation, and repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-122.jpg",
@@ -1104,7 +1830,13 @@
       "source_page": "https://polarheatingandair.com/index.php/programmable-thermostats/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2018/09/programmable-smart-thermostats-chicago.jpg",
       "width": 742,
-      "height": 374
+      "height": 374,
+      "public_metadata": {
+        "title": "Aprilaire smart thermostat installation",
+        "alt": "Aprilaire smart thermostat installation",
+        "caption": "Aprilaire smart thermostat installation.",
+        "description": "Aprilaire smart thermostat installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-123.jpg",
@@ -1113,7 +1845,13 @@
       "source_page": "https://polarheatingandair.com/index.php/uv-germicidal-lights/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2024/09/PCO-light-air-purifier-chicago.jpg",
       "width": 742,
-      "height": 374
+      "height": 374,
+      "public_metadata": {
+        "title": "NatureSoft photocatalytic oxidation system",
+        "alt": "NatureSoft photocatalytic oxidation system",
+        "caption": "NatureSoft photocatalytic oxidation system.",
+        "description": "NatureSoft photocatalytic oxidation system."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-124.jpg",
@@ -1122,7 +1860,13 @@
       "source_page": "https://polarheatingandair.com/index.php/ductless-air-conditioning-mini-split-systems/",
       "original_url": "https://polarheatingandair.com/wp-content/uploads/2015/07/chicago-daikin-mini-split-installation-and-sales.jpg",
       "width": 742,
-      "height": 374
+      "height": 374,
+      "public_metadata": {
+        "title": "Daikin mini split ductless air conditioner installation",
+        "alt": "Daikin mini split ductless air conditioner installation",
+        "caption": "Daikin mini split ductless air conditioner installation.",
+        "description": "Daikin mini split ductless air conditioner installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-125.jpg",
@@ -1131,7 +1875,13 @@
       "source_page": "https://www.briansheating.com/Winfield-IL-ductless-mini-split-heat-pump-installation-Mitsubishi.php",
       "original_url": "https://www.briansheating.com/img/bha-body-ductless-02.jpg",
       "width": 600,
-      "height": 300
+      "height": 300,
+      "public_metadata": {
+        "title": "Ductless mini split installation",
+        "alt": "Ductless mini split installation",
+        "caption": "Ductless mini split installation.",
+        "description": "Ductless mini split installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-126.jpg",
@@ -1140,7 +1890,13 @@
       "source_page": "https://www.briansheating.com/Winfield-IL-ductless-mini-split-heat-pump-installation-Mitsubishi.php",
       "original_url": "https://www.briansheating.com/img/bha-body-ductless-single-zone.jpg",
       "width": 600,
-      "height": 300
+      "height": 300,
+      "public_metadata": {
+        "title": "Single Zone Mitsubishi ductless mini split",
+        "alt": "Single Zone Mitsubishi ductless mini split",
+        "caption": "Single Zone Mitsubishi ductless mini split.",
+        "description": "Single Zone Mitsubishi ductless mini split."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-127.jpg",
@@ -1149,7 +1905,13 @@
       "source_page": "https://www.briansheating.com/Winfield-IL-ductless-mini-split-heat-pump-installation-Mitsubishi.php",
       "original_url": "https://www.briansheating.com/img/bha-body-ductless-multi-zone.jpg",
       "width": 600,
-      "height": 300
+      "height": 300,
+      "public_metadata": {
+        "title": "Multi-Zone Mitsubishi ductless mini split",
+        "alt": "Multi-Zone Mitsubishi ductless mini split",
+        "caption": "Multi-Zone Mitsubishi ductless mini split.",
+        "description": "Multi-Zone Mitsubishi ductless mini split."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-128.jpg",
@@ -1158,7 +1920,13 @@
       "source_page": "https://www.briansheating.com/products.php?type=line&man_id=158&category_id=96",
       "original_url": "https://www.briansheating.com/files/v802.jpg",
       "width": 600,
-      "height": 600
+      "height": 600,
+      "public_metadata": {
+        "title": "Upright gas furnace product image",
+        "alt": "Upright gas furnace product image",
+        "caption": "Upright gas furnace product image.",
+        "description": "Upright gas furnace product image."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-129.jpg",
@@ -1167,7 +1935,13 @@
       "source_page": "https://www.briansheating.com/products.php?type=line&man_id=27&category_id=6",
       "original_url": "https://www.briansheating.com/files/MSZ-4987.png",
       "width": 629,
-      "height": 473
+      "height": 473,
+      "public_metadata": {
+        "title": "Ductless air conditioner indoor and outdoor units with remote",
+        "alt": "Ductless air conditioner indoor and outdoor units with remote",
+        "caption": "Ductless air conditioner indoor and outdoor units with remote.",
+        "description": "Ductless air conditioner indoor and outdoor units with remote."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-130.jpg",
@@ -1176,7 +1950,13 @@
       "source_page": "https://www.briansheating.com/products.php?type=line&man_id=158&category_id=97",
       "original_url": "https://www.briansheating.com/files/4shp20.jpg",
       "width": 600,
-      "height": 600
+      "height": 600,
+      "public_metadata": {
+        "title": "Outdoor air conditioning condenser product image",
+        "alt": "Outdoor air conditioning condenser product image",
+        "caption": "Outdoor air conditioning condenser product image.",
+        "description": "Outdoor air conditioning condenser product image."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-131.jpg",
@@ -1185,7 +1965,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/1-optymalize.jpg",
       "width": 600,
-      "height": 800
+      "height": 800,
+      "public_metadata": {
+        "title": "Heating repair",
+        "alt": "Heating repair",
+        "caption": "Heating repair.",
+        "description": "Heating repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-132.jpg",
@@ -1194,7 +1980,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/66835C52-315B-4C0F-BE5D-D0F77B570608-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Air conditioning service",
+        "alt": "Air conditioning service",
+        "caption": "Air conditioning service.",
+        "description": "Air conditioning service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-133.jpg",
@@ -1203,7 +1995,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/183AE3E3-B5ED-44D3-AC11-2D25A9433DA0-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Ac repair",
+        "alt": "Ac repair",
+        "caption": "Ac repair.",
+        "description": "Ac repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-134.jpg",
@@ -1212,7 +2010,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/3DA39B14-D76A-4AE4-9CB8-0CAFC604F7D5-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Air conditioning repair",
+        "alt": "Air conditioning repair",
+        "caption": "Air conditioning repair.",
+        "description": "Air conditioning repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-135.jpg",
@@ -1221,7 +2025,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/A486EAB8-E7D9-400A-A715-CC4F27CBEFD0-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Indoor water heaters and plumbing",
+        "alt": "Indoor water heaters and plumbing",
+        "caption": "Indoor water heaters and plumbing.",
+        "description": "Indoor water heaters and plumbing."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-136.jpg",
@@ -1230,7 +2040,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/IMG_4758-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace installation",
+        "alt": "Furnace installation",
+        "caption": "Furnace installation.",
+        "description": "Furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-137.jpg",
@@ -1239,7 +2055,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/IMG_3434-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace repair",
+        "alt": "Furnace repair",
+        "caption": "Furnace repair.",
+        "description": "Furnace repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-138.jpg",
@@ -1248,7 +2070,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/IMG_2447-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Upright furnace in a small closet",
+        "alt": "Upright furnace in a small closet",
+        "caption": "Upright furnace in a small closet.",
+        "description": "Upright furnace in a small closet."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-139.jpg",
@@ -1257,7 +2085,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/A29E7F8D-7418-430E-B12E-76BD13B862FE-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Ac service",
+        "alt": "Ac service",
+        "caption": "Ac service.",
+        "description": "Ac service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-140.jpg",
@@ -1266,7 +2100,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/A378F0C1-DD31-4C56-8A5D-3F28A2E5F0FA-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Ac installation",
+        "alt": "Ac installation",
+        "caption": "Ac installation.",
+        "description": "Ac installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-141.jpg",
@@ -1275,7 +2115,13 @@
       "source_page": "https://mironhvac.com/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/bg2.jpg",
       "width": 1900,
-      "height": 904
+      "height": 904,
+      "public_metadata": {
+        "title": "Air conditioning",
+        "alt": "Air conditioning",
+        "caption": "Air conditioning.",
+        "description": "Air conditioning."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-142.jpg",
@@ -1284,7 +2130,13 @@
       "source_page": "https://mironhvac.com/blog/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2021/01/Tips-scaled.jpg",
       "width": 2560,
-      "height": 1666
+      "height": 1666,
+      "public_metadata": {
+        "title": "Adjusting a wall mounted digital thermostat",
+        "alt": "Adjusting a wall mounted digital thermostat",
+        "caption": "Adjusting a wall mounted digital thermostat.",
+        "description": "Adjusting a wall mounted digital thermostat."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-143.jpg",
@@ -1293,7 +2145,13 @@
       "source_page": "https://mironhvac.com/blog/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/FURNACE-REPAIR-–-WHEN-ITS-TIME-TO-CALL-IN-MIRON-HVAC-CONTRACTORS.jpg",
       "width": 2560,
-      "height": 1920
+      "height": 1920,
+      "public_metadata": {
+        "title": "Row of outdoor air conditioning units",
+        "alt": "Several outdoor air conditioning condensers installed alongside a commercial building",
+        "caption": "Row of outdoor air conditioning units.",
+        "description": "Several outdoor air conditioning condensers installed alongside a commercial building."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-144.jpg",
@@ -1302,7 +2160,13 @@
       "source_page": "https://mironhvac.com/blog/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/AIR-CONDITIONING-SERVICE.jpeg",
       "width": 1618,
-      "height": 969
+      "height": 969,
+      "public_metadata": {
+        "title": "Air Conditioning Service",
+        "alt": "Air Conditioning Service",
+        "caption": "Air Conditioning Service.",
+        "description": "Air Conditioning Service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-145.jpg",
@@ -1311,7 +2175,13 @@
       "source_page": "https://mironhvac.com/blog/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/HOW-TO-COOL-A-ROOM.jpg",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "public_metadata": {
+        "title": "How To Cool A Room",
+        "alt": "How To Cool A Room",
+        "caption": "How To Cool A Room.",
+        "description": "How To Cool A Room."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-146.jpg",
@@ -1320,7 +2190,13 @@
       "source_page": "https://mironhvac.com/blog/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/EASY-STEPS-TO-KEEP-YOUR-AIR-CONDITIONING-UNIT-RUNNING-SMOOTHLY.jpg",
       "width": 2000,
-      "height": 700
+      "height": 700,
+      "public_metadata": {
+        "title": "Easy Steps To Keep Your Air Conditioning Unit Running Smoothly",
+        "alt": "Easy Steps To Keep Your Air Conditioning Unit Running Smoothly",
+        "caption": "Easy Steps To Keep Your Air Conditioning Unit Running Smoothly.",
+        "description": "Easy Steps To Keep Your Air Conditioning Unit Running Smoothly."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-147.jpg",
@@ -1329,7 +2205,13 @@
       "source_page": "https://mironhvac.com/blog/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/TYPES-OF-HVAC-SYSTEMS.jpg",
       "width": 1200,
-      "height": 500
+      "height": 500,
+      "public_metadata": {
+        "title": "Types Of Hvac Systems",
+        "alt": "Types Of Hvac Systems",
+        "caption": "Types Of Hvac Systems.",
+        "description": "Types Of Hvac Systems."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-148.jpg",
@@ -1338,7 +2220,13 @@
       "source_page": "https://mironhvac.com/blog/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/Air-Conditioner-Maintenance.jpg",
       "width": 1501,
-      "height": 1000
+      "height": 1000,
+      "public_metadata": {
+        "title": "Air Conditioner Maintenance",
+        "alt": "Air Conditioner Maintenance",
+        "caption": "Air Conditioner Maintenance.",
+        "description": "Air Conditioner Maintenance."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-149.jpg",
@@ -1347,7 +2235,13 @@
       "source_page": "https://mironhvac.com/types-of-hvac-systems/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2018/04/1.jpg",
       "width": 1608,
-      "height": 876
+      "height": 876,
+      "public_metadata": {
+        "title": "Outdoor condensers along a brick wall",
+        "alt": "Two outdoor air conditioning condensers installed beside a brick exterior wall",
+        "caption": "Outdoor condensers along a brick wall.",
+        "description": "Two outdoor air conditioning condensers installed beside a brick exterior wall."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-150.jpg",
@@ -1356,7 +2250,13 @@
       "source_page": "https://mironhvac.com/types-of-hvac-systems/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2018/04/2.jpg",
       "width": 1217,
-      "height": 744
+      "height": 744,
+      "public_metadata": {
+        "title": "Furnace installation",
+        "alt": "Furnace installation",
+        "caption": "Furnace installation.",
+        "description": "Furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-151.jpg",
@@ -1365,7 +2265,13 @@
       "source_page": "https://mironhvac.com/types-of-hvac-systems/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2018/04/3.jpg",
       "width": 1020,
-      "height": 729
+      "height": 729,
+      "public_metadata": {
+        "title": "Outdoor condenser beside landscaping",
+        "alt": "Outdoor air conditioning condenser on a concrete pad beside a brick wall and landscaping",
+        "caption": "Outdoor condenser beside landscaping.",
+        "description": "Outdoor air conditioning condenser on a concrete pad beside a brick wall and landscaping."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-152.jpg",
@@ -1374,7 +2280,13 @@
       "source_page": "https://mironhvac.com/types-of-hvac-systems/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2018/04/4.jpg",
       "width": 855,
-      "height": 633
+      "height": 633,
+      "public_metadata": {
+        "title": "Old Rheem furnace repair",
+        "alt": "Old Rheem furnace repair",
+        "caption": "Old Rheem furnace repair.",
+        "description": "Old Rheem furnace repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-153.jpg",
@@ -1383,7 +2295,13 @@
       "source_page": "https://mironhvac.com/furnace-repair-chicago/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/10/1-optymalize-2.jpg",
       "width": 600,
-      "height": 731
+      "height": 731,
+      "public_metadata": {
+        "title": "Rheem furnace repair and installation",
+        "alt": "Rheem furnace repair and installation",
+        "caption": "Rheem furnace repair and installation.",
+        "description": "Rheem furnace repair and installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-154.jpg",
@@ -1392,7 +2310,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/EC9A53DC-B0FD-4840-A636-50146F251564-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace and wall mounted air equipment",
+        "alt": "Furnace and wall mounted air equipment",
+        "caption": "Furnace and wall mounted air equipment.",
+        "description": "Furnace and wall mounted air equipment."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-155.jpg",
@@ -1401,7 +2325,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/BAB0350F-85DF-4E58-9047-D38522529EA4-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace with an attached air purifier",
+        "alt": "Furnace with an attached air purifier",
+        "caption": "Furnace with an attached air purifier.",
+        "description": "Furnace with an attached air purifier."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-156.jpg",
@@ -1410,7 +2340,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/B2828383-01F1-4F45-AC2B-C018C48752D4-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Upright furnace and vent pipes",
+        "alt": "Upright furnace and vent pipes",
+        "caption": "Upright furnace and vent pipes.",
+        "description": "Upright furnace and vent pipes."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-157.jpg",
@@ -1419,7 +2355,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/A47AD45A-FCBF-463C-BFDD-97073CFE9A92-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace installation & maintenance service",
+        "alt": "Furnace installation & maintenance service",
+        "caption": "Furnace installation & maintenance service.",
+        "description": "Furnace installation & maintenance service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-158.jpg",
@@ -1428,7 +2370,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/29290B67-802E-4A06-B731-E74122D7EB54-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Maintenance service & furnace installation",
+        "alt": "Maintenance service & furnace installation",
+        "caption": "Maintenance service & furnace installation.",
+        "description": "Maintenance service & furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-159.jpg",
@@ -1437,7 +2385,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/6277C763-26EA-4436-8CD5-077356808CD0-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Maintenance & furnace installation",
+        "alt": "Maintenance & furnace installation",
+        "caption": "Maintenance & furnace installation.",
+        "description": "Maintenance & furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-160.jpg",
@@ -1446,7 +2400,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/443E37DD-7271-4B2A-80DE-9E2E8A67A8F4-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace installation and maintenance",
+        "alt": "Furnace installation and maintenance",
+        "caption": "Furnace installation and maintenance.",
+        "description": "Furnace installation and maintenance."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-161.jpg",
@@ -1455,7 +2415,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/80E83B37-F323-4A8C-AE9A-1C7EBC6DD784-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Floor furnace installation",
+        "alt": "Floor furnace installation",
+        "caption": "Floor furnace installation.",
+        "description": "Floor furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-162.jpg",
@@ -1464,7 +2430,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/7ED468DA-CD86-410D-9F39-0116F00601DE-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace installation",
+        "alt": "Furnace installation",
+        "caption": "Furnace installation.",
+        "description": "Furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-163.jpg",
@@ -1473,7 +2445,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/0E55922B-08FD-4D80-AEC2-276CFF540FFD-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Products for ac service",
+        "alt": "Products for ac service",
+        "caption": "Products for ac service.",
+        "description": "Products for ac service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-164.jpg",
@@ -1482,7 +2460,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/AAE599BF-C149-4AC1-A4ED-444AF46ACC03-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Air conditioning contractor",
+        "alt": "Air conditioning contractor",
+        "caption": "Air conditioning contractor.",
+        "description": "Air conditioning contractor."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-165.jpg",
@@ -1491,7 +2475,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/ACC3832F-F3F5-4DF4-A1BA-D48A7291C08D-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Ac maintenance",
+        "alt": "Ac maintenance",
+        "caption": "Ac maintenance.",
+        "description": "Ac maintenance."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-166.jpg",
@@ -1500,7 +2490,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/ACD15817-ECE4-4EDF-A4DA-197FE0C73224-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Rows of rooftop air conditioning condensers",
+        "alt": "Rows of rooftop air conditioning condensers",
+        "caption": "Rows of rooftop air conditioning condensers.",
+        "description": "Rows of rooftop air conditioning condensers."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-167.jpg",
@@ -1509,7 +2505,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/DD683832-EC87-4B18-80D6-65042EC18190-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Packaged HVAC unit on a roof curb",
+        "alt": "Packaged HVAC unit on a roof curb",
+        "caption": "Packaged HVAC unit on a roof curb.",
+        "description": "Packaged HVAC unit on a roof curb."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-168.jpg",
@@ -1518,7 +2520,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/DDF40C0A-2866-4BE8-AA82-BAB9BFEC6403-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Air conditioning service",
+        "alt": "Air conditioning service",
+        "caption": "Air conditioning service.",
+        "description": "Air conditioning service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-169.jpg",
@@ -1527,7 +2535,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/E53B4667-53F3-4E7C-8C5B-65EF56A080CF-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Hvac repair & hvac contractors",
+        "alt": "Hvac repair & hvac contractors",
+        "caption": "Hvac repair & hvac contractors.",
+        "description": "Hvac repair & hvac contractors."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-170.jpg",
@@ -1536,7 +2550,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/EAB61719-C7F4-4CC4-82B4-6C5A22D7E8FF-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Radiant heating tubing beneath an outdoor walkway",
+        "alt": "Radiant heating tubing beneath an outdoor walkway",
+        "caption": "Radiant heating tubing beneath an outdoor walkway.",
+        "description": "Radiant heating tubing beneath an outdoor walkway."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-171.jpg",
@@ -1545,7 +2565,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/F30A4298-8F66-4A9A-B294-02D0CFA03215-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Electronic HVAC diagnostic meter",
+        "alt": "Electronic HVAC diagnostic meter",
+        "caption": "Electronic HVAC diagnostic meter.",
+        "description": "Electronic HVAC diagnostic meter."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-172.jpg",
@@ -1554,7 +2580,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/IMG_0024-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Hvac repair",
+        "alt": "Hvac repair",
+        "caption": "Hvac repair.",
+        "description": "Hvac repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-173.jpg",
@@ -1563,7 +2595,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/111.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Hvac repair in progress",
+        "alt": "Hvac repair in progress",
+        "caption": "Hvac repair in progress.",
+        "description": "Hvac repair in progress."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-174.jpg",
@@ -1572,7 +2610,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/IMG_2069-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Air conditioning service",
+        "alt": "Air conditioning service",
+        "caption": "Air conditioning service.",
+        "description": "Air conditioning service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-175.jpg",
@@ -1581,7 +2625,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/IMG_2111-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace repair",
+        "alt": "Furnace repair",
+        "caption": "Furnace repair.",
+        "description": "Furnace repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-176.jpg",
@@ -1590,7 +2640,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/IMG_2596-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Furnace installation",
+        "alt": "Furnace installation",
+        "caption": "Furnace installation.",
+        "description": "Furnace installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-177.jpg",
@@ -1599,7 +2655,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/IMG_4747-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Packaged HVAC unit on a rooftop",
+        "alt": "Packaged HVAC equipment installed on a flat rooftop",
+        "caption": "Packaged HVAC unit on a rooftop.",
+        "description": "Packaged HVAC equipment installed on a flat rooftop."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-178.jpg",
@@ -1608,7 +2670,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/IMG_4003-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Rheem furnace repair",
+        "alt": "Rheem furnace repair",
+        "caption": "Rheem furnace repair.",
+        "description": "Rheem furnace repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-179.jpg",
@@ -1617,7 +2685,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/IMG_6280-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Ac repair",
+        "alt": "Ac repair",
+        "caption": "Ac repair.",
+        "description": "Ac repair."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-180.jpg",
@@ -1626,7 +2700,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/1.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Air conditioning service",
+        "alt": "Air conditioning service",
+        "caption": "Air conditioning service.",
+        "description": "Air conditioning service."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-181.jpg",
@@ -1635,7 +2715,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/4.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Air conditioning installation",
+        "alt": "Air conditioning installation",
+        "caption": "Air conditioning installation.",
+        "description": "Air conditioning installation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-182.jpg",
@@ -1644,7 +2730,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/2.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Ac installation in progress",
+        "alt": "Ac installation in progress",
+        "caption": "Ac installation in progress.",
+        "description": "Ac installation in progress."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-183.jpg",
@@ -1653,7 +2745,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2020/09/5.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Ac maintenance in progress",
+        "alt": "Ac maintenance in progress",
+        "caption": "Ac maintenance in progress.",
+        "description": "Ac maintenance in progress."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-184.jpg",
@@ -1662,7 +2760,13 @@
       "source_page": "https://mironhvac.com/gallery/",
       "original_url": "https://mironhvac.com/wp-content/uploads/2019/12/3CEBCF76-D4BD-4879-8757-35E29E0995D8-Kopiowanie.jpg",
       "width": 800,
-      "height": 1067
+      "height": 1067,
+      "public_metadata": {
+        "title": "Mechanical equipment delivery outside a multistory building",
+        "alt": "Mechanical equipment delivery outside a multistory building",
+        "caption": "Mechanical equipment delivery outside a multistory building.",
+        "description": "Mechanical equipment delivery outside a multistory building."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-224.jpg",
@@ -1671,7 +2775,13 @@
       "source_page": "https://midcityhvac.com/",
       "original_url": "https://midcityhvac.com/wp-content/themes/hvac4/images/sliders/01.jpg",
       "width": 1920,
-      "height": 1081
+      "height": 1081,
+      "public_metadata": {
+        "title": "Industrial Fans",
+        "alt": "Industrial Fans",
+        "caption": "Industrial Fans.",
+        "description": "Industrial Fans."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-225.jpg",
@@ -1680,7 +2790,13 @@
       "source_page": "https://midcityhvac.com/",
       "original_url": "https://midcityhvac.com/wp-content/themes/hvac4/images/sliders/02.jpg",
       "width": 1920,
-      "height": 1081
+      "height": 1081,
+      "public_metadata": {
+        "title": "Industrial Ventilation",
+        "alt": "Industrial Ventilation",
+        "caption": "Industrial Ventilation.",
+        "description": "Industrial Ventilation."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-227.jpg",
@@ -1689,7 +2805,13 @@
       "source_page": "https://www.briansheating.com/new-construction-services.php",
       "original_url": "https://www.briansheating.com/img/bha-work-commercial-empty-room.webp",
       "width": 600,
-      "height": 400
+      "height": 400,
+      "public_metadata": {
+        "title": "Exposed mechanical ducts in a commercial interior",
+        "alt": "Exposed mechanical ducts in a commercial interior",
+        "caption": "Exposed mechanical ducts in a commercial interior.",
+        "description": "Exposed mechanical ducts in a commercial interior."
+      }
     },
     {
       "file": "air-conditioning/air-conditioning-228.jpg",
@@ -1698,7 +2820,13 @@
       "source_page": "https://www.briansheating.com/new-construction-services.php",
       "original_url": "https://www.briansheating.com/img/bha-work-commercial-yellow-truck.webp",
       "width": 600,
-      "height": 400
+      "height": 400,
+      "public_metadata": {
+        "title": "Crane lifting equipment beside a brick building",
+        "alt": "Crane lifting equipment beside a brick building",
+        "caption": "Crane lifting equipment beside a brick building.",
+        "description": "Crane lifting equipment beside a brick building."
+      }
     }
   ]
 }

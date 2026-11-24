@@ -16,7 +16,13 @@
       "source_page": "https://eastcoastheatingandcooling.com/",
       "original_url": "https://eastcoastheatingandcooling.com/wp-content/uploads/2022/04/call-east-coast.jpg",
       "width": 1500,
-      "height": 600
+      "height": 600,
+      "public_metadata": {
+        "title": "Packaged rooftop HVAC unit",
+        "alt": "Packaged rooftop HVAC unit",
+        "caption": "Packaged rooftop HVAC unit.",
+        "description": "Packaged rooftop HVAC unit."
+      }
     },
     {
       "file": "hvac/hvac-002.jpg",
@@ -25,7 +31,13 @@
       "source_page": "https://eastcoastheatingandcooling.com/package-unit-heat/",
       "original_url": "https://eastcoastheatingandcooling.com/wp-content/uploads/2022/05/171582d2b2960d0803a6de0d2571d8a1.png",
       "width": 594,
-      "height": 323
+      "height": 323,
+      "public_metadata": {
+        "title": "Benefits of Package Units",
+        "alt": "Benefits of Package Units",
+        "caption": "Benefits of Package Units.",
+        "description": "Benefits of Package Units."
+      }
     },
     {
       "file": "hvac/hvac-003.jpg",
@@ -34,7 +46,13 @@
       "source_page": "https://eastcoastheatingandcooling.com/ductless-split-systems/",
       "original_url": "https://eastcoastheatingandcooling.com/wp-content/uploads/2022/05/dutchless.jpg",
       "width": 800,
-      "height": 968
+      "height": 968,
+      "public_metadata": {
+        "title": "Ductless split System",
+        "alt": "Ductless split System",
+        "caption": "Ductless split System.",
+        "description": "Ductless split System."
+      }
     },
     {
       "file": "hvac/hvac-004.jpg",
@@ -43,7 +61,13 @@
       "source_page": "https://eastcoastheatingandcooling.com/ductless-split-systems/",
       "original_url": "https://eastcoastheatingandcooling.com/wp-content/uploads/2022/05/dutchless2.jpg",
       "width": 800,
-      "height": 988
+      "height": 988,
+      "public_metadata": {
+        "title": "Ductless split system",
+        "alt": "Ductless split system",
+        "caption": "Ductless split system.",
+        "description": "Ductless split system."
+      }
     },
     {
       "file": "hvac/hvac-005.jpg",
@@ -52,7 +76,13 @@
       "source_page": "https://eastcoastheatingandcooling.com/package-unit-cooling/",
       "original_url": "https://eastcoastheatingandcooling.com/wp-content/uploads/2022/05/pakage-unit-cooling2.jpg",
       "width": 800,
-      "height": 536
+      "height": 536,
+      "public_metadata": {
+        "title": "Package Unit Cooling",
+        "alt": "Package Unit Cooling",
+        "caption": "Package Unit Cooling.",
+        "description": "Package Unit Cooling."
+      }
     },
     {
       "file": "hvac/hvac-006.jpg",
@@ -61,7 +91,13 @@
       "source_page": "https://www.alpinehomeair.com/categories/air-conditioning-cooling",
       "original_url": "https://images.alpinehomeair.com/1672x941/uwm/photos/bundlebuilder.png",
       "width": 1672,
-      "height": 941
+      "height": 941,
+      "public_metadata": {
+        "title": "Home office ductless mini-split",
+        "alt": "Wall-mounted ductless mini-split cooling a furnished home office",
+        "caption": "Home office ductless mini-split.",
+        "description": "Wall-mounted ductless mini-split cooling a furnished home office."
+      }
     },
     {
       "file": "hvac/hvac-007.jpg",
@@ -70,7 +106,13 @@
       "source_page": "https://hvacofatlanta.com/ac-services-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Lennox-units_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "AC Services",
+        "alt": "AC Services",
+        "caption": "AC Services.",
+        "description": "AC Services."
+      }
     },
     {
       "file": "hvac/hvac-008.jpg",
@@ -79,7 +121,13 @@
       "source_page": "https://hvacofatlanta.com/hvac-contractors-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/IMG-20200624-WA0015.jpg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "HVAC Contractors",
+        "alt": "HVAC Contractors",
+        "caption": "HVAC Contractors.",
+        "description": "HVAC Contractors."
+      }
     },
     {
       "file": "hvac/hvac-009.jpg",
@@ -88,7 +136,13 @@
       "source_page": "https://hvacofatlanta.com/hvac-services-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Highrise-commercial-installation_1200x900-1.jpg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Rooftop air conditioning condensers",
+        "alt": "Rooftop air conditioning condensers",
+        "caption": "Rooftop air conditioning condensers.",
+        "description": "Rooftop air conditioning condensers."
+      }
     },
     {
       "file": "hvac/hvac-010.jpg",
@@ -97,7 +151,13 @@
       "source_page": "https://hvacofatlanta.com/dryer-vent-cleaning-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/Dirty-Registers_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Dryer Vent Cleaning",
+        "alt": "Dryer Vent Cleaning",
+        "caption": "Dryer Vent Cleaning.",
+        "description": "Dryer Vent Cleaning."
+      }
     },
     {
       "file": "hvac/hvac-011.jpg",
@@ -106,7 +166,13 @@
       "source_page": "https://hvacofatlanta.com/dryer-vent-cleaning-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/Moldy-ductwork_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Dryer Vent Cleaning",
+        "alt": "Dryer Vent Cleaning",
+        "caption": "Dryer Vent Cleaning.",
+        "description": "Dryer Vent Cleaning."
+      }
     },
     {
       "file": "hvac/hvac-012.jpg",
@@ -115,7 +181,13 @@
       "source_page": "https://hvacofatlanta.com/about-us/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/ac-installation-1.jpeg",
       "width": 1053,
-      "height": 1280
+      "height": 1280,
+      "public_metadata": {
+        "title": "Ac commercial installation",
+        "alt": "Ac commercial installation",
+        "caption": "Ac commercial installation.",
+        "description": "Ac commercial installation."
+      }
     },
     {
       "file": "hvac/hvac-013.jpg",
@@ -124,7 +196,13 @@
       "source_page": "https://hvacofatlanta.com/about-us/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/home-AC-repair.jpeg",
       "width": 720,
-      "height": 946
+      "height": 946,
+      "public_metadata": {
+        "title": "Home AC repair",
+        "alt": "Home AC repair",
+        "caption": "Home AC repair.",
+        "description": "Home AC repair."
+      }
     },
     {
       "file": "hvac/hvac-014.jpg",
@@ -133,7 +211,13 @@
       "source_page": "https://hvacofatlanta.com/about-us/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Clinical-duct-work_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Commercial ductwork in open ceiling framing",
+        "alt": "Metal and insulated ventilation ducts installed above open commercial wall framing",
+        "caption": "Commercial ductwork in open ceiling framing.",
+        "description": "Metal and insulated ventilation ducts installed above open commercial wall framing."
+      }
     },
     {
       "file": "hvac/hvac-015.jpg",
@@ -142,7 +226,13 @@
       "source_page": "https://hvacofatlanta.com/about-us/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Smart-thermostad-in-home_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Wall mounted smart thermostat",
+        "alt": "Wall mounted smart thermostat",
+        "caption": "Wall mounted smart thermostat.",
+        "description": "Wall mounted smart thermostat."
+      }
     },
     {
       "file": "hvac/hvac-016.jpg",
@@ -151,7 +241,13 @@
       "source_page": "https://hvacofatlanta.com/about-us/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Large-home-ductwork02_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Insulated ductwork in ceiling framing",
+        "alt": "Foil-insulated air ducts installed between wooden ceiling joists",
+        "caption": "Insulated ductwork in ceiling framing.",
+        "description": "Foil-insulated air ducts installed between wooden ceiling joists."
+      }
     },
     {
       "file": "hvac/hvac-017.jpg",
@@ -160,7 +256,13 @@
       "source_page": "https://hvacofatlanta.com/about-us/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Replacement-of-registers_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Dust buildup on air vent grille",
+        "alt": "Dust buildup on air vent grille",
+        "caption": "Dust buildup on air vent grille.",
+        "description": "Dust buildup on air vent grille."
+      }
     },
     {
       "file": "hvac/hvac-018.jpg",
@@ -169,7 +271,13 @@
       "source_page": "https://hvacofatlanta.com/ac-commercial-repair-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Crane-Installation_1200x900.jpg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Commercial AC Installation",
+        "alt": "Commercial AC Installation",
+        "caption": "Commercial AC Installation.",
+        "description": "Commercial AC Installation."
+      }
     },
     {
       "file": "hvac/hvac-019.jpg",
@@ -178,7 +286,13 @@
       "source_page": "https://hvacofatlanta.com/ac-commercial-repair-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/Commercial-replacement02_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Commercial HVAC",
+        "alt": "Commercial HVAC",
+        "caption": "Commercial HVAC.",
+        "description": "Commercial HVAC."
+      }
     },
     {
       "file": "hvac/hvac-020.jpg",
@@ -187,7 +301,13 @@
       "source_page": "https://hvacofatlanta.com/ac-home-repair-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Smart-thermostad-01_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Smart thermostat display",
+        "alt": "Smart thermostat display",
+        "caption": "Smart thermostat display.",
+        "description": "Smart thermostat display."
+      }
     },
     {
       "file": "hvac/hvac-021.jpg",
@@ -196,7 +316,13 @@
       "source_page": "https://hvacofatlanta.com/ac-home-maintenance-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Air-Conditioning-Maintenance-1.jpg",
       "width": 675,
-      "height": 745
+      "height": 745,
+      "public_metadata": {
+        "title": "Air Conditioning - Maintenance",
+        "alt": "Air Conditioning - Maintenance",
+        "caption": "Air Conditioning - Maintenance.",
+        "description": "Air Conditioning - Maintenance."
+      }
     },
     {
       "file": "hvac/hvac-022.jpg",
@@ -205,7 +331,13 @@
       "source_page": "https://hvacofatlanta.com/ac-home-maintenance-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/AC-Home-maintennance.jpeg",
       "width": 670,
-      "height": 657
+      "height": 657,
+      "public_metadata": {
+        "title": "AC-Home maintenance",
+        "alt": "AC-Home maintenance",
+        "caption": "AC-Home maintenance.",
+        "description": "AC-Home maintenance."
+      }
     },
     {
       "file": "hvac/hvac-023.jpg",
@@ -214,7 +346,13 @@
       "source_page": "https://hvacofatlanta.com/ac-home-installation-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Mitsubishi-mini-split-02_1200x900-1.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Mitsubishi outdoor mini-split unit",
+        "alt": "Mitsubishi outdoor mini-split unit mounted beside a home's siding and electrical disconnect",
+        "caption": "Mitsubishi outdoor mini-split unit.",
+        "description": "Mitsubishi outdoor mini-split unit mounted beside a home's siding and electrical disconnect."
+      }
     },
     {
       "file": "hvac/hvac-024.jpg",
@@ -223,7 +361,13 @@
       "source_page": "https://hvacofatlanta.com/air-conditioning-ac-tune-up-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Minisplit-03_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Wall mounted ductless air conditioner",
+        "alt": "Wall mounted ductless air conditioner",
+        "caption": "Wall mounted ductless air conditioner.",
+        "description": "Wall mounted ductless air conditioner."
+      }
     },
     {
       "file": "hvac/hvac-025.jpg",
@@ -232,7 +376,13 @@
       "source_page": "https://hvacofatlanta.com/ductless-ac-installation-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Home-smart-thermostad_1200x900-1.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Wall-mounted smart thermostat",
+        "alt": "Round smart thermostat mounted on an interior wall beside an open living area",
+        "caption": "Wall-mounted smart thermostat.",
+        "description": "Round smart thermostat mounted on an interior wall beside an open living area."
+      }
     },
     {
       "file": "hvac/hvac-026.jpg",
@@ -241,7 +391,13 @@
       "source_page": "https://hvacofatlanta.com/ductless-ac-installation-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/minisplit.jpg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Minisplit",
+        "alt": "Minisplit",
+        "caption": "Minisplit.",
+        "description": "Minisplit."
+      }
     },
     {
       "file": "hvac/hvac-027.jpg",
@@ -250,7 +406,13 @@
       "source_page": "https://hvacofatlanta.com/ductless-repair-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Ductless-Mini-Split-Repair-2-2.jpg",
       "width": 1200,
-      "height": 950
+      "height": 950,
+      "public_metadata": {
+        "title": "Ductless Mini-Split Repair",
+        "alt": "Ductless Mini-Split Repair",
+        "caption": "Ductless Mini-Split Repair.",
+        "description": "Ductless Mini-Split Repair."
+      }
     },
     {
       "file": "hvac/hvac-028.jpg",
@@ -259,7 +421,13 @@
       "source_page": "https://hvacofatlanta.com/ductless-repair-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Ductless-repair.jpg",
       "width": 1200,
-      "height": 971
+      "height": 971,
+      "public_metadata": {
+        "title": "Ductless repair",
+        "alt": "Ductless repair",
+        "caption": "Ductless repair.",
+        "description": "Ductless repair."
+      }
     },
     {
       "file": "hvac/hvac-029.jpg",
@@ -268,7 +436,13 @@
       "source_page": "https://hvacofatlanta.com/air-filtration-systems-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/ductwork-for-clinic_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Air Filtration Systems",
+        "alt": "Air Filtration Systems",
+        "caption": "Air Filtration Systems.",
+        "description": "Air Filtration Systems."
+      }
     },
     {
       "file": "hvac/hvac-030.jpg",
@@ -277,7 +451,13 @@
       "source_page": "https://hvacofatlanta.com/air-filtration-systems-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/Ductwork-supply-new-installation_1200x900.jpg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Air filtration systems",
+        "alt": "Air filtration systems",
+        "caption": "Air filtration systems.",
+        "description": "Air filtration systems."
+      }
     },
     {
       "file": "hvac/hvac-031.jpg",
@@ -286,7 +466,13 @@
       "source_page": "https://hvacofatlanta.com/insulation-services-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/insulation-services-1.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Basement furnace and insulated ductwork",
+        "alt": "Basement furnace and insulated ductwork",
+        "caption": "Basement furnace and insulated ductwork.",
+        "description": "Basement furnace and insulated ductwork."
+      }
     },
     {
       "file": "hvac/hvac-032.jpg",
@@ -295,7 +481,13 @@
       "source_page": "https://hvacofatlanta.com/heating-services-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/Heating1.jpg",
       "width": 1280,
-      "height": 850
+      "height": 850,
+      "public_metadata": {
+        "title": "Radiator temperature control",
+        "alt": "Radiator temperature control",
+        "caption": "Radiator temperature control.",
+        "description": "Radiator temperature control."
+      }
     },
     {
       "file": "hvac/hvac-033.jpg",
@@ -304,7 +496,13 @@
       "source_page": "https://hvacofatlanta.com/heating-services-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/Heating.jpg",
       "width": 1400,
-      "height": 933
+      "height": 933,
+      "public_metadata": {
+        "title": "Living room with a fireplace",
+        "alt": "Furnished living room with a fireplace set into a wood-paneled feature wall",
+        "caption": "Living room with a fireplace.",
+        "description": "Furnished living room with a fireplace set into a wood-paneled feature wall."
+      }
     },
     {
       "file": "hvac/hvac-034.jpg",
@@ -313,7 +511,13 @@
       "source_page": "https://hvacofatlanta.com/furnace-tune-up-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/furnace-tune-up1.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Exterior gas meter and supply piping",
+        "alt": "Gas meter, shutoff and supply piping installed beside an exterior wall",
+        "caption": "Exterior gas meter and supply piping.",
+        "description": "Gas meter, shutoff and supply piping installed beside an exterior wall."
+      }
     },
     {
       "file": "hvac/hvac-035.jpg",
@@ -322,7 +526,13 @@
       "source_page": "https://hvacofatlanta.com/furnace-tune-up-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/07/furnace-tune-up.jpg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "HVAC condensate drain and piping",
+        "alt": "Condensate drain piping and plumbing connections beneath HVAC equipment",
+        "caption": "HVAC condensate drain and piping.",
+        "description": "Condensate drain piping and plumbing connections beneath HVAC equipment."
+      }
     },
     {
       "file": "hvac/hvac-036.jpg",
@@ -331,7 +541,13 @@
       "source_page": "https://hvacofatlanta.com/hvac-duct-cleaning-in-atlanta/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Pour-indoor-air-quality_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Duct Cleaning Experts",
+        "alt": "Duct Cleaning Experts",
+        "caption": "Duct Cleaning Experts.",
+        "description": "Duct Cleaning Experts."
+      }
     },
     {
       "file": "hvac/hvac-037.jpg",
@@ -340,7 +556,13 @@
       "source_page": "https://hvacofatlanta.com/projects/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2018/09/portfolio_04.jpg",
       "width": 1920,
-      "height": 1280
+      "height": 1280,
+      "public_metadata": {
+        "title": "Rooftop cooling equipment beside commercial buildings",
+        "alt": "Rooftop cooling equipment beside commercial buildings",
+        "caption": "Rooftop cooling equipment beside commercial buildings.",
+        "description": "Rooftop cooling equipment beside commercial buildings."
+      }
     },
     {
       "file": "hvac/hvac-038.jpg",
@@ -349,7 +571,13 @@
       "source_page": "https://hvacofatlanta.com/projects/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2018/09/portfolio_03.jpg",
       "width": 1920,
-      "height": 1280
+      "height": 1280,
+      "public_metadata": {
+        "title": "Ductless wall unit above a living room sofa",
+        "alt": "Ductless wall unit above a living room sofa",
+        "caption": "Ductless wall unit above a living room sofa.",
+        "description": "Ductless wall unit above a living room sofa."
+      }
     },
     {
       "file": "hvac/hvac-039.jpg",
@@ -358,7 +586,13 @@
       "source_page": "https://www.aactionair.net/blog/furnace-repair-vs-replacement-decatur/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/11/furnace-repair-vs-replacement-decatur-8068.webp",
       "width": 899,
-      "height": 507
+      "height": 507,
+      "public_metadata": {
+        "title": "Dirty and clean air filters near a furnace",
+        "alt": "Dirty and clean air filters near a furnace",
+        "caption": "Dirty and clean air filters near a furnace.",
+        "description": "Dirty and clean air filters near a furnace."
+      }
     },
     {
       "file": "hvac/hvac-040.jpg",
@@ -367,7 +601,13 @@
       "source_page": "https://www.aactionair.net/blog/atlanta-hvac-system-replacement-guide/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/06/An-air-conditioner-being-worked-on-outside-a-home.webp",
       "width": 940,
-      "height": 788
+      "height": 788,
+      "public_metadata": {
+        "title": "An air conditioner being worked on outside a home",
+        "alt": "An air conditioner being worked on outside a home",
+        "caption": "An air conditioner being worked on outside a home.",
+        "description": "An air conditioner being worked on outside a home."
+      }
     },
     {
       "file": "hvac/hvac-041.jpg",
@@ -376,7 +616,13 @@
       "source_page": "https://www.aactionair.net/blog/ac-tune-up-vs-repair-douglas/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/05/Tools-on-an-air-conditioner-for-repair.webp",
       "width": 940,
-      "height": 788
+      "height": 788,
+      "public_metadata": {
+        "title": "Tools on an air conditioner for repair",
+        "alt": "Tools on an air conditioner for repair",
+        "caption": "Tools on an air conditioner for repair.",
+        "description": "Tools on an air conditioner for repair."
+      }
     },
     {
       "file": "hvac/hvac-042.jpg",
@@ -385,7 +631,13 @@
       "source_page": "https://www.aactionair.net/blog/is-my-furnace-about-to-fail-or-is-this-a-normal-issue/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/10/20251018-133643-fdf5545c34b82334-e8c7f85b-6888-4132-aca4-77c9001d4160.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Indoor mechanical room with HVAC equipment",
+        "alt": "HVAC equipment, piping and metal ductwork arranged in an indoor mechanical room",
+        "caption": "Indoor mechanical room with HVAC equipment.",
+        "description": "HVAC equipment, piping and metal ductwork arranged in an indoor mechanical room."
+      }
     },
     {
       "file": "hvac/hvac-043.jpg",
@@ -394,7 +646,13 @@
       "source_page": "https://www.aactionair.net/blog/atlanta-heating-system-installation-services-choosing-the-best-system-for-your-home/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/11/pngtree-air-condition-outdoor-unit-compressor-install-outside-the-house-with-blue-image_15692645.webp",
       "width": 720,
-      "height": 404
+      "height": 404,
+      "public_metadata": {
+        "title": "Outdoor ductless air conditioner mounted on a wall",
+        "alt": "Outdoor ductless air conditioner mounted on a wall",
+        "caption": "Outdoor ductless air conditioner mounted on a wall.",
+        "description": "Outdoor ductless air conditioner mounted on a wall."
+      }
     },
     {
       "file": "hvac/hvac-044.jpg",
@@ -403,7 +661,13 @@
       "source_page": "https://www.aactionair.net/blog/atlanta-heating-system-installation-services-choosing-the-best-system-for-your-home/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/11/20251118-213434-a28a6047926562e6-8619369a-8906-4161-8802-5ebce4fd564d.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Outdoor ductless air conditioning units",
+        "alt": "Outdoor ductless air conditioning units",
+        "caption": "Outdoor ductless air conditioning units.",
+        "description": "Outdoor ductless air conditioning units."
+      }
     },
     {
       "file": "hvac/hvac-045.jpg",
@@ -412,7 +676,13 @@
       "source_page": "https://www.aactionair.net/blog/atlanta-heating-system-installation-services-choosing-the-best-system-for-your-home/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/11/20251118-213434-a28a6047926562e6-8878eb22-716f-4e84-b6d1-fa7039d4a09c.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Outdoor air conditioning condensers beside a house",
+        "alt": "Outdoor air conditioning condensers beside a house",
+        "caption": "Outdoor air conditioning condensers beside a house.",
+        "description": "Outdoor air conditioning condensers beside a house."
+      }
     },
     {
       "file": "hvac/hvac-046.jpg",
@@ -421,7 +691,13 @@
       "source_page": "https://www.aactionair.net/blog/ultimate-guide-to-douglas-heating-system-installation/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/11/Air-Conditioning-and-Heating-Services-in-Plano-TX.webp",
       "width": 721,
-      "height": 361
+      "height": 361,
+      "public_metadata": {
+        "title": "Two air conditioning condensers beside a house",
+        "alt": "Two air conditioning condensers beside a house",
+        "caption": "Two air conditioning condensers beside a house.",
+        "description": "Two air conditioning condensers beside a house."
+      }
     },
     {
       "file": "hvac/hvac-047.jpg",
@@ -430,7 +706,13 @@
       "source_page": "https://www.aactionair.net/blog/ultimate-guide-to-douglas-heating-system-installation/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/11/20251115-082522-ca55bfb10cea1146-ac8e37e4-5102-4557-b7ed-31524b327fc9.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Mechanical equipment and metal ductwork",
+        "alt": "Mechanical equipment and metal ductwork",
+        "caption": "Mechanical equipment and metal ductwork.",
+        "description": "Mechanical equipment and metal ductwork."
+      }
     },
     {
       "file": "hvac/hvac-048.jpg",
@@ -439,7 +721,13 @@
       "source_page": "https://www.aactionair.net/blog/atlanta-emergency-heating-company-what-you-need-to-know-about-24-7-heating-repair-services/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/10/h5Vq6We.webp",
       "width": 1500,
-      "height": 856
+      "height": 856,
+      "public_metadata": {
+        "title": "Wall mounted heating unit above a sink",
+        "alt": "Wall mounted heating unit above a sink",
+        "caption": "Wall mounted heating unit above a sink.",
+        "description": "Wall mounted heating unit above a sink."
+      }
     },
     {
       "file": "hvac/hvac-049.jpg",
@@ -448,7 +736,13 @@
       "source_page": "https://www.aactionair.net/blog/atlanta-emergency-heating-company-what-you-need-to-know-about-24-7-heating-repair-services/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/10/20251027-142944-56dba163a88d3ebe-2fd3d9d3-97af-4a86-9d8d-b2e097e5f841.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Radiator and wall mounted heating unit",
+        "alt": "Radiator and wall mounted heating unit",
+        "caption": "Radiator and wall mounted heating unit.",
+        "description": "Radiator and wall mounted heating unit."
+      }
     },
     {
       "file": "hvac/hvac-050.jpg",
@@ -457,7 +751,13 @@
       "source_page": "https://www.aactionair.net/blog/atlanta-emergency-heating-company-what-you-need-to-know-about-24-7-heating-repair-services/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/10/20251027-142526-00fe6fbde1788c26-af26f8fd-67a6-4d87-97de-15b4ed52abb2.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Furnace and metal ventilation ducts",
+        "alt": "Furnace and metal ventilation ducts",
+        "caption": "Furnace and metal ventilation ducts.",
+        "description": "Furnace and metal ventilation ducts."
+      }
     },
     {
       "file": "hvac/hvac-051.jpg",
@@ -466,7 +766,13 @@
       "source_page": "https://www.aactionair.net/blog/professional-ac-installation-services-in-lithia-springs-expert-cooling-solutions/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/08/20250821-094208-41e519d006efbe7d-66396097-525c-4bff-87ad-bb944dae4880.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Outdoor units with twin condenser fans",
+        "alt": "Outdoor units with twin condenser fans",
+        "caption": "Outdoor units with twin condenser fans.",
+        "description": "Outdoor units with twin condenser fans."
+      }
     },
     {
       "file": "hvac/hvac-052.jpg",
@@ -475,7 +781,13 @@
       "source_page": "https://www.aactionair.net/blog/benefits-of-installing-a-heat-pump-in-your-home-energy-savings-and-more/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2023/06/Heat-pump-scaled-1.webp",
       "width": 1920,
-      "height": 2560
+      "height": 2560,
+      "public_metadata": {
+        "title": "Outdoor HVAC unit during a service check",
+        "alt": "Outdoor HVAC unit with its access panel open and service hoses connected",
+        "caption": "Outdoor HVAC unit during a service check.",
+        "description": "Outdoor HVAC unit with its access panel open and service hoses connected."
+      }
     },
     {
       "file": "hvac/hvac-053.jpg",
@@ -484,7 +796,13 @@
       "source_page": "https://www.aactionair.net/blog/the-benefits-of-ductless-ac-heat-pumps-why-theyre-worth-the-investment/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2023/06/Ductless-AC-Heat-Pumps-scaled-1.webp",
       "width": 1920,
-      "height": 2560
+      "height": 2560,
+      "public_metadata": {
+        "title": "Ductless AC Heat Pumps",
+        "alt": "Ductless AC Heat Pumps",
+        "caption": "Ductless AC Heat Pumps.",
+        "description": "Ductless AC Heat Pumps."
+      }
     },
     {
       "file": "hvac/hvac-054.jpg",
@@ -493,7 +811,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Duct_Systems_7.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Duct Systems",
+        "alt": "Duct Systems",
+        "caption": "Duct Systems.",
+        "description": "Duct Systems."
+      }
     },
     {
       "file": "hvac/hvac-055.jpg",
@@ -502,7 +826,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Duct_Systems_5.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Duct Systems",
+        "alt": "Duct Systems",
+        "caption": "Duct Systems.",
+        "description": "Duct Systems."
+      }
     },
     {
       "file": "hvac/hvac-056.jpg",
@@ -511,7 +841,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Duct_Systems_4.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Duct Systems",
+        "alt": "Duct Systems",
+        "caption": "Duct Systems.",
+        "description": "Duct Systems."
+      }
     },
     {
       "file": "hvac/hvac-057.jpg",
@@ -520,7 +856,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Duct_Systems_2.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Duct Systems",
+        "alt": "Duct Systems",
+        "caption": "Duct Systems.",
+        "description": "Duct Systems."
+      }
     },
     {
       "file": "hvac/hvac-058.jpg",
@@ -529,7 +871,13 @@
       "source_page": "https://www.aactionair.net/commercial-hvac/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/05/commercial-hvac-2278.webp",
       "width": 900,
-      "height": 624
+      "height": 624,
+      "public_metadata": {
+        "title": "Commercial rooftop air conditioning units",
+        "alt": "Rows of air conditioning condensers installed on a commercial rooftop",
+        "caption": "Commercial rooftop air conditioning units.",
+        "description": "Rows of air conditioning condensers installed on a commercial rooftop."
+      }
     },
     {
       "file": "hvac/hvac-059.jpg",
@@ -538,7 +886,13 @@
       "source_page": "https://www.aactionair.net/air-conditioning/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/air-conditioning-1329.webp",
       "width": 600,
-      "height": 800
+      "height": 800,
+      "public_metadata": {
+        "title": "Air conditioner unit, Bryant brand",
+        "alt": "Air conditioner unit, Bryant brand",
+        "caption": "Air conditioner unit, Bryant brand.",
+        "description": "Air conditioner unit, Bryant brand."
+      }
     },
     {
       "file": "hvac/hvac-060.jpg",
@@ -547,7 +901,13 @@
       "source_page": "https://www.aactionair.net/indoor-air-quality/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/indoor-air-quality-3434.webp",
       "width": 900,
-      "height": 600
+      "height": 600,
+      "public_metadata": {
+        "title": "Air purifier set up in living room to improve indoor air quality",
+        "alt": "Air purifier set up in living room to improve indoor air quality",
+        "caption": "Air purifier set up in living room to improve indoor air quality.",
+        "description": "Air purifier set up in living room to improve indoor air quality."
+      }
     },
     {
       "file": "hvac/hvac-061.jpg",
@@ -556,7 +916,13 @@
       "source_page": "https://www.modernair.biz/",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670420891-OGV1D41LFWPPFBWS0WWU/5H3A3109.jpg",
       "width": 2500,
-      "height": 1667
+      "height": 1667,
+      "public_metadata": {
+        "title": "Exposed ductwork in an indoor aquatic facility",
+        "alt": "Large ventilation ducts suspended beneath the timber roof of an indoor aquatic facility",
+        "caption": "Exposed ductwork in an indoor aquatic facility.",
+        "description": "Large ventilation ducts suspended beneath the timber roof of an indoor aquatic facility."
+      }
     },
     {
       "file": "hvac/hvac-062.jpg",
@@ -565,7 +931,13 @@
       "source_page": "https://www.modernair.biz/residential",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/e166ffcc-2f51-4773-925e-a501932c55b1/Man+servicing+air+duct.jpg",
       "width": 2500,
-      "height": 3333
+      "height": 3333,
+      "public_metadata": {
+        "title": "Commercial overhead duct inspection",
+        "alt": "Worker on a red lift beside large white overhead air ducts in a commercial building",
+        "caption": "Commercial overhead duct inspection.",
+        "description": "Worker on a red lift beside large white overhead air ducts in a commercial building."
+      }
     },
     {
       "file": "hvac/hvac-063.jpg",
@@ -574,7 +946,13 @@
       "source_page": "https://www.modernair.biz/service-repairs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/a4c7e674-f00b-4b93-babe-50ca08449d1b/5H3A3073.jpg",
       "width": 2500,
-      "height": 1605
+      "height": 1605,
+      "public_metadata": {
+        "title": "Industrial ventilation equipment and ductwork",
+        "alt": "Industrial ventilation equipment and ductwork",
+        "caption": "Industrial ventilation equipment and ductwork.",
+        "description": "Industrial ventilation equipment and ductwork."
+      }
     },
     {
       "file": "hvac/hvac-064.jpg",
@@ -583,7 +961,13 @@
       "source_page": "https://www.modernair.biz/service-repairs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758325127936-JZXX4CZ9TQ420LWFVLQZ/unsplash-image-UuBR5kbvt4Y.jpg",
       "width": 1875,
-      "height": 2500
+      "height": 2500,
+      "public_metadata": {
+        "title": "Gray textured surface",
+        "alt": "Gray textured surface",
+        "caption": "Gray textured surface.",
+        "description": "Gray textured surface."
+      }
     },
     {
       "file": "hvac/hvac-065.jpg",
@@ -592,7 +976,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/2e0cabc3-f653-4ecb-b94b-d43cb12b58b9/Crane+picking+up+HVAC+unit.jpg",
       "width": 2000,
-      "height": 1500
+      "height": 1500,
+      "public_metadata": {
+        "title": "Crane lifting a large HVAC unit",
+        "alt": "Crane lifting a large HVAC unit",
+        "caption": "Crane lifting a large HVAC unit.",
+        "description": "Crane lifting a large HVAC unit."
+      }
     },
     {
       "file": "hvac/hvac-066.jpg",
@@ -601,7 +991,13 @@
       "source_page": "https://www.modernair.biz/commercial/vwr-distribution",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1767919134847-66G5OODE60PYSK1NIF8Q/HVAC+Units+Lifted+by+Helicopter.jpg",
       "width": 2500,
-      "height": 3333
+      "height": 3333,
+      "public_metadata": {
+        "title": "HVAC Units Lifted by Helicopter",
+        "alt": "HVAC Units Lifted by Helicopter",
+        "caption": "HVAC Units Lifted by Helicopter.",
+        "description": "HVAC Units Lifted by Helicopter."
+      }
     },
     {
       "file": "hvac/hvac-067.jpg",
@@ -610,7 +1006,13 @@
       "source_page": "https://www.modernair.biz/commercial/vwr-distribution",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1767919138356-HYBWXKNRAX2REUAZR9P9/Multiple+HVAC+Units.jpg",
       "width": 1500,
-      "height": 2000
+      "height": 2000,
+      "public_metadata": {
+        "title": "Multiple HVAC Units",
+        "alt": "Multiple HVAC Units",
+        "caption": "Multiple HVAC Units.",
+        "description": "Multiple HVAC Units."
+      }
     },
     {
       "file": "hvac/hvac-068.jpg",
@@ -619,7 +1021,13 @@
       "source_page": "https://hvacofatlanta.com/projects/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2018/10/portfolio_11-640x480.jpg",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Rooftop air conditioning equipment and ducts",
+        "alt": "Rooftop air conditioning equipment and ducts",
+        "caption": "Rooftop air conditioning equipment and ducts.",
+        "description": "Rooftop air conditioning equipment and ducts."
+      }
     },
     {
       "file": "hvac/hvac-069.jpg",
@@ -628,7 +1036,13 @@
       "source_page": "https://hvacofatlanta.com/projects/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2018/10/portfolio_08-640x480.jpg",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Cafe interior with ceiling ductwork",
+        "alt": "Cafe interior with ceiling ductwork",
+        "caption": "Cafe interior with ceiling ductwork.",
+        "description": "Cafe interior with ceiling ductwork."
+      }
     },
     {
       "file": "hvac/hvac-070.jpg",
@@ -637,7 +1051,13 @@
       "source_page": "https://hvacofatlanta.com/projects/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2018/10/portfolio_07-640x480.jpg",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Open interior with exposed ceiling utilities",
+        "alt": "Open interior with exposed ceiling utilities",
+        "caption": "Open interior with exposed ceiling utilities.",
+        "description": "Open interior with exposed ceiling utilities."
+      }
     },
     {
       "file": "hvac/hvac-071.jpg",
@@ -646,7 +1066,13 @@
       "source_page": "https://hvacofatlanta.com/projects/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2018/10/portfolio_06-640x480.jpg",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Hospital room with beds and equipment",
+        "alt": "Hospital room with beds and equipment",
+        "caption": "Hospital room with beds and equipment.",
+        "description": "Hospital room with beds and equipment."
+      }
     },
     {
       "file": "hvac/hvac-072.jpg",
@@ -655,7 +1081,13 @@
       "source_page": "https://eastcoastheatingandcooling.com/heating/",
       "original_url": "https://eastcoastheatingandcooling.com/wp-content/uploads/2022/05/HEATING.jpg",
       "width": 800,
-      "height": 364
+      "height": 364,
+      "public_metadata": {
+        "title": "Oil To Gas replacements",
+        "alt": "Oil To Gas replacements",
+        "caption": "Oil To Gas replacements.",
+        "description": "Oil To Gas replacements."
+      }
     },
     {
       "file": "hvac/hvac-073.jpg",
@@ -664,7 +1096,13 @@
       "source_page": "https://eastcoastheatingandcooling.com/ac-replacement/",
       "original_url": "https://eastcoastheatingandcooling.com/wp-content/uploads/2022/05/ac-replacement.jpg",
       "width": 800,
-      "height": 532
+      "height": 532,
+      "public_metadata": {
+        "title": "AC Replacement",
+        "alt": "AC Replacement",
+        "caption": "AC Replacement.",
+        "description": "AC Replacement."
+      }
     },
     {
       "file": "hvac/hvac-074.jpg",
@@ -673,7 +1111,13 @@
       "source_page": "https://www.aactionair.net/blog/it-might-finally-be-time-to-go-geothermal/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2023/03/Geothermal-768x669-1.webp",
       "width": 768,
-      "height": 669
+      "height": 669,
+      "public_metadata": {
+        "title": "Geothermal",
+        "alt": "Geothermal",
+        "caption": "Geothermal.",
+        "description": "Geothermal."
+      }
     },
     {
       "file": "hvac/hvac-075.jpg",
@@ -682,7 +1126,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated ducts above an unfinished ceiling",
+        "alt": "Insulated ducts above an unfinished ceiling",
+        "caption": "Insulated ducts above an unfinished ceiling.",
+        "description": "Insulated ducts above an unfinished ceiling."
+      }
     },
     {
       "file": "hvac/hvac-076.jpg",
@@ -691,7 +1141,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_4.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Flexible duct ends beneath a roof soffit",
+        "alt": "Flexible duct ends beneath a roof soffit",
+        "caption": "Flexible duct ends beneath a roof soffit.",
+        "description": "Flexible duct ends beneath a roof soffit."
+      }
     },
     {
       "file": "hvac/hvac-077.jpg",
@@ -700,7 +1156,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_5.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated line protruding from house siding",
+        "alt": "Insulated line protruding from house siding",
+        "caption": "Insulated line protruding from house siding.",
+        "description": "Insulated line protruding from house siding."
+      }
     },
     {
       "file": "hvac/hvac-078.jpg",
@@ -709,7 +1171,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_6.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Ductwork above open ceiling framing",
+        "alt": "Ductwork above open ceiling framing",
+        "caption": "Ductwork above open ceiling framing.",
+        "description": "Ductwork above open ceiling framing."
+      }
     },
     {
       "file": "hvac/hvac-079.jpg",
@@ -718,7 +1186,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_7.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated ventilation ducts in wood framing",
+        "alt": "Insulated ventilation ducts in wood framing",
+        "caption": "Insulated ventilation ducts in wood framing.",
+        "description": "Insulated ventilation ducts in wood framing."
+      }
     },
     {
       "file": "hvac/hvac-080.jpg",
@@ -727,7 +1201,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_8.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Flexible ducts above ceiling joists",
+        "alt": "Flexible ducts above ceiling joists",
+        "caption": "Flexible ducts above ceiling joists.",
+        "description": "Flexible ducts above ceiling joists."
+      }
     },
     {
       "file": "hvac/hvac-081.jpg",
@@ -736,7 +1216,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_2_2.webp",
       "width": 550,
-      "height": 413
+      "height": 413,
+      "public_metadata": {
+        "title": "HVAC ductwork along attic roof framing",
+        "alt": "HVAC ductwork along attic roof framing",
+        "caption": "HVAC ductwork along attic roof framing.",
+        "description": "HVAC ductwork along attic roof framing."
+      }
     },
     {
       "file": "hvac/hvac-082.jpg",
@@ -745,7 +1231,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_1_2.webp",
       "width": 550,
-      "height": 413
+      "height": 413,
+      "public_metadata": {
+        "title": "Attic air handler and flexible duct",
+        "alt": "Attic air handler and flexible duct",
+        "caption": "Attic air handler and flexible duct.",
+        "description": "Attic air handler and flexible duct."
+      }
     },
     {
       "file": "hvac/hvac-083.jpg",
@@ -754,7 +1246,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_3_1.webp",
       "width": 550,
-      "height": 413
+      "height": 413,
+      "public_metadata": {
+        "title": "Air handler in a tight attic space",
+        "alt": "Air handler in a tight attic space",
+        "caption": "Air handler in a tight attic space.",
+        "description": "Air handler in a tight attic space."
+      }
     },
     {
       "file": "hvac/hvac-084.jpg",
@@ -763,7 +1261,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_4_1.webp",
       "width": 550,
-      "height": 413
+      "height": 413,
+      "public_metadata": {
+        "title": "Open air handler with blower assembly",
+        "alt": "Open air handler with blower assembly",
+        "caption": "Open air handler with blower assembly.",
+        "description": "Open air handler with blower assembly."
+      }
     },
     {
       "file": "hvac/hvac-085.jpg",
@@ -772,7 +1276,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Renovations_5_1.webp",
       "width": 550,
-      "height": 413
+      "height": 413,
+      "public_metadata": {
+        "title": "Outdoor condenser on a wooden platform",
+        "alt": "Outdoor condenser on a wooden platform",
+        "caption": "Outdoor condenser on a wooden platform.",
+        "description": "Outdoor condenser on a wooden platform."
+      }
     },
     {
       "file": "hvac/hvac-086.jpg",
@@ -781,7 +1291,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Historic_Renovations_1_2.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Renovation area with exposed brick and ductwork",
+        "alt": "Renovation area with exposed brick and ductwork",
+        "caption": "Renovation area with exposed brick and ductwork.",
+        "description": "Renovation area with exposed brick and ductwork."
+      }
     },
     {
       "file": "hvac/hvac-087.jpg",
@@ -790,7 +1306,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Replacements_1_3.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Outdoor air conditioning condenser beside a wall",
+        "alt": "Outdoor air conditioning condenser beside a wall",
+        "caption": "Outdoor air conditioning condenser beside a wall.",
+        "description": "Outdoor air conditioning condenser beside a wall."
+      }
     },
     {
       "file": "hvac/hvac-088.jpg",
@@ -799,7 +1321,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Commercial_2_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Ceiling ducts in a commercial room",
+        "alt": "Ceiling ducts in a commercial room",
+        "caption": "Ceiling ducts in a commercial room.",
+        "description": "Ceiling ducts in a commercial room."
+      }
     },
     {
       "file": "hvac/hvac-089.jpg",
@@ -808,7 +1336,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Commercial_1_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Exposed ductwork and linear lights",
+        "alt": "Exposed ductwork and linear lights",
+        "caption": "Exposed ductwork and linear lights.",
+        "description": "Exposed ductwork and linear lights."
+      }
     },
     {
       "file": "hvac/hvac-090.jpg",
@@ -817,7 +1351,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Commercial_5.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Electrical disconnect boxes for mechanical equipment",
+        "alt": "Electrical disconnect boxes for mechanical equipment",
+        "caption": "Electrical disconnect boxes for mechanical equipment.",
+        "description": "Electrical disconnect boxes for mechanical equipment."
+      }
     },
     {
       "file": "hvac/hvac-091.jpg",
@@ -826,7 +1366,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Commercial_2.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Rooftop condenser unit on a raised base",
+        "alt": "Rooftop condenser unit on a raised base",
+        "caption": "Rooftop condenser unit on a raised base.",
+        "description": "Rooftop condenser unit on a raised base."
+      }
     },
     {
       "file": "hvac/hvac-092.jpg",
@@ -835,7 +1381,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/Commercial_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Pair of air conditioning condensers on a rooftop",
+        "alt": "Pair of air conditioning condensers on a rooftop",
+        "caption": "Pair of air conditioning condensers on a rooftop.",
+        "description": "Pair of air conditioning condensers on a rooftop."
+      }
     },
     {
       "file": "hvac/hvac-093.jpg",
@@ -844,7 +1396,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_4_2.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated ducts in an unfinished wall",
+        "alt": "Insulated ducts in an unfinished wall",
+        "caption": "Insulated ducts in an unfinished wall.",
+        "description": "Insulated ducts in an unfinished wall."
+      }
     },
     {
       "file": "hvac/hvac-094.jpg",
@@ -853,7 +1411,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_3_2.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Ductwork in a wood framed room",
+        "alt": "Ductwork in a wood framed room",
+        "caption": "Ductwork in a wood framed room.",
+        "description": "Ductwork in a wood framed room."
+      }
     },
     {
       "file": "hvac/hvac-095.jpg",
@@ -862,7 +1426,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_2_2.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Ventilation ducts between ceiling joists",
+        "alt": "Ventilation ducts between ceiling joists",
+        "caption": "Ventilation ducts between ceiling joists.",
+        "description": "Ventilation ducts between ceiling joists."
+      }
     },
     {
       "file": "hvac/hvac-096.jpg",
@@ -871,7 +1441,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_8_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Flexible duct passing through wood framing",
+        "alt": "Flexible duct passing through wood framing",
+        "caption": "Flexible duct passing through wood framing.",
+        "description": "Flexible duct passing through wood framing."
+      }
     },
     {
       "file": "hvac/hvac-097.jpg",
@@ -880,7 +1456,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_6_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Ductwork beneath an unfinished roof",
+        "alt": "Ductwork beneath an unfinished roof",
+        "caption": "Ductwork beneath an unfinished roof.",
+        "description": "Ductwork beneath an unfinished roof."
+      }
     },
     {
       "file": "hvac/hvac-098.jpg",
@@ -889,7 +1471,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_5_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated duct connections above an air handler",
+        "alt": "Insulated duct connections above an air handler",
+        "caption": "Insulated duct connections above an air handler.",
+        "description": "Insulated duct connections above an air handler."
+      }
     },
     {
       "file": "hvac/hvac-099.jpg",
@@ -898,7 +1486,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_4_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Large insulated air ducts above a ceiling",
+        "alt": "Large insulated air ducts above a ceiling",
+        "caption": "Large insulated air ducts above a ceiling.",
+        "description": "Large insulated air ducts above a ceiling."
+      }
     },
     {
       "file": "hvac/hvac-100.jpg",
@@ -907,7 +1501,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_3_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated line passing through house sheathing",
+        "alt": "Insulated line passing through house sheathing",
+        "caption": "Insulated line passing through house sheathing.",
+        "description": "Insulated line passing through house sheathing."
+      }
     },
     {
       "file": "hvac/hvac-101.jpg",
@@ -916,7 +1516,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_2_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Mechanical equipment inside unfinished wall framing",
+        "alt": "Mechanical equipment inside unfinished wall framing",
+        "caption": "Mechanical equipment inside unfinished wall framing.",
+        "description": "Mechanical equipment inside unfinished wall framing."
+      }
     },
     {
       "file": "hvac/hvac-102.jpg",
@@ -925,7 +1531,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_20.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Vent opening in attic framing",
+        "alt": "Vent opening in attic framing",
+        "caption": "Vent opening in attic framing.",
+        "description": "Vent opening in attic framing."
+      }
     },
     {
       "file": "hvac/hvac-103.jpg",
@@ -934,7 +1546,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_19.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated ducts above wooden framing",
+        "alt": "Insulated ducts above wooden framing",
+        "caption": "Insulated ducts above wooden framing.",
+        "description": "Insulated ducts above wooden framing."
+      }
     },
     {
       "file": "hvac/hvac-104.jpg",
@@ -943,7 +1561,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_17.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Round air duct through wood framing",
+        "alt": "Round air duct through wood framing",
+        "caption": "Round air duct through wood framing.",
+        "description": "Round air duct through wood framing."
+      }
     },
     {
       "file": "hvac/hvac-105.jpg",
@@ -952,7 +1576,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_16.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "HVAC duct junction between ceiling joists",
+        "alt": "HVAC duct junction between ceiling joists",
+        "caption": "HVAC duct junction between ceiling joists.",
+        "description": "HVAC duct junction between ceiling joists."
+      }
     },
     {
       "file": "hvac/hvac-106.jpg",
@@ -961,7 +1591,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_14.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Metal vent above a framed doorway",
+        "alt": "Metal vent above a framed doorway",
+        "caption": "Metal vent above a framed doorway.",
+        "description": "Metal vent above a framed doorway."
+      }
     },
     {
       "file": "hvac/hvac-107.jpg",
@@ -970,7 +1606,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_13.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Duct and pipe inside ceiling framing",
+        "alt": "Duct and pipe inside ceiling framing",
+        "caption": "Duct and pipe inside ceiling framing.",
+        "description": "Duct and pipe inside ceiling framing."
+      }
     },
     {
       "file": "hvac/hvac-108.jpg",
@@ -979,7 +1621,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_11.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Flexible duct turn inside wooden framing",
+        "alt": "Flexible duct turn inside wooden framing",
+        "caption": "Flexible duct turn inside wooden framing.",
+        "description": "Flexible duct turn inside wooden framing."
+      }
     },
     {
       "file": "hvac/hvac-109.jpg",
@@ -988,7 +1636,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_10.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Rectangular metal vent inside a framed wall",
+        "alt": "Rectangular metal vent inside a framed wall",
+        "caption": "Rectangular metal vent inside a framed wall.",
+        "description": "Rectangular metal vent inside a framed wall."
+      }
     },
     {
       "file": "hvac/hvac-110.jpg",
@@ -997,7 +1651,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_9.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Flexible duct routed through an unfinished wall",
+        "alt": "Flexible duct routed through an unfinished wall",
+        "caption": "Flexible duct routed through an unfinished wall.",
+        "description": "Flexible duct routed through an unfinished wall."
+      }
     },
     {
       "file": "hvac/hvac-111.jpg",
@@ -1006,7 +1666,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_8.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Ductwork visible through a ceiling opening",
+        "alt": "Ductwork visible through a ceiling opening",
+        "caption": "Ductwork visible through a ceiling opening.",
+        "description": "Ductwork visible through a ceiling opening."
+      }
     },
     {
       "file": "hvac/hvac-112.jpg",
@@ -1015,7 +1681,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_7.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Flexible ducts above a framed ceiling",
+        "alt": "Flexible ducts above a framed ceiling",
+        "caption": "Flexible ducts above a framed ceiling.",
+        "description": "Flexible ducts above a framed ceiling."
+      }
     },
     {
       "file": "hvac/hvac-113.jpg",
@@ -1024,7 +1696,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_6.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Small vent inside an unfinished wall",
+        "alt": "Small vent inside an unfinished wall",
+        "caption": "Small vent inside an unfinished wall.",
+        "description": "Small vent inside an unfinished wall."
+      }
     },
     {
       "file": "hvac/hvac-114.jpg",
@@ -1033,7 +1711,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_5.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Insulated duct across ceiling joists",
+        "alt": "Insulated duct across ceiling joists",
+        "caption": "Insulated duct across ceiling joists.",
+        "description": "Insulated duct across ceiling joists."
+      }
     },
     {
       "file": "hvac/hvac-115.jpg",
@@ -1042,7 +1726,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_4.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Rectangular insulated duct beside white piping",
+        "alt": "Rectangular insulated duct beside white piping",
+        "caption": "Rectangular insulated duct beside white piping.",
+        "description": "Rectangular insulated duct beside white piping."
+      }
     },
     {
       "file": "hvac/hvac-116.jpg",
@@ -1051,7 +1741,13 @@
       "source_page": "https://www.aactionair.net/about/gallery/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2026/04/New_Construction_1.webp",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Narrow insulated duct between joists",
+        "alt": "Narrow insulated duct between joists",
+        "caption": "Narrow insulated duct between joists.",
+        "description": "Narrow insulated duct between joists."
+      }
     },
     {
       "file": "hvac/hvac-117.jpg",
@@ -1060,7 +1756,13 @@
       "source_page": "https://www.modernair.biz/",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/f9d7a10b-b0af-4a43-b951-d0d8681a6996/DJI_0295.jpg",
       "width": 2500,
-      "height": 1472
+      "height": 1472,
+      "public_metadata": {
+        "title": "Aerial view of industrial building construction",
+        "alt": "Aerial view of industrial building construction",
+        "caption": "Aerial view of industrial building construction.",
+        "description": "Aerial view of industrial building construction."
+      }
     },
     {
       "file": "hvac/hvac-118.jpg",
@@ -1069,7 +1771,13 @@
       "source_page": "https://www.modernair.biz/",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/5dc6fb9a-cd0c-4307-ae53-5b8c08dc2091/Great+Wolf+Lodge+Aerial.jpg",
       "width": 2500,
-      "height": 1326
+      "height": 1326,
+      "public_metadata": {
+        "title": "Water park with slides and a hotel",
+        "alt": "Water park with slides and a hotel",
+        "caption": "Water park with slides and a hotel.",
+        "description": "Water park with slides and a hotel."
+      }
     },
     {
       "file": "hvac/hvac-119.jpg",
@@ -1078,7 +1786,13 @@
       "source_page": "https://www.modernair.biz/contact-us",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/7fdc585d-3ba8-4b34-8b4f-f6b625df1dba/MAM+Office+2026.jpg",
       "width": 1234,
-      "height": 1275
+      "height": 1275,
+      "public_metadata": {
+        "title": "Landscaped office building entrance",
+        "alt": "Landscaped office building entrance",
+        "caption": "Landscaped office building entrance.",
+        "description": "Landscaped office building entrance."
+      }
     },
     {
       "file": "hvac/hvac-120.jpg",
@@ -1087,7 +1801,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/dada5c37-85e5-4ca5-a87b-1e848fd2e8b5/DJI_0282.jpg",
       "width": 2500,
-      "height": 1009
+      "height": 1009,
+      "public_metadata": {
+        "title": "Steel building frame at a construction site",
+        "alt": "Steel building frame at a construction site",
+        "caption": "Steel building frame at a construction site.",
+        "description": "Steel building frame at a construction site."
+      }
     },
     {
       "file": "hvac/hvac-121.jpg",
@@ -1096,7 +1816,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/ea681a3d-9e7a-4c7a-a639-bddbde920de2/Amazon+Rancho+Cordova+Facility.jpg",
       "width": 1619,
-      "height": 720
+      "height": 720,
+      "public_metadata": {
+        "title": "Large distribution warehouse and parking lot",
+        "alt": "Large distribution warehouse and parking lot",
+        "caption": "Large distribution warehouse and parking lot.",
+        "description": "Large distribution warehouse and parking lot."
+      }
     },
     {
       "file": "hvac/hvac-122.jpg",
@@ -1105,7 +1831,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/0ca53580-9fa7-4504-8085-cf04fd9a6083/UC+Merced+Aerial.jpg",
       "width": 1297,
-      "height": 608
+      "height": 608,
+      "public_metadata": {
+        "title": "Aerial view of campus residence buildings",
+        "alt": "Aerial view of campus residence buildings",
+        "caption": "Aerial view of campus residence buildings.",
+        "description": "Aerial view of campus residence buildings."
+      }
     },
     {
       "file": "hvac/hvac-123.jpg",
@@ -1114,7 +1846,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/61df8346-9735-46d9-b8a8-b22944fad73b/16_El-Capitan-HS.jpg",
       "width": 1825,
-      "height": 1232
+      "height": 1232,
+      "public_metadata": {
+        "title": "School courtyard with students",
+        "alt": "School courtyard with students",
+        "caption": "School courtyard with students.",
+        "description": "School courtyard with students."
+      }
     },
     {
       "file": "hvac/hvac-124.jpg",
@@ -1123,7 +1861,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/f0b377cb-9500-4b78-8df9-ebf3ae930745/Ghirardelli+Chocolate+Factory+Tracy.jpg",
       "width": 550,
-      "height": 413
+      "height": 413,
+      "public_metadata": {
+        "title": "Commercial building and factory outlet entrance",
+        "alt": "Commercial building and factory outlet entrance",
+        "caption": "Commercial building and factory outlet entrance.",
+        "description": "Commercial building and factory outlet entrance."
+      }
     },
     {
       "file": "hvac/hvac-125.jpg",
@@ -1132,7 +1876,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/bed45a49-b77f-4f1e-bad6-23aba4669d33/vwr+distribution.png",
       "width": 981,
-      "height": 521
+      "height": 521,
+      "public_metadata": {
+        "title": "Warehouse exterior with glass frontage",
+        "alt": "Warehouse exterior with glass frontage",
+        "caption": "Warehouse exterior with glass frontage.",
+        "description": "Warehouse exterior with glass frontage."
+      }
     },
     {
       "file": "hvac/hvac-126.jpg",
@@ -1141,7 +1891,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/e895bc3a-ba79-4590-b754-fd1c0bc8b118/Amazon+Stockton.jpg",
       "width": 2016,
-      "height": 1027
+      "height": 1027,
+      "public_metadata": {
+        "title": "Crane at a warehouse construction site",
+        "alt": "Crane at a warehouse construction site",
+        "caption": "Crane at a warehouse construction site.",
+        "description": "Crane at a warehouse construction site."
+      }
     },
     {
       "file": "hvac/hvac-127.jpg",
@@ -1150,7 +1906,13 @@
       "source_page": "https://www.modernair.biz/commercial",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/eaf904c5-a4d0-48dc-ad98-3e2c76f4b3f4/Great+Wolf+Lodge+Back+Aerial.jpg",
       "width": 2500,
-      "height": 1404
+      "height": 1404,
+      "public_metadata": {
+        "title": "Aerial view of a hotel complex with a pool",
+        "alt": "Aerial view of a hotel complex with a pool",
+        "caption": "Aerial view of a hotel complex with a pool.",
+        "description": "Aerial view of a hotel complex with a pool."
+      }
     },
     {
       "file": "hvac/hvac-128.jpg",
@@ -1159,7 +1921,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670719398-K2BGKXC8BZDT130J76MF/DJI_0390.jpg",
       "width": 2500,
-      "height": 1404
+      "height": 1404,
+      "public_metadata": {
+        "title": "Water park building and outdoor slides",
+        "alt": "Water park building and outdoor slides",
+        "caption": "Water park building and outdoor slides.",
+        "description": "Water park building and outdoor slides."
+      }
     },
     {
       "file": "hvac/hvac-129.jpg",
@@ -1168,7 +1936,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670679928-IZ3LYRMN83R48747A9BP/DJI_0384.jpg",
       "width": 2500,
-      "height": 2521
+      "height": 2521,
+      "public_metadata": {
+        "title": "Rooftop equipment on a water park building",
+        "alt": "Rooftop equipment on a water park building",
+        "caption": "Rooftop equipment on a water park building.",
+        "description": "Rooftop equipment on a water park building."
+      }
     },
     {
       "file": "hvac/hvac-130.jpg",
@@ -1177,7 +1951,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670658384-D6ABBHKQ4RX6FOP1Z5MW/DJI_0383.jpg",
       "width": 2500,
-      "height": 1268
+      "height": 1268,
+      "public_metadata": {
+        "title": "Aerial view of a water park building",
+        "alt": "Aerial view of a water park building",
+        "caption": "Aerial view of a water park building.",
+        "description": "Aerial view of a water park building."
+      }
     },
     {
       "file": "hvac/hvac-131.jpg",
@@ -1186,7 +1966,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757098133161-GQTJFEMUY8T7IZZ7BA4B/IMG_0030.jpg",
       "width": 2500,
-      "height": 1875
+      "height": 1875,
+      "public_metadata": {
+        "title": "Indoor water park construction",
+        "alt": "Indoor water park construction",
+        "caption": "Indoor water park construction.",
+        "description": "Indoor water park construction."
+      }
     },
     {
       "file": "hvac/hvac-132.jpg",
@@ -1195,7 +1981,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757098137254-TKMS5ABF36Z1QZS63892/IMG_5968.jpg",
       "width": 1980,
-      "height": 2645
+      "height": 2645,
+      "public_metadata": {
+        "title": "Indoor water park under construction",
+        "alt": "Indoor water park under construction",
+        "caption": "Indoor water park under construction.",
+        "description": "Indoor water park under construction."
+      }
     },
     {
       "file": "hvac/hvac-133.jpg",
@@ -1204,7 +1996,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670464259-4ZWY1OABOQMBNMDHSEQ9/5H3A3120.jpg",
       "width": 2500,
-      "height": 1667
+      "height": 1667,
+      "public_metadata": {
+        "title": "Indoor water park with exposed ceiling ductwork",
+        "alt": "Indoor water park with exposed ceiling ductwork",
+        "caption": "Indoor water park with exposed ceiling ductwork.",
+        "description": "Indoor water park with exposed ceiling ductwork."
+      }
     },
     {
       "file": "hvac/hvac-134.jpg",
@@ -1213,7 +2011,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670566121-QY79SI2RI97XZHOGBX6R/5H3A3143.jpg",
       "width": 2500,
-      "height": 1667
+      "height": 1667,
+      "public_metadata": {
+        "title": "Large indoor space with exposed air ducts",
+        "alt": "Large indoor space with exposed air ducts",
+        "caption": "Large indoor space with exposed air ducts.",
+        "description": "Large indoor space with exposed air ducts."
+      }
     },
     {
       "file": "hvac/hvac-135.jpg",
@@ -1222,7 +2026,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/d8150205-a516-4ddb-8ab6-7c1689c62612/IMG_4604.JPG",
       "width": 2500,
-      "height": 1875
+      "height": 1875,
+      "public_metadata": {
+        "title": "Indoor water park pool under construction",
+        "alt": "Indoor water park pool under construction",
+        "caption": "Indoor water park pool under construction.",
+        "description": "Indoor water park pool under construction."
+      }
     },
     {
       "file": "hvac/hvac-136.jpg",
@@ -1231,7 +2041,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758671509406-DFLG31C8QYOIA7NRVTE8/4.jpg",
       "width": 2390,
-      "height": 1792
+      "height": 1792,
+      "public_metadata": {
+        "title": "Exposed beams and suspended HVAC units",
+        "alt": "Exposed beams and suspended HVAC units",
+        "caption": "Exposed beams and suspended HVAC units.",
+        "description": "Exposed beams and suspended HVAC units."
+      }
     },
     {
       "file": "hvac/hvac-137.jpg",
@@ -1240,7 +2056,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/78daf52b-848a-471b-ae7d-9c8d7657693e/5.jpg",
       "width": 2500,
-      "height": 1875
+      "height": 1875,
+      "public_metadata": {
+        "title": "Suspended HVAC equipment in an open interior",
+        "alt": "Suspended HVAC equipment in an open interior",
+        "caption": "Suspended HVAC equipment in an open interior.",
+        "description": "Suspended HVAC equipment in an open interior."
+      }
     },
     {
       "file": "hvac/hvac-138.jpg",
@@ -1249,7 +2071,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670657602-ORRJOX0S9X2NX71X5FR0/5H3A3192.jpg",
       "width": 2500,
-      "height": 1667
+      "height": 1667,
+      "public_metadata": {
+        "title": "Large white ventilation ducts above a room",
+        "alt": "Large white ventilation ducts above a room",
+        "caption": "Large white ventilation ducts above a room.",
+        "description": "Large white ventilation ducts above a room."
+      }
     },
     {
       "file": "hvac/hvac-139.jpg",
@@ -1258,7 +2086,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670620941-OKOZL556O5MJZ9YOLE3Q/5H3A3165.jpg",
       "width": 2500,
-      "height": 3750
+      "height": 3750,
+      "public_metadata": {
+        "title": "Brown air ducts along a wooden ceiling",
+        "alt": "Brown air ducts along a wooden ceiling",
+        "caption": "Brown air ducts along a wooden ceiling.",
+        "description": "Brown air ducts along a wooden ceiling."
+      }
     },
     {
       "file": "hvac/hvac-140.jpg",
@@ -1267,7 +2101,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670393929-7PD48VLMUOEG8WTB3PZM/5H3A3102.jpg",
       "width": 2500,
-      "height": 4608
+      "height": 4608,
+      "public_metadata": {
+        "title": "Exposed ceiling ductwork and lights",
+        "alt": "Exposed ceiling ductwork and lights",
+        "caption": "Exposed ceiling ductwork and lights.",
+        "description": "Exposed ceiling ductwork and lights."
+      }
     },
     {
       "file": "hvac/hvac-141.jpg",
@@ -1276,7 +2116,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670497694-2Z27EGC6FIDZPMYBLXD5/5H3A3131.jpg",
       "width": 2500,
-      "height": 3750
+      "height": 3750,
+      "public_metadata": {
+        "title": "Large ventilation ducts in a water park",
+        "alt": "Large ventilation ducts in a water park",
+        "caption": "Large ventilation ducts in a water park.",
+        "description": "Large ventilation ducts in a water park."
+      }
     },
     {
       "file": "hvac/hvac-142.jpg",
@@ -1285,7 +2131,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670522052-Q4B1BP06EHQ9CCKKTBMV/5H3A3137.jpg",
       "width": 2500,
-      "height": 3750
+      "height": 3750,
+      "public_metadata": {
+        "title": "White ventilation ducts beside structural beams",
+        "alt": "White ventilation ducts beside structural beams",
+        "caption": "White ventilation ducts beside structural beams.",
+        "description": "White ventilation ducts beside structural beams."
+      }
     },
     {
       "file": "hvac/hvac-143.jpg",
@@ -1294,7 +2146,13 @@
       "source_page": "https://www.modernair.biz/commercial/great-wolf-lodge",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758670588865-2F6RI76D70MY86YGIYDQ/5H3A3158.jpg",
       "width": 2500,
-      "height": 1341
+      "height": 1341,
+      "public_metadata": {
+        "title": "White ductwork above wooden roof beams",
+        "alt": "White ductwork above wooden roof beams",
+        "caption": "White ductwork above wooden roof beams.",
+        "description": "White ductwork above wooden roof beams."
+      }
     },
     {
       "file": "hvac/hvac-144.jpg",
@@ -1303,7 +2161,13 @@
       "source_page": "https://www.modernair.biz/commercial/el-capitan-high-school",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757104017428-TOUKXBGRSRUM1BGU0MFU/El+Capitan+HS.jpg",
       "width": 1825,
-      "height": 1232
+      "height": 1232,
+      "public_metadata": {
+        "title": "School entrance illuminated at dusk",
+        "alt": "School entrance illuminated at dusk",
+        "caption": "School entrance illuminated at dusk.",
+        "description": "School entrance illuminated at dusk."
+      }
     },
     {
       "file": "hvac/hvac-145.jpg",
@@ -1312,7 +2176,13 @@
       "source_page": "https://www.modernair.biz/commercial/el-capitan-high-school",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757104095180-G8NKEN7GYLM3LCC589QP/El+Capitan+HS+2.jpeg",
       "width": 650,
-      "height": 433
+      "height": 433,
+      "public_metadata": {
+        "title": "Brick school building entrance",
+        "alt": "Brick school building entrance",
+        "caption": "Brick school building entrance.",
+        "description": "Brick school building entrance."
+      }
     },
     {
       "file": "hvac/hvac-146.jpg",
@@ -1321,7 +2191,13 @@
       "source_page": "https://www.modernair.biz/commercial/el-capitan-high-school",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757104127727-AZ2LZ87P4LXXUL7MZ6HL/El+Capitan+HS+3.jpeg",
       "width": 650,
-      "height": 433
+      "height": 433,
+      "public_metadata": {
+        "title": "Aerial view of a school building",
+        "alt": "Aerial view of a school building",
+        "caption": "Aerial view of a school building.",
+        "description": "Aerial view of a school building."
+      }
     },
     {
       "file": "hvac/hvac-147.jpg",
@@ -1330,7 +2206,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-stockton",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757107774262-0BH5SSYNYVGTNPOG6INB/sunrise+1.jpg",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Long warehouse exterior during construction",
+        "alt": "Long warehouse exterior during construction",
+        "caption": "Long warehouse exterior during construction.",
+        "description": "Long warehouse exterior during construction."
+      }
     },
     {
       "file": "hvac/hvac-148.jpg",
@@ -1339,7 +2221,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-stockton",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757107774507-3KKQSDJMASD5FWJ5KIWC/sunrise+2.jpg",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Open warehouse interior with steel framing",
+        "alt": "Open warehouse interior with steel framing",
+        "caption": "Open warehouse interior with steel framing.",
+        "description": "Open warehouse interior with steel framing."
+      }
     },
     {
       "file": "hvac/hvac-149.jpg",
@@ -1348,7 +2236,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-stockton",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757106077425-EJPAAWFCKSL38NSCJ9LE/1683222909732.jpg",
       "width": 1280,
-      "height": 1707
+      "height": 1707,
+      "public_metadata": {
+        "title": "People outside an industrial building at sunrise",
+        "alt": "People outside an industrial building at sunrise",
+        "caption": "People outside an industrial building at sunrise.",
+        "description": "People outside an industrial building at sunrise."
+      }
     },
     {
       "file": "hvac/hvac-150.jpg",
@@ -1357,7 +2251,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-stockton",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757106127621-7IGI7QTQGDDXDKDYCU23/IMG_1272.jpg",
       "width": 1200,
-      "height": 1600
+      "height": 1600,
+      "public_metadata": {
+        "title": "Helicopter lifting rooftop equipment",
+        "alt": "Helicopter lifting rooftop equipment",
+        "caption": "Helicopter lifting rooftop equipment.",
+        "description": "Helicopter lifting rooftop equipment."
+      }
     },
     {
       "file": "hvac/hvac-151.jpg",
@@ -1366,7 +2266,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-stockton",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757106097322-W9F7LN3MQIFDAQPPL6YW/caprock+helicopter+and+guys.png",
       "width": 606,
-      "height": 918
+      "height": 918,
+      "public_metadata": {
+        "title": "Helicopter lowering rooftop equipment to a building",
+        "alt": "Helicopter lowering rooftop equipment to a building",
+        "caption": "Helicopter lowering rooftop equipment to a building.",
+        "description": "Helicopter lowering rooftop equipment to a building."
+      }
     },
     {
       "file": "hvac/hvac-152.jpg",
@@ -1375,7 +2281,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-stockton",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757105441124-2GG9BI1OF3M9UEUMPUOG/Amazon+Fulfillment+Stockton.jpg",
       "width": 820,
-      "height": 510
+      "height": 510,
+      "public_metadata": {
+        "title": "Distribution warehouse with loading bays",
+        "alt": "Distribution warehouse with loading bays",
+        "caption": "Distribution warehouse with loading bays.",
+        "description": "Distribution warehouse with loading bays."
+      }
     },
     {
       "file": "hvac/hvac-153.jpg",
@@ -1384,7 +2296,13 @@
       "source_page": "https://www.modernair.biz/commercial/vwr-distribution",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/c546d249-0b40-4ff6-bf15-42b4e9401d85/VWR+Distribution+Center.jpg",
       "width": 2500,
-      "height": 1362
+      "height": 1362,
+      "public_metadata": {
+        "title": "Industrial building with a glazed entrance",
+        "alt": "Industrial building with a glazed entrance",
+        "caption": "Industrial building with a glazed entrance.",
+        "description": "Industrial building with a glazed entrance."
+      }
     },
     {
       "file": "hvac/hvac-154.jpg",
@@ -1393,7 +2311,13 @@
       "source_page": "https://www.modernair.biz/commercial/vwr-distribution",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757106183870-GEWUQHB7W7MJBRKNP5OZ/IMG_1730.jpeg",
       "width": 2000,
-      "height": 1500
+      "height": 1500,
+      "public_metadata": {
+        "title": "Industrial production area",
+        "alt": "Industrial production area",
+        "caption": "Industrial production area.",
+        "description": "Industrial production area."
+      }
     },
     {
       "file": "hvac/hvac-155.jpg",
@@ -1402,7 +2326,13 @@
       "source_page": "https://www.modernair.biz/commercial/ghirardelli-distribution-center",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/f6507167-5b77-43e9-8313-5b17be702ef0/Ghirardelli.jpg",
       "width": 2048,
-      "height": 996
+      "height": 996,
+      "public_metadata": {
+        "title": "Aerial view of a white warehouse and rooftop",
+        "alt": "Aerial view of a white warehouse and rooftop",
+        "caption": "Aerial view of a white warehouse and rooftop.",
+        "description": "Aerial view of a white warehouse and rooftop."
+      }
     },
     {
       "file": "hvac/hvac-156.jpg",
@@ -1411,7 +2341,13 @@
       "source_page": "https://www.modernair.biz/commercial/ghirardelli-distribution-center",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757106838667-88J927Y0K6AAHVPI0C6Y/Ghirardelli+3.jpg",
       "width": 1200,
-      "height": 630
+      "height": 630,
+      "public_metadata": {
+        "title": "Industrial building at dusk",
+        "alt": "Industrial building at dusk",
+        "caption": "Industrial building at dusk.",
+        "description": "Industrial building at dusk."
+      }
     },
     {
       "file": "hvac/hvac-157.jpg",
@@ -1420,7 +2356,13 @@
       "source_page": "https://www.modernair.biz/commercial/ghirardelli-distribution-center",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1757106838411-YD0IWMHEBYHIZ6FI11O2/Ghirardelli+2.jpg",
       "width": 2048,
-      "height": 996
+      "height": 996,
+      "public_metadata": {
+        "title": "Warehouses beyond a grassy field",
+        "alt": "Warehouses beyond a grassy field",
+        "caption": "Warehouses beyond a grassy field.",
+        "description": "Warehouses beyond a grassy field."
+      }
     },
     {
       "file": "hvac/hvac-158.jpg",
@@ -1429,7 +2371,13 @@
       "source_page": "https://www.modernair.biz/commercial/uc-merced-housing",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/9525f8cb-1571-468f-87ea-f7bbe3823f37/uc+merced+housing+2.jpg",
       "width": 950,
-      "height": 490
+      "height": 490,
+      "public_metadata": {
+        "title": "Modern multistory residential building",
+        "alt": "Modern multistory residential building",
+        "caption": "Modern multistory residential building.",
+        "description": "Modern multistory residential building."
+      }
     },
     {
       "file": "hvac/hvac-159.jpg",
@@ -1438,7 +2386,13 @@
       "source_page": "https://www.modernair.biz/commercial/uc-merced-housing",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758753465687-2DI8HQ6LVFHO2RVERENZ/UC+Merced_5H3A3031.jpg",
       "width": 2500,
-      "height": 1457
+      "height": 1457,
+      "public_metadata": {
+        "title": "Campus buildings beneath a cloudy sky",
+        "alt": "Campus buildings beneath a cloudy sky",
+        "caption": "Campus buildings beneath a cloudy sky.",
+        "description": "Campus buildings beneath a cloudy sky."
+      }
     },
     {
       "file": "hvac/hvac-160.jpg",
@@ -1447,7 +2401,13 @@
       "source_page": "https://www.modernair.biz/commercial/uc-merced-housing",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758753522783-6MDKLRU62WENAPTI6YSU/UC+Merced_DJI_0364.jpg",
       "width": 2500,
-      "height": 1445
+      "height": 1445,
+      "public_metadata": {
+        "title": "Aerial view of a rooftop solar array and mechanical equipment",
+        "alt": "Aerial view of a rooftop solar array and mechanical equipment",
+        "caption": "Aerial view of a rooftop solar array and mechanical equipment.",
+        "description": "Aerial view of a rooftop solar array and mechanical equipment."
+      }
     },
     {
       "file": "hvac/hvac-161.jpg",
@@ -1456,7 +2416,13 @@
       "source_page": "https://www.modernair.biz/commercial/uc-merced-housing",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758753502513-H0MWRJGZHLXW4884PM31/UC+Merced_DJI_0355.jpg",
       "width": 2500,
-      "height": 1656
+      "height": 1656,
+      "public_metadata": {
+        "title": "Aerial view of a multistory residential complex",
+        "alt": "Aerial view of a multistory residential complex",
+        "caption": "Aerial view of a multistory residential complex.",
+        "description": "Aerial view of a multistory residential complex."
+      }
     },
     {
       "file": "hvac/hvac-162.jpg",
@@ -1465,7 +2431,13 @@
       "source_page": "https://www.modernair.biz/commercial/uc-merced-housing",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758753502188-B7QOIF52NU71R7QRC40Z/UC+Merced_DJI_0351.jpg",
       "width": 2500,
-      "height": 1521
+      "height": 1521,
+      "public_metadata": {
+        "title": "Campus buildings along a road",
+        "alt": "Campus buildings along a road",
+        "caption": "Campus buildings along a road.",
+        "description": "Campus buildings along a road."
+      }
     },
     {
       "file": "hvac/hvac-163.jpg",
@@ -1474,7 +2446,13 @@
       "source_page": "https://www.modernair.biz/commercial/uc-merced-housing",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758753466202-RB5PG5NKY0O0PYYH6HUR/UC+Merced_DJI_0345.jpg",
       "width": 2500,
-      "height": 1484
+      "height": 1484,
+      "public_metadata": {
+        "title": "Aerial view of a campus with sports fields",
+        "alt": "Aerial view of a campus with sports fields",
+        "caption": "Aerial view of a campus with sports fields.",
+        "description": "Aerial view of a campus with sports fields."
+      }
     },
     {
       "file": "hvac/hvac-164.jpg",
@@ -1483,7 +2461,13 @@
       "source_page": "https://www.modernair.biz/commercial/uc-merced-housing",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/aa61b8a0-f969-4f27-94aa-e7a08a5a989b/uc+merced+housing+1.jpg",
       "width": 500,
-      "height": 303
+      "height": 303,
+      "public_metadata": {
+        "title": "Campus residence buildings and parking areas",
+        "alt": "Campus residence buildings and parking areas",
+        "caption": "Campus residence buildings and parking areas.",
+        "description": "Campus residence buildings and parking areas."
+      }
     },
     {
       "file": "hvac/hvac-165.jpg",
@@ -1492,7 +2476,13 @@
       "source_page": "https://www.modernair.biz/commercial/project-goat-salinas",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758668296436-604LLC8O3TZHNYXC0P5S/DJI_0281.jpg",
       "width": 2500,
-      "height": 1258
+      "height": 1258,
+      "public_metadata": {
+        "title": "Steel framed building under construction",
+        "alt": "Steel framed building under construction",
+        "caption": "Steel framed building under construction.",
+        "description": "Steel framed building under construction."
+      }
     },
     {
       "file": "hvac/hvac-166.jpg",
@@ -1501,7 +2491,13 @@
       "source_page": "https://www.modernair.biz/commercial/project-goat-salinas",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1758668326935-LI9MNN288W65NZT5GU9R/DJI_0300.jpg",
       "width": 2500,
-      "height": 2419
+      "height": 2419,
+      "public_metadata": {
+        "title": "Large commercial rooftop",
+        "alt": "Large commercial rooftop",
+        "caption": "Large commercial rooftop.",
+        "description": "Large commercial rooftop."
+      }
     },
     {
       "file": "hvac/hvac-167.jpg",
@@ -1510,7 +2506,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-rancho-cordova",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1760547199940-QIP370DOD2FD47230X06/Amazon+Rancho+Cordova_2.png",
       "width": 1666,
-      "height": 737
+      "height": 737,
+      "public_metadata": {
+        "title": "Warehouse loading bays and rooftop units",
+        "alt": "Warehouse loading bays and rooftop units",
+        "caption": "Warehouse loading bays and rooftop units.",
+        "description": "Warehouse loading bays and rooftop units."
+      }
     },
     {
       "file": "hvac/hvac-168.jpg",
@@ -1519,7 +2521,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-rancho-cordova",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1760547198978-CMX1XV3MJGMLLY1YI342/Amazon+Rancho+Cordova_1.png",
       "width": 1666,
-      "height": 738
+      "height": 738,
+      "public_metadata": {
+        "title": "Aerial view of warehouse loading docks",
+        "alt": "Aerial view of warehouse loading docks",
+        "caption": "Aerial view of warehouse loading docks.",
+        "description": "Aerial view of warehouse loading docks."
+      }
     },
     {
       "file": "hvac/hvac-169.jpg",
@@ -1528,7 +2536,13 @@
       "source_page": "https://www.modernair.biz/commercial/amazon-rancho-cordova",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1760547202128-417MXKAU120SOBOVU3U0/Amazon+Rancho+Cordova_3.png",
       "width": 1666,
-      "height": 736
+      "height": 736,
+      "public_metadata": {
+        "title": "Flat warehouse roof with equipment",
+        "alt": "Flat warehouse roof with equipment",
+        "caption": "Flat warehouse roof with equipment.",
+        "description": "Flat warehouse roof with equipment."
+      }
     },
     {
       "file": "hvac/hvac-170.jpg",
@@ -1537,7 +2551,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/f87dead3-b794-4145-b199-9da1cf34f68b/Terry+Bradley+Ed+Center.jpg",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "public_metadata": {
+        "title": "Large campus under construction",
+        "alt": "Large campus under construction",
+        "caption": "Large campus under construction.",
+        "description": "Large campus under construction."
+      }
     },
     {
       "file": "hvac/hvac-171.jpg",
@@ -1546,7 +2566,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/62cc6dd9-28aa-431b-b5a5-c06b97615bd4/Amazon+Hollister.jpg",
       "width": 2500,
-      "height": 1875
+      "height": 1875,
+      "public_metadata": {
+        "title": "Aerial view of a distribution warehouse complex",
+        "alt": "Aerial view of a distribution warehouse complex",
+        "caption": "Aerial view of a distribution warehouse complex.",
+        "description": "Aerial view of a distribution warehouse complex."
+      }
     },
     {
       "file": "hvac/hvac-172.jpg",
@@ -1555,7 +2581,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/84d71787-71a4-4d81-be39-6f38d86db5d4/Amazon+Caprock+Visalia.jpg",
       "width": 1024,
-      "height": 576
+      "height": 576,
+      "public_metadata": {
+        "title": "Large warehouses and truck loading bays",
+        "alt": "Large warehouses and truck loading bays",
+        "caption": "Large warehouses and truck loading bays.",
+        "description": "Large warehouses and truck loading bays."
+      }
     },
     {
       "file": "hvac/hvac-173.jpg",
@@ -1564,7 +2596,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/03b93c67-cff2-4ddd-bd3e-9a060f4dcdb4/Matilda+Torres+HS+Stadium.jpg",
       "width": 768,
-      "height": 432
+      "height": 432,
+      "public_metadata": {
+        "title": "Athletics field and running track",
+        "alt": "Athletics field and running track",
+        "caption": "Athletics field and running track.",
+        "description": "Athletics field and running track."
+      }
     },
     {
       "file": "hvac/hvac-174.jpg",
@@ -1573,7 +2611,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/f839e9a1-7b1f-4da0-a553-803300c69b9f/Madera+Academic+Village+2.png",
       "width": 1800,
-      "height": 600
+      "height": 600,
+      "public_metadata": {
+        "title": "Modern school building and landscaped entrance",
+        "alt": "Modern school building and landscaped entrance",
+        "caption": "Modern school building and landscaped entrance.",
+        "description": "Modern school building and landscaped entrance."
+      }
     },
     {
       "file": "hvac/hvac-175.jpg",
@@ -1582,7 +2626,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/b50f2bfd-66a6-4c88-99df-a2095666c71d/Amazon+Northpoint+Bldg+4+Oakley.jpeg",
       "width": 1500,
-      "height": 979
+      "height": 979,
+      "public_metadata": {
+        "title": "Aerial view of a development area beside water",
+        "alt": "Aerial view of a development area beside water",
+        "caption": "Aerial view of a development area beside water.",
+        "description": "Aerial view of a development area beside water."
+      }
     },
     {
       "file": "hvac/hvac-176.jpg",
@@ -1591,7 +2641,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/271cf5da-4284-4a08-ae72-5e645cfe4f90/Amazon+FAT+3+Visalia.jpg",
       "width": 1920,
-      "height": 1080
+      "height": 1080,
+      "public_metadata": {
+        "title": "Large industrial building beside a road",
+        "alt": "Large industrial building beside a road",
+        "caption": "Large industrial building beside a road.",
+        "description": "Large industrial building beside a road."
+      }
     },
     {
       "file": "hvac/hvac-177.jpg",
@@ -1600,7 +2656,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/d2e24482-dbbc-42df-9eee-2d0387f52639/Amazon+Soflines+BFL2.jpg",
       "width": 986,
-      "height": 554
+      "height": 554,
+      "public_metadata": {
+        "title": "Distribution center entrance",
+        "alt": "Distribution center entrance",
+        "caption": "Distribution center entrance.",
+        "description": "Distribution center entrance."
+      }
     },
     {
       "file": "hvac/hvac-178.jpg",
@@ -1609,7 +2671,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/4e7f89fa-2a29-45c4-b7b1-9fc56cbe09ef/Central+Unified+HS.png",
       "width": 1551,
-      "height": 743
+      "height": 743,
+      "public_metadata": {
+        "title": "Aerial view of a school campus and road",
+        "alt": "Aerial view of a school campus and road",
+        "caption": "Aerial view of a school campus and road.",
+        "description": "Aerial view of a school campus and road."
+      }
     },
     {
       "file": "hvac/hvac-179.jpg",
@@ -1618,7 +2686,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/eccee44a-1230-40eb-bcab-28d3d315b46a/Amazon+Project+Hornet+Turlock.webp",
       "width": 1280,
-      "height": 720
+      "height": 720,
+      "public_metadata": {
+        "title": "Warehouse loading bays and truck parking",
+        "alt": "Warehouse loading bays and truck parking",
+        "caption": "Warehouse loading bays and truck parking.",
+        "description": "Warehouse loading bays and truck parking."
+      }
     },
     {
       "file": "hvac/hvac-180.jpg",
@@ -1627,7 +2701,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/9999ad8c-2ba6-405b-a8b5-6196e1eaffe3/Amazon+OMP+Pacific+Commons+Fremont.png",
       "width": 820,
-      "height": 510
+      "height": 510,
+      "public_metadata": {
+        "title": "Industrial buildings and landscaped grounds",
+        "alt": "Industrial buildings and landscaped grounds",
+        "caption": "Industrial buildings and landscaped grounds.",
+        "description": "Industrial buildings and landscaped grounds."
+      }
     },
     {
       "file": "hvac/hvac-181.jpg",
@@ -1636,7 +2716,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/77bde46a-8435-4b65-9901-4e704e8bcf89/Los+Banos+ES+Campus.png",
       "width": 984,
-      "height": 656
+      "height": 656,
+      "public_metadata": {
+        "title": "School campus near farm fields",
+        "alt": "School campus near farm fields",
+        "caption": "School campus near farm fields.",
+        "description": "School campus near farm fields."
+      }
     },
     {
       "file": "hvac/hvac-182.jpg",
@@ -1645,7 +2731,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/887dc8b0-3265-4057-94d2-564ad3a75179/Matilda+Torres+HS.png",
       "width": 650,
-      "height": 433
+      "height": 433,
+      "public_metadata": {
+        "title": "School campus with an outdoor swimming pool",
+        "alt": "School campus with an outdoor swimming pool",
+        "caption": "School campus with an outdoor swimming pool.",
+        "description": "School campus with an outdoor swimming pool."
+      }
     },
     {
       "file": "hvac/hvac-183.jpg",
@@ -1654,7 +2746,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/6a78d514-5885-4d96-a180-7b87b0d0f187/Amazon+Cougar+Fresno.jpg",
       "width": 1125,
-      "height": 591
+      "height": 591,
+      "public_metadata": {
+        "title": "Warehouse at a construction site",
+        "alt": "Warehouse at a construction site",
+        "caption": "Warehouse at a construction site.",
+        "description": "Warehouse at a construction site."
+      }
     },
     {
       "file": "hvac/hvac-184.jpg",
@@ -1663,7 +2761,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/61abb2c5-df50-4a46-84b3-08da4cb55b29/Amazon+SMF5+Vacaville.jpg",
       "width": 640,
-      "height": 480
+      "height": 480,
+      "public_metadata": {
+        "title": "Aerial view of a large warehouse roof",
+        "alt": "Aerial view of a large warehouse roof",
+        "caption": "Aerial view of a large warehouse roof.",
+        "description": "Aerial view of a large warehouse roof."
+      }
     },
     {
       "file": "hvac/hvac-185.jpg",
@@ -1672,7 +2776,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/eb4a55e3-54b4-4ca1-94bb-20f8a2a31e71/Jordan+Research+Center.png",
       "width": 1920,
-      "height": 1282
+      "height": 1282,
+      "public_metadata": {
+        "title": "Modern campus research building",
+        "alt": "Modern campus research building",
+        "caption": "Modern campus research building.",
+        "description": "Modern campus research building."
+      }
     },
     {
       "file": "hvac/hvac-186.jpg",
@@ -1681,7 +2791,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/1973c89b-f689-4beb-b5fc-acbe178f6099/Joseph+Gregory+High+School.webp",
       "width": 2500,
-      "height": 1405
+      "height": 1405,
+      "public_metadata": {
+        "title": "School campus and athletics building",
+        "alt": "School campus and athletics building",
+        "caption": "School campus and athletics building.",
+        "description": "School campus and athletics building."
+      }
     },
     {
       "file": "hvac/hvac-187.jpg",
@@ -1690,7 +2806,13 @@
       "source_page": "https://www.modernair.biz/commercial/completed-jobs",
       "original_url": "https://images.squarespace-cdn.com/content/v1/6877d0db774538686f8839e4/3cf6d6fd-37c9-4932-8fda-27db59f29982/Los+Banos+High+School.png",
       "width": 1024,
-      "height": 550
+      "height": 550,
+      "public_metadata": {
+        "title": "School campus and recreation grounds",
+        "alt": "School campus and recreation grounds",
+        "caption": "School campus and recreation grounds.",
+        "description": "School campus and recreation grounds."
+      }
     },
     {
       "file": "hvac/hvac-188.jpg",
@@ -1699,7 +2821,13 @@
       "source_page": "https://hvacofatlanta.com/financing-programs/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Circular-ductwork_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Ventilation ducts above an unfinished interior",
+        "alt": "Ventilation ducts above an unfinished interior",
+        "caption": "Ventilation ducts above an unfinished interior.",
+        "description": "Ventilation ducts above an unfinished interior."
+      }
     },
     {
       "file": "hvac/hvac-189.jpg",
@@ -1708,7 +2836,13 @@
       "source_page": "https://hvacofatlanta.com/financing-programs/",
       "original_url": "https://hvacofatlanta.com/wp-content/uploads/2020/06/Residential-service-to-older-unit_1200x900.jpeg",
       "width": 1200,
-      "height": 900
+      "height": 900,
+      "public_metadata": {
+        "title": "Refrigerant pressure gauges on an air conditioning condenser",
+        "alt": "Refrigerant pressure gauges on an air conditioning condenser",
+        "caption": "Refrigerant pressure gauges on an air conditioning condenser.",
+        "description": "Refrigerant pressure gauges on an air conditioning condenser."
+      }
     },
     {
       "file": "hvac/hvac-190.jpg",
@@ -1717,7 +2851,13 @@
       "source_page": "https://www.aactionair.net/blog/savannah-heating-system-installation-furnace-vs-heat-pump-guide/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/11/20251111-222516-f04a6ff3b3d96f97-db85f0e1-3aa3-4a88-bfca-c05c7c7096ee-1.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Mechanical room with pumps and pipework",
+        "alt": "Mechanical room with pumps and pipework",
+        "caption": "Mechanical room with pumps and pipework.",
+        "description": "Mechanical room with pumps and pipework."
+      }
     },
     {
       "file": "hvac/hvac-191.jpg",
@@ -1726,7 +2866,13 @@
       "source_page": "https://www.aactionair.net/blog/furnace-vs-heat-pump-installation-service-which-is-better-for-savannah-homes/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/10/20251018-132712-eed38945cc2fabff-5794a87d-1858-4cdd-8e23-52d509d3280c.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Two outdoor air conditioning condensers",
+        "alt": "Two outdoor air conditioning condensers",
+        "caption": "Two outdoor air conditioning condensers.",
+        "description": "Two outdoor air conditioning condensers."
+      }
     },
     {
       "file": "hvac/hvac-192.jpg",
@@ -1735,7 +2881,13 @@
       "source_page": "https://www.aactionair.net/blog/furnace-vs-heat-pump-installation-service-which-is-better-for-savannah-homes/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2025/10/20251018-133243-ff8b7532de6b16ea-57469995-0742-4589-9c35-1078155359bd.webp",
       "width": 1456,
-      "height": 816
+      "height": 816,
+      "public_metadata": {
+        "title": "Outdoor condenser beside a home",
+        "alt": "Outdoor condenser beside a home",
+        "caption": "Outdoor condenser beside a home.",
+        "description": "Outdoor condenser beside a home."
+      }
     },
     {
       "file": "hvac/hvac-193.jpg",
@@ -1744,7 +2896,13 @@
       "source_page": "https://www.aactionair.net/blog/the-top-signs-that-your-ac-needs-repairs-in-savannah/",
       "original_url": "https://www.aactionair.net/wp-content/uploads/2023/06/AC-Repair-2-scaled-1.webp",
       "width": 1920,
-      "height": 2560
+      "height": 2560,
+      "public_metadata": {
+        "title": "Wall-mounted mini-split in a workshop",
+        "alt": "Wall-mounted mini-split above a work area with exposed electrical conduit",
+        "caption": "Wall-mounted mini-split in a workshop.",
+        "description": "Wall-mounted mini-split above a work area with exposed electrical conduit."
+      }
     },
     {
       "file": "hvac/hvac-194.jpg",
@@ -1753,7 +2911,13 @@
       "source_page": "https://www.aactionair.net/savannah/",
       "original_url": "https://www.aactionair.net/savannah/wp-content/uploads/sites/6/2026/05/savannah-hq-aaction-air.webp",
       "width": 698,
-      "height": 460
+      "height": 460,
+      "public_metadata": {
+        "title": "Single story commercial building",
+        "alt": "Single story commercial building",
+        "caption": "Single story commercial building.",
+        "description": "Single story commercial building."
+      }
     },
     {
       "file": "hvac/hvac-195.jpg",
@@ -1762,7 +2926,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/859669306_17928920028423950_6239293892485434422_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XKeXD56AZG8Q7kNvwEOzcMC&_nc_oc=AdqSt3p3YmfHXxggoV457-yj37jKYVx54q3U0nEYsY4xyIrzVo4BBhO9WiaF5TiG4dU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJvfDh7LsYXswpzfi0iq6UYFWbSa9xeuC6hiwE47auMFbLrVFwQTMPg2ljzzQeVU4zloyMLhNqJ&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRq87KwwjsGd4pi7VMFmeheMlVmkVbuLbeRxVDCYe894w&oe=6B04574D",
       "width": 1184,
-      "height": 896
+      "height": 896,
+      "public_metadata": {
+        "title": "Rooftop cooling equipment with pipe connections",
+        "alt": "Rooftop cooling equipment with pipe connections",
+        "caption": "Rooftop cooling equipment with pipe connections.",
+        "description": "Rooftop cooling equipment with pipe connections."
+      }
     },
     {
       "file": "hvac/hvac-196.jpg",
@@ -1771,7 +2941,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/818195190_17924425068423950_8187667714069018951_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=aVCztGBirsEQ7kNvwHX71zv&_nc_oc=AdoYi35NgrujZtggA_NeY2iv8_0vnXe2zq8bRjYkTCnCWnkIFPQDaFHxA7Xqqs5LqH4&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJfPXTEFTglPyTVheM7vmmZi8aZOqUsKXA-4YDXCDAnKRKpVWMbnDQYErwtx4QyfQCFUR5DbzWb&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTcuIXJx0C09KOdio7iRgzx7eyuJ8qfp3KjrP6d46JMuA&oe=6B0444DB",
       "width": 1184,
-      "height": 864
+      "height": 864,
+      "public_metadata": {
+        "title": "Crane truck lifting equipment beside a building",
+        "alt": "Crane truck lifting equipment beside a building",
+        "caption": "Crane truck lifting equipment beside a building.",
+        "description": "Crane truck lifting equipment beside a building."
+      }
     },
     {
       "file": "hvac/hvac-197.jpg",
@@ -1780,7 +2956,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/805885085_17922597801423950_8871233118828377524_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=V7rCqxlopsMQ7kNvwH2Yla2&_nc_oc=AdqzDCmUTAG3dOkbE_aoIHMVu4BGinf8y-lrpXZDneOoHTM8xFQ8Pc3NWcU9x2UhQWI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQIco6j9RaqdwEguxtTLT1H5sInRasjlrAKeUgq4wdC_q4lp4_c14HfHajGMBmxbIb0H0Cb2umKg&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRoFlH0Iq_8gO4vk19FHu3sOEwEc-Y1jhvvjDasCa_Ogw&oe=6B045FDF",
       "width": 1184,
-      "height": 1456
+      "height": 1456,
+      "public_metadata": {
+        "title": "Mechanical workshop piping and equipment",
+        "alt": "Mechanical workshop piping and equipment",
+        "caption": "Mechanical workshop piping and equipment.",
+        "description": "Mechanical workshop piping and equipment."
+      }
     },
     {
       "file": "hvac/hvac-198.jpg",
@@ -1789,7 +2971,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/778565183_17919238170423950_3667049931762955842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8dzOUuDYPCoQ7kNvwHmZeLu&_nc_oc=Adqd9hPePmW3hd2iB9DGT4WyVtyRYefi7w36YRDw9wCr5xYw3HveIjM1qFTgeF7Sgq0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQK5tz8OExwduyRN-TMB0Mt3pD6QbhcvUZGFK6dKiHD028HpGBgYS8P8pOuB8n4Ukwn9vHnSzUDn&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRPUzs5KSEsT9YH9qhsiI0TlMnd5_7TN0odE40VnceoSQ&oe=6B04615A",
       "width": 1184,
-      "height": 1552
+      "height": 1552,
+      "public_metadata": {
+        "title": "Large HVAC unit suspended above a roof",
+        "alt": "Large HVAC unit suspended above a roof",
+        "caption": "Large HVAC unit suspended above a roof.",
+        "description": "Large HVAC unit suspended above a roof."
+      }
     },
     {
       "file": "hvac/hvac-199.jpg",
@@ -1798,7 +2986,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/755332501_17914641237423950_499405834051210165_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pZNm6xDVTbUQ7kNvwENQ_DT&_nc_oc=AdrA8kqTm6hkU_S_LPbbIE2W_kA5SVcUKq8m7CGhGC0SwK-CDs4ZmMOx9PYenGzuo9A&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLclmPgEew5WSBYmHdQ2xoIaoww06rW0jq15yx8enj-MdZl_w5z1VlPd4t-y1Azf0gokiKvMRJo&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTBcA61F5bHGbx5cOwhedA87KRAmJ7wtnbBtJMFs-T1XQ&oe=6B044F0A",
       "width": 1536,
-      "height": 2048
+      "height": 2048,
+      "public_metadata": {
+        "title": "Crew guiding a crane lift",
+        "alt": "Crew guiding a crane lift",
+        "caption": "Crew guiding a crane lift.",
+        "description": "Crew guiding a crane lift."
+      }
     },
     {
       "file": "hvac/hvac-200.jpg",
@@ -1807,7 +3001,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/743589528_17912388873423950_7120620971241293478_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9d0SvuTD7YYQ7kNvwFg4qnm&_nc_oc=AdrEwuoRQrhOgRc2FyoQBlaCECxjPNBRdo8LZPRIlMbra6n7ksZRDqb0E-91I6woSZU&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJVkgJnuLcNjyHGZOv6BjmsZS8z-78hXZaA39c2H_3ICt3x8b9VMJ_K4VpXwjOHX7ifMiObzk5T&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSw5cKjLWgPU5ROP6Nf9O_m-SYIPkd2w5OzkOXFtVoFLA&oe=6B047A4F",
       "width": 1314,
-      "height": 932
+      "height": 932,
+      "public_metadata": {
+        "title": "Large chiller and insulated piping",
+        "alt": "Large chiller and insulated piping",
+        "caption": "Large chiller and insulated piping.",
+        "description": "Large chiller and insulated piping."
+      }
     },
     {
       "file": "hvac/hvac-201.jpg",
@@ -1816,7 +3016,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/730226605_17909801460423950_2401821572665552911_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9S147GNlF0QQ7kNvwHQZ3SI&_nc_oc=AdopXELOUIMEh2lzkbvrpbR3LUBp7WLgsUAAeaTJ3YqE8OWVuBHllH8KVAI7fADWqMI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQKI2o_7ceqQbY9bEwv8JqrINovwaExrkBkwMFpY0r5f2XLMTz6s8MS1nckQ2aNPd1_yxg8-4SOi&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQR8xN2y7Q8R_OvLLrBrPGDPBMvol52VSD1WDxVQsDwiDg&oe=6B0475CF",
       "width": 2048,
-      "height": 1536
+      "height": 1536,
+      "public_metadata": {
+        "title": "Rooftop equipment opening with workers",
+        "alt": "Rooftop equipment opening with workers",
+        "caption": "Rooftop equipment opening with workers.",
+        "description": "Rooftop equipment opening with workers."
+      }
     },
     {
       "file": "hvac/hvac-202.jpg",
@@ -1825,7 +3031,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/713364064_17906751180423950_6518346634660108114_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gI1EId3ev3AQ7kNvwEZRlQl&_nc_oc=Ado6v0-drH0epjlFyLxq_o24TmOH3WoyBkUvibRcXX6MC4Ftx6-eiX4nqgT3JjCp4l0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLI6F09OJdH6fVw3aH8fpRCcYR-m0MXv-9fmTz9LtX8j5pLe78Pvrt8myuZ4UtdtylzUbDEQQMT&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSzRrrkih2M7G5Ozx86TNPwk5biXBGEN-lzHu3sPfgB3w&oe=6B046AED",
       "width": 1179,
-      "height": 867
+      "height": 867,
+      "public_metadata": {
+        "title": "Crane truck parked beside a commercial building",
+        "alt": "Crane truck parked beside a commercial building",
+        "caption": "Crane truck parked beside a commercial building.",
+        "description": "Crane truck parked beside a commercial building."
+      }
     },
     {
       "file": "hvac/hvac-203.jpg",
@@ -1834,7 +3046,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/682552561_17901541047423950_7500657941091024320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=srARp2PXXdkQ7kNvwG0cyWT&_nc_oc=AdrP3X8yQFLcIDw1v4yG9YRHlD9wPXtDzuP1fGMO0ea5FadalwEZU-T9qPSikU4eG3w&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJgKBRVUnAIPhQVvaG7GEkonqKfmJ0hFkplFYYqtp5-3wBJxphJ-Hb10jalQWXOwGQEUwdQg5LW&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRHG4J5EZOY_iUl48qADGLsuKaJD_5kNKoxw3GnuQ4eDQ&oe=6B0449F2",
       "width": 1440,
-      "height": 988
+      "height": 988,
+      "public_metadata": {
+        "title": "Packaged HVAC unit and condensers on a flat roof",
+        "alt": "Packaged HVAC unit and condensers on a flat roof",
+        "caption": "Packaged HVAC unit and condensers on a flat roof.",
+        "description": "Packaged HVAC unit and condensers on a flat roof."
+      }
     },
     {
       "file": "hvac/hvac-204.jpg",
@@ -1843,7 +3061,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/670979480_17898970458423950_853509126169284565_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=G5TZkiuQ4woQ7kNvwGc5lAL&_nc_oc=AdpFTT1c7_B-om5qeGtnGmZk7nZUSb2eAHLy9v505nAbKWXH2btV0phxaIkdnb0ggb4&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJEAD98-h3aZIDYGYgCsd9GgLw3PAnWMrmTk1mx6u6trKWgu1Jdd6vuofKkIlac2ZCiQJTdOnqV&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSEwGpAfGYoAXm0hBWsb49W6b6JoIsy4U3HScW37aVZ4Q&oe=6B04461C",
       "width": 1440,
-      "height": 811
+      "height": 811,
+      "public_metadata": {
+        "title": "Outdoor HVAC unit and large exterior ducts",
+        "alt": "Outdoor HVAC unit and large exterior ducts",
+        "caption": "Outdoor HVAC unit and large exterior ducts.",
+        "description": "Outdoor HVAC unit and large exterior ducts."
+      }
     },
     {
       "file": "hvac/hvac-205.jpg",
@@ -1852,7 +3076,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/657824385_17897156013423950_232636888561985347_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bxT9t6axXRQQ7kNvwHnb3Xs&_nc_oc=Adqen5bpDs6ISuo-tSUzKdc5KdEiCzRMdsQwlUiqsOx87a4ZTgoWOpr4zCNLvQyfgHY&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQKVLm83AZQ954SlA4rq0Ha9a-r2FdlchP1eR6qTTa1biO1K4NAv4z84PQzrblBvLNtBhMZuAwoe&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSKvLGOfPmDMCs9yKLhpZdinYpH-K0vduaVaDc2vx1ByA&oe=6B04636F",
       "width": 1440,
-      "height": 976
+      "height": 976,
+      "public_metadata": {
+        "title": "Medical center building exterior",
+        "alt": "Medical center building exterior",
+        "caption": "Medical center building exterior.",
+        "description": "Medical center building exterior."
+      }
     },
     {
       "file": "hvac/hvac-206.jpg",
@@ -1861,7 +3091,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/642476591_17892952200423950_8922009765323527596_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=3p9OnZHvWmEQ7kNvwFL2apa&_nc_oc=AdpzjrKxX7K4PSAE_AXjOZKACGHFqpI9NtJ1mJXL2CSSIieGloNXL8NaQjp_ZcyddVE&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLsk7WSVbFCejFvYjnL39sLpbFGLA1O6Q5ZpANTA0mxcMTtLUSqfDQftkCK5LMb3lBT8BXXbfHP&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTFsvBzlZsOKKHm1_35saFtB9Y59TDKLPkRlfahKHi-ig&oe=6B0444A0",
       "width": 989,
-      "height": 800
+      "height": 800,
+      "public_metadata": {
+        "title": "Street outside commercial buildings",
+        "alt": "Street outside commercial buildings",
+        "caption": "Street outside commercial buildings.",
+        "description": "Street outside commercial buildings."
+      }
     },
     {
       "file": "hvac/hvac-207.jpg",
@@ -1870,7 +3106,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/627413955_17889298959423950_5667786323689747557_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0FSTJWGNFmIQ7kNvwGTx8s_&_nc_oc=Adpw5H22wg-WA0SfJp4pGF7P55xKU_xx0lA-E2xPF3cJY_0L3g6ktGt3LLtUrTIVxoc&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJ59AYhFDqx0wIwRo-v9ml7zfqPZmmqW9kRaZlGALws38VfHlhDK0Y00fXnfZO5WrGALZ-XSrqj&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTcwdahL2qhPcRWm6_tG5r6Ks418oizSFWlfaDmLkSmMw&oe=6B0464A9",
       "width": 1440,
-      "height": 1080
+      "height": 1080,
+      "public_metadata": {
+        "title": "Workers securing equipment on a truck",
+        "alt": "Workers securing equipment on a truck",
+        "caption": "Workers securing equipment on a truck.",
+        "description": "Workers securing equipment on a truck."
+      }
     },
     {
       "file": "hvac/hvac-208.jpg",
@@ -1879,7 +3121,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/625017172_17888331789423950_6320459080453585966_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=3RTGJ8IcnzUQ7kNvwHulmez&_nc_oc=AdoodPBuqzpg-pRVnG6A66IQd_97jKbclIEB33kSDuEvoBSwvWOux-xKfIxsWRpMkmY&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJ8GrTAWFHvygpw5_ghWyjsgvQjoKNsSjxrt-S_hN1YStLjFHqfibsSd6YgLelOW5ZSnLYYShy7&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTmgbzz3Tls0yMnIKJi16h5LoUubtyDiGeZ7NQ06S1z3Q&oe=6B047032",
       "width": 2048,
-      "height": 1152
+      "height": 1152,
+      "public_metadata": {
+        "title": "Office break room with tables and appliances",
+        "alt": "Office break room with tables and appliances",
+        "caption": "Office break room with tables and appliances.",
+        "description": "Office break room with tables and appliances."
+      }
     },
     {
       "file": "hvac/hvac-209.jpg",
@@ -1888,7 +3136,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/603930594_17883778704423950_2010139946395986090_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GPFffpbPrKAQ7kNvwESSEgf&_nc_oc=AdrDYB1yL5R7040qUAKcETcO90Z9D-4J3sBSw0ESESOVgBe_DnmdNBcwoMgq6dHExto&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQL_kidn7cTHLSd0kizuqm_0fP9qMlKLZuKACzGPnWBKSDbnB8WX4MzrPQPwldoVbbvNxHU3QZy9&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSvdcwtW_0BYLI5soF3HImGE3TtQuATeq4SdxtFWXNK3g&oe=6B04570C",
       "width": 1440,
-      "height": 1080
+      "height": 1080,
+      "public_metadata": {
+        "title": "Rooftop equipment beneath a sunset sky",
+        "alt": "Rooftop equipment beneath a sunset sky",
+        "caption": "Rooftop equipment beneath a sunset sky.",
+        "description": "Rooftop equipment beneath a sunset sky."
+      }
     },
     {
       "file": "hvac/hvac-210.jpg",
@@ -1897,7 +3151,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/584363759_17879905791423950_3462928568639869755_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2TXz8mPO4PsQ7kNvwGb68cy&_nc_oc=Adq7kGBodBKhHUToL7jCBBSr0irxdR5aUiDVRmJ3bCAUZ7G-SKxGFXbAOLK54qyGPJg&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQJFWr1VYUldfcoIpkJqmU81WPqUNYJW0aU9eSKrn9FZLxe_9U0ZbRJ9GiaLIw_7PSRN4G0pqBk-&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTtZUuO7PhENKX13EPLotn5wb8lAyQzJKNi6sS-k0EaSg&oe=6B0475B6",
       "width": 1440,
-      "height": 1080
+      "height": 1080,
+      "public_metadata": {
+        "title": "Building exterior and parking area",
+        "alt": "Building exterior and parking area",
+        "caption": "Building exterior and parking area.",
+        "description": "Building exterior and parking area."
+      }
     },
     {
       "file": "hvac/hvac-211.jpg",
@@ -1906,7 +3166,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/554922687_17874369765423950_6524871972506029884_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P8YRDefD5qQQ7kNvwE8iwMy&_nc_oc=AdrJ0l8h1pmOveMOCKMsv1-VHcDKDGQ4moCFjEzR1MexH4NfVIqC_D9bqDctXbABKlw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQIvtFnpwV42XHuC3kP_r_glYH_1f6AJFr45yXW0zbIq5pL6EUZieNwoIneWO3Hych7dN280mOxs&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQCGqti4RYx5EMgaB53Cadp8N5ind1NZJKvtjcNJTnC0g&oe=6B047381",
       "width": 1440,
-      "height": 1918
+      "height": 1918,
+      "public_metadata": {
+        "title": "Commercial fluid cooler assembly",
+        "alt": "Commercial fluid cooler assembly",
+        "caption": "Commercial fluid cooler assembly.",
+        "description": "Commercial fluid cooler assembly."
+      }
     },
     {
       "file": "hvac/hvac-212.jpg",
@@ -1915,7 +3181,13 @@
       "source_page": "https://www.thehvaccompany.net/projects",
       "original_url": "https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/544799369_799143156103611_1066908197547706628_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ca-Twqsq4PgQ7kNvwFkVQDW&_nc_oc=AdrgiNPS-nPiYn6S8JbOkj1AnrjVHzVK-7I0zL5odFzG2eUVCNvHJGMAVsKmFPg2KP8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6PYsVfTuf18Jl5m-M9MPBw&_nc_tpa=Q5bMBQLle_OZvpYcp0dgI1hgcw9Yuc6MOIPeUiflKMYP9aCiImsLPpXFaeFbvK65zI4q4vKr2G3KudGv&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQZYLHoW2rtwcrJd7mvMaGukTEVZe2_MuyhLy7w3ZfXvw&oe=6B045D93",
       "width": 640,
-      "height": 1136
+      "height": 1136,
+      "public_metadata": {
+        "title": "Large packaged HVAC unit being lifted",
+        "alt": "Large packaged HVAC unit being lifted",
+        "caption": "Large packaged HVAC unit being lifted.",
+        "description": "Large packaged HVAC unit being lifted."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-001.jpg",
@@ -1924,7 +3196,13 @@
       "source_page": "https://affordableairla.com/",
       "original_url": "https://s3.amazonaws.com/static.sidebox.com/C2AE6FEF-6C02-4181-B477-9A3388767155/3779788.jpg",
       "width": 1152,
-      "height": 2048
+      "height": 2048,
+      "public_metadata": {
+        "title": "Dirty condenser grille",
+        "alt": "Dirty condenser grille",
+        "caption": "Dirty condenser grille.",
+        "description": "Dirty condenser grille."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-002.jpg",
@@ -1933,7 +3211,13 @@
       "source_page": "https://affordableairla.com/",
       "original_url": "https://s3.amazonaws.com/static.sidebox.com/C2AE6FEF-6C02-4181-B477-9A3388767155/3779542.jpg",
       "width": 1536,
-      "height": 2048
+      "height": 2048,
+      "public_metadata": {
+        "title": "White buildup on an air conditioning coil",
+        "alt": "White buildup on an air conditioning coil",
+        "caption": "White buildup on an air conditioning coil.",
+        "description": "White buildup on an air conditioning coil."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-003.jpg",
@@ -1942,7 +3226,13 @@
       "source_page": "https://affordableairla.com/",
       "original_url": "https://s3.amazonaws.com/static.sidebox.com/C2AE6FEF-6C02-4181-B477-9A3388767155/3779543.jpg",
       "width": 885,
-      "height": 1917
+      "height": 1917,
+      "public_metadata": {
+        "title": "HVAC diagnostic app readings",
+        "alt": "HVAC diagnostic app readings",
+        "caption": "HVAC diagnostic app readings.",
+        "description": "HVAC diagnostic app readings."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-004.jpg",
@@ -1951,7 +3241,13 @@
       "source_page": "https://affordableairla.com/hvac-maintenance-los-angeles/",
       "original_url": "https://affordableairla.com/wp-content/uploads/2026/07/HVAC-Maintenance-Inspecting-Outdoor-AC-Unit-in-LA-County-CA-768x432.jpg",
       "width": 768,
-      "height": 432
+      "height": 432,
+      "public_metadata": {
+        "title": "Close up view of an outdoor unit coil being inspected during routine HVAC maintenance",
+        "alt": "Close up view of an outdoor unit coil being inspected during routine HVAC maintenance",
+        "caption": "Close up view of an outdoor unit coil being inspected during routine HVAC maintenance.",
+        "description": "Close up view of an outdoor unit coil being inspected during routine HVAC maintenance."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-005.jpg",
@@ -1960,7 +3256,13 @@
       "source_page": "https://affordableairla.com/duct-repair-replacement/",
       "original_url": "https://affordableairla.com/wp-content/uploads/2026/06/Duct-Repair-in-Los-Angeles-for-Damaged-HVAC-Connections-768x432.webp",
       "width": 768,
-      "height": 432
+      "height": 432,
+      "public_metadata": {
+        "title": "Close up of duct repair with sealed HVAC duct connection",
+        "alt": "Close up of duct repair with sealed HVAC duct connection",
+        "caption": "Close up of duct repair with sealed HVAC duct connection.",
+        "description": "Close up of duct repair with sealed HVAC duct connection."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-006.jpg",
@@ -1969,7 +3271,13 @@
       "source_page": "https://affordableairla.com/insulation-services/",
       "original_url": "https://affordableairla.com/wp-content/uploads/2024/07/Professional-Insulation-service-Affordable-Heating-And-Air-1-768x432.jpg",
       "width": 768,
-      "height": 432
+      "height": 432,
+      "public_metadata": {
+        "title": "Attic roof framing and spray foam insulation",
+        "alt": "Attic roof framing and spray foam insulation",
+        "caption": "Attic roof framing and spray foam insulation.",
+        "description": "Attic roof framing and spray foam insulation."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-007.jpg",
@@ -1978,7 +3286,13 @@
       "source_page": "https://hoffmancoolingheating.com/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-Heat-Pumps-scaled.jpg",
       "width": 2560,
-      "height": 1440
+      "height": 1440,
+      "public_metadata": {
+        "title": "Row of condenser fans",
+        "alt": "Row of condenser fans",
+        "caption": "Row of condenser fans.",
+        "description": "Row of condenser fans."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-008.jpg",
@@ -1987,7 +3301,13 @@
       "source_page": "https://hoffmancoolingheating.com/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-Ductwork-scaled.jpg",
       "width": 2560,
-      "height": 1904
+      "height": 1904,
+      "public_metadata": {
+        "title": "Large metal HVAC ductwork",
+        "alt": "Large metal HVAC ductwork",
+        "caption": "Large metal HVAC ductwork.",
+        "description": "Large metal HVAC ductwork."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-009.jpg",
@@ -1996,7 +3316,13 @@
       "source_page": "https://hoffmancoolingheating.com/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/06/brian-kairuz-1T0xL1IhGVQ-unsplash.jpg",
       "width": 1920,
-      "height": 1442
+      "height": 1442,
+      "public_metadata": {
+        "title": "Interior of a circular ventilation duct",
+        "alt": "Interior of a circular ventilation duct",
+        "caption": "Interior of a circular ventilation duct.",
+        "description": "Interior of a circular ventilation duct."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-010.jpg",
@@ -2005,7 +3331,13 @@
       "source_page": "https://hoffmancoolingheating.com/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/2-What-We-Do-New-Construction-scaled.jpeg",
       "width": 2560,
-      "height": 1707
+      "height": 1707,
+      "public_metadata": {
+        "title": "Wood framed residential construction",
+        "alt": "Wood framed residential construction",
+        "caption": "Wood framed residential construction.",
+        "description": "Wood framed residential construction."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-011.jpg",
@@ -2014,7 +3346,13 @@
       "source_page": "https://hoffmancoolingheating.com/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/06/nicholas-ismael-martinez-nAXNKkCDqqc-unsplash.jpg",
       "width": 1920,
-      "height": 1280
+      "height": 1280,
+      "public_metadata": {
+        "title": "Rooftop mechanical equipment with large vent hoods",
+        "alt": "Rooftop mechanical equipment with large vent hoods",
+        "caption": "Rooftop mechanical equipment with large vent hoods.",
+        "description": "Rooftop mechanical equipment with large vent hoods."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-012.jpg",
@@ -2023,7 +3361,13 @@
       "source_page": "https://hoffmancoolingheating.com/heating/wall-heaters-floor-furnaces-gravity-furnaces/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Old-Systems-Pic-1-1024x929.jpeg",
       "width": 1024,
-      "height": 929
+      "height": 929,
+      "public_metadata": {
+        "title": "Technician beside attic HVAC equipment",
+        "alt": "Technician beside attic HVAC equipment",
+        "caption": "Technician beside attic HVAC equipment.",
+        "description": "Technician beside attic HVAC equipment."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-013.jpg",
@@ -2032,7 +3376,13 @@
       "source_page": "https://hoffmancoolingheating.com/duct-services/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Duct-Hub-1-scaled.jpeg",
       "width": 2094,
-      "height": 2560
+      "height": 2560,
+      "public_metadata": {
+        "title": "Duct Hub",
+        "alt": "Duct Hub",
+        "caption": "Duct Hub.",
+        "description": "Duct Hub."
+      }
     },
     {
       "file": "hvac-heating-additions/hvac-heat-014.jpg",
@@ -2041,7 +3391,13 @@
       "source_page": "https://hoffmancoolingheating.com/duct-services/duct-sealing/",
       "original_url": "https://hoffmancoolingheating.com/wp-content/uploads/2026/10/Duct-Sealing-1.jpg",
       "width": 2145,
-      "height": 2416
+      "height": 2416,
+      "public_metadata": {
+        "title": "Duct Sealing",
+        "alt": "Duct Sealing",
+        "caption": "Duct Sealing.",
+        "description": "Duct Sealing."
+      }
     }
   ]
 }
