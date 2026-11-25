@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Browse the Supremacy Service pool leak detection image collection by topic, batch and verified deployment status.">
+  <title>Pool Leak Detection Gallery | Supremacy Service</title>
+  <link rel="stylesheet" href="gallery-tracker.css">
+  <script src="gallery-tracker.js" defer></script>
+</head>
+<body data-gallery-page="pool">
+  <a class="skip-link" href="#gallery">Skip to images</a>
+  <header class="masthead">
+    <nav class="site-nav wrap" aria-label="Main navigation">
+      <a class="brand" href="index.html">SUPREMACY <b>SERVICE</b><span>VISUAL LIBRARY</span></a>
+      <div class="nav-links"><a href="index.html">All galleries</a><a href="image-usage.html">Image usage <span aria-hidden="true">↗</span></a></div>
+    </nav>
+    <div class="hero wrap">
+      <div><span class="eyebrow">Collection / Pool services</span><h1>Pool leak<br>detection.</h1><p class="hero-intro">Find pool imagery by subject, keep each intake together, and see exactly what we know about its use.</p></div>
+      <div class="hero-note"><span class="note-number" aria-hidden="true">01 /</span><h2>A clear record<br>for every image.</h2><p>Original file. Clean description. Stable ID. Batch and placement history.</p><button class="button button-orange" id="download-pool-batch" type="button" disabled>Download new batch ZIP <span aria-hidden="true">↓</span></button><span class="small">Intake dated 25 November 2026</span></div>
+    </div>
+    <div class="metrics wrap" id="metrics" aria-label="Collection summary"><div class="metric"><strong>—</strong><span>Loading collection</span></div></div>
+  </header>
+  <main class="wrap workspace" id="gallery">
+    <div class="collection-switch" role="tablist" aria-label="Pool image collections">
+      <button type="button" role="tab" id="tab-new" aria-selected="true" aria-controls="image-results" data-pool-tab="new">New pool batch <span id="new-tab-count">—</span></button>
+      <button type="button" role="tab" id="tab-existing" aria-selected="false" aria-controls="image-results" tabindex="-1" data-pool-tab="existing">Existing pool references <span id="existing-tab-count">—</span></button>
+    </div>
+    <section class="collection-context" aria-label="About this collection"><div class="context-marker" aria-hidden="true"></div><div><h2 id="collection-title">New pool intake</h2><p id="collection-description">These additions have their own batch and stable image IDs. “Not deployed by this batch” describes this intake’s activity; it does not claim an image has never appeared elsewhere.</p></div></section>
+    <section class="filter-panel" aria-label="Find and filter images">
+      <div class="search-row"><label class="search-label" for="search"><span class="sr-only">Search images</span><svg viewBox="0 0 24 24" width="21" height="21" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></svg><input id="search" type="search" placeholder="Search subjects, titles, IDs or sources…" autocomplete="off"></label><button class="button button-quiet" id="reset-filters" type="button">Reset filters</button></div>
+      <div class="filter-grid" id="filters">
+        <label data-filter-wrap="category">Topic<select id="filter-category"><option value="">All topics</option></select></label>
+        <label data-filter-wrap="batch">Batch<select id="filter-batch"><option value="">All batches</option></select></label>
+        <label data-filter-wrap="usage">Usage status<select id="filter-usage"><option value="">All statuses</option></select></label>
+        <label data-filter-wrap="quality">Image size class<select id="filter-quality"><option value="">All size classes</option></select></label>
+      </div>
+    </section>
+    <details class="status-guide"><summary>How to read the usage labels <span aria-hidden="true">+</span></summary><dl><div><dt>In use · verified</dt><dd>The inventory records a specific page or post placement.</dd></div><div><dt>Imported · placement unconfirmed</dt><dd>A WordPress media record exists; a current placement has not been verified.</dd></div><div><dt>Existing · usage unverified</dt><dd>Established artwork whose current site usage needs reconciliation.</dd></div><div><dt>New · not deployed by this batch</dt><dd>This intake has not deployed the image. This is not a site-wide “never used” claim.</dd></div></dl><p>Usage is a recorded snapshot, not a live WordPress scan. Selecting or downloading an image does not change its usage status.</p></details>
+    <section id="image-results" role="tabpanel" aria-labelledby="tab-new" aria-busy="true">
+      <div class="results-toolbar"><div><h2 id="result-count" aria-live="polite">Loading images…</h2><p id="result-note"></p></div><div class="view-controls"><button type="button" class="button button-small" id="select-page" disabled>Select this page</button><label for="page-size">Per page<select id="page-size"><option value="24">24</option><option value="48">48</option></select></label></div></div>
+      <div class="message-panel" id="message-panel" role="status"><span class="loading-dot" aria-hidden="true"></span><h3>Loading your image collection</h3><p>Reading the current inventory and placement records.</p></div>
+      <div class="image-grid" id="image-grid"></div>
+      <nav class="pagination" id="pagination" aria-label="Image result pages" hidden><button class="button" id="previous-page" type="button">← Previous</button><span id="page-info"></span><button class="button" id="next-page" type="button">Next →</button></nav>
+    </section>
+    <div class="inventory-footer"><span id="inventory-updated">Inventory snapshot</span><a href="image-usage.html">Open the full image usage register →</a></div>
+  </main>
+  <aside class="selection-bar" id="selection-bar" aria-label="Selected image actions" hidden><div class="selection-summary"><strong id="selection-count">0 selected</strong><span id="selection-context">Selection stays with you across filters.</span></div><div class="selection-actions"><button class="button button-dark" type="button" id="export-csv">Export CSV</button><button class="button button-orange" type="button" id="download-selected">Download ZIP</button><button class="button button-outline-light" type="button" id="clear-selection">Clear</button><button class="button button-outline-light" type="button" id="cancel-download" hidden>Cancel download</button></div></aside>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="image-dialog" class="image-dialog" aria-labelledby="dialog-title"><button class="dialog-close" id="dialog-close" type="button" aria-label="Close image details">×</button><div id="dialog-content"></div></dialog>
+  <footer class="site-footer"><div class="wrap"><span>SUPREMACY <b>SERVICE</b> · VISUAL LIBRARY</span><span>Subject first. Source recorded. Usage traceable.</span></div></footer>
+  <noscript><div class="no-script">This searchable gallery and its batch downloads need JavaScript. You can <a href="image-inventory.json">read the inventory directly</a>.</div></noscript>
+</body>
+</html>

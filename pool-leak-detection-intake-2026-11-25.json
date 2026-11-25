@@ -1,0 +1,1102 @@
+{
+  "schema_version": 1,
+  "batch_id": "pool-leak-detection-intake-2026-11-25",
+  "date": "2026-11-25",
+  "baseline_commit": "78cee404a058afa2204cbf34bd2035e216d9e2bc",
+  "supplied_source_count": 12,
+  "heading_claimed_source_count": 22,
+  "source_count_note": "Only the 12 named sources supplied in the message were processed. The remaining 10 were not supplied.",
+  "accepted_count": 19,
+  "accepted_by_source": {
+    "Superior Leak Detection": 5,
+    "Beatbot": 2,
+    "Arizona Leak Pros": 2,
+    "Able Leak Detection": 1,
+    "Pressure Clean Pools": 3,
+    "West Cove Pools": 3,
+    "VEVOR": 2,
+    "Hipel Pools": 1
+  },
+  "categories": {
+    "diagnostic-equipment": 1,
+    "water-loss-evaporation": 3,
+    "structural-fittings": 3,
+    "skimmer-inspection": 1,
+    "general-pool": 3,
+    "underground-plumbing": 6,
+    "pump-equipment-leaks": 2
+  },
+  "quality_counts": {
+    "supporting": 7,
+    "thumbnail": 3,
+    "standard": 9
+  },
+  "source_coverage": {
+    "schema_version": 1,
+    "document_status": "completed_intake",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "review_date": "2026-11-25",
+    "user_heading_stated_links": 22,
+    "source_names_actually_supplied": 12,
+    "additional_sources_not_yet_supplied": 10,
+    "scope_note": "The twelve named sources supplied by the user were researched. Accepted assets are new repository intake; WordPress deployment and source licensing verification are separate facts.",
+    "count_conventions": {
+      "research_approved_candidate_count": "Candidates approved during source visual review before final integration and cross-catalog duplicate checks.",
+      "final_accepted_asset_count": "Assets accepted into this dated pool collection after visual review and the documented duplicate checks.",
+      "research_held_count": "Downloaded candidates requiring another decision; not approved for active intake.",
+      "source_status": "Research result; does not establish current WordPress usage."
+    },
+    "sources": [
+      {
+        "user_source_number": 1,
+        "source_name": "Superior Leak Detection",
+        "exact_source_page_url": "https://superiorleak.com/photos",
+        "source_status": "reviewed_candidates_available",
+        "research_downloaded_count": 13,
+        "research_visually_reviewed_count": 13,
+        "research_approved_candidate_count": 5,
+        "research_approved_candidate_ids": [
+          "superior-001",
+          "superior-003",
+          "superior-007",
+          "superior-008",
+          "superior-009"
+        ],
+        "research_excluded_after_download_count": 8,
+        "research_excluded_before_download_count": 7,
+        "research_held_count": 0,
+        "final_accepted_asset_count": 5,
+        "final_accepted_asset_ids": [
+          "pool-720ff61a1932",
+          "pool-7bc9e98202dc",
+          "pool-4c8562656a2f",
+          "pool-182c48db09cc",
+          "pool-5743704bbf81"
+        ],
+        "final_count_status": "complete",
+        "notes": [
+          "Small native assets retain their recorded supporting-only placement limits."
+        ]
+      },
+      {
+        "user_source_number": 2,
+        "source_name": "Beatbot",
+        "exact_source_page_url": "https://beatbot.com/blogs/how-to-fixs/pool-leak-detection-find-fix",
+        "source_status": "reviewed_candidates_available",
+        "research_downloaded_count": 5,
+        "research_visually_reviewed_count": 5,
+        "research_approved_candidate_count": 2,
+        "research_approved_candidate_ids": [
+          "beatbot-144",
+          "beatbot-147"
+        ],
+        "research_excluded_after_download_count": 3,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "final_accepted_asset_count": 2,
+        "final_accepted_asset_ids": [
+          "pool-918ef215dc44",
+          "pool-bb33b7b56476"
+        ],
+        "final_count_status": "complete",
+        "notes": [
+          "Small native assets retain their recorded supporting-only placement limits."
+        ]
+      },
+      {
+        "user_source_number": 3,
+        "source_name": "Arizona Leak Pros",
+        "exact_source_page_url": "https://www.arizonaleakpros.com/how-to-find-leaks-in-inground-pool-piping",
+        "source_status": "reviewed_candidates_available",
+        "research_downloaded_count": 6,
+        "research_visually_reviewed_count": 6,
+        "research_approved_candidate_count": 2,
+        "research_approved_candidate_ids": [
+          "arizona-001",
+          "arizona-004"
+        ],
+        "research_excluded_after_download_count": 4,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "final_accepted_asset_count": 2,
+        "final_accepted_asset_ids": [
+          "pool-69f8c385f4e5",
+          "pool-5ea341871348"
+        ],
+        "final_count_status": "complete",
+        "notes": []
+      },
+      {
+        "user_source_number": 4,
+        "source_name": "Able Leak Detection",
+        "exact_source_page_url": "https://ableleakdetection.com.au/signs-that-a-pool-is-leaking/",
+        "source_status": "reviewed_candidates_available",
+        "research_downloaded_count": 1,
+        "research_visually_reviewed_count": 1,
+        "research_approved_candidate_count": 1,
+        "research_approved_candidate_ids": [
+          "able-003"
+        ],
+        "research_excluded_after_download_count": 0,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "final_accepted_asset_count": 1,
+        "final_accepted_asset_ids": [
+          "pool-937d1a79dcbf"
+        ],
+        "final_count_status": "complete",
+        "notes": []
+      },
+      {
+        "user_source_number": 5,
+        "source_name": "Lake Geneva Pool & Spa",
+        "exact_source_page_url": "https://lakegenevapoolandspa.com/pool-leak-detection-repair/",
+        "source_status": "reviewed_no_approved_candidates",
+        "research_downloaded_count": 11,
+        "research_visually_reviewed_count": 11,
+        "research_approved_candidate_count": 0,
+        "research_approved_candidate_ids": [],
+        "research_excluded_after_download_count": 1,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 10,
+        "final_accepted_asset_count": 0,
+        "final_accepted_asset_ids": [],
+        "final_count_status": "complete",
+        "notes": [
+          "Ten candidates held for uncertain photographic authenticity; one excluded for a visible hand/forearm. A rendered appearance is a review limitation, not a verified statement of how the image was made."
+        ]
+      },
+      {
+        "user_source_number": 6,
+        "source_name": "Pressure Clean Pools",
+        "exact_source_page_url": "https://www.pressurecleanpools.com/services-leak-detection-repair",
+        "source_status": "reviewed_candidates_available",
+        "research_downloaded_count": 4,
+        "research_visually_reviewed_count": 4,
+        "research_approved_candidate_count": 3,
+        "research_approved_candidate_ids": [
+          "pressure-clean-02",
+          "pressure-clean-03",
+          "pressure-clean-04"
+        ],
+        "research_excluded_after_download_count": 1,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "final_accepted_asset_count": 3,
+        "final_accepted_asset_ids": [
+          "pool-c7fe88a7401f",
+          "pool-98f900d3bfc4",
+          "pool-2198960f93f2"
+        ],
+        "final_count_status": "complete",
+        "notes": []
+      },
+      {
+        "user_source_number": 7,
+        "source_name": "Optimal Pool Care",
+        "exact_source_page_url": "https://www.optimalpoolcare.com/blogs/what-are-the-most-common-signs-of-a-pool-leak-i-should-watch-for",
+        "source_status": "reviewed_no_approved_candidates",
+        "research_downloaded_count": 3,
+        "research_visually_reviewed_count": 3,
+        "research_approved_candidate_count": 0,
+        "research_approved_candidate_ids": [],
+        "research_excluded_after_download_count": 0,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 3,
+        "final_accepted_asset_count": 0,
+        "final_accepted_asset_ids": [],
+        "final_count_status": "complete",
+        "notes": [
+          "One candidate held for uncertain photographic authenticity; two held because they are text-heavy instructional graphics."
+        ]
+      },
+      {
+        "user_source_number": 8,
+        "source_name": "West Cove Pools",
+        "exact_source_page_url": "https://westcovepools.com/services/pool-leak-detection-services",
+        "source_status": "reviewed_candidates_available",
+        "research_downloaded_count": 5,
+        "research_visually_reviewed_count": 5,
+        "research_approved_candidate_count": 3,
+        "research_approved_candidate_ids": [
+          "westcove-02",
+          "westcove-03",
+          "westcove-05"
+        ],
+        "research_excluded_after_download_count": 2,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "final_accepted_asset_count": 3,
+        "final_accepted_asset_ids": [
+          "pool-e9b3b1b07bfe",
+          "pool-9b429ea4aadf",
+          "pool-100f396ab039"
+        ],
+        "final_count_status": "complete",
+        "notes": []
+      },
+      {
+        "user_source_number": 9,
+        "source_name": "Pool & Spa Marketing",
+        "exact_source_page_url": "https://www.poolspamarketing.com/trade/features/non-invasive-leak-detection-techniques-how-service-techs-can-identify-leaks-in-vinyl-lined-pools-and-rule-out-false-positives/",
+        "source_status": "image_downloads_blocked",
+        "match_status": "exact_topic_match",
+        "research_downloaded_count": 0,
+        "research_visually_reviewed_count": 0,
+        "research_approved_candidate_count": 0,
+        "research_approved_candidate_ids": [],
+        "research_excluded_after_download_count": 0,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "research_unavailable_asset_url_count": 4,
+        "final_accepted_asset_count": 0,
+        "final_accepted_asset_ids": [],
+        "final_count_status": "complete",
+        "notes": [
+          "Article is paginated. Public text and asset URLs obtained through web search; direct page and image downloads return HTTP 403. No source image has been imported."
+        ]
+      },
+      {
+        "user_source_number": 10,
+        "source_name": "VEVOR",
+        "exact_source_page_url": "https://www.vevor.com/diy-ideas/swimming-pool-pump-leaking/",
+        "source_status": "reviewed",
+        "match_status": "exact_topic_match",
+        "research_downloaded_count": 4,
+        "research_visually_reviewed_count": 4,
+        "research_approved_candidate_count": 2,
+        "research_approved_candidate_ids": [
+          "vevor-locate",
+          "vevor-replace"
+        ],
+        "research_excluded_after_download_count": 2,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "research_unavailable_asset_url_count": 0,
+        "final_accepted_asset_count": 2,
+        "final_accepted_asset_ids": [
+          "pool-07dfab9a5d70",
+          "pool-c4d9805f503d"
+        ],
+        "final_count_status": "complete",
+        "notes": [
+          "Only article imagery collected; site logos, author avatar, related-post cards and promotional banners excluded during extraction."
+        ]
+      },
+      {
+        "user_source_number": 11,
+        "source_name": "Reddit",
+        "exact_source_page_url": "https://www.reddit.com/r/pools/comments/198xdy3/pool_pump_leak_discovered_due_to_freeze/",
+        "source_status": "media_unavailable",
+        "match_status": "matching_title_found",
+        "research_downloaded_count": 0,
+        "research_visually_reviewed_count": 0,
+        "research_approved_candidate_count": 0,
+        "research_approved_candidate_ids": [],
+        "research_excluded_after_download_count": 0,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "research_unavailable_asset_url_count": 0,
+        "final_accepted_asset_count": 0,
+        "final_accepted_asset_ids": [],
+        "final_count_status": "complete",
+        "notes": [
+          "Exact title found: Pool pump leak discovered due to freeze. Web open reported DisabledError and direct normal page returned a shell without accessible image media. No image downloaded. Parent noted a pre-existing frosted pump artwork asset, so any future recovered media requires comparison before intake."
+        ]
+      },
+      {
+        "user_source_number": 12,
+        "source_name": "Hipel Pools",
+        "exact_source_page_url": "https://hipelpools.ca/blog/pool-evaporation-how-much-water-can-evaporate-from-a-pool-in-a-day",
+        "source_status": "reviewed",
+        "match_status": "exact_topic_match",
+        "research_downloaded_count": 3,
+        "research_visually_reviewed_count": 3,
+        "research_approved_candidate_count": 1,
+        "research_approved_candidate_ids": [
+          "hipel-hero"
+        ],
+        "research_excluded_after_download_count": 2,
+        "research_excluded_before_download_count": 0,
+        "research_held_count": 0,
+        "research_unavailable_asset_url_count": 0,
+        "final_accepted_asset_count": 1,
+        "final_accepted_asset_ids": [
+          "pool-f5e80998c761"
+        ],
+        "final_count_status": "complete",
+        "notes": [
+          "Old blog URL redirects to current website. Source-page HTML supplied the current working image URLs. The stale HubSpot URLs seen in search returned 404 and were not imported."
+        ],
+        "prior_source_page_url": "https://blog.hipelpools.ca/pool-evaporation-how-much-water-can-evaporate-from-a-pool-in-a-day"
+      }
+    ],
+    "research_totals": {
+      "research_downloaded_count": 55,
+      "research_visually_reviewed_count": 55,
+      "research_approved_candidate_count": 19,
+      "research_excluded_after_download_count": 23,
+      "research_excluded_before_download_count": 7,
+      "research_held_count": 13
+    },
+    "final_accepted_asset_count": 19,
+    "evidence_files": [
+      "research-a/manifest.json",
+      "research-b/source-summary.json",
+      "research-b/reviewed-candidates.json",
+      "research-c/manifest.json"
+    ],
+    "final_accepted_asset_ids": [
+      "pool-720ff61a1932",
+      "pool-7bc9e98202dc",
+      "pool-4c8562656a2f",
+      "pool-182c48db09cc",
+      "pool-5743704bbf81",
+      "pool-918ef215dc44",
+      "pool-bb33b7b56476",
+      "pool-69f8c385f4e5",
+      "pool-5ea341871348",
+      "pool-937d1a79dcbf",
+      "pool-c7fe88a7401f",
+      "pool-98f900d3bfc4",
+      "pool-2198960f93f2",
+      "pool-e9b3b1b07bfe",
+      "pool-9b429ea4aadf",
+      "pool-100f396ab039",
+      "pool-07dfab9a5d70",
+      "pool-c4d9805f503d",
+      "pool-f5e80998c761"
+    ]
+  },
+  "assets": [
+    {
+      "asset_id": "pool-720ff61a1932",
+      "file": "pool-leak-detection/2026-11-25/pool-inspection-equipment-on-a-stone-deck.webp",
+      "candidate_id": "superior-001",
+      "source": "Superior Leak Detection",
+      "source_page": "https://superiorleak.com/photos",
+      "image_url": "https://superiorleak.com/photos/pool-leak-detection-equipment-tools-deck.webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "Pool leak detection equipment and specialized tools staged on a travertine pool deck during inspection",
+      "source_sha256": "720ff61a193262376e8b683c2ca935848820f00d23dd8ffce4f8dccb76ff3782",
+      "final_sha256": "720ff61a193262376e8b683c2ca935848820f00d23dd8ffce4f8dccb76ff3782",
+      "final_git_blob_sha": "b9de43aa478899a9634a0ec15b324a4a30d8e975",
+      "source_dimensions": [
+        600,
+        600
+      ],
+      "display_dimensions": [
+        600,
+        600
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-7bc9e98202dc",
+      "file": "pool-leak-detection/2026-11-25/pool-waterline-and-inspection-markers.webp",
+      "candidate_id": "superior-003",
+      "source": "Superior Leak Detection",
+      "source_page": "https://superiorleak.com/photos",
+      "image_url": "https://superiorleak.com/photos/pool-water-level-loss-leak-inspection.webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "Swimming pool showing low water level and surface debris during a professional leak inspection",
+      "source_sha256": "7bc9e98202dce4176deb3da2609133537e07755ac053584adc1c81a95849f2e2",
+      "final_sha256": "7bc9e98202dce4176deb3da2609133537e07755ac053584adc1c81a95849f2e2",
+      "final_git_blob_sha": "45617f38e8744058cee083b003a5b19b2250a4ae",
+      "source_dimensions": [
+        600,
+        600
+      ],
+      "display_dimensions": [
+        600,
+        600
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-4c8562656a2f",
+      "file": "pool-leak-detection/2026-11-25/pool-coping-marked-for-inspection.webp",
+      "candidate_id": "superior-007",
+      "source": "Superior Leak Detection",
+      "source_page": "https://superiorleak.com/photos",
+      "image_url": "https://superiorleak.com/photos/pool-coping-stone-leak-location-marker.webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "Blue arrow on flagstone pool coping marking a confirmed leak location after acoustic leak detection",
+      "source_sha256": "4c8562656a2f90260b4d720d673e1ea06a8245b55bb3ede51e3f0235c87ee1dc",
+      "final_sha256": "4c8562656a2f90260b4d720d673e1ea06a8245b55bb3ede51e3f0235c87ee1dc",
+      "final_git_blob_sha": "98aa1b872e66c2aa1c59dd7f95b11314adb9d237",
+      "source_dimensions": [
+        300,
+        300
+      ],
+      "display_dimensions": [
+        300,
+        300
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-182c48db09cc",
+      "file": "pool-leak-detection/2026-11-25/inspection-markers-near-a-pool-skimmer-lid.webp",
+      "candidate_id": "superior-008",
+      "source": "Superior Leak Detection",
+      "source_page": "https://superiorleak.com/photos",
+      "image_url": "https://superiorleak.com/photos/pool-skimmer-leak-inspection-deck-markings.webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "Pool skimmer and deck markings during a professional skimmer leak inspection and repair assessment",
+      "source_sha256": "182c48db09cc51ac7e66b270b4b356876a3c1faa7aa5f45b61e31044d76bc7fa",
+      "final_sha256": "182c48db09cc51ac7e66b270b4b356876a3c1faa7aa5f45b61e31044d76bc7fa",
+      "final_git_blob_sha": "1fb29e4ed12213741130d0091619e5e645392687",
+      "source_dimensions": [
+        300,
+        300
+      ],
+      "display_dimensions": [
+        300,
+        300
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-5743704bbf81",
+      "file": "pool-leak-detection/2026-11-25/damaged-pool-finish-beside-a-round-fitting.webp",
+      "candidate_id": "superior-009",
+      "source": "Superior Leak Detection",
+      "source_page": "https://superiorleak.com/photos",
+      "image_url": "https://superiorleak.com/photos/pool-plaster-skimmer-crack-leak-repair.webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "Crack in pool plaster near the skimmer being sealed with blue epoxy during a pool leak repair",
+      "source_sha256": "5743704bbf81dabbf006ed9d4a682147d22c3b4bde35911ff9190b89fbc6e0e5",
+      "final_sha256": "5743704bbf81dabbf006ed9d4a682147d22c3b4bde35911ff9190b89fbc6e0e5",
+      "final_git_blob_sha": "82a2db1c2933861fda8dc8766d821aa967b34afd",
+      "source_dimensions": [
+        300,
+        300
+      ],
+      "display_dimensions": [
+        300,
+        300
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-918ef215dc44",
+      "file": "pool-leak-detection/2026-11-25/bucket-on-a-pool-step.webp",
+      "candidate_id": "beatbot-144",
+      "source": "Beatbot",
+      "source_page": "https://beatbot.com/blogs/how-to-fixs/pool-leak-detection-find-fix",
+      "image_url": "https://cdn.shopify.com/s/files/1/0812/9049/4250/files/2_879f3e20-d766-4c47-9c84-032a299aa3b4.png?v=1778579556",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "The bucket test compares pool water loss against normal evaporation over 24 to 48 hours",
+      "source_sha256": "918ef215dc447f45f0147c492b3fc970f8ffaff9f49b51ef54f1e3585f33738c",
+      "final_sha256": "cc25019e4373f4b054b7f1616e03fd31d5585d9a8a3b0fc469cf443e6569526f",
+      "final_git_blob_sha": "152c023865b237f2ab967ede4cf80f2a73725702",
+      "source_dimensions": [
+        554,
+        225
+      ],
+      "display_dimensions": [
+        554,
+        225
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-bb33b7b56476",
+      "file": "pool-leak-detection/2026-11-25/backyard-swimming-pool-and-surrounding-deck.webp",
+      "candidate_id": "beatbot-147",
+      "source": "Beatbot",
+      "source_page": "https://beatbot.com/blogs/how-to-fixs/pool-leak-detection-find-fix",
+      "image_url": "https://cdn.shopify.com/s/files/1/0812/9049/4250/files/5_50c567f8-4e5c-4683-bc11-9b895b13840c.png?v=1778579556",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "Consistent cleaning and balanced water chemistry help prevent the surface wear that leads to leaks",
+      "source_sha256": "bb33b7b5647692741bd11c8e7a06b204e41190700dbdc4d5a99b0fbc6c5b4a49",
+      "final_sha256": "0b960f8e570e7a34cbf9f6039420f3d2ee16b31f842bed1deafca59901ba6dbb",
+      "final_git_blob_sha": "e0ea6beb288ac8a5bdec3c40fca913230937acb3",
+      "source_dimensions": [
+        554,
+        225
+      ],
+      "display_dimensions": [
+        554,
+        225
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-69f8c385f4e5",
+      "file": "pool-leak-detection/2026-11-25/exposed-underground-pool-plumbing.jpg",
+      "candidate_id": "arizona-001",
+      "source": "Arizona Leak Pros",
+      "source_page": "https://www.arizonaleakpros.com/how-to-find-leaks-in-inground-pool-piping",
+      "image_url": "https://irp.cdn-website.com/48085ab1/dms3rep/multi/opt/underground+pool+plumbing-1920w.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "How to Find Leaks in Inground Pool Piping\n",
+      "source_sha256": "69f8c385f4e561764850c09c68d25319a9ce72d40df71094f98997719e053a53",
+      "final_sha256": "69f8c385f4e561764850c09c68d25319a9ce72d40df71094f98997719e053a53",
+      "final_git_blob_sha": "65d9a24e5b8194bff1e0c36d37a710cd42929119",
+      "source_dimensions": [
+        1920,
+        1422
+      ],
+      "display_dimensions": [
+        1920,
+        1422
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-5ea341871348",
+      "file": "pool-leak-detection/2026-11-25/pool-tile-waterline-and-coping.jpg",
+      "candidate_id": "arizona-004",
+      "source": "Arizona Leak Pros",
+      "source_page": "https://www.arizonaleakpros.com/how-to-find-leaks-in-inground-pool-piping",
+      "image_url": "https://irp.cdn-website.com/48085ab1/dms3rep/multi/opt/water_line_2-1920w.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "pool water loss test",
+      "source_sha256": "5ea3418713488b7c117f208a7ea552d72b61e03690bde4eeb6e6e5db6fa30df1",
+      "final_sha256": "5ea3418713488b7c117f208a7ea552d72b61e03690bde4eeb6e6e5db6fa30df1",
+      "final_git_blob_sha": "2c6e7583714ea6d88d9f2e0832b940a67a2d3b56",
+      "source_dimensions": [
+        1500,
+        1125
+      ],
+      "display_dimensions": [
+        1500,
+        1125
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-937d1a79dcbf",
+      "file": "pool-leak-detection/2026-11-25/buried-pipe-elbow-exposed-in-wet-soil.jpg",
+      "candidate_id": "able-003",
+      "source": "Able Leak Detection",
+      "source_page": "https://ableleakdetection.com.au/signs-that-a-pool-is-leaking/",
+      "image_url": "https://ableleakdetection.com.au/wp-content/uploads/2024/07/Signs-that-a-pool-is-leaking.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "Signs that a pool is leaking",
+      "source_sha256": "937d1a79dcbf7ade236c6fe2d71d8dd25b3df427e32e44d59536e07b34293436",
+      "final_sha256": "29037ba54fecba35dfa65c8b16eb5d0a59484a61ff86fa93e5415eb33887a1e5",
+      "final_git_blob_sha": "8f0199592ad1acd7a6c9c9f1271cc9cb1220b6ff",
+      "source_dimensions": [
+        2000,
+        1000
+      ],
+      "display_dimensions": [
+        2000,
+        1000
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-c7fe88a7401f",
+      "file": "pool-leak-detection/2026-11-25/exposed-underground-pool-return-fitting.jpg",
+      "candidate_id": "pressure-clean-02",
+      "source": "Pressure Clean Pools",
+      "source_page": "https://www.pressurecleanpools.com/services-leak-detection-repair",
+      "image_url": "https://static.wixstatic.com/media/41727a_b769865740b04bebadd55cdbd7ff695b~mv2.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "pool leak at return jet underground",
+      "source_sha256": "c7fe88a7401f3d5c768ba063959a93f2c7a88f6871ea1e372d399b94229baf33",
+      "final_sha256": "63e9c988453059c23eb51876bad396b2305a9c5f1c283718da2574037e0b4425",
+      "final_git_blob_sha": "2ede6c9c9793b75080bc6b0c90dafd11809c3584",
+      "source_dimensions": [
+        1125,
+        1178
+      ],
+      "display_dimensions": [
+        1125,
+        1178
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-98f900d3bfc4",
+      "file": "pool-leak-detection/2026-11-25/excavated-pool-plumbing-connection.webp",
+      "candidate_id": "pressure-clean-03",
+      "source": "Pressure Clean Pools",
+      "source_page": "https://www.pressurecleanpools.com/services-leak-detection-repair",
+      "image_url": "https://static.wixstatic.com/media/41727a_363075f78fa84e139cee37e9a3f85a7e~mv2.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "fixing a pool leak",
+      "source_sha256": "98f900d3bfc45d293e47614b35cbbeab5274ef7fdee42d45943642e83d23029a",
+      "final_sha256": "19e88bd8663bebe53479374d5bf362464d14fab8b21bfb6be87ee9878495e0fe",
+      "final_git_blob_sha": "5e29c202ec1e117826a6db0548080176d396c1d4",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "original_orientation": 6,
+      "cleanup_method": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-2198960f93f2",
+      "file": "pool-leak-detection/2026-11-25/replacement-pool-plumbing-in-an-excavation.webp",
+      "candidate_id": "pressure-clean-04",
+      "source": "Pressure Clean Pools",
+      "source_page": "https://www.pressurecleanpools.com/services-leak-detection-repair",
+      "image_url": "https://static.wixstatic.com/media/41727a_4846116a32874ada8f20d835778ea465~mv2.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "underground leak",
+      "source_sha256": "2198960f93f2af266041e55908d8b5e6598d1babb80114033cb3883743e007d5",
+      "final_sha256": "6dd7fc4482d51fa7de5c5bfa5ddf3f41a971b5ff788a21ff38028efe48949da3",
+      "final_git_blob_sha": "b2ed887a4f7ea00e9a24cd0e44a1b34eadc4ff77",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "display_dimensions": [
+        3024,
+        4032
+      ],
+      "original_orientation": 6,
+      "cleanup_method": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-e9b3b1b07bfe",
+      "file": "pool-leak-detection/2026-11-25/curved-vinyl-pool-with-entry-steps.jpg",
+      "candidate_id": "westcove-02",
+      "source": "West Cove Pools",
+      "source_page": "https://westcovepools.com/services/pool-leak-detection-services",
+      "image_url": "https://ik.imagekit.io/cr32zgyto/53/1723416440566_uTbtvfcQW.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "",
+      "source_sha256": "e9b3b1b07bfee11df84c0976881dff102926a7f4a44ad69d0eb1b8ab02e79cf8",
+      "final_sha256": "e9b3b1b07bfee11df84c0976881dff102926a7f4a44ad69d0eb1b8ab02e79cf8",
+      "final_git_blob_sha": "974263bd444b1dcd2c07f3485ff917bb2b1f98cc",
+      "source_dimensions": [
+        1280,
+        853
+      ],
+      "display_dimensions": [
+        1280,
+        853
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-9b429ea4aadf",
+      "file": "pool-leak-detection/2026-11-25/pool-deck-excavation-for-plumbing-access.jpg",
+      "candidate_id": "westcove-03",
+      "source": "West Cove Pools",
+      "source_page": "https://westcovepools.com/services/pool-leak-detection-services",
+      "image_url": "https://ik.imagekit.io/cr32zgyto/53/1724372191488_u1E4DNXE8.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "",
+      "source_sha256": "9b429ea4aadf72da0330907d4603f2ed93afbb6fead6c33c3ad3d4270149e514",
+      "final_sha256": "9b429ea4aadf72da0330907d4603f2ed93afbb6fead6c33c3ad3d4270149e514",
+      "final_git_blob_sha": "46103fd792e0105483525a4b52e2bfb911b235de",
+      "source_dimensions": [
+        1280,
+        854
+      ],
+      "display_dimensions": [
+        1280,
+        854
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-100f396ab039",
+      "file": "pool-leak-detection/2026-11-25/rectangular-backyard-vinyl-pool.jpg",
+      "candidate_id": "westcove-05",
+      "source": "West Cove Pools",
+      "source_page": "https://westcovepools.com/services/pool-leak-detection-services",
+      "image_url": "https://ik.imagekit.io/cr32zgyto/53/1724371592476_GNwbLcSzi.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "",
+      "source_sha256": "100f396ab039d1e49b19f8ab644a10317263b550783204d85a0db7a50c2249ea",
+      "final_sha256": "100f396ab039d1e49b19f8ab644a10317263b550783204d85a0db7a50c2249ea",
+      "final_git_blob_sha": "abd6f76fc54e8591580acf90e8ab3a81df9503d8",
+      "source_dimensions": [
+        922,
+        683
+      ],
+      "display_dimensions": [
+        922,
+        683
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-07dfab9a5d70",
+      "file": "pool-leak-detection/2026-11-25/water-leaking-beneath-a-pool-pump-connection.webp",
+      "candidate_id": "vevor-locate",
+      "source": "VEVOR",
+      "source_page": "https://www.vevor.com/diy-ideas/swimming-pool-pump-leaking/",
+      "image_url": "https://i.vevor.net/wp-content/uploads/2026/08/Untitled-design-2026-08-10T163318.162.jpg!webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "",
+      "source_sha256": "07dfab9a5d70322003144f22a6f07d552fc166a5f8a6cc143f56fcb4f7221efa",
+      "final_sha256": "07dfab9a5d70322003144f22a6f07d552fc166a5f8a6cc143f56fcb4f7221efa",
+      "final_git_blob_sha": "183426abd37ef293042263f654f4af6c9abf356e",
+      "source_dimensions": [
+        800,
+        450
+      ],
+      "display_dimensions": [
+        800,
+        450
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-c4d9805f503d",
+      "file": "pool-leak-detection/2026-11-25/pool-pump-and-repair-tools-beside-a-swimming-pool.webp",
+      "candidate_id": "vevor-replace",
+      "source": "VEVOR",
+      "source_page": "https://www.vevor.com/diy-ideas/swimming-pool-pump-leaking/",
+      "image_url": "https://i.vevor.net/wp-content/uploads/2026/08/Untitled-design-2026-08-10T164208.501.jpg!webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "",
+      "source_sha256": "c4d9805f503d4bcd191e96e09d9d46350d6daba57e413f1a189973a24df130f1",
+      "final_sha256": "c4d9805f503d4bcd191e96e09d9d46350d6daba57e413f1a189973a24df130f1",
+      "final_git_blob_sha": "11769a26bae60e91a835e3345f9e9c0c8358314c",
+      "source_dimensions": [
+        800,
+        450
+      ],
+      "display_dimensions": [
+        800,
+        450
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    },
+    {
+      "asset_id": "pool-f5e80998c761",
+      "file": "pool-leak-detection/2026-11-25/mist-above-a-swimming-pool-surface.webp",
+      "candidate_id": "hipel-hero",
+      "source": "Hipel Pools",
+      "source_page": "https://hipelpools.ca/blog/pool-evaporation-how-much-water-can-evaporate-from-a-pool-in-a-day",
+      "image_url": "https://hipelpools.ca/images/blog/b08db06f2b3fe906-1500.webp",
+      "retrieved_on": "2026-11-25",
+      "source_alt": "",
+      "source_sha256": "f5e80998c7615e584cd601b842b7dc6bf5191a04bfd82c87611742af42f71c0c",
+      "final_sha256": "f5e80998c7615e584cd601b842b7dc6bf5191a04bfd82c87611742af42f71c0c",
+      "final_git_blob_sha": "e1a11008526ae5706088793f80dcc9d9704d0041",
+      "source_dimensions": [
+        1000,
+        667
+      ],
+      "display_dimensions": [
+        1000,
+        667
+      ],
+      "original_orientation": 1,
+      "cleanup_method": "metadata containers removed without recompressing image pixels",
+      "authorization_record": "User supplied the source list and directed continuation of the established collection workflow; no source-specific license document was supplied or independently verified."
+    }
+  ],
+  "existing_pool_references": [
+    {
+      "id": "art-2bfb970423bf3bfa",
+      "file": "plumbing/blog-reuse-cracked-pool-plumbing-elbow.webp",
+      "title": "Cracked pool plumbing elbow",
+      "usage_status": "in_use",
+      "placements": [
+        {
+          "post_id": 23425,
+          "title": "Your Pool Autofill Won’t Stop Running? 7 Causes & Fixes",
+          "url": "https://supremacyservice.com/pool-autofill-wont-stop-running/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 23393,
+          "title": "Pool Water Dropping After a Cold Front? Here’s Why",
+          "url": "https://supremacyservice.com/pool-water-dropping-after-cold-front/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 23385,
+          "title": "Can a Dallas Freeze Crack Your Pool Pipes Even If the Pump Is Running?",
+          "url": "https://supremacyservice.com/pool-pipes-freezing-pump-running-dallas/",
+          "kind": "content image",
+          "post_type": "post"
+        }
+      ]
+    },
+    {
+      "id": "art-cfd827fd63632098",
+      "file": "plumbing/blog-reuse-leaking-pool-pump-connection.webp",
+      "title": "Leaking pool pump connection",
+      "usage_status": "in_use",
+      "placements": [
+        {
+          "post_id": 23409,
+          "title": "Pool Pump Leaking After Freezing Weather? What Dallas Homeowners Should Do",
+          "url": "https://supremacyservice.com/pool-pump-leaking-after-freeze/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 23401,
+          "title": "Pool Losing Water Only When the Pump Is On? 7 Causes to Check",
+          "url": "https://supremacyservice.com/pool-losing-water-when-pump-is-on/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 23377,
+          "title": "Why Is My Pool Losing Water in Winter? Dallas Homeowner Guide",
+          "url": "https://supremacyservice.com/pool-losing-water-in-winter/",
+          "kind": "content image",
+          "post_type": "post"
+        }
+      ]
+    },
+    {
+      "id": "art-ea59cc0b0063f141",
+      "file": "plumbing/blog-reuse-leaking-pool-pump-in-frosty-weather.webp",
+      "title": "Leaking pool pump in frosty weather",
+      "usage_status": "in_use",
+      "placements": [
+        {
+          "post_id": 23417,
+          "title": "Does Your Pool Freeze Protection Actually Work? 7 Checks Before a Dallas Freeze",
+          "url": "https://supremacyservice.com/pool-freeze-protection-not-working/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 23401,
+          "title": "Pool Losing Water Only When the Pump Is On? 7 Causes to Check",
+          "url": "https://supremacyservice.com/pool-losing-water-when-pump-is-on/",
+          "kind": "content image",
+          "post_type": "post"
+        }
+      ]
+    },
+    {
+      "id": "art-eb5305d177da44c2",
+      "file": "plumbing/blog-reuse-pool-pump-freeze-protection-control.webp",
+      "title": "Pool pump freeze-protection control",
+      "usage_status": "in_use",
+      "placements": [
+        {
+          "post_id": 23417,
+          "title": "Does Your Pool Freeze Protection Actually Work? 7 Checks Before a Dallas Freeze",
+          "url": "https://supremacyservice.com/pool-freeze-protection-not-working/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 23409,
+          "title": "Pool Pump Leaking After Freezing Weather? What Dallas Homeowners Should Do",
+          "url": "https://supremacyservice.com/pool-pump-leaking-after-freeze/",
+          "kind": "content image",
+          "post_type": "post"
+        }
+      ]
+    },
+    {
+      "id": "art-f3f11f52675e0eb8",
+      "file": "electrical/047-beyondbuilder.jpg",
+      "title": "Contemporary home and pool at dusk",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-30b5fc86936fb21e",
+      "file": "electrical/048-beyondbuilder.jpg",
+      "title": "SWIMMING POOL",
+      "usage_status": "in_use",
+      "placements": [
+        {
+          "post_id": 23377,
+          "title": "Why Is My Pool Losing Water in Winter? Dallas Homeowner Guide",
+          "url": "https://supremacyservice.com/pool-losing-water-in-winter/",
+          "kind": "featured",
+          "post_type": "post"
+        }
+      ]
+    },
+    {
+      "id": "art-3cc675f628144cc4",
+      "file": "electrical/052-beyondbuilder.jpg",
+      "title": "Modern home with a swimming pool",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-5ff4380d02f78348",
+      "file": "electrical/058-beyondbuilder.jpg",
+      "title": "How long does it take to build a pool",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-00e57b4437abfde9",
+      "file": "electrical/059-beyondbuilder.jpg",
+      "title": "House and swimming pool overlooking a coastline",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-fc16a5b0f2a92358",
+      "file": "hvac/hvac-127.jpg",
+      "title": "Aerial view of a hotel complex with a pool",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-7df46197dfe13dd6",
+      "file": "hvac/hvac-135.jpg",
+      "title": "Indoor water park pool under construction",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-8f15729ca6991d47",
+      "file": "hvac/hvac-182.jpg",
+      "title": "School campus with an outdoor swimming pool",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-a49d1e598b4dbad1",
+      "file": "holiday-lighting/063-lumosoutdoorlighting.jpg",
+      "title": "Pool landscape lighting limestone wall path lights",
+      "usage_status": "in_use",
+      "placements": [
+        {
+          "post_id": 14261,
+          "title": "Why Do I Have Mosquitoes With No Standing Water?",
+          "url": "https://supremacyservice.com/mosquitoes-with-no-standing-water/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 14243,
+          "title": "How to Get Rid of Mosquitoes in Your Backyard in North Texas",
+          "url": "https://supremacyservice.com/how-to-get-rid-of-mosquitoes-in-backyard/",
+          "kind": "content image",
+          "post_type": "post"
+        }
+      ]
+    },
+    {
+      "id": "art-fb7417adbc44b333",
+      "file": "holiday-lighting/066-lumosoutdoorlighting.jpg",
+      "title": "Backyard pool oak tree uplighting fire pit",
+      "usage_status": "existing_unverified",
+      "placements": []
+    },
+    {
+      "id": "art-e60c8228f431f62d",
+      "file": "holiday-lighting/074-lumosoutdoorlighting.jpg",
+      "title": "Backyard with an illuminated pool and outdoor seating",
+      "usage_status": "in_use",
+      "placements": [
+        {
+          "post_id": 23425,
+          "title": "Your Pool Autofill Won’t Stop Running? 7 Causes & Fixes",
+          "url": "https://supremacyservice.com/pool-autofill-wont-stop-running/",
+          "kind": "content image",
+          "post_type": "post"
+        },
+        {
+          "post_id": 14243,
+          "title": "How to Get Rid of Mosquitoes in Your Backyard in North Texas",
+          "url": "https://supremacyservice.com/how-to-get-rid-of-mosquitoes-in-backyard/",
+          "kind": "content image",
+          "post_type": "post"
+        }
+      ]
+    },
+    {
+      "id": "art-1a30c2a7442cb7c4",
+      "file": "holiday-lighting/082-lumosoutdoorlighting.jpg",
+      "title": "Backyard pool lighting tree uplighting",
+      "usage_status": "imported_unconfirmed",
+      "placements": []
+    },
+    {
+      "id": "art-266780193b26946d",
+      "file": "holiday-lighting/119-holidaylightinglosangeles.jpg",
+      "title": "Illuminated trees reflected in a swimming pool",
+      "usage_status": "existing_unverified",
+      "placements": []
+    }
+  ],
+  "usage_audit": {
+    "captured_at": "2026-11-25T06:36:36.852590+00:00",
+    "scope": "Published pages and posts: REST rendered image elements, inline backgrounds and featured image IDs. Drafts, templates, externally generated Elementor CSS and historical placements are not exhaustively audited. No match is not proof of unused status.",
+    "counts": {
+      "posts": 301,
+      "pages": 212
+    },
+    "imported_attachments": 262,
+    "confirmed_catalog_assets": 244,
+    "placement_count": 1279
+  },
+  "usage_status_counts": {
+    "in_use": 244,
+    "imported_unconfirmed": 18,
+    "existing_unverified": 1015,
+    "new_not_deployed": 19
+  },
+  "duplicate_check": {
+    "all_active_catalogs_source_url_check": {
+      "catalogs": [
+        "plumbing",
+        "electrical",
+        "hvac",
+        "pest",
+        "air-conditioning",
+        "garage-doors",
+        "holiday-lighting",
+        "heating"
+      ],
+      "records": 1277,
+      "matches": []
+    },
+    "exact_original_and_cleaned_git_blob_comparison": {
+      "current_repository_files": 1434,
+      "matches": []
+    },
+    "perceptual_scope_reference": "pool-intake-dedup-report.json",
+    "finding": "No duplicates found within the completed comparison scope. Perceptual comparisons do not cover every current repository file."
+  },
+  "wordpress_changes": []
+}

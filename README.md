@@ -1,6 +1,24 @@
 # Supremacy image libraries
 
-The active artwork library contains **1,277 repository images across eight service galleries**. Open the [live dashboard](https://supremacy-texas-artwork.vercel.app/) or [index.html](index.html), then search or filter a gallery. Every gallery uses committed repository files for previews and downloads and retains links to the original sources.
+The active artwork library contains **1,296 repository images across nine service galleries**. Open the [live dashboard](https://supremacy-texas-artwork.vercel.app/) or [index.html](index.html), then search or filter a gallery. Every gallery uses committed repository files for previews and downloads and retains links to the original sources.
+
+## New pool collection and usage tracking
+
+The [Pool Leak Detection collection](pool-leak-detection.html) contains **19 new images** from the source list supplied on 25 November 2026. They have their own `pool-leak-detection-intake-2026-11-25` batch and date-specific folder. Its default view shows only that new intake; a separate tab displays **17 existing pool-related references**, including the four pool plumbing/pump images already in the Plumbing gallery. Generic pool scenes are identified as context rather than leak evidence.
+
+The [Image Usage Tracker](image-usage.html) keeps collection, WordPress import and confirmed placement separate. A read-only check of **301 published posts and 212 published pages** on 25 November found **244 existing catalog assets with confirmed placements**, **18 imported assets without a placement confirmed in that audit**, and **1,015 existing assets whose usage remains unverified**. All 19 new assets are marked **New · not deployed by this batch**. Unverified does not mean unused. Scope and check time are retained per record.
+
+The gallery supports topic/source/search/size filters, native dimensions, source records, all four public metadata fields, individual downloads, selected CSV exports and real ZIP downloads built from repository files. Native small images are marked: **3 thumbnail**, **7 supporting**, and **9 standard**. No upscaling is performed.
+
+- [Collection rules](COLLECTION-RULES.md)
+- [Usage states and refresh instructions](USAGE-TRACKING.md)
+- [Complete image inventory](image-inventory.json)
+- [Pool source inventory](POOL-LEAK-DETECTION-SOURCES.md)
+- [Pool intake and provenance report](pool-leak-detection-intake-2026-11-25.json)
+- [Excluded and held candidate records](pool-intake-review-2026-11-25.json)
+- [Duplicate-check scope and results](pool-intake-dedup-report.json)
+
+The existing **1,277 paths, catalog identities and image bytes are preserved**. Pool artwork is collected for review; the current WordPress Swapper still reads its original eight catalogs. This gallery update does not deploy pool images into WordPress or change its page/post images.
 
 ## Collections
 
@@ -14,13 +32,14 @@ The active artwork library contains **1,277 repository images across eight servi
 | [Garage Doors](garage-doors.html) | 112 | 3 | [garage-doors.json](garage-doors.json) | [GARAGE-DOOR-SOURCES.md](GARAGE-DOOR-SOURCES.md) |
 | [Holiday Lighting](holiday-lighting.html) | 134 | 5 | [holiday-lighting.json](holiday-lighting.json) | [HOLIDAY-LIGHTING-SOURCES.md](HOLIDAY-LIGHTING-SOURCES.md) |
 | [Heating](heating.html) | 17 | 4 | [heating.json](heating.json) | [HEATING-SOURCES.md](HEATING-SOURCES.md) |
-| **Total** | **1,277** | | | |
+| [Pool Leak Detection — new intake](pool-leak-detection.html) | 19 | 8 | [pool-leak-detection.json](pool-leak-detection.json) | [POOL-LEAK-DETECTION-SOURCES.md](POOL-LEAK-DETECTION-SOURCES.md) |
+| **Total** | **1,296** | | | |
 
-Source counts are per gallery; a company may contribute to more than one collection. The 14 heating additions are already included in the 226-image HVAC total.
+The new pool intake researched 12 supplied source pages and accepted images from eight; blocked, excluded and held candidates remain in the intake records. Source counts are per gallery; a company may contribute to more than one collection. The 14 heating additions are already included in the 226-image HVAC total.
 
 ## Downloads and repository availability
 
-All **1,277 catalog file paths are present**, with **zero pending files**. Gallery cards support individual downloads, selection of visible images, and downloads of a selected group. The download controls use each entry's committed `file` path.
+All **1,296 catalog file paths are present**, with **zero missing accepted files**. The 19 pool files form a separate dated intake; source candidates that were excluded, held or unavailable are not counted as accepted gallery assets. Gallery cards support individual downloads, selection of visible images, and downloads of a selected group. The download controls use each entry's committed `file` path.
 
 The following ZIPs contain the corresponding repository images:
 
@@ -70,8 +89,8 @@ The Swapper imports only repository files that pass its availability checks. A s
 
 The [Original Image Archive](original-media-archive.html) lists **26 preserved original media records** with download links, source records, byte sizes, and checksums. Its files remain on the [archive-snapshot-before-artwork-recovery branch](https://github.com/Dboss5/supremacy-texas-artwork/tree/archive-snapshot-before-artwork-recovery).
 
-The archive is separate from the 1,277 active gallery images. Its [status record](https://github.com/Dboss5/supremacy-texas-artwork/blob/archive-snapshot-before-artwork-recovery/ARCHIVE-STATUS.md) preserves the original retrieval history, including any historical failures.
+The archive is separate from the 1,296 active gallery images. Its [status record](https://github.com/Dboss5/supremacy-texas-artwork/blob/archive-snapshot-before-artwork-recovery/ARCHIVE-STATUS.md) preserves the original retrieval history, including any historical failures.
 
 ## Earlier collection records
 
-[COMPANY-SITE-REVIEW.md](COMPANY-SITE-REVIEW.md), [SOURCES.md](SOURCES.md), and [collection.json](collection.json) describe the earlier 102-image company-site collection. They remain as historical provenance. The eight catalogs listed above define the current active galleries and import inventory.
+[COMPANY-SITE-REVIEW.md](COMPANY-SITE-REVIEW.md), [SOURCES.md](SOURCES.md), and [collection.json](collection.json) describe the earlier 102-image company-site collection. They remain as historical provenance. The nine catalogs listed above define the current gallery inventory. The WordPress Swapper currently reads the original eight service catalogs; the separate pool catalog is prepared for the later pool deployment workflow.

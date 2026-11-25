@@ -1,0 +1,918 @@
+[
+  {
+    "id": "pool-720ff61a1932",
+    "file": "pool-leak-detection/2026-11-25/pool-inspection-equipment-on-a-stone-deck.webp",
+    "key": "e39b58aa2692588f467012472c0888a5bf9ae45d1e2c0dad8c9e900f2661aedf",
+    "title": "Pool inspection equipment on a stone deck",
+    "public_metadata": {
+      "title": "Pool inspection equipment on a stone deck",
+      "alt": "Open tool cases, hoses and inspection equipment arranged on the stone deck beside a swimming pool",
+      "caption": "Pool inspection equipment on a stone deck.",
+      "description": "Open tool cases, hoses and inspection equipment arranged on the stone deck beside a swimming pool."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Superior Leak Detection",
+    "source_page": "https://superiorleak.com/photos",
+    "original_url": "https://superiorleak.com/photos/pool-leak-detection-equipment-tools-deck.webp",
+    "width": 600,
+    "height": 600,
+    "category": "diagnostic-equipment",
+    "tags": [
+      "leak-detection-equipment",
+      "pool-inspection"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Supporting image; check native dimensions before choosing a large placement.",
+      "Native image is 600 by 600 pixels; do not upscale for a hero."
+    ],
+    "sha256": "720ff61a193262376e8b683c2ca935848820f00d23dd8ffce4f8dccb76ff3782",
+    "git_blob_sha": "b9de43aa478899a9634a0ec15b324a4a30d8e975",
+    "source_sha256": "720ff61a193262376e8b683c2ca935848820f00d23dd8ffce4f8dccb76ff3782",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "720ff61a193262376e8b683c2ca935848820f00d23dd8ffce4f8dccb76ff3782",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-7bc9e98202dc",
+    "file": "pool-leak-detection/2026-11-25/pool-waterline-and-inspection-markers.webp",
+    "key": "196b6feb0d4129053bc29c86b3e18fada9178c6d7df0e8fb534d6ed452902407",
+    "title": "Pool waterline and inspection markers",
+    "public_metadata": {
+      "title": "Pool waterline and inspection markers",
+      "alt": "Blue markers along a pool edge above cloudy water and scattered leaves, with tools on the nearby deck",
+      "caption": "Pool waterline and inspection markers.",
+      "description": "Blue markers along a pool edge above cloudy water and scattered leaves, with tools on the nearby deck."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Superior Leak Detection",
+    "source_page": "https://superiorleak.com/photos",
+    "original_url": "https://superiorleak.com/photos/pool-water-level-loss-leak-inspection.webp",
+    "width": 600,
+    "height": 600,
+    "category": "water-loss-evaporation",
+    "tags": [
+      "pool-inspection",
+      "water-loss",
+      "waterline"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Native image is 600 by 600 pixels; image alone does not establish water-loss cause.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "7bc9e98202dce4176deb3da2609133537e07755ac053584adc1c81a95849f2e2",
+    "git_blob_sha": "45617f38e8744058cee083b003a5b19b2250a4ae",
+    "source_sha256": "7bc9e98202dce4176deb3da2609133537e07755ac053584adc1c81a95849f2e2",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "7bc9e98202dce4176deb3da2609133537e07755ac053584adc1c81a95849f2e2",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-4c8562656a2f",
+    "file": "pool-leak-detection/2026-11-25/pool-coping-marked-for-inspection.webp",
+    "key": "e4bf579bd21dd1b280da04fe33a60f6b31adc6c720fd2cb3d081accbd35d5c62",
+    "title": "Pool coping marked for inspection",
+    "public_metadata": {
+      "title": "Pool coping marked for inspection",
+      "alt": "A blue arrow marks a section of stone coping beside a swimming pool",
+      "caption": "Pool coping marked for inspection.",
+      "description": "A blue arrow marks a section of stone coping beside a swimming pool."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Superior Leak Detection",
+    "source_page": "https://superiorleak.com/photos",
+    "original_url": "https://superiorleak.com/photos/pool-coping-stone-leak-location-marker.webp",
+    "width": 300,
+    "height": 300,
+    "category": "structural-fittings",
+    "tags": [
+      "pool-coping",
+      "structural-leak-inspection"
+    ],
+    "quality": "thumbnail",
+    "limitations": [
+      "Only 300 by 300 native pixels. Supporting thumbnail only, not a hero.",
+      "Use only as a small supporting thumbnail at native dimensions."
+    ],
+    "sha256": "4c8562656a2f90260b4d720d673e1ea06a8245b55bb3ede51e3f0235c87ee1dc",
+    "git_blob_sha": "98aa1b872e66c2aa1c59dd7f95b11314adb9d237",
+    "source_sha256": "4c8562656a2f90260b4d720d673e1ea06a8245b55bb3ede51e3f0235c87ee1dc",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "4c8562656a2f90260b4d720d673e1ea06a8245b55bb3ede51e3f0235c87ee1dc",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-182c48db09cc",
+    "file": "pool-leak-detection/2026-11-25/inspection-markers-near-a-pool-skimmer-lid.webp",
+    "key": "9d05c2a4d2abf192a47dc66e0c0c83b44e70df3777db27ff2761fe78a5c14b37",
+    "title": "Inspection markers near a pool skimmer lid",
+    "public_metadata": {
+      "title": "Inspection markers near a pool skimmer lid",
+      "alt": "Blue markers on a pool deck beside a circular skimmer lid and the pool edge",
+      "caption": "Inspection markers near a pool skimmer lid.",
+      "description": "Blue markers on a pool deck beside a circular skimmer lid and the pool edge."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Superior Leak Detection",
+    "source_page": "https://superiorleak.com/photos",
+    "original_url": "https://superiorleak.com/photos/pool-skimmer-leak-inspection-deck-markings.webp",
+    "width": 300,
+    "height": 300,
+    "category": "skimmer-inspection",
+    "tags": [
+      "pool-inspection",
+      "skimmer-leaks"
+    ],
+    "quality": "thumbnail",
+    "limitations": [
+      "Only 300 by 300 native pixels. Supporting thumbnail only, not a hero.",
+      "Use only as a small supporting thumbnail at native dimensions."
+    ],
+    "sha256": "182c48db09cc51ac7e66b270b4b356876a3c1faa7aa5f45b61e31044d76bc7fa",
+    "git_blob_sha": "1fb29e4ed12213741130d0091619e5e645392687",
+    "source_sha256": "182c48db09cc51ac7e66b270b4b356876a3c1faa7aa5f45b61e31044d76bc7fa",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "182c48db09cc51ac7e66b270b4b356876a3c1faa7aa5f45b61e31044d76bc7fa",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-5743704bbf81",
+    "file": "pool-leak-detection/2026-11-25/damaged-pool-finish-beside-a-round-fitting.webp",
+    "key": "51b486cbd0ca9a3e4c7ccf28b1e380ce0a62fd4dd1eb0f2ce1f00b9f10424d7b",
+    "title": "Damaged pool finish beside a round fitting",
+    "public_metadata": {
+      "title": "Damaged pool finish beside a round fitting",
+      "alt": "A damaged section of textured pool finish with blue staining beside a round fitting",
+      "caption": "Damaged pool finish beside a round fitting.",
+      "description": "A damaged section of textured pool finish with blue staining beside a round fitting."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Superior Leak Detection",
+    "source_page": "https://superiorleak.com/photos",
+    "original_url": "https://superiorleak.com/photos/pool-plaster-skimmer-crack-leak-repair.webp",
+    "width": 300,
+    "height": 300,
+    "category": "structural-fittings",
+    "tags": [
+      "pool-fittings",
+      "structural-pool-leaks"
+    ],
+    "quality": "thumbnail",
+    "limitations": [
+      "Use only as a small supporting thumbnail at native dimensions.",
+      "Only 300 by 300 native pixels. The image does not independently prove whether blue material is dye or repair compound."
+    ],
+    "sha256": "5743704bbf81dabbf006ed9d4a682147d22c3b4bde35911ff9190b89fbc6e0e5",
+    "git_blob_sha": "82a2db1c2933861fda8dc8766d821aa967b34afd",
+    "source_sha256": "5743704bbf81dabbf006ed9d4a682147d22c3b4bde35911ff9190b89fbc6e0e5",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "5743704bbf81dabbf006ed9d4a682147d22c3b4bde35911ff9190b89fbc6e0e5",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-918ef215dc44",
+    "file": "pool-leak-detection/2026-11-25/bucket-on-a-pool-step.webp",
+    "key": "e6961bbda921e0ed134d3ba33155db7429a60dd6641f50f66ef66595db21ea15",
+    "title": "Bucket on a pool step",
+    "public_metadata": {
+      "title": "Bucket on a pool step",
+      "alt": "A white bucket with a dark horizontal band sits on a submerged swimming pool step",
+      "caption": "Bucket on a pool step.",
+      "description": "A white bucket with a dark horizontal band sits on a submerged swimming pool step."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Beatbot",
+    "source_page": "https://beatbot.com/blogs/how-to-fixs/pool-leak-detection-find-fix",
+    "original_url": "https://cdn.shopify.com/s/files/1/0812/9049/4250/files/2_879f3e20-d766-4c47-9c84-032a299aa3b4.png?v=1778579556",
+    "width": 554,
+    "height": 225,
+    "category": "water-loss-evaporation",
+    "tags": [
+      "bucket-test",
+      "water-loss-evaporation"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Supporting image; check native dimensions before choosing a large placement.",
+      "Native image is 554 by 225 pixels. Suitable for small supporting use only."
+    ],
+    "sha256": "cc25019e4373f4b054b7f1616e03fd31d5585d9a8a3b0fc469cf443e6569526f",
+    "git_blob_sha": "152c023865b237f2ab967ede4cf80f2a73725702",
+    "source_sha256": "918ef215dc447f45f0147c492b3fc970f8ffaff9f49b51ef54f1e3585f33738c",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "cc25019e4373f4b054b7f1616e03fd31d5585d9a8a3b0fc469cf443e6569526f",
+      "metadata_cleanup": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-bb33b7b56476",
+    "file": "pool-leak-detection/2026-11-25/backyard-swimming-pool-and-surrounding-deck.webp",
+    "key": "fe1a7833eae103590d0cba33a689fb55b3cc6d339a4df3b2dc646a273d7ac27a",
+    "title": "Backyard swimming pool and surrounding deck",
+    "public_metadata": {
+      "title": "Backyard swimming pool and surrounding deck",
+      "alt": "A rectangular backyard pool surrounded by paving, lawn and empty lounge chairs",
+      "caption": "Backyard swimming pool and surrounding deck.",
+      "description": "A rectangular backyard pool surrounded by paving, lawn and empty lounge chairs."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Beatbot",
+    "source_page": "https://beatbot.com/blogs/how-to-fixs/pool-leak-detection-find-fix",
+    "original_url": "https://cdn.shopify.com/s/files/1/0812/9049/4250/files/5_50c567f8-4e5c-4683-bc11-9b895b13840c.png?v=1778579556",
+    "width": 554,
+    "height": 225,
+    "category": "general-pool",
+    "tags": [
+      "pool-maintenance",
+      "pool-overview",
+      "water-loss-evaporation"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Native image is 554 by 225 pixels. General pool overview; no leak is visible or verified.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "0b960f8e570e7a34cbf9f6039420f3d2ee16b31f842bed1deafca59901ba6dbb",
+    "git_blob_sha": "e0ea6beb288ac8a5bdec3c40fca913230937acb3",
+    "source_sha256": "bb33b7b5647692741bd11c8e7a06b204e41190700dbdc4d5a99b0fbc6c5b4a49",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "0b960f8e570e7a34cbf9f6039420f3d2ee16b31f842bed1deafca59901ba6dbb",
+      "metadata_cleanup": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-69f8c385f4e5",
+    "file": "pool-leak-detection/2026-11-25/exposed-underground-pool-plumbing.jpg",
+    "key": "5c074d0ecd6f5e3c4e9084da9824bdbe2b9ecf3cc52ef6c06c3094c6e71c5d50",
+    "title": "Exposed underground pool plumbing",
+    "public_metadata": {
+      "title": "Exposed underground pool plumbing",
+      "alt": "White PVC pipes and elbow fittings exposed in a wet excavation beneath broken concrete",
+      "caption": "Exposed underground pool plumbing.",
+      "description": "White PVC pipes and elbow fittings exposed in a wet excavation beneath broken concrete."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Arizona Leak Pros",
+    "source_page": "https://www.arizonaleakpros.com/how-to-find-leaks-in-inground-pool-piping",
+    "original_url": "https://irp.cdn-website.com/48085ab1/dms3rep/multi/opt/underground+pool+plumbing-1920w.jpg",
+    "width": 1920,
+    "height": 1422,
+    "category": "underground-plumbing",
+    "tags": [
+      "pool-plumbing-leaks",
+      "underground-pool-piping"
+    ],
+    "quality": "standard",
+    "limitations": [
+      "No person, visible body part, watermark or prominent source logo observed."
+    ],
+    "sha256": "69f8c385f4e561764850c09c68d25319a9ce72d40df71094f98997719e053a53",
+    "git_blob_sha": "65d9a24e5b8194bff1e0c36d37a710cd42929119",
+    "source_sha256": "69f8c385f4e561764850c09c68d25319a9ce72d40df71094f98997719e053a53",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "69f8c385f4e561764850c09c68d25319a9ce72d40df71094f98997719e053a53",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-5ea341871348",
+    "file": "pool-leak-detection/2026-11-25/pool-tile-waterline-and-coping.jpg",
+    "key": "e2590cc29563de9c262e6c45955ebd21f3867815a6f9b5577833019cff1897f3",
+    "title": "Pool tile waterline and coping",
+    "public_metadata": {
+      "title": "Pool tile waterline and coping",
+      "alt": "A close view of waterline tiles, textured pool finish and stone coping above the pool water",
+      "caption": "Pool tile waterline and coping.",
+      "description": "A close view of waterline tiles, textured pool finish and stone coping above the pool water."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Arizona Leak Pros",
+    "source_page": "https://www.arizonaleakpros.com/how-to-find-leaks-in-inground-pool-piping",
+    "original_url": "https://irp.cdn-website.com/48085ab1/dms3rep/multi/opt/water_line_2-1920w.jpg",
+    "width": 1500,
+    "height": 1125,
+    "category": "structural-fittings",
+    "tags": [
+      "structural-pool-leaks",
+      "water-loss",
+      "waterline"
+    ],
+    "quality": "standard",
+    "limitations": [
+      "Incidental power-tool product marking in background, not a source-company watermark or promotional overlay."
+    ],
+    "sha256": "5ea3418713488b7c117f208a7ea552d72b61e03690bde4eeb6e6e5db6fa30df1",
+    "git_blob_sha": "2c6e7583714ea6d88d9f2e0832b940a67a2d3b56",
+    "source_sha256": "5ea3418713488b7c117f208a7ea552d72b61e03690bde4eeb6e6e5db6fa30df1",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "5ea3418713488b7c117f208a7ea552d72b61e03690bde4eeb6e6e5db6fa30df1",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-937d1a79dcbf",
+    "file": "pool-leak-detection/2026-11-25/buried-pipe-elbow-exposed-in-wet-soil.jpg",
+    "key": "a034bd1e386a7876aaa49dfe666bfa95381b36039f0ca8d18c7dc6ba94a13319",
+    "title": "Buried pipe elbow exposed in wet soil",
+    "public_metadata": {
+      "title": "Buried pipe elbow exposed in wet soil",
+      "alt": "A pale pipe elbow and coupling exposed in muddy soil with standing water around the fitting",
+      "caption": "Buried pipe elbow exposed in wet soil.",
+      "description": "A pale pipe elbow and coupling exposed in muddy soil with standing water around the fitting."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Able Leak Detection",
+    "source_page": "https://ableleakdetection.com.au/signs-that-a-pool-is-leaking/",
+    "original_url": "https://ableleakdetection.com.au/wp-content/uploads/2024/07/Signs-that-a-pool-is-leaking.jpg",
+    "width": 2000,
+    "height": 1000,
+    "category": "underground-plumbing",
+    "tags": [
+      "pool-plumbing-leaks",
+      "underground-pool-piping"
+    ],
+    "quality": "standard",
+    "limitations": [
+      "Pool context comes from the source article; image alone shows buried plumbing and does not prove a particular leak cause."
+    ],
+    "sha256": "29037ba54fecba35dfa65c8b16eb5d0a59484a61ff86fa93e5415eb33887a1e5",
+    "git_blob_sha": "8f0199592ad1acd7a6c9c9f1271cc9cb1220b6ff",
+    "source_sha256": "937d1a79dcbf7ade236c6fe2d71d8dd25b3df427e32e44d59536e07b34293436",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "29037ba54fecba35dfa65c8b16eb5d0a59484a61ff86fa93e5415eb33887a1e5",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-c7fe88a7401f",
+    "file": "pool-leak-detection/2026-11-25/exposed-underground-pool-return-fitting.jpg",
+    "key": "d7f8178230e1edc710e8cc3233ae1d4922b6f9fb97a5d5fa72de85abd503889a",
+    "title": "Exposed underground pool return fitting",
+    "public_metadata": {
+      "title": "Exposed underground pool return fitting",
+      "alt": "Exposed pool return fitting and hose clamps in wet soil.",
+      "caption": "Exposed pool return fitting and hose clamps in wet soil.",
+      "description": "Exposed pool return fitting and hose clamps in wet soil."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Pressure Clean Pools",
+    "source_page": "https://www.pressurecleanpools.com/services-leak-detection-repair",
+    "original_url": "https://static.wixstatic.com/media/41727a_b769865740b04bebadd55cdbd7ff695b~mv2.jpg",
+    "width": 1125,
+    "height": 1178,
+    "category": "underground-plumbing",
+    "tags": [
+      "leak-repair",
+      "return-fitting",
+      "underground-plumbing"
+    ],
+    "quality": "standard",
+    "limitations": [],
+    "sha256": "63e9c988453059c23eb51876bad396b2305a9c5f1c283718da2574037e0b4425",
+    "git_blob_sha": "2ede6c9c9793b75080bc6b0c90dafd11809c3584",
+    "source_sha256": "c7fe88a7401f3d5c768ba063959a93f2c7a88f6871ea1e372d399b94229baf33",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "63e9c988453059c23eb51876bad396b2305a9c5f1c283718da2574037e0b4425",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-98f900d3bfc4",
+    "file": "pool-leak-detection/2026-11-25/excavated-pool-plumbing-connection.webp",
+    "key": "5591790c25e9b5181c526fc4727d762d2ea316669f3039bb212aef662959e78f",
+    "title": "Excavated pool plumbing connection",
+    "public_metadata": {
+      "title": "Excavated pool plumbing connection",
+      "alt": "An open pool plumbing connection and removed fitting in an excavated soil trench.",
+      "caption": "An open pool plumbing connection and removed fitting in an excavated soil trench.",
+      "description": "An open pool plumbing connection and removed fitting in an excavated soil trench."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Pressure Clean Pools",
+    "source_page": "https://www.pressurecleanpools.com/services-leak-detection-repair",
+    "original_url": "https://static.wixstatic.com/media/41727a_363075f78fa84e139cee37e9a3f85a7e~mv2.jpg",
+    "width": 3024,
+    "height": 4032,
+    "category": "underground-plumbing",
+    "tags": [
+      "excavation",
+      "leak-repair",
+      "underground-plumbing"
+    ],
+    "quality": "standard",
+    "limitations": [],
+    "sha256": "19e88bd8663bebe53479374d5bf362464d14fab8b21bfb6be87ee9878495e0fe",
+    "git_blob_sha": "5e29c202ec1e117826a6db0548080176d396c1d4",
+    "source_sha256": "98f900d3bfc45d293e47614b35cbbeab5274ef7fdee42d45943642e83d23029a",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "19e88bd8663bebe53479374d5bf362464d14fab8b21bfb6be87ee9878495e0fe",
+      "metadata_cleanup": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-2198960f93f2",
+    "file": "pool-leak-detection/2026-11-25/replacement-pool-plumbing-in-an-excavation.webp",
+    "key": "4d3035b5c2f4d8a845e9f0445940cd7576c94068d4a28f39da42f0b1ee0e26d1",
+    "title": "Replacement pool plumbing in an excavation",
+    "public_metadata": {
+      "title": "Replacement pool plumbing in an excavation",
+      "alt": "White PVC pool plumbing and fittings installed in an excavated soil trench.",
+      "caption": "White PVC pool plumbing and fittings installed in an excavated soil trench.",
+      "description": "White PVC pool plumbing and fittings installed in an excavated soil trench."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Pressure Clean Pools",
+    "source_page": "https://www.pressurecleanpools.com/services-leak-detection-repair",
+    "original_url": "https://static.wixstatic.com/media/41727a_4846116a32874ada8f20d835778ea465~mv2.jpg",
+    "width": 3024,
+    "height": 4032,
+    "category": "underground-plumbing",
+    "tags": [
+      "leak-repair",
+      "pvc-repair",
+      "underground-plumbing"
+    ],
+    "quality": "standard",
+    "limitations": [],
+    "sha256": "6dd7fc4482d51fa7de5c5bfa5ddf3f41a971b5ff788a21ff38028efe48949da3",
+    "git_blob_sha": "b2ed887a4f7ea00e9a24cd0e44a1b34eadc4ff77",
+    "source_sha256": "2198960f93f2af266041e55908d8b5e6598d1babb80114033cb3883743e007d5",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "6dd7fc4482d51fa7de5c5bfa5ddf3f41a971b5ff788a21ff38028efe48949da3",
+      "metadata_cleanup": "EXIF orientation applied; full native dimensions encoded as WebP quality 94 with no embedded metadata"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-e9b3b1b07bfe",
+    "file": "pool-leak-detection/2026-11-25/curved-vinyl-pool-with-entry-steps.jpg",
+    "key": "e337e3d70f7e42bcc5f2f995dbc72f8c4dba3425863eefd08c6304b02317761c",
+    "title": "Curved vinyl pool with entry steps",
+    "public_metadata": {
+      "title": "Curved vinyl pool with entry steps",
+      "alt": "A blue vinyl swimming pool with curved entry steps, stone coping and backyard landscaping.",
+      "caption": "A blue vinyl swimming pool with curved entry steps, stone coping and backyard landscaping.",
+      "description": "A blue vinyl swimming pool with curved entry steps, stone coping and backyard landscaping."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "West Cove Pools",
+    "source_page": "https://westcovepools.com/services/pool-leak-detection-services",
+    "original_url": "https://ik.imagekit.io/cr32zgyto/53/1723416440566_uTbtvfcQW.jpg",
+    "width": 1280,
+    "height": 853,
+    "category": "general-pool",
+    "tags": [
+      "general-pool",
+      "pool-water",
+      "vinyl-liner"
+    ],
+    "quality": "standard",
+    "limitations": [],
+    "sha256": "e9b3b1b07bfee11df84c0976881dff102926a7f4a44ad69d0eb1b8ab02e79cf8",
+    "git_blob_sha": "974263bd444b1dcd2c07f3485ff917bb2b1f98cc",
+    "source_sha256": "e9b3b1b07bfee11df84c0976881dff102926a7f4a44ad69d0eb1b8ab02e79cf8",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "e9b3b1b07bfee11df84c0976881dff102926a7f4a44ad69d0eb1b8ab02e79cf8",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-9b429ea4aadf",
+    "file": "pool-leak-detection/2026-11-25/pool-deck-excavation-for-plumbing-access.jpg",
+    "key": "be1671b3c1636db1e623907f872fedb606a02a0aa675f80d929d0481d382669d",
+    "title": "Pool deck excavation for plumbing access",
+    "public_metadata": {
+      "title": "Pool deck excavation for plumbing access",
+      "alt": "Two views of a narrow excavation beside a pool deck with a white pipe exposed.",
+      "caption": "Two views of a narrow excavation beside a pool deck with a white pipe exposed.",
+      "description": "Two views of a narrow excavation beside a pool deck with a white pipe exposed."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "West Cove Pools",
+    "source_page": "https://westcovepools.com/services/pool-leak-detection-services",
+    "original_url": "https://ik.imagekit.io/cr32zgyto/53/1724372191488_u1E4DNXE8.jpg",
+    "width": 1280,
+    "height": 854,
+    "category": "underground-plumbing",
+    "tags": [
+      "excavation",
+      "under-deck",
+      "underground-plumbing"
+    ],
+    "quality": "standard",
+    "limitations": [],
+    "sha256": "9b429ea4aadf72da0330907d4603f2ed93afbb6fead6c33c3ad3d4270149e514",
+    "git_blob_sha": "46103fd792e0105483525a4b52e2bfb911b235de",
+    "source_sha256": "9b429ea4aadf72da0330907d4603f2ed93afbb6fead6c33c3ad3d4270149e514",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "9b429ea4aadf72da0330907d4603f2ed93afbb6fead6c33c3ad3d4270149e514",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-100f396ab039",
+    "file": "pool-leak-detection/2026-11-25/rectangular-backyard-vinyl-pool.jpg",
+    "key": "d664fd4be2a35a98cc59bc6c31d155963e032b29e7861e9a4ebc5b34d45b9d54",
+    "title": "Rectangular backyard vinyl pool",
+    "public_metadata": {
+      "title": "Rectangular backyard vinyl pool",
+      "alt": "A rectangular blue vinyl pool with a metal ladder, diving board and landscaped wooden fence.",
+      "caption": "A rectangular blue vinyl pool with a metal ladder, diving board and landscaped wooden fence.",
+      "description": "A rectangular blue vinyl pool with a metal ladder, diving board and landscaped wooden fence."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "West Cove Pools",
+    "source_page": "https://westcovepools.com/services/pool-leak-detection-services",
+    "original_url": "https://ik.imagekit.io/cr32zgyto/53/1724371592476_GNwbLcSzi.jpg",
+    "width": 922,
+    "height": 683,
+    "category": "general-pool",
+    "tags": [
+      "general-pool",
+      "pool-water",
+      "vinyl-liner"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "100f396ab039d1e49b19f8ab644a10317263b550783204d85a0db7a50c2249ea",
+    "git_blob_sha": "abd6f76fc54e8591580acf90e8ab3a81df9503d8",
+    "source_sha256": "100f396ab039d1e49b19f8ab644a10317263b550783204d85a0db7a50c2249ea",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "100f396ab039d1e49b19f8ab644a10317263b550783204d85a0db7a50c2249ea",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-07dfab9a5d70",
+    "file": "pool-leak-detection/2026-11-25/water-leaking-beneath-a-pool-pump-connection.webp",
+    "key": "501a3aa9f1d5b11c166bfef7b79eef4ee98efa0e815d16af4e22621ba653d017",
+    "title": "Water leaking beneath a pool pump connection",
+    "public_metadata": {
+      "title": "Water leaking beneath a pool pump connection",
+      "alt": "Water dripping from beneath a pool pump connection beside white PVC piping",
+      "caption": "Water dripping beneath a pool pump connection.",
+      "description": "Close view of a black pool pump and connected white PVC pipes, with water escaping beneath the front connection."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "VEVOR",
+    "source_page": "https://www.vevor.com/diy-ideas/swimming-pool-pump-leaking/",
+    "original_url": "https://i.vevor.net/wp-content/uploads/2026/08/Untitled-design-2026-08-10T163318.162.jpg!webp",
+    "width": 800,
+    "height": 450,
+    "category": "pump-equipment-leaks",
+    "tags": [
+      "pool-leak-detection",
+      "pump-equipment-leaks"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "07dfab9a5d70322003144f22a6f07d552fc166a5f8a6cc143f56fcb4f7221efa",
+    "git_blob_sha": "183426abd37ef293042263f654f4af6c9abf356e",
+    "source_sha256": "07dfab9a5d70322003144f22a6f07d552fc166a5f8a6cc143f56fcb4f7221efa",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "07dfab9a5d70322003144f22a6f07d552fc166a5f8a6cc143f56fcb4f7221efa",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-c4d9805f503d",
+    "file": "pool-leak-detection/2026-11-25/pool-pump-and-repair-tools-beside-a-swimming-pool.webp",
+    "key": "324bd55a06cb7eead0c18cfef616cb44462a2502d002e23b1e8bbbbb3a4d7556",
+    "title": "Pool pump and repair tools beside a swimming pool",
+    "public_metadata": {
+      "title": "Pool pump and repair tools beside a swimming pool",
+      "alt": "Pool pump beside a swimming pool with hand tools, a multimeter and a seal ring arranged nearby",
+      "caption": "A pool pump with tools and a replacement seal ring nearby.",
+      "description": "Pool pump equipment shown beside blue pool water, with pliers, screwdrivers, a multimeter and a seal ring on the deck."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "VEVOR",
+    "source_page": "https://www.vevor.com/diy-ideas/swimming-pool-pump-leaking/",
+    "original_url": "https://i.vevor.net/wp-content/uploads/2026/08/Untitled-design-2026-08-10T164208.501.jpg!webp",
+    "width": 800,
+    "height": 450,
+    "category": "pump-equipment-leaks",
+    "tags": [
+      "pool-leak-detection",
+      "pump-equipment-leaks"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "c4d9805f503d4bcd191e96e09d9d46350d6daba57e413f1a189973a24df130f1",
+    "git_blob_sha": "11769a26bae60e91a835e3345f9e9c0c8358314c",
+    "source_sha256": "c4d9805f503d4bcd191e96e09d9d46350d6daba57e413f1a189973a24df130f1",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "c4d9805f503d4bcd191e96e09d9d46350d6daba57e413f1a189973a24df130f1",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "pool-f5e80998c761",
+    "file": "pool-leak-detection/2026-11-25/mist-above-a-swimming-pool-surface.webp",
+    "key": "1056801bd11eb5a70d0df2ce32025abc6a1f4c6b1204a31f39595ab7b7a8b52b",
+    "title": "Mist above a swimming pool surface",
+    "public_metadata": {
+      "title": "Mist above a swimming pool surface",
+      "alt": "Light mist above blue swimming pool water beside a stone deck",
+      "caption": "Light mist visible above a swimming pool surface.",
+      "description": "An outdoor swimming pool with light mist above the water, blue tile along the edge and stone coping in the foreground."
+    },
+    "service": "pool-leak-detection",
+    "batch_id": "pool-leak-detection-intake-2026-11-25",
+    "origin": "new",
+    "source": "Hipel Pools",
+    "source_page": "https://hipelpools.ca/blog/pool-evaporation-how-much-water-can-evaporate-from-a-pool-in-a-day",
+    "original_url": "https://hipelpools.ca/images/blog/b08db06f2b3fe906-1500.webp",
+    "width": 1000,
+    "height": 667,
+    "category": "water-loss-evaporation",
+    "tags": [
+      "pool-leak-detection",
+      "water-loss-evaporation"
+    ],
+    "quality": "standard",
+    "limitations": [],
+    "sha256": "f5e80998c7615e584cd601b842b7dc6bf5191a04bfd82c87611742af42f71c0c",
+    "git_blob_sha": "e1a11008526ae5706088793f80dcc9d9704d0041",
+    "source_sha256": "f5e80998c7615e584cd601b842b7dc6bf5191a04bfd82c87611742af42f71c0c",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "f5e80998c7615e584cd601b842b7dc6bf5191a04bfd82c87611742af42f71c0c",
+      "metadata_cleanup": "metadata containers removed without recompressing image pixels"
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  }
+]
