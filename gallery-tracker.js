@@ -1,8 +1,12 @@
 (() => {
   'use strict';
   const byId = id => document.getElementById(id);
-  const isPool = document.body.dataset.galleryPage === 'pool';
-  const poolService = 'pool-leak-detection';
+  const isPool = ['pool','pool-care'].includes(document.body.dataset.galleryPage);
+  const isPoolCare = document.body.dataset.galleryPage === 'pool-care';
+  const poolService = isPoolCare ? 'pool-care' : 'pool-leak-detection';
+  const poolServices = isPoolCare ? ['pool-care','pool-leak-detection'] : ['pool-leak-detection'];
+  const poolRows = () => state.images.filter(r=>poolServices.includes(r.service));
+  const priorPoolRows = () => poolRows().filter(r=>r.batch_id!==state.defaultBatch);
   const statusLabels = {
     in_use: 'In use · verified',
     imported_unconfirmed: 'Imported · placement unconfirmed',
@@ -17,7 +21,7 @@
     new_not_deployed: 'This intake has not deployed the image. This does not assert that the same image has never appeared elsewhere on the site.',
     unknown: 'The inventory does not provide a recognized usage status for this image.'
   };
-  const serviceNames = {hvac:'HVAC','air-conditioning':'Air Conditioning',plumbing:'Plumbing',electrical:'Electrical',pest:'Pest Control','pest-control':'Pest Control','garage-doors':'Garage Doors','garage-door':'Garage Doors','holiday-lighting':'Holiday Lighting',heating:'Heating','pool-leak-detection':'Pool Leak Detection'};
+  const serviceNames = {hvac:'HVAC','air-conditioning':'Air Conditioning',plumbing:'Plumbing',electrical:'Electrical',pest:'Pest Control','pest-control':'Pest Control','garage-doors':'Garage Doors','garage-door':'Garage Doors','holiday-lighting':'Holiday Lighting',heating:'Heating','pool-leak-detection':'Pool Leak Detection','pool-care':'Pool Care & Services'};
   const qualityNames = {standard:'Standard',supporting:'Supporting',thumbnail:'Thumbnail'};
   const state = {images:[], byId:new Map(), batches:new Map(), categories:new Map(), selected:new Set(), page:1, pageSize:24, poolTab:'new', defaultBatch:'', filtered:[], pageRows:[], downloadController:null, downloadBatch:false};
   let toastTimer;
@@ -58,11 +62,11 @@
   }
   function buildMetrics() {
     const existing=state.images.filter(r=>r.origin==='existing');
-    const pool=state.images.filter(r=>r.service===poolService);
-    const fresh=pool.filter(r=>r.origin==='new'&&(!state.defaultBatch||r.batch_id===state.defaultBatch));
+    const pool=poolRows();
+    const fresh=poolBatchRows();
     const data=isPool ? [
       [fresh.length,'images in the new pool batch'],
-      [pool.filter(r=>r.origin==='existing').length,'existing pool references'],
+      [priorPoolRows().length,isPoolCare?'earlier pool images':'existing pool references'],
       [pool.filter(r=>statusFor(r)==='in_use').length,'pool images with verified use'],
       [new Set(fresh.map(r=>r.category).filter(Boolean)).size,'topics in the new batch']
     ] : [
@@ -72,7 +76,7 @@
       [state.images.filter(r=>r.origin==='new').length,'new additions, tracked separately']
     ];
     byId('metrics').replaceChildren(...data.map(([value,label])=>{const n=node('div','metric');n.append(node('strong','',value.toLocaleString()),node('span','',label));return n;}));
-    if(isPool){byId('new-tab-count').textContent=fresh.length;byId('existing-tab-count').textContent=pool.filter(r=>r.origin==='existing').length;}
+    if(isPool){byId('new-tab-count').textContent=fresh.length;byId('existing-tab-count').textContent=priorPoolRows().length;}
   }
   function fillSelect(id,values,labels,emptyLabel) {
     const select=byId(id);if(!select)return;
@@ -82,7 +86,7 @@
     if(options.some(o=>o.value===before))select.value=before;
   }
   function fillFilters() {
-    const rows=isPool?state.images.filter(r=>r.service===poolService):state.images;
+    const rows=isPool?poolRows():state.images;
     fillSelect('filter-service',rows.map(r=>r.service),serviceFor,'All services');
     fillSelect('filter-category',rows.map(r=>r.category),categoryFor,'All topics');
     fillSelect('filter-batch',rows.map(r=>r.batch_id),batchFor,'All batches');
@@ -106,16 +110,17 @@
       const active=tab.dataset.poolTab===state.poolTab;tab.setAttribute('aria-selected',String(active));tab.tabIndex=active?0:-1;
     }
     byId('image-results').setAttribute('aria-labelledby','tab-'+state.poolTab);
-    byId('collection-title').textContent=state.poolTab==='new'?'New pool intake':'Pool references already in the repository';
-    byId('collection-description').textContent=state.poolTab==='new'?'These additions have their own batch and stable image IDs. “Not deployed by this batch” describes this intake’s activity; it does not claim an image has never appeared elsewhere.':'These are existing pool-related files. Each card identifies its original gallery, and its file path is preserved. General pool scenes provide context rather than evidence of a leak. Open an image to see its recorded usage.';
+    byId('collection-title').textContent=state.poolTab==='new'?(isPoolCare?'New pool care intake':'New pool intake'):(isPoolCare?'Earlier pool collections':'Pool references already in the repository');
+    byId('collection-description').textContent=state.poolTab==='new'?(isPoolCare?'Related pool care and service images have their own batch. Filter by visible subject and size, then open a card to check its source and usage record.':'These additions have their own batch and stable image IDs. “Not deployed by this batch” describes this intake’s activity; it does not claim an image has never appeared elsewhere.'):(isPoolCare?'The earlier leak-detection batch and established pool references stay here with their original IDs, paths and usage records. This view references the same files; it does not add duplicate copies.':'These are existing pool-related files. Each card identifies its original gallery, and its file path is preserved. General pool scenes provide context rather than evidence of a leak. Open an image to see its recorded usage.');
   }
   function applyFilters() {
     const query=byId('search').value.trim().toLocaleLowerCase();
     const terms=query.split(/\s+/).filter(Boolean);
-    const origin=isPool?state.poolTab:filterValue('origin');
-    const service=isPool?poolService:filterValue('service');
+    const origin=isPool?'':filterValue('origin');
+    const service=isPool?'':filterValue('service');
     const category=filterValue('category'),batch=filterValue('batch'),usage=filterValue('usage'),quality=filterValue('quality');
-    return state.images.filter(r=>(!origin||r.origin===origin)&&(!service||r.service===service)&&(!category||text(r.category)===category)&&(!batch||text(r.batch_id)===batch)&&(!usage||statusFor(r)===usage)&&(!quality||text(r.quality)===quality)&&terms.every(t=>r._search.includes(t)));
+    const rows=isPool?(state.poolTab==='new'?poolBatchRows():priorPoolRows()):state.images;
+    return rows.filter(r=>(!origin||r.origin===origin)&&(!service||r.service===service)&&(!category||text(r.category)===category)&&(!batch||text(r.batch_id)===batch)&&(!usage||statusFor(r)===usage)&&(!quality||text(r.quality)===quality)&&terms.every(t=>r._search.includes(t)));
   }
   function fallbackPreview(container) {
     const fallback=node('div','preview-fallback');fallback.append(node('span','','↗'),node('span','','Preview unavailable'));container.replaceChildren(fallback);
@@ -132,11 +137,12 @@
     if(url){const img=node('img');img.src=url;img.alt=text(row.public_metadata?.alt)||title;img.loading='lazy';img.decoding='async';img.addEventListener('error',()=>fallbackPreview(view),{once:true});view.append(img);}
     else fallbackPreview(view);
     const selectLabel=node('label','select-image'),checkbox=node('input');checkbox.type='checkbox';checkbox.checked=state.selected.has(row.id);checkbox.setAttribute('aria-label','Select '+title);checkbox.addEventListener('change',()=>{checkbox.checked?state.selected.add(row.id):state.selected.delete(row.id);card.classList.toggle('is-selected',checkbox.checked);updateSelection();});selectLabel.append(checkbox);
-    visual.append(view,selectLabel,node('span','image-origin origin-'+(row.origin==='new'?'new':'existing'),row.origin==='new'?'New batch':'Existing'));
+    visual.append(view,selectLabel,node('span','image-origin origin-'+(row.origin==='new'?'new':'existing'),row.origin==='new'?(isPool&&row.batch_id!==state.defaultBatch?'Earlier batch':'New batch'):'Existing'));
     const body=node('div','card-body'),kicker=node('div','card-kicker');kicker.append(node('span','',categoryFor(row.category)),node('span','dimensions',row.width&&row.height?row.width+' × '+row.height:'Size unrecorded'));
     body.append(kicker,node('h3','',title),statusChip(row),node('p','image-id',row.id));
     const tags=node('div','card-tags');
     if(!isPool)tags.append(node('span','tag',serviceFor(row.service)));
+    if(row.origin==='new')tags.append(node('span','tag',batchFor(row.batch_id)));
     if(row.origin==='existing'&&row.original_gallery&&(isPool||row.original_gallery!==row.service))tags.append(node('span','tag','Original: '+serviceFor(row.original_gallery)));
     if(row.category==='general-pool')tags.append(node('span','tag','Pool context'));
     if(row.quality&&row.quality!=='standard')tags.append(node('span','tag',(qualityNames[row.quality]||humanize(row.quality))+' size'));
@@ -225,7 +231,7 @@
       }
       if(controller.signal.aborted)throw new DOMException('Download canceled','AbortError');
       const end=zipHeader(22),ev=end.view;ev.setUint32(0,0x06054b50,true);ev.setUint16(8,rows.length,true);ev.setUint16(10,rows.length,true);ev.setUint32(12,centralSize,true);ev.setUint32(16,offset,true);
-      downloadBlob(new Blob([...chunks,...central,end.bytes],{type:'application/zip'}),(state.downloadBatch?'supremacy-pool-leak-detection-batch.zip':'supremacy-selected-images.zip'));notify('ZIP ready: '+rows.length+' repository image'+(rows.length===1?'':'s')+'. Usage records are unchanged.');
+      downloadBlob(new Blob([...chunks,...central,end.bytes],{type:'application/zip'}),(state.downloadBatch?'supremacy-'+poolService+'-batch.zip':'supremacy-selected-images.zip'));notify('ZIP ready: '+rows.length+' repository image'+(rows.length===1?'':'s')+'. Usage records are unchanged.');
     }catch(error){notify(error.name==='AbortError'?'ZIP download canceled. Your selection is preserved.':error.message+' No ZIP was created. Your selection is preserved.',false);}
     finally{state.downloadController=null;state.downloadBatch=false;updateSelection();}
   }
@@ -237,13 +243,13 @@
       state.batches=new Map((Array.isArray(inventory.batches)?inventory.batches:[]).map(b=>[text(b.id),text(b.label)||text(b.id)]));state.categories=new Map((Array.isArray(inventory.categories)?inventory.categories:[]).map(c=>[text(c.id),text(c.label)||text(c.id)]));
       const seen=new Set();state.images=inventory.images.filter(r=>{if(!r||!r.id||!r.file||seen.has(text(r.id)))return false;seen.add(text(r.id));return true;}).map(r=>({...r,id:text(r.id),_search:''}));
       for(const row of state.images)row._search=searchText(row);state.byId=new Map(state.images.map(r=>[r.id,r]));
-      const newBatches=[...new Set(state.images.filter(r=>r.service===poolService&&r.origin==='new').map(r=>text(r.batch_id)).filter(Boolean))];state.defaultBatch=newBatches.find(id=>id.includes('2026-11-25'))||newBatches.at(-1)||'';
+      const newBatches=[...new Set(state.images.filter(r=>r.service===poolService&&r.origin==='new').map(r=>text(r.batch_id)).filter(Boolean))];state.defaultBatch=document.body.dataset.collectionBatch||newBatches.at(-1)||'';
       state.selected=new Set([...state.selected].filter(id=>state.byId.has(id)));fillFilters();buildMetrics();
       if(isPool){byId('filter-batch').value=state.defaultBatch;updatePoolContext();}
       const params=new URLSearchParams(location.search);if(params.has('q'))byId('search').value=params.get('q');
       if(params.has('id'))byId('search').value=params.get('id');
       for(const key of ['origin','service','category','batch','usage','quality']){const el=byId('filter-'+key),value=params.get(key);if(el&&value!==null&&[...el.options].some(o=>o.value===value))el.value=value;}
-      if(isPool&&params.get('tab')==='existing'){state.poolTab='existing';byId('filter-batch').value='';updatePoolContext();}
+      if(isPool&&params.get('tab')==='existing'){state.poolTab='existing';const requested=params.get('batch');byId('filter-batch').value=requested&&[...byId('filter-batch').options].some(o=>o.value===requested)?requested:'';updatePoolContext();}
       byId('inventory-updated').textContent='Inventory snapshot · '+displayDate(inventory.updated_at);state.page=1;render();
     }catch(error){byId('image-grid').replaceChildren();byId('pagination').hidden=true;byId('result-count').textContent='Inventory unavailable';byId('result-note').textContent='The image files and usage records have not been changed.';byId('image-results').setAttribute('aria-busy','false');showMessage('We couldn’t load the inventory','Please try again. If you opened this HTML file directly, open the hosted gallery so its inventory can load.',true);console.error('Image inventory load failed:',error);}
   }

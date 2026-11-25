@@ -9,6 +9,7 @@ These rules govern the pool intake begun on 2026-11-25 and later batches that us
 - Add pool images to their own collection and batch. Preserve all existing file paths, catalog keys, asset IDs and WordPress mappings. Do not reorganize prior assets to accommodate a new category.
 - Classify by visible subject and intended topic, independently of batch membership and WordPress usage. A new batch means newly collected in this workflow; it does not prove that an image has never appeared elsewhere.
 - Keep unavailable, excluded and held candidates in the source/intake record. Only accepted, present files belong in downloadable gallery results and active import catalogs.
+- Record broad communities and reference articles separately from individual image candidates. A resolved resource URL does not count as accepted artwork. A community reference does not authorize collecting unrelated feed imagery to fill the gallery.
 
 ## 2. Collect and inspect the actual image
 
@@ -64,8 +65,17 @@ Use these categories when a finally accepted image actually supports them. Keep 
 | Skimmer inspection | Skimmer lids, openings and surrounding inspection markers |
 | Pump and equipment leaks | Pump connections, visible drips, equipment and repair tools |
 | General pool context | Pool shapes, vinyl liners, entry steps and wider pool views |
+| Autofill and water-level control | Float valves, autofill chambers, supply shutoffs and water-level controls |
+| Pool heater equipment | Heater cabinets, controls, plumbing connections and identifiable heater components |
+| Freeze protection | Freeze-protection controls, temperature sensors and identifiable protection components |
+| Winter pool care | Pool covers, winterizing plugs, drained fittings and clearly shown seasonal preparations |
+| Cold-weather pool conditions | Visible snow or ice around a pool, ladder or equipment, without inferring the cause or a damage diagnosis |
+| Pool efficiency | Variable-speed pump controls, pool covers and identifiable water- or energy-management equipment |
+| Pool maintenance | Filters, baskets, gauges, cleaning equipment and maintenance components without people or body parts |
 
 Use general pool views as contextual imagery, not evidence of a leak. Do not claim coverage of specialist topics such as main-drain testing, pressure testing or spa diagnostics unless a reviewed asset actually shows the relevant subject.
+
+The related pool care intake uses its own `pool-care-intake-2026-11-25` batch and `pool-care` collection. Keep its images separate from the first leak-detection batch while allowing references to canonical files from either collection. Classify the visible equipment or preparation without inferring its operating condition, successful freeze protection, a completed maintenance procedure or measured efficiency savings. Seasonal scenery alone does not verify a protective function.
 
 ## 7. Gallery collection is separate from WordPress deployment
 

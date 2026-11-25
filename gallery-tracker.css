@@ -6,3 +6,18 @@
 @media(max-width:390px){.nav-links{flex-direction:column;align-items:flex-end;gap:7px}.hero-note .small{display:block;margin-left:0}.collection-switch button{font-size:.65rem;padding-inline:6px;gap:5px}.image-grid{grid-template-columns:1fr}.image-card h3{min-height:0;font-size:1rem}.card-kicker{display:flex;font-size:.64rem}.card-kicker .dimensions{font-size:.62rem}.usage-chip{font-size:.67rem}.image-id{font-size:.65rem}.card-body{padding:16px}.card-actions{padding:12px}.card-actions .button{font-size:.73rem}.tag{font-size:.61rem}.card-tags{gap:6px}.filter-grid,.filter-grid:has(>label:nth-child(6)){gap:10px}.status-guide dl{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}.image-card:hover .image-button img{transform:none}}
 .detail-scope{margin-top:12px;font-size:.71rem;color:var(--muted)}.detail-scope summary{font-weight:700;cursor:pointer}.detail-scope p{font-size:.7rem;line-height:1.6;margin:9px 0 0}
+
+/* Related pool care resource directory. */
+.nav-links{flex-wrap:wrap;justify-content:flex-end}
+.resource-directory{margin-top:48px;padding-top:28px;border-top:1px solid var(--line)}
+.resource-directory h2{font-size:1.5rem;letter-spacing:-.03em;margin:0 0 10px}
+.resource-directory>p{font-size:1rem;line-height:1.65;color:var(--muted);max-width:900px}
+.resource-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:22px}
+.resource-card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px;min-width:0}
+.resource-card h3{font-size:1rem;line-height:1.45;margin:10px 0}
+.resource-card h3 a{color:var(--navy);text-decoration-thickness:1px;text-underline-offset:3px}
+.resource-topic{font-size:.875rem;color:#8b3908;font-weight:750}
+.resource-card p{font-size:.875rem;line-height:1.65;color:var(--muted);margin:8px 0 0}
+.resource-state{font-size:.875rem;font-weight:750;color:var(--navy);display:block;margin-top:12px}
+.resource-directory .resource-footnote{font-size:.875rem}
+@media(max-width:650px){.resource-grid{grid-template-columns:1fr}.resource-card{padding:18px}.site-nav{padding-block:18px}.nav-links{max-width:190px}}

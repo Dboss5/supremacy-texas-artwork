@@ -1,0 +1,658 @@
+{
+  "schema_version": 1,
+  "batch_id": "pool-care-intake-2026-11-25",
+  "date": "2026-11-25",
+  "baseline_commit": "9a8c7409fa0f5c8cb0d9ef38f6afa2dff76bc619",
+  "supplied_source_count": 10,
+  "resolved_resource_count": 10,
+  "combined_pool_source_count": 22,
+  "accepted_count": 12,
+  "accepted_by_source": {
+    "Texas Tiny Pools": 2,
+    "Wine Country Pools And Supplies": 6,
+    "Pinch A Penny": 2,
+    "Pool Magazine": 1,
+    "Texas Co-op Power": 1
+  },
+  "categories": {
+    "general-pool": 1,
+    "autofill-water-level": 7,
+    "cold-weather-pools": 4
+  },
+  "quality_counts": {
+    "standard": 3,
+    "supporting": 9
+  },
+  "source_coverage": [
+    {
+      "user_source_number": 1,
+      "overall_source_number": 13,
+      "source_name": "Reddit",
+      "source_title": "Pool autofill does not turn off",
+      "source_page": "https://www.reddit.com/r/pools/comments/1rrpuuz/pool_autofill_does_not_turn_off/",
+      "requested_topic": "Pool autofill does not turn off",
+      "topic": "Autofill & water-level control",
+      "status": "Image files unavailable",
+      "note": "Reddit denied automated browser access. The exact post remains a resource; its image was not downloaded or visually approved.",
+      "accepted_image_count": 0,
+      "candidate_counts": {
+        "unavailable": 1
+      },
+      "accepted_asset_ids": [],
+      "source_credit_notes": [],
+      "research_notes": [
+        "Normal direct source-page requests failed with a network tunnel 403; the process follow-up reported that network approval was cancelled before a decision was returned. The route was not retried. The permitted web retrieval tool supplied page text and image URLs, but no downloadable image bytes or local image artifact.",
+        "The exact post was resolved by its title; no similarly titled substitute post was selected. One still-image preview URL is exposed by the post.",
+        "One ordinary browser attempt of the exact post produced an explicit automation access denial. The block was reported; no retry, alternate host or direct image route was attempted afterward."
+      ],
+      "source_status": "browser_automation_access_denied",
+      "source_publication_date": null,
+      "related_pages": []
+    },
+    {
+      "user_source_number": 2,
+      "overall_source_number": 14,
+      "source_name": "Reddit r/pools community",
+      "source_title": "r/pools",
+      "source_page": "https://www.reddit.com/r/pools/",
+      "requested_topic": "general r/pools community",
+      "topic": "General pool resources",
+      "status": "Reference only",
+      "note": "Community resource. No unrelated feed images were collected.",
+      "accepted_image_count": 0,
+      "candidate_counts": {},
+      "accepted_asset_ids": [],
+      "source_credit_notes": [],
+      "research_notes": [
+        "General community resource recorded. No unrelated feed images were harvested. Only the separately named autofill post was pursued for candidate imagery."
+      ],
+      "source_status": "reference_only",
+      "source_publication_date": null,
+      "related_pages": []
+    },
+    {
+      "user_source_number": 3,
+      "overall_source_number": 15,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "requested_topic": "Fixing a swimming pool automatic fill system",
+      "topic": "Autofill & water-level control",
+      "status": "6 accepted images",
+      "note": "Accepted files are reviewed, stored in this batch and available in the gallery.",
+      "accepted_image_count": 6,
+      "candidate_counts": {
+        "held": 6,
+        "excluded": 7,
+        "accepted": 6
+      },
+      "accepted_asset_ids": [
+        "care-b63661253bb4",
+        "care-a5237303b863",
+        "care-87e33c13633e",
+        "care-d22fde856ce0",
+        "care-7018ab44ae6e",
+        "care-22599fc13d7d"
+      ],
+      "source_credit_notes": [],
+      "research_notes": [
+        "Normal direct source-page requests failed with a network tunnel 403; the process follow-up reported that network approval was cancelled before a decision was returned. The route was not retried. The permitted web retrieval tool supplied page text and image URLs, but no downloadable image bytes or local image artifact.",
+        "Readable article text describes shutoff valves and three types of autofill. The permitted text extraction did not expose the article photographs or their asset URLs; only comment avatars appeared as image links. Comment avatars and unrelated image-search results were excluded from collection.",
+        "The later ordinary browser page loaded normally and exposed 20 linked article image placements with 19 unique original links. All 19 original files were downloaded and visually reviewed; the repeated SideFillExample_001.jpg placement uses canonical wine-country-06. Six accepted, six held for annotations/composite uncertainty, seven excluded for branding, promotional graphics or visible/reflected body parts."
+      ],
+      "source_status": "originals_reviewed",
+      "source_publication_date": null,
+      "related_pages": []
+    },
+    {
+      "user_source_number": 4,
+      "overall_source_number": 16,
+      "source_name": "Texas Tiny Pools",
+      "source_title": "How To: Maintain and Troubleshoot Your Autofill System",
+      "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+      "requested_topic": "Maintaining and troubleshooting an autofill system",
+      "topic": "Autofill & water-level control",
+      "status": "2 accepted images",
+      "note": "Accepted files are reviewed, stored in this batch and available in the gallery.",
+      "accepted_image_count": 2,
+      "candidate_counts": {
+        "accepted": 2,
+        "held": 1
+      },
+      "accepted_asset_ids": [
+        "care-b29e442a9382",
+        "care-ce40afbabba5"
+      ],
+      "source_credit_notes": [],
+      "research_notes": [
+        "Normal direct source-page requests failed with a network tunnel 403; the process follow-up reported that network approval was cancelled before a decision was returned. The route was not retried. The permitted web retrieval tool supplied page text and image URLs, but no downloadable image bytes or local image artifact.",
+        "Three article still-image URLs were resolved. The embedded instructional video and any associated posters were not selected. Web image opens returned text-only ImageDisplayed placeholders, not image bytes or image-content blocks.",
+        "The ordinary browser loaded this article normally. Its three original CDN assets were downloaded through documented downloadMedia and copied from the exact returned paths. Two passed visual review; the text-heavy RPZ graphic is held. Earlier network-tunnel failures were not treated as origin-site denial."
+      ],
+      "source_status": "three_originals_reviewed_two_accepted_one_held",
+      "source_publication_date": null,
+      "related_pages": []
+    },
+    {
+      "user_source_number": 5,
+      "overall_source_number": 17,
+      "source_name": "Cool Pools",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "requested_topic": "Swimming pool heater repair",
+      "topic": "Pool heater equipment",
+      "status": "Candidates held for review",
+      "note": "Available candidates did not establish suitable imagery under the collection rules.",
+      "accepted_image_count": 0,
+      "candidate_counts": {
+        "held": 2,
+        "excluded": 5
+      },
+      "accepted_asset_ids": [],
+      "source_credit_notes": [],
+      "research_notes": [],
+      "source_status": null,
+      "source_publication_date": null,
+      "related_pages": []
+    },
+    {
+      "user_source_number": 6,
+      "overall_source_number": 18,
+      "source_name": "Leak Experts USA",
+      "source_title": "Expert Plumber in Las Vegas Nevada | Leak Experts USA",
+      "source_page": "https://leakexpertsusa.com/",
+      "requested_topic": "General plumbing website with pool leak service links",
+      "topic": "Pool services & leak detection",
+      "status": "No images passed review",
+      "note": "Downloaded images were excluded under the collection rules.",
+      "accepted_image_count": 0,
+      "candidate_counts": {
+        "excluded": 5
+      },
+      "accepted_asset_ids": [],
+      "source_credit_notes": [],
+      "research_notes": [],
+      "source_status": null,
+      "source_publication_date": null,
+      "related_pages": [
+        {
+          "title": "Pool Leak Detection & Repair Las Vegas",
+          "url": "https://leakexpertsusa.com/service/pool-leak-detection-repair-in-las-vegas/"
+        },
+        {
+          "title": "Pool Leak Detection Summerlin | Best Plumbing",
+          "url": "https://leakexpertsusa.com/service/pool-leak-detection-summerlin/"
+        },
+        {
+          "title": "Pool Leak Detection Henderson | Best Solutions",
+          "url": "https://leakexpertsusa.com/service/pool-leak-detection-henderson-nv/"
+        }
+      ]
+    },
+    {
+      "user_source_number": 7,
+      "overall_source_number": 19,
+      "source_name": "Pinch A Penny",
+      "source_title": "Pool Care Tips for Freezing Temperatures",
+      "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+      "requested_topic": "Freezing-weather pool care tips",
+      "topic": "Freeze protection & winter care",
+      "status": "2 accepted images",
+      "note": "Accepted files are reviewed, stored in this batch and available in the gallery.",
+      "accepted_image_count": 2,
+      "candidate_counts": {
+        "accepted": 2,
+        "excluded": 1
+      },
+      "accepted_asset_ids": [
+        "care-aaa47e7df163",
+        "care-9a9505999cc4"
+      ],
+      "source_credit_notes": [],
+      "research_notes": [],
+      "source_status": null,
+      "source_publication_date": null,
+      "related_pages": []
+    },
+    {
+      "user_source_number": 8,
+      "overall_source_number": 20,
+      "source_name": "Pool Magazine",
+      "source_title": "Pool Owners Brace For Hard Freeze This Holiday Weekend",
+      "source_page": "https://www.poolmagazine.com/pool-equipment/pool-owners-brace-for-hard-freeze-this-holiday-weekend/",
+      "requested_topic": "Preparing pools for a hard freeze",
+      "topic": "Freeze protection & winter care",
+      "status": "1 accepted image",
+      "note": "Accepted files are reviewed, stored in this batch and available in the gallery.",
+      "accepted_image_count": 1,
+      "candidate_counts": {
+        "accepted": 1,
+        "excluded": 1,
+        "held": 1
+      },
+      "accepted_asset_ids": [
+        "care-b7dc06be40b8"
+      ],
+      "source_credit_notes": [
+        "Featured photo credited in the article to Facebook / Kathy Ott Prior.",
+        "Broken-pump and damaged-equipment photos credited in the article to Tom Blue / TrueBlue Pools."
+      ],
+      "research_notes": [],
+      "source_status": "reviewed_with_accepted_images",
+      "source_publication_date": "2022-12-23",
+      "related_pages": []
+    },
+    {
+      "user_source_number": 9,
+      "overall_source_number": 21,
+      "source_name": "Texas Co-op Power",
+      "source_title": "Pooling Winter Efficiency",
+      "source_page": "https://texascooppower.com/pooling-winter-efficiency/",
+      "requested_topic": "Pooling winter efficiency",
+      "topic": "Pool efficiency",
+      "status": "1 accepted image",
+      "note": "Accepted files are reviewed, stored in this batch and available in the gallery.",
+      "accepted_image_count": 1,
+      "candidate_counts": {
+        "accepted": 1
+      },
+      "accepted_asset_ids": [
+        "care-8e4382ef4c90"
+      ],
+      "source_credit_notes": [
+        "The article credits its image to Shutterstock.com. No independent source license grant is asserted."
+      ],
+      "research_notes": [],
+      "source_status": "reviewed_with_accepted_images",
+      "source_publication_date": "2016-11",
+      "related_pages": []
+    },
+    {
+      "user_source_number": 10,
+      "overall_source_number": 22,
+      "source_name": "Swimming Pool Steve",
+      "source_title": "Winter Pool Maintenance",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "requested_topic": "Winter pool care",
+      "topic": "Winter pool care",
+      "status": "No images passed review",
+      "note": "Downloaded images were excluded under the collection rules.",
+      "accepted_image_count": 0,
+      "candidate_counts": {
+        "excluded": 1
+      },
+      "accepted_asset_ids": [],
+      "source_credit_notes": [],
+      "research_notes": [],
+      "source_status": "reviewed_no_accepted_images",
+      "source_publication_date": null,
+      "related_pages": []
+    }
+  ],
+  "candidate_status_counts": {
+    "unavailable": 1,
+    "accepted": 12,
+    "held": 10,
+    "excluded": 20
+  },
+  "assets": [
+    {
+      "candidate_id": "tiny-pools-01",
+      "asset_id": "care-b29e442a9382",
+      "file": "pool-care/2026-11-25/backyard-pool-with-a-shallow-lounging-ledge.jpg",
+      "source": "Texas Tiny Pools",
+      "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+      "source_title": "How To: Maintain and Troubleshoot Your Autofill System",
+      "original_source_labels": {},
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61f01f8cec514c7ba90d03d1/af510657-98c1-47af-9c9c-557e626d32d1/TinyPools-Ramsey-14.JPG",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        1920,
+        1280
+      ],
+      "display_dimensions": [
+        1920,
+        1280
+      ],
+      "source_sha256": "b29e442a9382b747964402aee6cc457d84b1f84a769c50a80b0708ae1ce9d682",
+      "final_sha256": "d841cff27dc853f00c5a1ed811d10d9f1769112803d22ce3584da29859ed925d",
+      "final_git_blob_sha": "6f61ebc194046f7842737f58aafd5426d75d569e",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "tiny-pools-02",
+      "asset_id": "care-ce40afbabba5",
+      "file": "pool-care/2026-11-25/autofill-float-valve-assembly.jpg",
+      "source": "Texas Tiny Pools",
+      "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+      "source_title": "How To: Maintain and Troubleshoot Your Autofill System",
+      "original_source_labels": {
+        "source_alt": "Fluidmaster valve for pool autofill"
+      },
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61f01f8cec514c7ba90d03d1/f7bc3392-ed7a-4f36-9ad5-f2846b3867c4/PoolMiser%2BFluidmaster%2BValve.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        600,
+        600
+      ],
+      "display_dimensions": [
+        600,
+        600
+      ],
+      "source_sha256": "ce40afbabba5fffbfeb08165d2c322e2d949553a5dbe65f87f87d655c9a18e2b",
+      "final_sha256": "a86cf635b96e1ac510594d11013a101c588cc9c2f7d686345c653cf4b2ce2f22",
+      "final_git_blob_sha": "fdb9917397f73a88ab03741e0aa5c4fff272df77",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "wine-country-06",
+      "asset_id": "care-b63661253bb4",
+      "file": "pool-care/2026-11-25/float-valve-and-thread-tape-on-a-pool-deck.jpg",
+      "source": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "original_source_labels": {},
+      "article_occurrences": 2,
+      "article_placements": [
+        6,
+        10
+      ],
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HosW0sxOVcambRbG-SGfdDV_Zde21uSeolXDmJ_3J4FhzJ7xzXMdJCZ5MV3tP7bHOesBSYa5f801OfHZNohnkWU-wmc82Ek8wzioNhOE57c0W7XRoTarXp8S9RA0Nr6hoY56-f0qvvk/s1600/SideFillExample_001.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        814,
+        413
+      ],
+      "display_dimensions": [
+        814,
+        413
+      ],
+      "source_sha256": "b63661253bb475d9f292622cb0f0e521c4d461ca68b719d3533ac727aff3108f",
+      "final_sha256": "ecd5aad9fc72b1e1cddd19be119fe306c7ed583dfc433bfed71216f82d081660",
+      "final_git_blob_sha": "3f4451e541567d3e8eacb3662c8dbe0db888c6bb",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "wine-country-10",
+      "asset_id": "care-a5237303b863",
+      "file": "pool-care/2026-11-25/open-pool-water-fill-chamber.jpg",
+      "source": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "original_source_labels": {},
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZPOG3UQK-sxT_FonrYAslWo1cwfg3Ofch_6tdI6gKJ8YUFsB7qqp8g0TP194h6ZqUey6DiZdT6Ua48fPZu_e-CZkShfr_4UByzubacf7JvjVpTCcktxV9cRdFz6Ffv3G2Hi8eLm2AJOE/s1600/SideFillExample_002.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        734,
+        979
+      ],
+      "display_dimensions": [
+        734,
+        979
+      ],
+      "source_sha256": "a5237303b86303b216b79ed292fbb7fc45c74d1aa5e5805f87af30831f945ea6",
+      "final_sha256": "ddd8cc69ac7bee92557eef94278573d82bab14d7d55dbe49c468daeb3d405b37",
+      "final_git_blob_sha": "3ac4554f9c3008c28d4990d61b605b859b305a5e",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "wine-country-13",
+      "asset_id": "care-87e33c13633e",
+      "file": "pool-care/2026-11-25/float-valve-parts-beside-a-pool-access-opening.jpg",
+      "source": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "original_source_labels": {},
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDck2t6QnDfrVPCaFafGpzYaEOMJo2r_BA5b9H1o-daZDYBMaMvtXrKhpTec47x61W2xnJE049aDGItYSYpXy3VwX-uAKLRJuW2qhTn8UlapU1yyLA0rVxphIb5QXarAqM2JJlU85Ki-U/s1600/SideFillExample_004.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        979,
+        734
+      ],
+      "display_dimensions": [
+        979,
+        734
+      ],
+      "source_sha256": "87e33c13633e1286123727288c0fe7bc805ebff05d18a20630ea1c3432091213",
+      "final_sha256": "c4c12485af23a059176422242ebc32c15c139e2e0ddfafd2d8c60d42e2cea9af",
+      "final_git_blob_sha": "78e23e9b3dc286f75f149fec6fd59353c7f84813",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "wine-country-14",
+      "asset_id": "care-d22fde856ce0",
+      "file": "pool-care/2026-11-25/float-valve-with-taped-inlet-threads.jpg",
+      "source": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "original_source_labels": {},
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJvQIvm73jXQxlWa2CBWxWjeN-j11NJs6GMg640PTUIMsTvpYT9i7tl-B-eaxE9_t5JrthfxxZBFyg-Sj2nDJVZxN0P6GJ1VHlp_UL7DIpBBpgo-uRNh8JLtgaii7dJU4E4mmcjtSC4Y0/s1600/SideFillExample_005.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        979,
+        734
+      ],
+      "display_dimensions": [
+        979,
+        734
+      ],
+      "source_sha256": "d22fde856ce0e3d0f0c75115f88b6d21ebc25cc9d15bfbf275f22a2c26ec88a4",
+      "final_sha256": "2980bb3fb10410b215f9bba045e27fb4a0069dda9a8e1be49c7382d3f7e030ee",
+      "final_git_blob_sha": "126653c15e83b2befd2842128912cb6115dde2f9",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "wine-country-17",
+      "asset_id": "care-7018ab44ae6e",
+      "file": "pool-care/2026-11-25/white-float-valve-inside-a-water-fill-chamber.jpg",
+      "source": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "original_source_labels": {},
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNA-CvSmxtnFh4AwpRnAfwuqMuF9LWLHrrPbhoM1G0HcvE9EKhOWLXlGGu6J1HsjnFSp1LW-HHi3RSyCoPCMFYYYbYFaRUTt08RPMQBjE2L2UXrFBf73ZkBeRiQOxZYPzhhEE-iXL5oAo/s1600/SideFillExample_008.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        734,
+        979
+      ],
+      "display_dimensions": [
+        734,
+        979
+      ],
+      "source_sha256": "7018ab44ae6ed1549beb9987afb78dc73fb0795f60c38cda982b8e7b9328815e",
+      "final_sha256": "acf2a62d99d5051d55777d9b172fe563aed5e1fa1a764ade085d769a1ec5ec14",
+      "final_git_blob_sha": "d3eeb995374d7f6170b9e76cac5488e8bf584d05",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "wine-country-19",
+      "asset_id": "care-22599fc13d7d",
+      "file": "pool-care/2026-11-25/poolside-access-covers-and-service-tools.jpg",
+      "source": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "original_source_labels": {},
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_yvo8pQYS_hZqpvYCBTaIORf7V4GrqDwEPBm4ib7yx0TFz9-Gsb_uSDCc-ohtd3hW0_ASKFm4UBjlvG1Vs_dWzOaHsHnFzJq8Oqg5ELnngVeoYIBwJpkXVrB14oa4uRVbA4KmYJPFB_o/s1600/SideFillExample_010.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        734,
+        979
+      ],
+      "display_dimensions": [
+        734,
+        979
+      ],
+      "source_sha256": "22599fc13d7d15228a1ca8aa948a1df031c1b3f19ba879437f1da431ea75d97b",
+      "final_sha256": "baea92aae6921dcb4cd0d0e3053cd6e8df12443dde47870fcfeed1c0ad4a10f3",
+      "final_git_blob_sha": "29bf4f4136c5647d34bcca3eb72240b1ba92fdb0",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "pinch-snowy-pool",
+      "asset_id": "care-aaa47e7df163",
+      "file": "pool-care/2026-11-25/snow-around-an-outdoor-swimming-pool.jpg",
+      "source": "Pinch A Penny",
+      "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+      "source_title": "Pool Care Tips for Freezing Temperatures",
+      "original_source_labels": {
+        "source_alt": "pool with snow falling"
+      },
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://papcomshared.blob.core.windows.net/app/Blogs/Snowy-Pool.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        700,
+        350
+      ],
+      "display_dimensions": [
+        700,
+        350
+      ],
+      "source_sha256": "aaa47e7df16397c475233eb9ae59e5609fdb1d13d98d4d52b9c784389d85cb1a",
+      "final_sha256": "cd8d2648a37b7d5d970dde67fe9572920fdbe762693a64158e8f6be72805980a",
+      "final_git_blob_sha": "3fffb51e45036cf73f65979bbdfde2d79670b655",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "pinch-frozen-equipment",
+      "asset_id": "care-9a9505999cc4",
+      "file": "pool-care/2026-11-25/ice-covered-outdoor-equipment-area.jpg",
+      "source": "Pinch A Penny",
+      "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+      "source_title": "Pool Care Tips for Freezing Temperatures",
+      "original_source_labels": {},
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://papcomshared.blob.core.windows.net/app/posts/image001frozen.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        585,
+        780
+      ],
+      "display_dimensions": [
+        585,
+        780
+      ],
+      "source_sha256": "9a9505999cc4624ae09c00292cdce41b8715a80aaa4b99574ae53ddb487330b3",
+      "final_sha256": "9a9505999cc4624ae09c00292cdce41b8715a80aaa4b99574ae53ddb487330b3",
+      "final_git_blob_sha": "54c844f71db646720cafe5d83197a7811f308317",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "poolmag-freeze",
+      "asset_id": "care-b7dc06be40b8",
+      "file": "pool-care/2026-11-25/ice-covered-pool-equipment-beside-a-brick-wall.jpg",
+      "source": "Pool Magazine",
+      "source_page": "https://www.poolmagazine.com/pool-equipment/pool-owners-brace-for-hard-freeze-this-holiday-weekend/",
+      "source_title": "Pool Owners Brace For Hard Freeze This Holiday Weekend",
+      "original_source_labels": {
+        "source_credit": "Facebook / Kathy Ott Prior, as credited by Pool Magazine."
+      },
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://www.poolmagazine.com/wp-content/uploads/2022/12/pool-equipment-freeze-kathy-ott-prior.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "display_dimensions": [
+        1280,
+        960
+      ],
+      "source_sha256": "b7dc06be40b8fbc85ce528c30ef59fa4b46ff130020f8b7b7a891114e414e334",
+      "final_sha256": "d95ed6351c6207d94fc0a5fafa1c7fafec87b0489f8e74176a6e3a2b0b17da57",
+      "final_git_blob_sha": "f531746db69bf8d82609b26cd3db8aedfabe3d21",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    },
+    {
+      "candidate_id": "texas-coop-frozen-pool",
+      "asset_id": "care-8e4382ef4c90",
+      "file": "pool-care/2026-11-25/icy-pool-entry-with-a-metal-ladder.jpg",
+      "source": "Texas Co-op Power",
+      "source_page": "https://texascooppower.com/pooling-winter-efficiency/",
+      "source_title": "Pooling Winter Efficiency",
+      "original_source_labels": {
+        "source_credit": "Shutterstock.com, as credited by Texas Co-op Power; no independent license grant asserted."
+      },
+      "article_occurrences": 1,
+      "article_placements": [],
+      "image_url": "https://texascooppower.com/wp-content/uploads/2021/12/detail_Frozen_Pool.jpg",
+      "retrieved_on": "2026-11-25",
+      "source_dimensions": [
+        1200,
+        800
+      ],
+      "display_dimensions": [
+        1200,
+        800
+      ],
+      "source_sha256": "8e4382ef4c9005a3e6b9bb5ff0d3a229c3c481609029820eeac0f9e068226f1e",
+      "final_sha256": "8e4382ef4c9005a3e6b9bb5ff0d3a229c3c481609029820eeac0f9e068226f1e",
+      "final_git_blob_sha": "f9c6e601ec46d3d7a397f642ce759bdc81d340e8",
+      "original_orientation": 1,
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels.",
+      "authorization_record": "User supplied this named source list and directed continuation of the existing collection workflow. No independent source-specific license grant is asserted."
+    }
+  ],
+  "previous_collection_reference_count": 36,
+  "usage_audit_note": "Prior dated usage evidence is preserved without re-auditing or relabeling the earlier 1,296 image rows.",
+  "usage_snapshot_at": "2026-11-25T06:36:36.852590+00:00",
+  "usage_status_counts": {
+    "in_use": 244,
+    "imported_unconfirmed": 18,
+    "existing_unverified": 1015,
+    "new_not_deployed": 31
+  },
+  "duplicate_check": {
+    "accepted_candidates_checked": 12,
+    "exact_byte_repository_files": 1466,
+    "repository_raster_paths": 1407,
+    "verified_current_perceptual_paths": 791,
+    "raster_paths_outside_perceptual_coverage": 616,
+    "verified_active_catalogs": 9,
+    "catalog_records_checked": 1296,
+    "current_repository_matches": 0,
+    "within_batch_matches": 0,
+    "source_asset_url_matches": 0
+  },
+  "duplicate_check_report": "pool-care-dedup-report.json",
+  "wordpress_changes": []
+}

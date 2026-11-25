@@ -1,0 +1,612 @@
+[
+  {
+    "id": "care-b29e442a9382",
+    "file": "pool-care/2026-11-25/backyard-pool-with-a-shallow-lounging-ledge.jpg",
+    "key": "64be06526f17bfc133644dca69b4f3b525bbd17e0707a956e359f7b436a499c3",
+    "title": "Backyard pool with a shallow lounging ledge",
+    "public_metadata": {
+      "title": "Backyard pool with a shallow lounging ledge",
+      "alt": "A backyard swimming pool with white lounge chairs on a shallow ledge, striped waterline tile and a wood privacy fence",
+      "caption": "A shallow lounging ledge and striped tile border a backyard swimming pool.",
+      "description": "Clear water covers a wide shallow ledge with white lounge chairs. Striped waterline tile, a narrow grass border and a wood fence surround the pool."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Texas Tiny Pools",
+    "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+    "original_url": "https://images.squarespace-cdn.com/content/v1/61f01f8cec514c7ba90d03d1/af510657-98c1-47af-9c9c-557e626d32d1/TinyPools-Ramsey-14.JPG",
+    "width": 1920,
+    "height": 1280,
+    "category": "general-pool",
+    "tags": [
+      "pool-overview",
+      "pool-steps",
+      "pool-context"
+    ],
+    "quality": "standard",
+    "limitations": [
+      "General pool context. No autofill component, leak diagnosis or maintenance procedure is visible."
+    ],
+    "sha256": "d841cff27dc853f00c5a1ed811d10d9f1769112803d22ce3584da29859ed925d",
+    "git_blob_sha": "6f61ebc194046f7842737f58aafd5426d75d569e",
+    "source_sha256": "b29e442a9382b747964402aee6cc457d84b1f84a769c50a80b0708ae1ce9d682",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "d841cff27dc853f00c5a1ed811d10d9f1769112803d22ce3584da29859ed925d",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-ce40afbabba5",
+    "file": "pool-care/2026-11-25/autofill-float-valve-assembly.jpg",
+    "key": "2451e6b9c6baec15452dd56165da1b66c0f838a8dce2831080aa6f9c6fb59cbc",
+    "title": "Autofill float valve assembly",
+    "public_metadata": {
+      "title": "Autofill float valve assembly",
+      "alt": "A black and gray float valve assembly with a sliding float and threaded inlet on a white background",
+      "caption": "Autofill float valve assembly.",
+      "description": "A black and gray valve assembly with a cylindrical float, vertical adjustment rod and threaded inlet."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Texas Tiny Pools",
+    "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+    "original_url": "https://images.squarespace-cdn.com/content/v1/61f01f8cec514c7ba90d03d1/f7bc3392-ed7a-4f36-9ad5-f2846b3867c4/PoolMiser%2BFluidmaster%2BValve.jpg",
+    "width": 600,
+    "height": 600,
+    "category": "autofill-water-level",
+    "tags": [
+      "fill-valve",
+      "float-valve",
+      "water-level-control"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Native image is 600 by 600 pixels; use for supporting placements without upscaling.",
+      "An isolated component image does not establish installation compatibility or operating condition.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "a86cf635b96e1ac510594d11013a101c588cc9c2f7d686345c653cf4b2ce2f22",
+    "git_blob_sha": "fdb9917397f73a88ab03741e0aa5c4fff272df77",
+    "source_sha256": "ce40afbabba5fffbfeb08165d2c322e2d949553a5dbe65f87f87d655c9a18e2b",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "a86cf635b96e1ac510594d11013a101c588cc9c2f7d686345c653cf4b2ce2f22",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-b63661253bb4",
+    "file": "pool-care/2026-11-25/float-valve-and-thread-tape-on-a-pool-deck.jpg",
+    "key": "a5f37af9ada744a7bc21f353d263724db0db9ca6be3cd21319a62fdaf20b7305",
+    "title": "Float valve and thread tape on a pool deck",
+    "public_metadata": {
+      "title": "Float valve and thread tape on a pool deck",
+      "alt": "A white float attached to a metal valve beside a roll of thread tape on concrete",
+      "caption": "A float valve assembly and thread tape lie on the pool deck.",
+      "description": "A metal valve with a white oval float rests on concrete beside blue and white thread tape. The valve inlet and adjustment mechanism are visible."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Wine Country Pools And Supplies",
+    "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+    "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HosW0sxOVcambRbG-SGfdDV_Zde21uSeolXDmJ_3J4FhzJ7xzXMdJCZ5MV3tP7bHOesBSYa5f801OfHZNohnkWU-wmc82Ek8wzioNhOE57c0W7XRoTarXp8S9RA0Nr6hoY56-f0qvvk/s1600/SideFillExample_001.jpg",
+    "width": 814,
+    "height": 413,
+    "category": "autofill-water-level",
+    "tags": [
+      "autofill",
+      "float-valve",
+      "thread-tape",
+      "maintenance-components"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Native source is 814 by 413 pixels; supporting use without upscaling.",
+      "Equipment example only; the image does not establish a repair result.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "ecd5aad9fc72b1e1cddd19be119fe306c7ed583dfc433bfed71216f82d081660",
+    "git_blob_sha": "3f4451e541567d3e8eacb3662c8dbe0db888c6bb",
+    "source_sha256": "b63661253bb475d9f292622cb0f0e521c4d461ca68b719d3533ac727aff3108f",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "ecd5aad9fc72b1e1cddd19be119fe306c7ed583dfc433bfed71216f82d081660",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-a5237303b863",
+    "file": "pool-care/2026-11-25/open-pool-water-fill-chamber.jpg",
+    "key": "06ef595a470d3f84c4cc71bf391533821170cc50ef2b80037e0860d028ec94d8",
+    "title": "Open pool water-fill chamber",
+    "public_metadata": {
+      "title": "Open pool water-fill chamber",
+      "alt": "An open circular water-fill chamber with a metal side fitting and water at the bottom",
+      "caption": "Open pool water-fill chamber.",
+      "description": "An open circular water-fill chamber with a metal side fitting and water at the bottom."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Wine Country Pools And Supplies",
+    "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+    "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZPOG3UQK-sxT_FonrYAslWo1cwfg3Ofch_6tdI6gKJ8YUFsB7qqp8g0TP194h6ZqUey6DiZdT6Ua48fPZu_e-CZkShfr_4UByzubacf7JvjVpTCcktxV9cRdFz6Ffv3G2Hi8eLm2AJOE/s1600/SideFillExample_002.jpg",
+    "width": 734,
+    "height": 979,
+    "category": "autofill-water-level",
+    "tags": [
+      "autofill-chamber",
+      "side-inlet",
+      "pool-plumbing"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "734 by 979 pixels; supporting image only, without upscaling.",
+      "Focus is slightly soft. The photograph alone does not establish a failure or leak diagnosis.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "ddd8cc69ac7bee92557eef94278573d82bab14d7d55dbe49c468daeb3d405b37",
+    "git_blob_sha": "3ac4554f9c3008c28d4990d61b605b859b305a5e",
+    "source_sha256": "a5237303b86303b216b79ed292fbb7fc45c74d1aa5e5805f87af30831f945ea6",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "ddd8cc69ac7bee92557eef94278573d82bab14d7d55dbe49c468daeb3d405b37",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-87e33c13633e",
+    "file": "pool-care/2026-11-25/float-valve-parts-beside-a-pool-access-opening.jpg",
+    "key": "f53473e38a147d8792e1bddc07b503dfe15e9520051d2fefe5d3f0ddca44bfb3",
+    "title": "Float-valve parts beside a pool access opening",
+    "public_metadata": {
+      "title": "Float-valve parts beside a pool access opening",
+      "alt": "A white float attached to a metal valve, a separate metal fitting and a roll of thread tape on paving beside a circular access opening",
+      "caption": "Float-valve parts beside a pool access opening.",
+      "description": "A white float attached to a metal valve, a separate metal fitting and a roll of thread tape on paving beside a circular access opening."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Wine Country Pools And Supplies",
+    "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+    "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDck2t6QnDfrVPCaFafGpzYaEOMJo2r_BA5b9H1o-daZDYBMaMvtXrKhpTec47x61W2xnJE049aDGItYSYpXy3VwX-uAKLRJuW2qhTn8UlapU1yyLA0rVxphIb5QXarAqM2JJlU85Ki-U/s1600/SideFillExample_004.jpg",
+    "width": 979,
+    "height": 734,
+    "category": "autofill-water-level",
+    "tags": [
+      "float-valve",
+      "autofill-parts",
+      "thread-seal-tape"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "979 by 734 pixels; supporting image only, without upscaling.",
+      "Small incidental manufacturer text remains on the tape spool.",
+      "The photograph does not establish whether either valve component is faulty.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "c4c12485af23a059176422242ebc32c15c139e2e0ddfafd2d8c60d42e2cea9af",
+    "git_blob_sha": "78e23e9b3dc286f75f149fec6fd59353c7f84813",
+    "source_sha256": "87e33c13633e1286123727288c0fe7bc805ebff05d18a20630ea1c3432091213",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "c4c12485af23a059176422242ebc32c15c139e2e0ddfafd2d8c60d42e2cea9af",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-d22fde856ce0",
+    "file": "pool-care/2026-11-25/float-valve-with-taped-inlet-threads.jpg",
+    "key": "b85b7d1c4eeef83a1454ca4255cd1e6361e8ab53decfc451dfe32db2c395e61b",
+    "title": "Float valve with taped inlet threads",
+    "public_metadata": {
+      "title": "Float valve with taped inlet threads",
+      "alt": "A white float and metal valve with white tape around its inlet threads lie beside a tape spool and a separate valve fitting",
+      "caption": "Float valve with taped inlet threads.",
+      "description": "A white float and metal valve with white tape around its inlet threads lie beside a tape spool and a separate valve fitting."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Wine Country Pools And Supplies",
+    "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+    "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJvQIvm73jXQxlWa2CBWxWjeN-j11NJs6GMg640PTUIMsTvpYT9i7tl-B-eaxE9_t5JrthfxxZBFyg-Sj2nDJVZxN0P6GJ1VHlp_UL7DIpBBpgo-uRNh8JLtgaii7dJU4E4mmcjtSC4Y0/s1600/SideFillExample_005.jpg",
+    "width": 979,
+    "height": 734,
+    "category": "autofill-water-level",
+    "tags": [
+      "float-valve",
+      "threaded-fitting",
+      "thread-seal-tape"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "979 by 734 pixels; supporting image only, without upscaling.",
+      "Small incidental manufacturer text remains on the tape spool.",
+      "No installation outcome or component failure is inferred.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "2980bb3fb10410b215f9bba045e27fb4a0069dda9a8e1be49c7382d3f7e030ee",
+    "git_blob_sha": "126653c15e83b2befd2842128912cb6115dde2f9",
+    "source_sha256": "d22fde856ce0e3d0f0c75115f88b6d21ebc25cc9d15bfbf275f22a2c26ec88a4",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "2980bb3fb10410b215f9bba045e27fb4a0069dda9a8e1be49c7382d3f7e030ee",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-7018ab44ae6e",
+    "file": "pool-care/2026-11-25/white-float-valve-inside-a-water-fill-chamber.jpg",
+    "key": "55e5a731a3e77e084bb995d32c430dae642d9d51514cb14b72bccaa5dddab325",
+    "title": "White float valve inside a water-fill chamber",
+    "public_metadata": {
+      "title": "White float valve inside a water-fill chamber",
+      "alt": "A white float connected to a metal side-mounted valve inside an open circular water-fill chamber",
+      "caption": "White float valve inside a water-fill chamber.",
+      "description": "A white float connected to a metal side-mounted valve inside an open circular water-fill chamber."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Wine Country Pools And Supplies",
+    "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+    "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNA-CvSmxtnFh4AwpRnAfwuqMuF9LWLHrrPbhoM1G0HcvE9EKhOWLXlGGu6J1HsjnFSp1LW-HHi3RSyCoPCMFYYYbYFaRUTt08RPMQBjE2L2UXrFBf73ZkBeRiQOxZYPzhhEE-iXL5oAo/s1600/SideFillExample_008.jpg",
+    "width": 734,
+    "height": 979,
+    "category": "autofill-water-level",
+    "tags": [
+      "float-valve",
+      "autofill-chamber",
+      "side-inlet"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "734 by 979 pixels; supporting image only, without upscaling.",
+      "The photograph shows component arrangement, without establishing operation or repair success.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "acf2a62d99d5051d55777d9b172fe563aed5e1fa1a764ade085d769a1ec5ec14",
+    "git_blob_sha": "d3eeb995374d7f6170b9e76cac5488e8bf584d05",
+    "source_sha256": "7018ab44ae6ed1549beb9987afb78dc73fb0795f60c38cda982b8e7b9328815e",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "acf2a62d99d5051d55777d9b172fe563aed5e1fa1a764ade085d769a1ec5ec14",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-22599fc13d7d",
+    "file": "pool-care/2026-11-25/poolside-access-covers-and-service-tools.jpg",
+    "key": "9e7f0753c2addc23e52d0b03ab9b810d420d1289d6e37d6fcd46496a128a72d2",
+    "title": "Poolside access covers and service tools",
+    "public_metadata": {
+      "title": "Poolside access covers and service tools",
+      "alt": "Two round access covers, pliers, thread tape and a small metal fitting on a deck beside stone pool coping and a mesh fence",
+      "caption": "Poolside access covers and service tools.",
+      "description": "Two round access covers, pliers, thread tape and a small metal fitting on a deck beside stone pool coping and a mesh fence."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Wine Country Pools And Supplies",
+    "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+    "original_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_yvo8pQYS_hZqpvYCBTaIORf7V4GrqDwEPBm4ib7yx0TFz9-Gsb_uSDCc-ohtd3hW0_ASKFm4UBjlvG1Vs_dWzOaHsHnFzJq8Oqg5ELnngVeoYIBwJpkXVrB14oa4uRVbA4KmYJPFB_o/s1600/SideFillExample_010.jpg",
+    "width": 734,
+    "height": 979,
+    "category": "autofill-water-level",
+    "tags": [
+      "pool-access-covers",
+      "pool-deck",
+      "service-tools"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "734 by 979 pixels; supporting image only, without upscaling.",
+      "Small incidental manufacturer text remains on the distant tool handle.",
+      "Covered chambers do not establish internal component condition or a leak.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "baea92aae6921dcb4cd0d0e3053cd6e8df12443dde47870fcfeed1c0ad4a10f3",
+    "git_blob_sha": "29bf4f4136c5647d34bcca3eb72240b1ba92fdb0",
+    "source_sha256": "22599fc13d7d15228a1ca8aa948a1df031c1b3f19ba879437f1da431ea75d97b",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "baea92aae6921dcb4cd0d0e3053cd6e8df12443dde47870fcfeed1c0ad4a10f3",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-aaa47e7df163",
+    "file": "pool-care/2026-11-25/snow-around-an-outdoor-swimming-pool.jpg",
+    "key": "2747f3fe568716a1ffeaa2dd1ab142835d2cffaaa2dac42094744f750347f044",
+    "title": "Snow around an outdoor swimming pool",
+    "public_metadata": {
+      "title": "Snow around an outdoor swimming pool",
+      "alt": "An outdoor swimming pool bordered by snow-covered decking and trees",
+      "caption": "Snow around an outdoor swimming pool.",
+      "description": "An outdoor swimming pool bordered by snow-covered decking and trees."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Pinch A Penny",
+    "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+    "original_url": "https://papcomshared.blob.core.windows.net/app/Blogs/Snowy-Pool.jpg",
+    "width": 700,
+    "height": 350,
+    "category": "cold-weather-pools",
+    "tags": [
+      "snow",
+      "winter-pool-context"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Native image is 700 by 350 pixels; do not upscale.",
+      "General winter pool context; no specific equipment condition or freeze diagnosis is established.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "cd8d2648a37b7d5d970dde67fe9572920fdbe762693a64158e8f6be72805980a",
+    "git_blob_sha": "3fffb51e45036cf73f65979bbdfde2d79670b655",
+    "source_sha256": "aaa47e7df16397c475233eb9ae59e5609fdb1d13d98d4d52b9c784389d85cb1a",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "cd8d2648a37b7d5d970dde67fe9572920fdbe762693a64158e8f6be72805980a",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-9a9505999cc4",
+    "file": "pool-care/2026-11-25/ice-covered-outdoor-equipment-area.jpg",
+    "key": "3ab2390b3ee35585be3d81a0623b11be94709f748d28d6f9a0142c53c91ec89e",
+    "title": "Ice-covered outdoor equipment area",
+    "public_metadata": {
+      "title": "Ice-covered outdoor equipment area",
+      "alt": "Heavy ice coats a fence and outdoor equipment area beside a brick wall",
+      "caption": "Ice-covered outdoor equipment area.",
+      "description": "Heavy ice coats a fence and outdoor equipment area beside a brick wall."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Pinch A Penny",
+    "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+    "original_url": "https://papcomshared.blob.core.windows.net/app/posts/image001frozen.jpg",
+    "width": 585,
+    "height": 780,
+    "category": "cold-weather-pools",
+    "tags": [
+      "ice",
+      "equipment-area",
+      "winter-pool-context"
+    ],
+    "quality": "supporting",
+    "limitations": [
+      "Native image is 585 by 780 pixels; do not upscale.",
+      "Pool context comes from the source article. The photograph does not establish the cause of the ice or a specific equipment failure.",
+      "Supporting image; check native dimensions before choosing a large placement."
+    ],
+    "sha256": "9a9505999cc4624ae09c00292cdce41b8715a80aaa4b99574ae53ddb487330b3",
+    "git_blob_sha": "54c844f71db646720cafe5d83197a7811f308317",
+    "source_sha256": "9a9505999cc4624ae09c00292cdce41b8715a80aaa4b99574ae53ddb487330b3",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "9a9505999cc4624ae09c00292cdce41b8715a80aaa4b99574ae53ddb487330b3",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-b7dc06be40b8",
+    "file": "pool-care/2026-11-25/ice-covered-pool-equipment-beside-a-brick-wall.jpg",
+    "key": "1b0eebbccd7a01009e8a6a7e767cda20855fc9ce0f6d2ba3ab8db62016a46a6a",
+    "title": "Ice-covered pool equipment beside a brick wall",
+    "public_metadata": {
+      "title": "Ice-covered pool equipment beside a brick wall",
+      "alt": "Pool filter tank, PVC pipes and valves covered in ice beside a brick wall",
+      "caption": "Ice coats outdoor pool equipment and nearby surfaces.",
+      "description": "An outdoor pool equipment area with a filter tank, PVC pipes and valves surrounded by large ice formations beside a brick wall."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Pool Magazine",
+    "source_page": "https://www.poolmagazine.com/pool-equipment/pool-owners-brace-for-hard-freeze-this-holiday-weekend/",
+    "original_url": "https://www.poolmagazine.com/wp-content/uploads/2022/12/pool-equipment-freeze-kathy-ott-prior.jpg",
+    "width": 1280,
+    "height": 960,
+    "category": "cold-weather-pools",
+    "tags": [
+      "ice",
+      "pool-equipment",
+      "winter-pool-context"
+    ],
+    "quality": "standard",
+    "limitations": [
+      "Incidental product wording on a chemical bucket and a small installer sticker remain visible; no visible marks were removed.",
+      "The image shows ice around pool equipment but does not independently establish the cause or the condition of every component."
+    ],
+    "sha256": "d95ed6351c6207d94fc0a5fafa1c7fafec87b0489f8e74176a6e3a2b0b17da57",
+    "git_blob_sha": "f531746db69bf8d82609b26cd3db8aedfabe3d21",
+    "source_sha256": "b7dc06be40b8fbc85ce528c30ef59fa4b46ff130020f8b7b7a891114e414e334",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "d95ed6351c6207d94fc0a5fafa1c7fafec87b0489f8e74176a6e3a2b0b17da57",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  },
+  {
+    "id": "care-8e4382ef4c90",
+    "file": "pool-care/2026-11-25/icy-pool-entry-with-a-metal-ladder.jpg",
+    "key": "3e0507e6602214f957897cbbe1ba87deb8547aebbe68085844ad1588675d1cc9",
+    "title": "Icy pool entry with a metal ladder",
+    "public_metadata": {
+      "title": "Icy pool entry with a metal ladder",
+      "alt": "Metal pool ladder beside blue pool water with ice and slush around the entry and on the deck",
+      "caption": "Ice and slush surround a metal pool ladder.",
+      "description": "A close view of an outdoor pool entry with two metal ladder rails, blue water, floating ice and slush along the surrounding deck."
+    },
+    "service": "pool-care",
+    "batch_id": "pool-care-intake-2026-11-25",
+    "origin": "new",
+    "source": "Texas Co-op Power",
+    "source_page": "https://texascooppower.com/pooling-winter-efficiency/",
+    "original_url": "https://texascooppower.com/wp-content/uploads/2021/12/detail_Frozen_Pool.jpg",
+    "width": 1200,
+    "height": 800,
+    "category": "cold-weather-pools",
+    "tags": [
+      "ice",
+      "pool-ladder",
+      "winter-pool-context"
+    ],
+    "quality": "standard",
+    "limitations": [
+      "General cold-weather pool context; the image does not verify winterization, protective performance or energy savings."
+    ],
+    "sha256": "8e4382ef4c9005a3e6b9bb5ff0d3a229c3c481609029820eeac0f9e068226f1e",
+    "git_blob_sha": "f9c6e601ec46d3d7a397f642ce759bdc81d340e8",
+    "source_sha256": "8e4382ef4c9005a3e6b9bb5ff0d3a229c3c481609029820eeac0f9e068226f1e",
+    "review": {
+      "status": "accepted",
+      "date": "2026-11-25",
+      "no_people_or_body_parts": true,
+      "no_visible_watermark": true,
+      "no_prominent_source_brand": true,
+      "reviewed_file_sha256": "8e4382ef4c9005a3e6b9bb5ff0d3a229c3c481609029820eeac0f9e068226f1e",
+      "metadata_cleanup": "Embedded metadata removed without recompressing image pixels."
+    },
+    "usage": {
+      "status": "new_not_deployed",
+      "attachment_ids": [],
+      "placements": [],
+      "checked_at": "2026-11-25",
+      "scope": "New repository intake only. This batch has not imported or deployed images to WordPress; prior use elsewhere is not inferred."
+    }
+  }
+]

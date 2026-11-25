@@ -1,0 +1,1235 @@
+{
+  "schema_version": 1,
+  "batch_id": "pool-care-intake-2026-11-25",
+  "date": "2026-11-25",
+  "candidate_count": 43,
+  "candidate_status_counts": {
+    "unavailable": 1,
+    "accepted": 12,
+    "held": 10,
+    "excluded": 20
+  },
+  "candidates": [
+    {
+      "id": "reddit-autofill-01",
+      "user_source_number": 1,
+      "source_name": "Reddit",
+      "source_page": "https://www.reddit.com/r/pools/comments/1rrpuuz/pool_autofill_does_not_turn_off/",
+      "source_title": "Pool autofill does not turn off",
+      "source_alt": "Pool autofill does not turn off",
+      "image_url": "https://preview.redd.it/pool-autofill-does-not-turn-off-v0-482lz1y02mog1.jpeg?auto=webp&crop=smart&s=03c63ca029bda2e8b2ed048360f8e86f5ab047ae&width=640",
+      "status": "unavailable",
+      "reason": "A normal browser attempt of the exact post returned an explicit automation denial: Access is denied; please disconnect this unauthorized agent to continue browsing Reddit. This was reported and the source was stopped without retry or alternate media route. No local image bytes or visual approval.",
+      "suggested_category": "autofill-water-level",
+      "limitations": [
+        "Only the previously observed preview URL is known; no original asset was established.",
+        "Explicit browser automation denial prevents retrieval and visual review in this attempt."
+      ]
+    },
+    {
+      "id": "tiny-pools-01",
+      "user_source_number": 4,
+      "source_name": "Texas Tiny Pools",
+      "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+      "source_title": "How To: Maintain and Troubleshoot Your Autofill System",
+      "source_alt": "",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61f01f8cec514c7ba90d03d1/af510657-98c1-47af-9c9c-557e626d32d1/TinyPools-Ramsey-14.JPG",
+      "status": "accepted",
+      "reason": "Pool, seating, waterline tile and fence; no people or body parts, watermark or prominent external logo visible.",
+      "width": 1920,
+      "height": 1280,
+      "source_sha256": "b29e442a9382b747964402aee6cc457d84b1f84a769c50a80b0708ae1ce9d682",
+      "reviewed_file_sha256": "d841cff27dc853f00c5a1ed811d10d9f1769112803d22ce3584da29859ed925d",
+      "category": "general-pool",
+      "suggested_category": "general-pool",
+      "tags": [
+        "pool-overview",
+        "pool-steps",
+        "pool-context"
+      ],
+      "limitations": [
+        "General pool context. No autofill component, leak diagnosis or maintenance procedure is visible."
+      ],
+      "public_metadata": {
+        "title": "Backyard pool with a shallow lounging ledge",
+        "alt": "A backyard swimming pool with white lounge chairs on a shallow ledge, striped waterline tile and a wood privacy fence",
+        "caption": "A shallow lounging ledge and striped tile border a backyard swimming pool.",
+        "description": "Clear water covers a wide shallow ledge with white lounge chairs. Striped waterline tile, a narrow grass border and a wood fence surround the pool."
+      },
+      "asset_id": "care-b29e442a9382",
+      "file": "pool-care/2026-11-25/backyard-pool-with-a-shallow-lounging-ledge.jpg"
+    },
+    {
+      "id": "tiny-pools-02",
+      "user_source_number": 4,
+      "source_name": "Texas Tiny Pools",
+      "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+      "source_title": "How To: Maintain and Troubleshoot Your Autofill System",
+      "source_alt": "Fluidmaster valve for pool autofill",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61f01f8cec514c7ba90d03d1/f7bc3392-ed7a-4f36-9ad5-f2846b3867c4/PoolMiser%2BFluidmaster%2BValve.jpg",
+      "status": "accepted",
+      "reason": "Isolated float valve assembly without visible people, body parts, watermark, prominent external logo or promotional copy.",
+      "width": 600,
+      "height": 600,
+      "source_sha256": "ce40afbabba5fffbfeb08165d2c322e2d949553a5dbe65f87f87d655c9a18e2b",
+      "reviewed_file_sha256": "a86cf635b96e1ac510594d11013a101c588cc9c2f7d686345c653cf4b2ce2f22",
+      "category": "autofill-water-level",
+      "suggested_category": "autofill",
+      "tags": [
+        "fill-valve",
+        "float-valve",
+        "water-level-control"
+      ],
+      "limitations": [
+        "Native image is 600 by 600 pixels; use for supporting placements without upscaling.",
+        "An isolated component image does not establish installation compatibility or operating condition.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Autofill float valve assembly",
+        "alt": "A black and gray float valve assembly with a sliding float and threaded inlet on a white background",
+        "caption": "Autofill float valve assembly.",
+        "description": "A black and gray valve assembly with a cylindrical float, vertical adjustment rod and threaded inlet."
+      },
+      "asset_id": "care-ce40afbabba5",
+      "file": "pool-care/2026-11-25/autofill-float-valve-assembly.jpg"
+    },
+    {
+      "id": "tiny-pools-03",
+      "user_source_number": 4,
+      "source_name": "Texas Tiny Pools",
+      "source_page": "https://www.tinypools.com/blog/how-to-maintain-and-troubleshoot-your-autofill-system",
+      "source_title": "How To: Maintain and Troubleshoot Your Autofill System",
+      "source_alt": "",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/61f01f8cec514c7ba90d03d1/fe442472-e9fc-4e94-9e52-2ae5c90e0e94/Autofill-RPZ-Winter.jpg",
+      "status": "held",
+      "reason": "Text-heavy instructional graphic with large arrows and overlaid step text. Hold outside the photo gallery under the collection rules; no text or ownership markings were removed.",
+      "width": 1920,
+      "height": 1080,
+      "source_sha256": "319200eb7b7d3cf1a6ac84c418ea433890bc670cc81fbc41111dd54aac1f9db4",
+      "reviewed_file_sha256": "319200eb7b7d3cf1a6ac84c418ea433890bc670cc81fbc41111dd54aac1f9db4",
+      "suggested_category": "winter-care",
+      "limitations": [
+        "Large instructional text and arrows; separate review required before use.",
+        "An article still image was retrieved; no claim is made that it documents a completed winterization or properly functioning equipment."
+      ]
+    },
+    {
+      "id": "wine-country-01",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3uUhOwQilGYMV3LSkroNx5czfzwZNJ_c1kUskaC8Uy5baGyatrdJdFDeSVMgDuyP7hEu_2IOOM7sTE5gdtjBTq9G5Qw_5b9wCkhW7DHfkBs-bK9QXQy1OjGhqiBlg_imSknwGiXOLI-0/s1600/AutomaticWaterFill_001.jpg",
+      "status": "held",
+      "reason": "Instructional photograph contains conspicuous red text and arrows identifying components. Held separately from the photo gallery under the annotated/text-heavy imagery rule; no overlay removed.",
+      "width": 778,
+      "height": 581,
+      "source_sha256": "1002e00c0bd58d27bb5f85f639537e97b2c6aad158b08f5cb1ba8f6a4f19c9a5",
+      "reviewed_file_sha256": "1002e00c0bd58d27bb5f85f639537e97b2c6aad158b08f5cb1ba8f6a4f19c9a5",
+      "suggested_category": "autofill",
+      "limitations": [
+        "Separate review required for the text and arrows before any gallery use."
+      ]
+    },
+    {
+      "id": "wine-country-02",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiynw0DnAUZ3RqZnoNYM77FoJpnXq2aHUyKJuLqx7-FV4rg33j2-AaOzmCYrVZYs45iFpT3wZvKFNZZ1TcWbjz-qPJr0vLULx9e0YHBSsRE6wNPxmyetWEJISlUx6bGYm82gYsFo9CcVSU/s1600/AutomaticWaterFill_002.jpg",
+      "status": "held",
+      "reason": "Instructional photograph contains conspicuous red text and arrows identifying components. Held separately from the photo gallery under the annotated/text-heavy imagery rule; no overlay removed.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "f751765b5b0aebe3633892ef0e3db2c530f023f946f3e59814b63d0f0c35430d",
+      "reviewed_file_sha256": "f751765b5b0aebe3633892ef0e3db2c530f023f946f3e59814b63d0f0c35430d",
+      "suggested_category": "autofill",
+      "limitations": [
+        "Separate review required for the text and arrows before any gallery use."
+      ]
+    },
+    {
+      "id": "wine-country-03",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4eyqKT65xHoRLkeA89zwIdQUqqLs7h8OqN7hISszPL81LGGKgp2KL75fZPERmP6Xd_izV0_SFmT-lOKbyfqD_xtYxNrtvPpqy_aaaEda9IzSGQk_ggSdJUGY8z7jGbZQriNF1bBQwKmM/s1600/AutomaticWaterFill_003.jpg",
+      "status": "held",
+      "reason": "Instructional photograph contains conspicuous red text and arrows identifying components. Held separately from the photo gallery under the annotated/text-heavy imagery rule; no overlay removed.",
+      "width": 614,
+      "height": 461,
+      "source_sha256": "6512bedebe03f087c5732d2acf5a2f3bba966b616c0cd9a4254769b9caf5abb1",
+      "reviewed_file_sha256": "6512bedebe03f087c5732d2acf5a2f3bba966b616c0cd9a4254769b9caf5abb1",
+      "suggested_category": "autofill",
+      "limitations": [
+        "Separate review required for the text and arrows before any gallery use."
+      ]
+    },
+    {
+      "id": "wine-country-04",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUK9AyIaC1Djw0p27whoDOt0rtIHCejm8f20-sD3dNFJrZpOwPUVjAG9zMoLAfHXk9SYDvoUmTR6_ZQEAUukAShxJ4jRN0lhD41NbUVfIHLE0faNJ0qpK3xHMfEDPgZ-GU-J16SteI8UE/s1600/AutomaticWaterFill_004.jpg",
+      "status": "excluded",
+      "reason": "A large readable Hayward brand label is prominent on the filter. Red instructional text and an arrow also appear. No branding or annotations were altered.",
+      "width": 738,
+      "height": 983,
+      "source_sha256": "f02f3f07c3222bc75cadb923bffd54035f236ec90899bc7b287399d6ef0ac8c1",
+      "reviewed_file_sha256": "f02f3f07c3222bc75cadb923bffd54035f236ec90899bc7b287399d6ef0ac8c1",
+      "suggested_category": "autofill",
+      "limitations": []
+    },
+    {
+      "id": "wine-country-05",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7b_jhH6GkUsVsyYBmRe-ripA4comS0l9nOTiMmBRaUuMwgTHmThDBQ1uFOj92haLjQKutZgOdICOW18VBmv8zm2sVavxgYgfhaGJocDibJ5Yzu_zbIXBNkC9FoHUU-MKKnMXwEjtfsiU/s1600/WaterFillLid.jpg",
+      "status": "held",
+      "reason": "Instructional photograph contains conspicuous red text and arrows identifying components. Held separately from the photo gallery under the annotated/text-heavy imagery rule; no overlay removed.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "9c7ba0d804e6f5d88c6e37705221092314b8ce06b534b738bc80f8e9d8bd686b",
+      "reviewed_file_sha256": "9c7ba0d804e6f5d88c6e37705221092314b8ce06b534b738bc80f8e9d8bd686b",
+      "suggested_category": "autofill",
+      "limitations": [
+        "Separate review required for the text and arrows before any gallery use."
+      ]
+    },
+    {
+      "id": "wine-country-06",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "article_occurrences": 2,
+      "article_placements": [
+        6,
+        10
+      ],
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HosW0sxOVcambRbG-SGfdDV_Zde21uSeolXDmJ_3J4FhzJ7xzXMdJCZ5MV3tP7bHOesBSYa5f801OfHZNohnkWU-wmc82Ek8wzioNhOE57c0W7XRoTarXp8S9RA0Nr6hoY56-f0qvvk/s1600/SideFillExample_001.jpg",
+      "status": "accepted",
+      "reason": "Float valve and thread tape on concrete, without visible people or body parts, watermarks, prominent external source logos or promotional overlays. The small incidental tape label is retained.",
+      "width": 814,
+      "height": 413,
+      "source_sha256": "b63661253bb475d9f292622cb0f0e521c4d461ca68b719d3533ac727aff3108f",
+      "reviewed_file_sha256": "ecd5aad9fc72b1e1cddd19be119fe306c7ed583dfc433bfed71216f82d081660",
+      "category": "autofill-water-level",
+      "suggested_category": "autofill",
+      "tags": [
+        "autofill",
+        "float-valve",
+        "thread-tape",
+        "maintenance-components"
+      ],
+      "limitations": [
+        "Native source is 814 by 413 pixels; supporting use without upscaling.",
+        "Equipment example only; the image does not establish a repair result.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Float valve and thread tape on a pool deck",
+        "alt": "A white float attached to a metal valve beside a roll of thread tape on concrete",
+        "caption": "A float valve assembly and thread tape lie on the pool deck.",
+        "description": "A metal valve with a white oval float rests on concrete beside blue and white thread tape. The valve inlet and adjustment mechanism are visible."
+      },
+      "asset_id": "care-b63661253bb4",
+      "file": "pool-care/2026-11-25/float-valve-and-thread-tape-on-a-pool-deck.jpg"
+    },
+    {
+      "id": "wine-country-07",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYcXZdxxWAfupfvAKpQQH2z0EKJ-tamOQnv5gPZ9BQcFxUwurCem-MusSEY7zizlqy0uLS23OX2DhF-Dwz3zt7mxKQ5S4827UcINpY2fF7cZS75oBIa_zzRk52YMj1tgVQF3Xf2cSE-ik/s1600/pool_miser.jpg",
+      "status": "excluded",
+      "reason": "Poolmiser promotional diagram with a prominent brand logo and product claims; not a qualifying photograph.",
+      "width": 350,
+      "height": 425,
+      "source_sha256": "10dd5b7de6006a0821b569c93ab2bfeb4513e3f520901d57077d1436c6a368d9",
+      "reviewed_file_sha256": "10dd5b7de6006a0821b569c93ab2bfeb4513e3f520901d57077d1436c6a368d9",
+      "suggested_category": "autofill",
+      "limitations": []
+    },
+    {
+      "id": "wine-country-08",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjthQXO2tK68MsvHQIx8bX3U2yXPmzUq4F50hTtEvQ90uPSFLB5DBvrkue-SI8SwQzrJCqevqdnsAbR39EqfrfrwpRa2ODA_lpzrmRFykVxJ0wfRbCly_K_HesIDWohyt8bbnTBryLMZdg/s1600/Poolmiser_001.jpg",
+      "status": "held",
+      "reason": "Instructional photograph contains conspicuous red text and arrows identifying components. Held separately from the photo gallery under the annotated/text-heavy imagery rule; no overlay removed.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "a686c5898f666ee8693e16f1f6d4b4c31b9db9fc655f9d3941c5613d9d125449",
+      "reviewed_file_sha256": "a686c5898f666ee8693e16f1f6d4b4c31b9db9fc655f9d3941c5613d9d125449",
+      "suggested_category": "autofill",
+      "limitations": [
+        "Separate review required for the text and arrows before any gallery use."
+      ]
+    },
+    {
+      "id": "wine-country-09",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rGedPF5MhbRIT1LtPhE9k8lVIaAfz8V1fKVukWcVn4qWI13-sQEcoDkF0Qe9GlQ0oQJx1uOMKPiGquNi5PsERMy-aRpsBDxRlN6GdsxFt9n_xBiWXuSzlEESYI2N2r9GGHlcRphYTSM/s1600/Paralevel_002.jpg",
+      "status": "held",
+      "reason": "Small product composite with a dimension callout and uncertain photographic versus rendered treatment; held outside the verified-photo collection.",
+      "width": 327,
+      "height": 240,
+      "source_sha256": "cb9f074199f3d0173c5e6675e95d181272c0f965880131bddd93e07d5447e648",
+      "reviewed_file_sha256": "cb9f074199f3d0173c5e6675e95d181272c0f965880131bddd93e07d5447e648",
+      "suggested_category": "autofill",
+      "limitations": [
+        "Native image is only 327 by 240 pixels.",
+        "Source context describes the product; image authenticity is not established by that label."
+      ]
+    },
+    {
+      "id": "wine-country-10",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZPOG3UQK-sxT_FonrYAslWo1cwfg3Ofch_6tdI6gKJ8YUFsB7qqp8g0TP194h6ZqUey6DiZdT6Ua48fPZu_e-CZkShfr_4UByzubacf7JvjVpTCcktxV9cRdFz6Ffv3G2Hi8eLm2AJOE/s1600/SideFillExample_002.jpg",
+      "status": "accepted",
+      "reason": "The open chamber and side fitting are visible without people, body parts, reflected hands, watermarks or prominent external branding. Inspected at native size including image edges and water reflections.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "a5237303b86303b216b79ed292fbb7fc45c74d1aa5e5805f87af30831f945ea6",
+      "reviewed_file_sha256": "ddd8cc69ac7bee92557eef94278573d82bab14d7d55dbe49c468daeb3d405b37",
+      "category": "autofill-water-level",
+      "suggested_category": "autofill",
+      "tags": [
+        "autofill-chamber",
+        "side-inlet",
+        "pool-plumbing"
+      ],
+      "limitations": [
+        "734 by 979 pixels; supporting image only, without upscaling.",
+        "Focus is slightly soft. The photograph alone does not establish a failure or leak diagnosis.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Open pool water-fill chamber",
+        "alt": "An open circular water-fill chamber with a metal side fitting and water at the bottom",
+        "caption": "Open pool water-fill chamber.",
+        "description": "An open circular water-fill chamber with a metal side fitting and water at the bottom."
+      },
+      "asset_id": "care-a5237303b863",
+      "file": "pool-care/2026-11-25/open-pool-water-fill-chamber.jpg"
+    },
+    {
+      "id": "wine-country-11",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeUmTDdDef0bJF4mEvC-HiVxcfCl2g6ZQlrsL1jH7mEYu-fqMN51WOl9VjkS6YApBapiupCvPDXswIIswdZzZ_ceMfbawcJzK4boFxnHwbLfK8M_P8-9czYyOrG2qUVZA90I0X7eIsN6k/s1600/SideFillExample_003.jpg",
+      "status": "excluded",
+      "reason": "A hand and forearm are clearly reflected in the chamber water in the lower half of the image. Reflected body parts fail the no-people/body-parts rule.",
+      "width": 979,
+      "height": 734,
+      "source_sha256": "babc0240f64420f7b4bb98e3a65635fc49d1a496ab7590990ecbdafc9d19d281",
+      "reviewed_file_sha256": "babc0240f64420f7b4bb98e3a65635fc49d1a496ab7590990ecbdafc9d19d281",
+      "suggested_category": "autofill",
+      "tags": [
+        "autofill-chamber",
+        "reflected-body-parts"
+      ],
+      "limitations": [
+        "No crop or retouch was performed to remove the reflection."
+      ]
+    },
+    {
+      "id": "wine-country-12",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEippWt5yL32y_gkM0RNp-BWIqwzK3ki3CREBip9TO_zyG1me9P1cLSr8xn5U2Rwrvs3Hk1gjIpiYzD-yynBoXOuXNPDxMvBN6MD-Pd_rlTSms4tY8L6LKkcFocb_s0zvPJzO_0R-KiBt2E/s1600/SideFillExample_0035.jpg",
+      "status": "excluded",
+      "reason": "Conspicuous readable VISE-GRIP branding appears on the blue/yellow pliers across the upper portion of the frame.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "b6a3383b805ea5ef1070b5af1741451866b049ad3cf168202d98d9300163a9ae",
+      "reviewed_file_sha256": "b6a3383b805ea5ef1070b5af1741451866b049ad3cf168202d98d9300163a9ae",
+      "suggested_category": "autofill",
+      "tags": [
+        "autofill-chamber",
+        "prominent-tool-branding"
+      ],
+      "limitations": [
+        "Original branding was not cropped, obscured or removed."
+      ]
+    },
+    {
+      "id": "wine-country-13",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDck2t6QnDfrVPCaFafGpzYaEOMJo2r_BA5b9H1o-daZDYBMaMvtXrKhpTec47x61W2xnJE049aDGItYSYpXy3VwX-uAKLRJuW2qhTn8UlapU1yyLA0rVxphIb5QXarAqM2JJlU85Ki-U/s1600/SideFillExample_004.jpg",
+      "status": "accepted",
+      "reason": "Float-valve components and thread tape lie on the paving without people, body parts, watermarks or prominent branding. The small tape-spool label is incidental and remains unchanged.",
+      "width": 979,
+      "height": 734,
+      "source_sha256": "87e33c13633e1286123727288c0fe7bc805ebff05d18a20630ea1c3432091213",
+      "reviewed_file_sha256": "c4c12485af23a059176422242ebc32c15c139e2e0ddfafd2d8c60d42e2cea9af",
+      "category": "autofill-water-level",
+      "suggested_category": "autofill",
+      "tags": [
+        "float-valve",
+        "autofill-parts",
+        "thread-seal-tape"
+      ],
+      "limitations": [
+        "979 by 734 pixels; supporting image only, without upscaling.",
+        "Small incidental manufacturer text remains on the tape spool.",
+        "The photograph does not establish whether either valve component is faulty.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Float-valve parts beside a pool access opening",
+        "alt": "A white float attached to a metal valve, a separate metal fitting and a roll of thread tape on paving beside a circular access opening",
+        "caption": "Float-valve parts beside a pool access opening.",
+        "description": "A white float attached to a metal valve, a separate metal fitting and a roll of thread tape on paving beside a circular access opening."
+      },
+      "asset_id": "care-87e33c13633e",
+      "file": "pool-care/2026-11-25/float-valve-parts-beside-a-pool-access-opening.jpg"
+    },
+    {
+      "id": "wine-country-14",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJvQIvm73jXQxlWa2CBWxWjeN-j11NJs6GMg640PTUIMsTvpYT9i7tl-B-eaxE9_t5JrthfxxZBFyg-Sj2nDJVZxN0P6GJ1VHlp_UL7DIpBBpgo-uRNh8JLtgaii7dJU4E4mmcjtSC4Y0/s1600/SideFillExample_005.jpg",
+      "status": "accepted",
+      "reason": "Float-valve components with white thread tape are visible without people, body parts, watermarks or prominent branding. Small text on the nearby tape spool is incidental.",
+      "width": 979,
+      "height": 734,
+      "source_sha256": "d22fde856ce0e3d0f0c75115f88b6d21ebc25cc9d15bfbf275f22a2c26ec88a4",
+      "reviewed_file_sha256": "2980bb3fb10410b215f9bba045e27fb4a0069dda9a8e1be49c7382d3f7e030ee",
+      "category": "autofill-water-level",
+      "suggested_category": "autofill",
+      "tags": [
+        "float-valve",
+        "threaded-fitting",
+        "thread-seal-tape"
+      ],
+      "limitations": [
+        "979 by 734 pixels; supporting image only, without upscaling.",
+        "Small incidental manufacturer text remains on the tape spool.",
+        "No installation outcome or component failure is inferred.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Float valve with taped inlet threads",
+        "alt": "A white float and metal valve with white tape around its inlet threads lie beside a tape spool and a separate valve fitting",
+        "caption": "Float valve with taped inlet threads.",
+        "description": "A white float and metal valve with white tape around its inlet threads lie beside a tape spool and a separate valve fitting."
+      },
+      "asset_id": "care-d22fde856ce0",
+      "file": "pool-care/2026-11-25/float-valve-with-taped-inlet-threads.jpg"
+    },
+    {
+      "id": "wine-country-15",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaxpwWGRMczCwZV3-SJKi6iTGBHaXiXUerc3TmJqpBRRxj4g0IYnTsE5KBnTMkmyIY3AYfKPujceogLIbgfk48sT5S6aB_wCRnvdk4Cvqg11X4XJY8DU-d-lN1xshmCee8sPnVFEzEITM/s1600/SideFillExample_006.jpg",
+      "status": "excluded",
+      "reason": "A hand is directly visible holding the float valve over the open chamber.",
+      "width": 979,
+      "height": 734,
+      "source_sha256": "440a824add79b8401028cbdd85c6ef3beea4e944d81bf1750299af50400eeaef",
+      "reviewed_file_sha256": "440a824add79b8401028cbdd85c6ef3beea4e944d81bf1750299af50400eeaef",
+      "suggested_category": "autofill",
+      "tags": [
+        "float-valve",
+        "visible-hand"
+      ],
+      "limitations": [
+        "No crop or retouch was performed to remove the body part."
+      ]
+    },
+    {
+      "id": "wine-country-16",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigdKHHjxZQ6fAUlSVlT0Go6hVl7bmwk_6meNvPc6yHM7vR5KAxKaU0sjWF9URsfLT-66xfBdxk-XyIvcd-U5AgCziA7pyCSM-mzYzU1LeIMU1T3H8M74thhmgrarP2U4uOOjzVAVf-6UQ/s1600/SideFillExample_007.jpg",
+      "status": "excluded",
+      "reason": "Conspicuous readable VISE-GRIP branding appears on a large blue/yellow plier handle along the right edge.",
+      "width": 979,
+      "height": 734,
+      "source_sha256": "1cd260f91fdff45d378e2e3b3aa62122b7c865a1d8a7849bff5cf1b0fb7907c8",
+      "reviewed_file_sha256": "1cd260f91fdff45d378e2e3b3aa62122b7c865a1d8a7849bff5cf1b0fb7907c8",
+      "suggested_category": "autofill",
+      "tags": [
+        "float-valve",
+        "prominent-tool-branding"
+      ],
+      "limitations": [
+        "Original branding was not cropped, obscured or removed."
+      ]
+    },
+    {
+      "id": "wine-country-17",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNA-CvSmxtnFh4AwpRnAfwuqMuF9LWLHrrPbhoM1G0HcvE9EKhOWLXlGGu6J1HsjnFSp1LW-HHi3RSyCoPCMFYYYbYFaRUTt08RPMQBjE2L2UXrFBf73ZkBeRiQOxZYPzhhEE-iXL5oAo/s1600/SideFillExample_008.jpg",
+      "status": "accepted",
+      "reason": "A white float valve is visible inside the chamber. No people, body parts, reflected hands, watermark or prominent external brand is visible; the partial tool at the top edge has no readable branding.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "7018ab44ae6ed1549beb9987afb78dc73fb0795f60c38cda982b8e7b9328815e",
+      "reviewed_file_sha256": "acf2a62d99d5051d55777d9b172fe563aed5e1fa1a764ade085d769a1ec5ec14",
+      "category": "autofill-water-level",
+      "suggested_category": "autofill",
+      "tags": [
+        "float-valve",
+        "autofill-chamber",
+        "side-inlet"
+      ],
+      "limitations": [
+        "734 by 979 pixels; supporting image only, without upscaling.",
+        "The photograph shows component arrangement, without establishing operation or repair success.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "White float valve inside a water-fill chamber",
+        "alt": "A white float connected to a metal side-mounted valve inside an open circular water-fill chamber",
+        "caption": "White float valve inside a water-fill chamber.",
+        "description": "A white float connected to a metal side-mounted valve inside an open circular water-fill chamber."
+      },
+      "asset_id": "care-7018ab44ae6e",
+      "file": "pool-care/2026-11-25/white-float-valve-inside-a-water-fill-chamber.jpg"
+    },
+    {
+      "id": "wine-country-18",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguWyiP4OYSqOxL-AD8JZTm2vyo0soYWpUWxzUnkADe348jYkPahmOoVIhRwYOOJ0ali0uwOWBt_9n3XxsOX2PYnd5scQFbfGU0uNhVLbkC5N890OB_P8sGOnra2Z5tJoGdCGLfn_HZE0s/s1600/SideFillExample_009.jpg",
+      "status": "excluded",
+      "reason": "Readable VISE-GRIP branding is conspicuous on the blue/yellow pliers above the open chamber.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "2223685a523526d3e994abc72f30fd1f8ad65f00668c828b1f5b24cef582b8d6",
+      "reviewed_file_sha256": "2223685a523526d3e994abc72f30fd1f8ad65f00668c828b1f5b24cef582b8d6",
+      "suggested_category": "autofill",
+      "tags": [
+        "float-valve",
+        "autofill-chamber",
+        "prominent-tool-branding"
+      ],
+      "limitations": [
+        "Original branding was not cropped, obscured or removed."
+      ]
+    },
+    {
+      "id": "wine-country-19",
+      "user_source_number": 3,
+      "source_name": "Wine Country Pools And Supplies",
+      "source_page": "https://winecountrypools.blogspot.com/2012/08/how-to-fix-swimming-pool-automatic.html",
+      "source_title": "How to fix a swimming pool automatic water fill",
+      "source_alt": "",
+      "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_yvo8pQYS_hZqpvYCBTaIORf7V4GrqDwEPBm4ib7yx0TFz9-Gsb_uSDCc-ohtd3hW0_ASKFm4UBjlvG1Vs_dWzOaHsHnFzJq8Oqg5ELnngVeoYIBwJpkXVrB14oa4uRVbA4KmYJPFB_o/s1600/SideFillExample_010.jpg",
+      "status": "accepted",
+      "reason": "Poolside access covers, tools, paving and the pool edge are visible without people, body parts or watermarks. Small text on the distant pliers is incidental rather than prominent; it remains unchanged.",
+      "width": 734,
+      "height": 979,
+      "source_sha256": "22599fc13d7d15228a1ca8aa948a1df031c1b3f19ba879437f1da431ea75d97b",
+      "reviewed_file_sha256": "baea92aae6921dcb4cd0d0e3053cd6e8df12443dde47870fcfeed1c0ad4a10f3",
+      "category": "autofill-water-level",
+      "suggested_category": "autofill",
+      "tags": [
+        "pool-access-covers",
+        "pool-deck",
+        "service-tools"
+      ],
+      "limitations": [
+        "734 by 979 pixels; supporting image only, without upscaling.",
+        "Small incidental manufacturer text remains on the distant tool handle.",
+        "Covered chambers do not establish internal component condition or a leak.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Poolside access covers and service tools",
+        "alt": "Two round access covers, pliers, thread tape and a small metal fitting on a deck beside stone pool coping and a mesh fence",
+        "caption": "Poolside access covers and service tools.",
+        "description": "Two round access covers, pliers, thread tape and a small metal fitting on a deck beside stone pool coping and a mesh fence."
+      },
+      "asset_id": "care-22599fc13d7d",
+      "file": "pool-care/2026-11-25/poolside-access-covers-and-service-tools.jpg"
+    },
+    {
+      "id": "cool-pools-heater-scale",
+      "user_source_number": 5,
+      "source_name": "Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "source_alt": "Calcium scale buildup inside a pool heater heat exchanger caused by Rocklin hard water",
+      "image_url": "https://coolpools.org/wp-content/uploads/2026/03/hard-water-calcium-buildup-pool-heater-rocklin.webp",
+      "status": "held",
+      "reason": "The repeated tube forms and deposits have a render-like appearance. Photographic authenticity is unresolved; hold for provenance review. The page label alone does not verify the material or cause.",
+      "width": 1024,
+      "height": 1024,
+      "source_sha256": "8cd0f9ee8feb8b35b6abfae695f82269fa2a393dd4941845fe43bfeb874edda0",
+      "category": "pool-heaters",
+      "tags": [
+        "heater-components",
+        "scale-like-deposits"
+      ],
+      "limitations": [],
+      "public_metadata": {
+        "title": "Deposits on metal equipment tubing",
+        "alt": "White deposits coat rows of open metal tubes inside equipment",
+        "caption": "Deposits on metal equipment tubing.",
+        "description": "White deposits coat rows of open metal tubes inside equipment."
+      }
+    },
+    {
+      "id": "pinch-snowy-pool",
+      "user_source_number": 7,
+      "source_name": "Pinch A Penny",
+      "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+      "source_title": "Pool Care Tips for Freezing Temperatures",
+      "source_alt": "pool with snow falling",
+      "image_url": "https://papcomshared.blob.core.windows.net/app/Blogs/Snowy-Pool.jpg",
+      "status": "accepted",
+      "reason": "Visible pool, snow-covered surroundings and trees; no people, body parts, prominent branding or watermark observed.",
+      "width": 700,
+      "height": 350,
+      "source_sha256": "aaa47e7df16397c475233eb9ae59e5609fdb1d13d98d4d52b9c784389d85cb1a",
+      "reviewed_file_sha256": "cd8d2648a37b7d5d970dde67fe9572920fdbe762693a64158e8f6be72805980a",
+      "category": "cold-weather-pools",
+      "tags": [
+        "snow",
+        "winter-pool-context"
+      ],
+      "limitations": [
+        "Native image is 700 by 350 pixels; do not upscale.",
+        "General winter pool context; no specific equipment condition or freeze diagnosis is established.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Snow around an outdoor swimming pool",
+        "alt": "An outdoor swimming pool bordered by snow-covered decking and trees",
+        "caption": "Snow around an outdoor swimming pool.",
+        "description": "An outdoor swimming pool bordered by snow-covered decking and trees."
+      },
+      "asset_id": "care-aaa47e7df163",
+      "file": "pool-care/2026-11-25/snow-around-an-outdoor-swimming-pool.jpg"
+    },
+    {
+      "id": "pinch-pump-drain-plug",
+      "user_source_number": 7,
+      "source_name": "Pinch A Penny",
+      "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+      "source_title": "Pool Care Tips for Freezing Temperatures",
+      "source_alt": "Drain plugs on a variable speed pool pump",
+      "image_url": "https://papcomshared.blob.core.windows.net/app/posts/pump-drain-plug.jpg",
+      "status": "excluded",
+      "reason": "Prominent Pentair branding appears on the central label; large red instructional arrows are added to the photo. Ownership marks were not altered.",
+      "width": 1000,
+      "height": 451,
+      "source_sha256": "7f99eff055d896b973d55115fe14b3538b73e594af27b8d79bed2238b12da3e2",
+      "category": "pump-equipment",
+      "tags": [
+        "pool-pump",
+        "drain-plugs",
+        "annotated-image"
+      ],
+      "limitations": [],
+      "public_metadata": {
+        "title": "Pool pump drain plug locations",
+        "alt": "Two red arrows point toward drain plugs on a pool pump",
+        "caption": "Pool pump drain plug locations.",
+        "description": "Two red arrows point toward drain plugs on a pool pump."
+      }
+    },
+    {
+      "id": "pinch-frozen-equipment",
+      "user_source_number": 7,
+      "source_name": "Pinch A Penny",
+      "source_page": "https://pinchapenny.com/pool-life/freezing-weather-pool-care-tips",
+      "source_title": "Pool Care Tips for Freezing Temperatures",
+      "source_alt": "",
+      "image_url": "https://papcomshared.blob.core.windows.net/app/posts/image001frozen.jpg",
+      "status": "accepted",
+      "reason": "Heavy ice covers an outdoor equipment area; no people, body parts, prominent branding or watermark observed.",
+      "width": 585,
+      "height": 780,
+      "source_sha256": "9a9505999cc4624ae09c00292cdce41b8715a80aaa4b99574ae53ddb487330b3",
+      "reviewed_file_sha256": "9a9505999cc4624ae09c00292cdce41b8715a80aaa4b99574ae53ddb487330b3",
+      "category": "cold-weather-pools",
+      "tags": [
+        "ice",
+        "equipment-area",
+        "winter-pool-context"
+      ],
+      "limitations": [
+        "Native image is 585 by 780 pixels; do not upscale.",
+        "Pool context comes from the source article. The photograph does not establish the cause of the ice or a specific equipment failure.",
+        "Supporting image; check native dimensions before choosing a large placement."
+      ],
+      "public_metadata": {
+        "title": "Ice-covered outdoor equipment area",
+        "alt": "Heavy ice coats a fence and outdoor equipment area beside a brick wall",
+        "caption": "Ice-covered outdoor equipment area.",
+        "description": "Heavy ice coats a fence and outdoor equipment area beside a brick wall."
+      },
+      "asset_id": "care-9a9505999cc4",
+      "file": "pool-care/2026-11-25/ice-covered-outdoor-equipment-area.jpg"
+    },
+    {
+      "id": "cool-pools-heater-visit",
+      "user_source_number": 5,
+      "source_name": "Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "image_url": "https://coolpools.org/wp-content/uploads/2026/03/pool-heater-repair-visit-technician-rocklin.webp",
+      "status": "excluded",
+      "reason": "A technician and body parts are visible. Render-like appearance is an additional concern, but the visible person alone excludes the asset.",
+      "width": 1024,
+      "height": 1024,
+      "source_sha256": "e63b86cee7629001654f66be57cfb4b30572e1f009723a7139c54e34b0705789",
+      "category": "pool-heaters",
+      "tags": [
+        "heater-service",
+        "person-visible"
+      ],
+      "limitations": [],
+      "public_metadata": {
+        "title": "Technician beside an open pool heater",
+        "alt": "A person holds a meter beside an open heater cabinet near a swimming pool",
+        "caption": "Technician beside an open pool heater.",
+        "description": "A person holds a meter beside an open heater cabinet near a swimming pool."
+      }
+    },
+    {
+      "id": "cool-pools-heater-equipment",
+      "user_source_number": 5,
+      "source_name": "Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "image_url": "https://coolpools.org/wp-content/uploads/2026/03/swimming-pool-heater-repair-rocklin-ca.webp",
+      "status": "excluded",
+      "reason": "A technician and body parts are visible. Render-like appearance is an additional concern, but the visible person alone excludes the asset.",
+      "width": 1536,
+      "height": 1024,
+      "source_sha256": "1d3e2c2d08b27e4dbffe0ff200382a93ae247a82f4e4ba5795bfc6ebcd4132db",
+      "category": "pool-heaters",
+      "tags": [
+        "heater-service",
+        "person-visible"
+      ],
+      "limitations": [],
+      "public_metadata": {
+        "title": "Person beside pool heating equipment",
+        "alt": "A kneeling person reaches into an open equipment cabinet beside a swimming pool",
+        "caption": "Person beside pool heating equipment.",
+        "description": "A kneeling person reaches into an open equipment cabinet beside a swimming pool."
+      }
+    },
+    {
+      "id": "cool-pools-endless-pool",
+      "user_source_number": 5,
+      "source_name": "Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "image_url": "https://coolpools.org/wp-content/uploads/2026/02/beautiful-granite-bay-endless-pool-1.webp",
+      "status": "held",
+      "reason": "A generic polished pool scene with no heater or repair visible. Photographic origin is unresolved; hold for provenance and relevance review rather than treating it as heater-repair evidence.",
+      "width": 1024,
+      "height": 607,
+      "source_sha256": "ef1552507c5eea98d5c61923a3c47793913c23ac05c0ca14a5084eec49ca5f89",
+      "category": "general-pool",
+      "tags": [
+        "general-pool-context",
+        "infinity-pool"
+      ],
+      "limitations": [
+        "General pool setting only; no heater, repair work or leak evidence is visible."
+      ],
+      "public_metadata": {
+        "title": "Outdoor pool overlooking hills",
+        "alt": "A swimming pool beside a paved terrace overlooks hills and palm trees",
+        "caption": "Outdoor pool overlooking hills.",
+        "description": "A swimming pool beside a paved terrace overlooks hills and palm trees."
+      }
+    },
+    {
+      "id": "cool-pools-background",
+      "user_source_number": 5,
+      "source_name": "Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "image_url": "https://coolpools.org/wp-content/uploads/2026/02/background.webp",
+      "status": "excluded",
+      "reason": "Black-and-white decorative web background; not a pool photograph or equipment image.",
+      "width": 960,
+      "height": 943,
+      "source_sha256": "b92272cea087b1591755c81ea4de6451cf660907b0e2b51cdd3207f2180ae734",
+      "category": "decorative",
+      "tags": [
+        "decorative-pattern"
+      ],
+      "limitations": [],
+      "public_metadata": {
+        "title": "Abstract black and white pattern",
+        "alt": "Irregular white shapes on a black background",
+        "caption": "Abstract black and white pattern.",
+        "description": "Irregular white shapes on a black background."
+      }
+    },
+    {
+      "id": "leak-experts-summerlin-1",
+      "user_source_number": 6,
+      "source_name": "Leak Experts USA",
+      "source_page": "https://leakexpertsusa.com/service/pool-leak-detection-summerlin/",
+      "source_title": "Pool Leak Detection Summerlin | Best Plumbing",
+      "source_alt": "Pool Leak Detection Summerlin 1",
+      "image_url": "https://leakexpertsusa.com/wp-content/uploads/2025/05/4.png",
+      "status": "excluded",
+      "reason": "Verified transparent black line icon used as a site graphic. It is not a pool photograph or an equipment still; excluded from the photo collection.",
+      "width": 300,
+      "height": 300,
+      "source_sha256": "814e3c4b1905f5b314053e718fc9685a102f62d214bce908b779479e5778db56",
+      "category": "site-graphic",
+      "tags": [
+        "site-graphic",
+        "line-icon"
+      ],
+      "limitations": [
+        "300 by 300 pixel site icon; no upscaling or photo-gallery placement."
+      ],
+      "public_metadata": {
+        "title": "Pipe and water-drop icon",
+        "alt": "A black outline icon of a pipe with water drops and a warning triangle",
+        "caption": "Pipe and water-drop icon.",
+        "description": "A black outline icon of a pipe with water drops and a warning triangle."
+      }
+    },
+    {
+      "id": "leak-experts-summerlin-2",
+      "user_source_number": 6,
+      "source_name": "Leak Experts USA",
+      "source_page": "https://leakexpertsusa.com/service/pool-leak-detection-summerlin/",
+      "source_title": "Pool Leak Detection Summerlin | Best Plumbing",
+      "source_alt": "Pool Leak Detection Summerlin 2",
+      "image_url": "https://leakexpertsusa.com/wp-content/uploads/2025/05/Unexplained-High-Water-Bills.png",
+      "status": "excluded",
+      "reason": "Verified transparent black line icon used as a site graphic. It is not a pool photograph or an equipment still; excluded from the photo collection.",
+      "width": 300,
+      "height": 300,
+      "source_sha256": "222f62c1bf6e0de3fd22fa283c674ad061914b788ccb8dc59dc6c0ad234e567d",
+      "category": "site-graphic",
+      "tags": [
+        "site-graphic",
+        "line-icon"
+      ],
+      "limitations": [
+        "300 by 300 pixel site icon; no upscaling or photo-gallery placement."
+      ],
+      "public_metadata": {
+        "title": "Pipe and wrench icon",
+        "alt": "A black outline icon of a wrench over pipe elbows beside a water drop",
+        "caption": "Pipe and wrench icon.",
+        "description": "A black outline icon of a wrench over pipe elbows beside a water drop."
+      }
+    },
+    {
+      "id": "leak-experts-summerlin-3",
+      "user_source_number": 6,
+      "source_name": "Leak Experts USA",
+      "source_page": "https://leakexpertsusa.com/service/pool-leak-detection-summerlin/",
+      "source_title": "Pool Leak Detection Summerlin | Best Plumbing",
+      "source_alt": "Pool Leak Detection Summerlin 3",
+      "image_url": "https://leakexpertsusa.com/wp-content/uploads/2025/05/3.png",
+      "status": "excluded",
+      "reason": "Verified transparent black line icon used as a site graphic. It is not a pool photograph or an equipment still; excluded from the photo collection.",
+      "width": 300,
+      "height": 300,
+      "source_sha256": "53ec6ae5c235d4c8d8f53f9f1c8f64c14c9d6cb5e364f1f0c0a26dd845f38d81",
+      "category": "site-graphic",
+      "tags": [
+        "site-graphic",
+        "line-icon"
+      ],
+      "limitations": [
+        "300 by 300 pixel site icon; no upscaling or photo-gallery placement."
+      ],
+      "public_metadata": {
+        "title": "Pipe trap icon",
+        "alt": "A black outline icon of a curved pipe trap",
+        "caption": "Pipe trap icon.",
+        "description": "A black outline icon of a curved pipe trap."
+      }
+    },
+    {
+      "id": "leak-experts-summerlin-4",
+      "user_source_number": 6,
+      "source_name": "Leak Experts USA",
+      "source_page": "https://leakexpertsusa.com/service/pool-leak-detection-summerlin/",
+      "source_title": "Pool Leak Detection Summerlin | Best Plumbing",
+      "source_alt": "Pool Leak Detection Summerlin 4",
+      "image_url": "https://leakexpertsusa.com/wp-content/uploads/2025/05/2-1.png",
+      "status": "excluded",
+      "reason": "Verified transparent black line icon used as a site graphic. It is not a pool photograph or an equipment still; excluded from the photo collection.",
+      "width": 300,
+      "height": 300,
+      "source_sha256": "a2a534aff2e3f4971d94ae2ccb67c128cd3739db42307fa8d8dd1b997f4de94c",
+      "category": "site-graphic",
+      "tags": [
+        "site-graphic",
+        "line-icon"
+      ],
+      "limitations": [
+        "300 by 300 pixel site icon; no upscaling or photo-gallery placement."
+      ],
+      "public_metadata": {
+        "title": "Pipe trap and wrench icon",
+        "alt": "A black outline icon of a pipe trap beside a wrench",
+        "caption": "Pipe trap and wrench icon.",
+        "description": "A black outline icon of a pipe trap beside a wrench."
+      }
+    },
+    {
+      "id": "leak-experts-summerlin-5",
+      "user_source_number": 6,
+      "source_name": "Leak Experts USA",
+      "source_page": "https://leakexpertsusa.com/service/pool-leak-detection-summerlin/",
+      "source_title": "Pool Leak Detection Summerlin | Best Plumbing",
+      "source_alt": "Pool Leak Detection Summerlin 5",
+      "image_url": "https://leakexpertsusa.com/wp-content/uploads/2025/05/1-1.png",
+      "status": "excluded",
+      "reason": "Verified transparent black line icon used as a site graphic. It is not a pool photograph or an equipment still; excluded from the photo collection.",
+      "width": 300,
+      "height": 300,
+      "source_sha256": "01f2de8b588df75c1e33c45ce846057f23c49f4e0b71dd538043e2723795976a",
+      "category": "site-graphic",
+      "tags": [
+        "site-graphic",
+        "line-icon"
+      ],
+      "limitations": [
+        "300 by 300 pixel site icon; no upscaling or photo-gallery placement."
+      ],
+      "public_metadata": {
+        "title": "Circular water-drop icon",
+        "alt": "A black outline icon of a water drop over a circle with smaller circles",
+        "caption": "Circular water-drop icon.",
+        "description": "A black outline icon of a water drop over a circle with smaller circles."
+      }
+    },
+    {
+      "id": "cool-pools-site-logo",
+      "user_source_number": 5,
+      "source_name": "Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "source_alt": "Cool Pools Site Logo",
+      "image_url": "https://coolpools.org/wp-content/uploads/2026/02/coolpools-icon-logo-transparent-e1771333925878.webp",
+      "status": "excluded",
+      "reason": "The requested page identifies this as its site logo; excluded during HTML asset triage.",
+      "category": "site-graphic",
+      "tags": [
+        "site-graphic"
+      ]
+    },
+    {
+      "id": "cool-pools-rating-graphic",
+      "user_source_number": 5,
+      "source_name": "Cool Pools",
+      "source_page": "https://coolpools.org/swimming-pool-heater-repair-rocklin-ca/",
+      "source_title": "Swimming Pool Heater Repair in Rocklin, CA | Cool Pools",
+      "source_alt": "google-5-star-rating",
+      "image_url": "https://coolpools.org/wp-content/uploads/elementor/thumbs/google-5-star-rating-rk2ms68qd09yztlxaab2p15yekhlz3rmtun4a0vbs4.webp",
+      "status": "excluded",
+      "reason": "The requested page identifies this as a Google five-star rating graphic; promotional graphic excluded during HTML asset triage.",
+      "category": "site-graphic",
+      "tags": [
+        "site-graphic"
+      ]
+    },
+    {
+      "id": "poolmag-freeze",
+      "user_source_number": 8,
+      "source_name": "Pool Magazine",
+      "source_page": "https://www.poolmagazine.com/pool-equipment/pool-owners-brace-for-hard-freeze-this-holiday-weekend/",
+      "source_title": "Pool Owners Brace For Hard Freeze This Holiday Weekend",
+      "source_credit": "Facebook / Kathy Ott Prior, as credited by Pool Magazine.",
+      "image_url": "https://www.poolmagazine.com/wp-content/uploads/2022/12/pool-equipment-freeze-kathy-ott-prior.jpg",
+      "status": "accepted",
+      "reason": "Outdoor pool equipment and nearby surfaces visibly covered with ice; no people, body parts, overlaid watermark or prominent source branding. The chemical bucket has incidental product wording and the electrical enclosure has a small installer sticker; both remain visible and unchanged.",
+      "width": 1280,
+      "height": 960,
+      "source_sha256": "b7dc06be40b8fbc85ce528c30ef59fa4b46ff130020f8b7b7a891114e414e334",
+      "reviewed_file_sha256": "d95ed6351c6207d94fc0a5fafa1c7fafec87b0489f8e74176a6e3a2b0b17da57",
+      "category": "cold-weather-pools",
+      "tags": [
+        "ice",
+        "pool-equipment",
+        "winter-pool-context"
+      ],
+      "limitations": [
+        "Incidental product wording on a chemical bucket and a small installer sticker remain visible; no visible marks were removed.",
+        "The image shows ice around pool equipment but does not independently establish the cause or the condition of every component."
+      ],
+      "public_metadata": {
+        "title": "Ice-covered pool equipment beside a brick wall",
+        "alt": "Pool filter tank, PVC pipes and valves covered in ice beside a brick wall",
+        "caption": "Ice coats outdoor pool equipment and nearby surfaces.",
+        "description": "An outdoor pool equipment area with a filter tank, PVC pipes and valves surrounded by large ice formations beside a brick wall."
+      },
+      "asset_id": "care-b7dc06be40b8",
+      "file": "pool-care/2026-11-25/ice-covered-pool-equipment-beside-a-brick-wall.jpg"
+    },
+    {
+      "id": "poolmag-broken-pump",
+      "user_source_number": 8,
+      "source_name": "Pool Magazine",
+      "source_page": "https://www.poolmagazine.com/pool-equipment/pool-owners-brace-for-hard-freeze-this-holiday-weekend/",
+      "source_title": "Pool Owners Brace For Hard Freeze This Holiday Weekend",
+      "source_credit": "Tom Blue / TrueBlue Pools, as credited by Pool Magazine.",
+      "image_url": "https://www.poolmagazine.com/wp-content/uploads/2022/12/broken-pool-pump.jpg",
+      "status": "excluded",
+      "reason": "A person’s trouser leg and boot are clearly visible at the upper-right edge. Excluded under the no-people-or-body-parts rule; no crop or removal attempted.",
+      "width": 1024,
+      "height": 1024,
+      "source_sha256": "c25f0bda904bd49a9c3877ceb35e00c0ffec0945055e4957a18753eaccba37f9",
+      "reviewed_file_sha256": "c25f0bda904bd49a9c3877ceb35e00c0ffec0945055e4957a18753eaccba37f9",
+      "category": "pump-equipment-leaks",
+      "tags": [
+        "pool-pump",
+        "pump-housing",
+        "visible-person"
+      ],
+      "limitations": [
+        "Excluded for visible body parts; not eligible for gallery collection."
+      ],
+      "public_metadata": {
+        "title": "Cracked pool pump housing and pipe connections",
+        "alt": "Pool pump with a visible crack in its housing and a person’s trouser leg and boot at the upper-right edge",
+        "caption": "A cracked pool pump housing beside PVC pipe connections.",
+        "description": "A close view of a pool pump, pipe unions, electrical cables and a visible crack in the pump housing. A person’s lower leg and boot appear behind the equipment."
+      }
+    },
+    {
+      "id": "poolmag-damaged-equipment",
+      "user_source_number": 8,
+      "source_name": "Pool Magazine",
+      "source_page": "https://www.poolmagazine.com/pool-equipment/pool-owners-brace-for-hard-freeze-this-holiday-weekend/",
+      "source_title": "Pool Owners Brace For Hard Freeze This Holiday Weekend",
+      "source_credit": "Tom Blue / TrueBlue Pools, as credited by Pool Magazine.",
+      "image_url": "https://www.poolmagazine.com/wp-content/uploads/2022/12/pool-equipment-damaged-1024x1022.jpg",
+      "status": "held",
+      "reason": "Photographic collage shows a cracked filter tank, a damaged PVC fitting and a pool valve. A small dark ribbed object in the lower-right panel cannot be identified confidently enough to satisfy the strict no-body-parts review. Held for uncertainty; no source pixels were altered.",
+      "width": 1200,
+      "height": 1198,
+      "source_sha256": "fe4cfdb54813e8c8cbf7c0d6d0b3b1453de4f25a9f7f9536cff0750f20ec386b",
+      "reviewed_file_sha256": "fe4cfdb54813e8c8cbf7c0d6d0b3b1453de4f25a9f7f9536cff0750f20ec386b",
+      "category": "pool-maintenance",
+      "tags": [
+        "filter-tank",
+        "cracked-housing",
+        "pvc-fitting",
+        "equipment-collage"
+      ],
+      "limitations": [
+        "Held because a dark object in the lower-right panel remains uncertain.",
+        "Photographic collage, rather than one continuous scene.",
+        "Visible damage does not independently establish its cause."
+      ],
+      "public_metadata": {
+        "title": "Pool filter tank and pipe damage collage",
+        "alt": "Three photographic panels showing a cracked pool filter tank, a damaged PVC fitting and a pool valve",
+        "caption": "Close views of a pool filter tank, pipe fitting and valve.",
+        "description": "A three-panel photographic collage shows cracks in a pool filter tank, an opening in a PVC fitting and nearby pool valve plumbing."
+      }
+    },
+    {
+      "id": "texas-coop-frozen-pool",
+      "user_source_number": 9,
+      "source_name": "Texas Co-op Power",
+      "source_page": "https://texascooppower.com/pooling-winter-efficiency/",
+      "source_title": "Pooling Winter Efficiency",
+      "source_credit": "Shutterstock.com, as credited by Texas Co-op Power; no independent license grant asserted.",
+      "image_url": "https://texascooppower.com/wp-content/uploads/2021/12/detail_Frozen_Pool.jpg",
+      "status": "accepted",
+      "reason": "Pool entry with visible ice and slush around a metal ladder. No people, body parts, watermark or prominent source logo are visible. Suitable as cold-weather pool context.",
+      "width": 1200,
+      "height": 800,
+      "source_sha256": "8e4382ef4c9005a3e6b9bb5ff0d3a229c3c481609029820eeac0f9e068226f1e",
+      "reviewed_file_sha256": "8e4382ef4c9005a3e6b9bb5ff0d3a229c3c481609029820eeac0f9e068226f1e",
+      "category": "cold-weather-pools",
+      "tags": [
+        "ice",
+        "pool-ladder",
+        "winter-pool-context"
+      ],
+      "limitations": [
+        "General cold-weather pool context; the image does not verify winterization, protective performance or energy savings."
+      ],
+      "public_metadata": {
+        "title": "Icy pool entry with a metal ladder",
+        "alt": "Metal pool ladder beside blue pool water with ice and slush around the entry and on the deck",
+        "caption": "Ice and slush surround a metal pool ladder.",
+        "description": "A close view of an outdoor pool entry with two metal ladder rails, blue water, floating ice and slush along the surrounding deck."
+      },
+      "asset_id": "care-8e4382ef4c90",
+      "file": "pool-care/2026-11-25/icy-pool-entry-with-a-metal-ladder.jpg"
+    },
+    {
+      "id": "steve-winter-care",
+      "user_source_number": 10,
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "source_title": "Winter Pool Maintenance",
+      "image_url": "https://www.swimmingpoolsteve.com/images/demo/winter-care.webp",
+      "status": "excluded",
+      "reason": "Visible trouser legs and footwear at the upper-left corner. Excluded under the no-people-or-body-parts rule; no crop or modification attempted.",
+      "width": 500,
+      "height": 375,
+      "source_sha256": "038af4938dba902e7a0c4f29d7a6362cce4a19e78f2b262579f80c9f39355d44",
+      "category": "winter-freeze-protection",
+      "tags": [
+        "winter-pool-care",
+        "cold-weather-pool-care"
+      ],
+      "public_metadata": {
+        "title": "Snow around outdoor pool entry steps",
+        "alt": "Snow-covered decking around pool entry steps, with a person’s lower legs and footwear visible at the upper-left edge",
+        "caption": "Snow-covered decking and outdoor pool entry steps.",
+        "description": "An outdoor swimming pool with entry steps, leaves in the water and snow across the surrounding deck. Part of a person is visible at the upper-left edge."
+      }
+    }
+  ],
+  "prefilter_exclusions": [
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/ask-steve-button.webp",
+      "source_alt": "Ask Steve a question",
+      "review_status": "excluded_before_download",
+      "reason": "Promotional/site-navigation graphic or unrelated product advertisement; not requested winter-pool photo content."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/steve-2.webp",
+      "source_alt": "consult with swimming pool steve",
+      "review_status": "excluded_before_download",
+      "reason": "Portrait/consultation graphic identified by page context; not a qualifying no-person winter-care photo."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06XDSPLXW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=artificica-20",
+      "source_alt": "",
+      "review_status": "excluded_before_download",
+      "reason": "Promotional/site-navigation graphic or unrelated product advertisement; not requested winter-pool photo content."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://ir-na.amazon-adsystem.com/e/ir?t=artificica-20&l=am2&o=1&a=B06XDSPLXW",
+      "source_alt": "",
+      "review_status": "excluded_before_download",
+      "reason": "Tracking pixel, not artwork."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://ir-na.amazon-adsystem.com/e/ir?t=artificica-20&l=am2&o=1&a=B06XDSPLXW",
+      "source_alt": "",
+      "review_status": "excluded_before_download",
+      "reason": "Tracking pixel, not artwork."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/steve.webp",
+      "source_alt": "Swimming Pool Steve",
+      "review_status": "excluded_before_download",
+      "reason": "Portrait/consultation graphic identified by page context; not a qualifying no-person winter-care photo."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/care-guides.webp",
+      "source_alt": "Swimming Pool Steve Survival Guide",
+      "review_status": "excluded_before_download",
+      "reason": "Promotional/site-navigation graphic or unrelated product advertisement; not requested winter-pool photo content."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/salt-infos.webp",
+      "source_alt": "Swimming Pool Steve Salt Water Buyer's Guide",
+      "review_status": "excluded_before_download",
+      "reason": "Promotional/site-navigation graphic or unrelated product advertisement; not requested winter-pool photo content."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/heater-guides.webp",
+      "source_alt": "Swimming Pool Steve New Heater Buyer's Guide",
+      "review_status": "excluded_before_download",
+      "reason": "Promotional/site-navigation graphic or unrelated product advertisement; not requested winter-pool photo content."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/pool-plans.webp",
+      "source_alt": "Swimming Pool Steve New Pool Value Guide",
+      "review_status": "excluded_before_download",
+      "reason": "Promotional/site-navigation graphic or unrelated product advertisement; not requested winter-pool photo content."
+    },
+    {
+      "source_name": "Swimming Pool Steve",
+      "source_page": "https://www.swimmingpoolsteve.com/pages/winter-care.html",
+      "asset_url": "https://www.swimmingpoolsteve.com/images/demo/pptg.webp",
+      "source_alt": "Black + Decker Pool Pumps",
+      "review_status": "excluded_before_download",
+      "reason": "Promotional/site-navigation graphic or unrelated product advertisement; not requested winter-pool photo content."
+    }
+  ]
+}

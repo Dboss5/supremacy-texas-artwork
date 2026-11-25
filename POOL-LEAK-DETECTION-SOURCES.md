@@ -1,5 +1,7 @@
 # Pool leak detection image sources
 
+> Follow-up: the remaining 10 named pool resources were subsequently supplied and processed as the separate [Pool Care & Services batch](POOL-CARE-SOURCES.md). The initial 12-source intake below is retained as its historical record.
+
 Batch: `pool-leak-detection-intake-2026-11-25`  
 Review date: 2026-11-25  
 Repository baseline: `78cee404a058afa2204cbf34bd2035e216d9e2bc`
