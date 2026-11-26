@@ -61,7 +61,7 @@ def render(format_name, width, height, fps=24):
                  "-pix_fmt", "yuv420p", "-movflags", "+faststart", str(segment)])
             segments.append(segment)
         playlist = temp / "concat.txt"
-        playlist.write_text("".join(f"file '{s}'\\n" for s in segments), encoding="utf-8")
+        playlist.write_text("".join(f"file '{s}'\n" for s in segments), encoding="utf-8")
         destination = OUT / f"supremacy-pool-cleaning-{format_name}.mp4"
         run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "concat",
              "-safe", "0", "-i", str(playlist), "-c", "copy", "-movflags",
