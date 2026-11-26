@@ -1,0 +1,26 @@
+name: Render pool cleaning videos
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/render-pool-cleaning-videos.py'
+      - '.github/workflows/render-pool-cleaning-videos.yml'
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - name: Render all formats
+        run: python3 scripts/render-pool-cleaning-videos.py --format all
+      - name: Upload MP4 artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: supremacy-pool-cleaning-videos
+          path: video-exports/pool-cleaning/*
+          retention-days: 30
